@@ -1,0 +1,2559 @@
+# Every ayah of Surah Al-Waaqia (The Inevitable): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '56:1'
+    scripture: quran
+    name: Quran 56:1
+    chapter: 56
+    verse: 1
+    ordinal: 4980
+    text: When the event befalleth -
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا وَقَعَتِ ٱلْوَاقِعَةُ
+    arabicPlain: بسم الله الرحمن الرحيم إذا وقعت الواقعة
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:2'
+    scripture: quran
+    name: Quran 56:2
+    chapter: 56
+    verse: 2
+    ordinal: 4981
+    text: There is no denying that it will befall -
+    translation: Pickthall
+    original: لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ
+    arabicPlain: ليس لوقعتها كاذبة
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:3'
+    scripture: quran
+    name: Quran 56:3
+    chapter: 56
+    verse: 3
+    ordinal: 4982
+    text: Abasing (some), exalting (others);
+    translation: Pickthall
+    original: خَافِضَةٌ رَّافِعَةٌ
+    arabicPlain: خافضة رافعة
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:4'
+    scripture: quran
+    name: Quran 56:4
+    chapter: 56
+    verse: 4
+    ordinal: 4983
+    text: When the earth is shaken with a shock
+    translation: Pickthall
+    original: إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّا
+    arabicPlain: إذا رجت الأرض رجا
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:5'
+    scripture: quran
+    name: Quran 56:5
+    chapter: 56
+    verse: 5
+    ordinal: 4984
+    text: And the hills are ground to powder
+    translation: Pickthall
+    original: وَبُسَّتِ ٱلْجِبَالُ بَسًّا
+    arabicPlain: وبست الجبال بسا
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:6'
+    scripture: quran
+    name: Quran 56:6
+    chapter: 56
+    verse: 6
+    ordinal: 4985
+    text: So that they become a scattered dust,
+    translation: Pickthall
+    original: فَكَانَتْ هَبَآءً مُّنۢبَثًّا
+    arabicPlain: فكانت هباء منبثا
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:7'
+    scripture: quran
+    name: Quran 56:7
+    chapter: 56
+    verse: 7
+    ordinal: 4986
+    text: 'And ye will be three kinds:'
+    translation: Pickthall
+    original: وَكُنتُمْ أَزْوَٰجًا ثَلَـٰثَةً
+    arabicPlain: وكنتم أزواجا ثلاثة
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:8'
+    scripture: quran
+    name: Quran 56:8
+    chapter: 56
+    verse: 8
+    ordinal: 4987
+    text: (First) those on the right hand; what of those on the right hand?
+    translation: Pickthall
+    original: فَأَصْحَـٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَـٰبُ ٱلْمَيْمَنَةِ
+    arabicPlain: فأصحاب الميمنة ما أصحاب الميمنة
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:9'
+    scripture: quran
+    name: Quran 56:9
+    chapter: 56
+    verse: 9
+    ordinal: 4988
+    text: And (then) those on the left hand; what of those on the left hand?
+    translation: Pickthall
+    original: وَأَصْحَـٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ
+    arabicPlain: وأصحاب المشأمة ما أصحاب المشأمة
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:10'
+    scripture: quran
+    name: Quran 56:10
+    chapter: 56
+    verse: 10
+    ordinal: 4989
+    text: 'And the foremost in the race, the foremost in the race:'
+    translation: Pickthall
+    original: وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ
+    arabicPlain: والسابقون السابقون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:11'
+    scripture: quran
+    name: Quran 56:11
+    chapter: 56
+    verse: 11
+    ordinal: 4990
+    text: Those are they who will be brought nigh
+    translation: Pickthall
+    original: أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ
+    arabicPlain: أولئك المقربون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:12'
+    scripture: quran
+    name: Quran 56:12
+    chapter: 56
+    verse: 12
+    ordinal: 4991
+    text: In gardens of delight;
+    translation: Pickthall
+    original: فِى جَنَّـٰتِ ٱلنَّعِيمِ
+    arabicPlain: في جنات النعيم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:13'
+    scripture: quran
+    name: Quran 56:13
+    chapter: 56
+    verse: 13
+    ordinal: 4992
+    text: A multitude of those of old
+    translation: Pickthall
+    original: ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ
+    arabicPlain: ثلة من الأولين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:14'
+    scripture: quran
+    name: Quran 56:14
+    chapter: 56
+    verse: 14
+    ordinal: 4993
+    text: And a few of those of later time.
+    translation: Pickthall
+    original: وَقَلِيلٌ مِّنَ ٱلْـَٔاخِرِينَ
+    arabicPlain: وقليل من الآخرين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:15'
+    scripture: quran
+    name: Quran 56:15
+    chapter: 56
+    verse: 15
+    ordinal: 4994
+    text: On lined couches,
+    translation: Pickthall
+    original: عَلَىٰ سُرُرٍ مَّوْضُونَةٍ
+    arabicPlain: على سرر موضونة
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:16'
+    scripture: quran
+    name: Quran 56:16
+    chapter: 56
+    verse: 16
+    ordinal: 4995
+    text: Reclining therein face to face.
+    translation: Pickthall
+    original: مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَـٰبِلِينَ
+    arabicPlain: متكئين عليها متقابلين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:17'
+    scripture: quran
+    name: Quran 56:17
+    chapter: 56
+    verse: 17
+    ordinal: 4996
+    text: There wait on them immortal youths
+    translation: Pickthall
+    original: يَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ
+    arabicPlain: يطوف عليهم ولدان مخلدون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:18'
+    scripture: quran
+    name: Quran 56:18
+    chapter: 56
+    verse: 18
+    ordinal: 4997
+    text: With bowls and ewers and a cup from a pure spring
+    translation: Pickthall
+    original: بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ
+    arabicPlain: بأكواب وأباريق وكأس من معين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:19'
+    scripture: quran
+    name: Quran 56:19
+    chapter: 56
+    verse: 19
+    ordinal: 4998
+    text: Wherefrom they get no aching of the head nor any madness,
+    translation: Pickthall
+    original: لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ
+    arabicPlain: لا يصدعون عنها ولا ينزفون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:20'
+    scripture: quran
+    name: Quran 56:20
+    chapter: 56
+    verse: 20
+    ordinal: 4999
+    text: And fruit that they prefer
+    translation: Pickthall
+    original: وَفَـٰكِهَةٍ مِّمَّا يَتَخَيَّرُونَ
+    arabicPlain: وفاكهة مما يتخيرون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:21'
+    scripture: quran
+    name: Quran 56:21
+    chapter: 56
+    verse: 21
+    ordinal: 5000
+    text: And flesh of fowls that they desire.
+    translation: Pickthall
+    original: وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ
+    arabicPlain: ولحم طير مما يشتهون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:22'
+    scripture: quran
+    name: Quran 56:22
+    chapter: 56
+    verse: 22
+    ordinal: 5001
+    text: And (there are) fair ones with wide, lovely eyes,
+    translation: Pickthall
+    original: وَحُورٌ عِينٌ
+    arabicPlain: وحور عين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:23'
+    scripture: quran
+    name: Quran 56:23
+    chapter: 56
+    verse: 23
+    ordinal: 5002
+    text: Like unto hidden pearls,
+    translation: Pickthall
+    original: كَأَمْثَـٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ
+    arabicPlain: كأمثال اللؤلؤ المكنون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:24'
+    scripture: quran
+    name: Quran 56:24
+    chapter: 56
+    verse: 24
+    ordinal: 5003
+    text: Reward for what they used to do.
+    translation: Pickthall
+    original: جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ
+    arabicPlain: جزاء بما كانوا يعملون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:25'
+    scripture: quran
+    name: Quran 56:25
+    chapter: 56
+    verse: 25
+    ordinal: 5004
+    text: There hear they no vain speaking nor recrimination
+    translation: Pickthall
+    original: لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا
+    arabicPlain: لا يسمعون فيها لغوا ولا تأثيما
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:26'
+    scripture: quran
+    name: Quran 56:26
+    chapter: 56
+    verse: 26
+    ordinal: 5005
+    text: '(Naught) but the saying: Peace, (and again) Peace.'
+    translation: Pickthall
+    original: إِلَّا قِيلًا سَلَـٰمًا سَلَـٰمًا
+    arabicPlain: إلا قيلا سلاما سلاما
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:27'
+    scripture: quran
+    name: Quran 56:27
+    chapter: 56
+    verse: 27
+    ordinal: 5006
+    text: And those on the right hand; what of those on the right hand?
+    translation: Pickthall
+    original: وَأَصْحَـٰبُ ٱلْيَمِينِ مَآ أَصْحَـٰبُ ٱلْيَمِينِ
+    arabicPlain: وأصحاب اليمين ما أصحاب اليمين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:28'
+    scripture: quran
+    name: Quran 56:28
+    chapter: 56
+    verse: 28
+    ordinal: 5007
+    text: Among thornless lote-trees
+    translation: Pickthall
+    original: فِى سِدْرٍ مَّخْضُودٍ
+    arabicPlain: في سدر مخضود
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:29'
+    scripture: quran
+    name: Quran 56:29
+    chapter: 56
+    verse: 29
+    ordinal: 5008
+    text: And clustered plantains,
+    translation: Pickthall
+    original: وَطَلْحٍ مَّنضُودٍ
+    arabicPlain: وطلح منضود
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:30'
+    scripture: quran
+    name: Quran 56:30
+    chapter: 56
+    verse: 30
+    ordinal: 5009
+    text: And spreading shade,
+    translation: Pickthall
+    original: وَظِلٍّ مَّمْدُودٍ
+    arabicPlain: وظل ممدود
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:31'
+    scripture: quran
+    name: Quran 56:31
+    chapter: 56
+    verse: 31
+    ordinal: 5010
+    text: And water gushing,
+    translation: Pickthall
+    original: وَمَآءٍ مَّسْكُوبٍ
+    arabicPlain: وماء مسكوب
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:32'
+    scripture: quran
+    name: Quran 56:32
+    chapter: 56
+    verse: 32
+    ordinal: 5011
+    text: And fruit in plenty
+    translation: Pickthall
+    original: وَفَـٰكِهَةٍ كَثِيرَةٍ
+    arabicPlain: وفاكهة كثيرة
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:33'
+    scripture: quran
+    name: Quran 56:33
+    chapter: 56
+    verse: 33
+    ordinal: 5012
+    text: Neither out of reach nor yet forbidden,
+    translation: Pickthall
+    original: لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ
+    arabicPlain: لا مقطوعة ولا ممنوعة
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:34'
+    scripture: quran
+    name: Quran 56:34
+    chapter: 56
+    verse: 34
+    ordinal: 5013
+    text: And raised couches;
+    translation: Pickthall
+    original: وَفُرُشٍ مَّرْفُوعَةٍ
+    arabicPlain: وفرش مرفوعة
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:35'
+    scripture: quran
+    name: Quran 56:35
+    chapter: 56
+    verse: 35
+    ordinal: 5014
+    text: Lo! We have created them a (new) creation
+    translation: Pickthall
+    original: إِنَّآ أَنشَأْنَـٰهُنَّ إِنشَآءً
+    arabicPlain: إنا أنشأناهن إنشاء
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:36'
+    scripture: quran
+    name: Quran 56:36
+    chapter: 56
+    verse: 36
+    ordinal: 5015
+    text: And made them virgins,
+    translation: Pickthall
+    original: فَجَعَلْنَـٰهُنَّ أَبْكَارًا
+    arabicPlain: فجعلناهن أبكارا
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:37'
+    scripture: quran
+    name: Quran 56:37
+    chapter: 56
+    verse: 37
+    ordinal: 5016
+    text: Lovers, friends,
+    translation: Pickthall
+    original: عُرُبًا أَتْرَابًا
+    arabicPlain: عربا أترابا
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:38'
+    scripture: quran
+    name: Quran 56:38
+    chapter: 56
+    verse: 38
+    ordinal: 5017
+    text: For those on the right hand;
+    translation: Pickthall
+    original: لِّأَصْحَـٰبِ ٱلْيَمِينِ
+    arabicPlain: لأصحاب اليمين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 469
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:39'
+    scripture: quran
+    name: Quran 56:39
+    chapter: 56
+    verse: 39
+    ordinal: 5018
+    text: A multitude of those of old
+    translation: Pickthall
+    original: ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ
+    arabicPlain: ثلة من الأولين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:40'
+    scripture: quran
+    name: Quran 56:40
+    chapter: 56
+    verse: 40
+    ordinal: 5019
+    text: And a multitude of those of later time.
+    translation: Pickthall
+    original: وَثُلَّةٌ مِّنَ ٱلْـَٔاخِرِينَ
+    arabicPlain: وثلة من الآخرين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:41'
+    scripture: quran
+    name: Quran 56:41
+    chapter: 56
+    verse: 41
+    ordinal: 5020
+    text: 'And those on the left hand: What of those on the left hand?'
+    translation: Pickthall
+    original: وَأَصْحَـٰبُ ٱلشِّمَالِ مَآ أَصْحَـٰبُ ٱلشِّمَالِ
+    arabicPlain: وأصحاب الشمال ما أصحاب الشمال
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:42'
+    scripture: quran
+    name: Quran 56:42
+    chapter: 56
+    verse: 42
+    ordinal: 5021
+    text: In scorching wind and scalding water
+    translation: Pickthall
+    original: فِى سَمُومٍ وَحَمِيمٍ
+    arabicPlain: في سموم وحميم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:43'
+    scripture: quran
+    name: Quran 56:43
+    chapter: 56
+    verse: 43
+    ordinal: 5022
+    text: And shadow of black smoke,
+    translation: Pickthall
+    original: وَظِلٍّ مِّن يَحْمُومٍ
+    arabicPlain: وظل من يحموم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:44'
+    scripture: quran
+    name: Quran 56:44
+    chapter: 56
+    verse: 44
+    ordinal: 5023
+    text: Neither cool nor refreshing.
+    translation: Pickthall
+    original: لَّا بَارِدٍ وَلَا كَرِيمٍ
+    arabicPlain: لا بارد ولا كريم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:45'
+    scripture: quran
+    name: Quran 56:45
+    chapter: 56
+    verse: 45
+    ordinal: 5024
+    text: Lo! heretofore they were effete with luxury
+    translation: Pickthall
+    original: إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ
+    arabicPlain: إنهم كانوا قبل ذلك مترفين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:46'
+    scripture: quran
+    name: Quran 56:46
+    chapter: 56
+    verse: 46
+    ordinal: 5025
+    text: And used to persist in the awful sin.
+    translation: Pickthall
+    original: وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ
+    arabicPlain: وكانوا يصرون على الحنث العظيم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:47'
+    scripture: quran
+    name: Quran 56:47
+    chapter: 56
+    verse: 47
+    ordinal: 5026
+    text: 'And they used to say: When we are dead and have become dust and bones, shall we then, forsooth, be raised again,'
+    translation: Pickthall
+    original: وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ
+    arabicPlain: وكانوا يقولون أئذا متنا وكنا ترابا وعظاما أإنا لمبعوثون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:48'
+    scripture: quran
+    name: Quran 56:48
+    chapter: 56
+    verse: 48
+    ordinal: 5027
+    text: And also our forefathers?
+    translation: Pickthall
+    original: أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ
+    arabicPlain: أوآباؤنا الأولون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:49'
+    scripture: quran
+    name: Quran 56:49
+    chapter: 56
+    verse: 49
+    ordinal: 5028
+    text: 'Say (unto them, O Muhammad): Lo! those of old and those of later time'
+    translation: Pickthall
+    original: قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْـَٔاخِرِينَ
+    arabicPlain: قل إن الأولين والآخرين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:50'
+    scripture: quran
+    name: Quran 56:50
+    chapter: 56
+    verse: 50
+    ordinal: 5029
+    text: Will all be brought together to the tryst of an appointed day.
+    translation: Pickthall
+    original: لَمَجْمُوعُونَ إِلَىٰ مِيقَـٰتِ يَوْمٍ مَّعْلُومٍ
+    arabicPlain: لمجموعون إلى ميقات يوم معلوم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 535
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:51'
+    scripture: quran
+    name: Quran 56:51
+    chapter: 56
+    verse: 51
+    ordinal: 5030
+    text: Then lo! ye, the erring, the deniers,
+    translation: Pickthall
+    original: ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ
+    arabicPlain: ثم إنكم أيها الضالون المكذبون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:52'
+    scripture: quran
+    name: Quran 56:52
+    chapter: 56
+    verse: 52
+    ordinal: 5031
+    text: Ye verily will eat of a tree called Zaqqum
+    translation: Pickthall
+    original: لَـَٔاكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ
+    arabicPlain: لآكلون من شجر من زقوم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:53'
+    scripture: quran
+    name: Quran 56:53
+    chapter: 56
+    verse: 53
+    ordinal: 5032
+    text: And will fill your bellies therewith;
+    translation: Pickthall
+    original: فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ
+    arabicPlain: فمالئون منها البطون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:54'
+    scripture: quran
+    name: Quran 56:54
+    chapter: 56
+    verse: 54
+    ordinal: 5033
+    text: And thereon ye will drink of boiling water,
+    translation: Pickthall
+    original: فَشَـٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ
+    arabicPlain: فشاربون عليه من الحميم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:55'
+    scripture: quran
+    name: Quran 56:55
+    chapter: 56
+    verse: 55
+    ordinal: 5034
+    text: Drinking even as the camel drinketh.
+    translation: Pickthall
+    original: فَشَـٰرِبُونَ شُرْبَ ٱلْهِيمِ
+    arabicPlain: فشاربون شرب الهيم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:56'
+    scripture: quran
+    name: Quran 56:56
+    chapter: 56
+    verse: 56
+    ordinal: 5035
+    text: This will be their welcome on the Day of Judgment.
+    translation: Pickthall
+    original: هَـٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ
+    arabicPlain: هذا نزلهم يوم الدين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:57'
+    scripture: quran
+    name: Quran 56:57
+    chapter: 56
+    verse: 57
+    ordinal: 5036
+    text: We created you. Will ye then admit the truth?
+    translation: Pickthall
+    original: نَحْنُ خَلَقْنَـٰكُمْ فَلَوْلَا تُصَدِّقُونَ
+    arabicPlain: نحن خلقناكم فلولا تصدقون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:58'
+    scripture: quran
+    name: Quran 56:58
+    chapter: 56
+    verse: 58
+    ordinal: 5037
+    text: Have ye seen that which ye emit?
+    translation: Pickthall
+    original: أَفَرَءَيْتُم مَّا تُمْنُونَ
+    arabicPlain: أفرأيتم ما تمنون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '56:59'
+    scripture: quran
+    name: Quran 56:59
+    chapter: 56
+    verse: 59
+    ordinal: 5038
+    text: Do ye create it or are We the Creator?
+    translation: Pickthall
+    original: ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَـٰلِقُونَ
+    arabicPlain: أأنتم تخلقونه أم نحن الخالقون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:60
+    scripture: quran
+    name: Quran 56:60
+    chapter: 56
+    verse: 60
+    ordinal: 5039
+    text: We mete out death among you, and We are not to be outrun,
+    translation: Pickthall
+    original: نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ
+    arabicPlain: نحن قدرنا بينكم الموت وما نحن بمسبوقين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:61
+    scripture: quran
+    name: Quran 56:61
+    chapter: 56
+    verse: 61
+    ordinal: 5040
+    text: That We may transfigure you and make you what ye know not.
+    translation: Pickthall
+    original: عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَـٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ
+    arabicPlain: على أن نبدل أمثالكم وننشئكم في ما لا تعلمون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:62
+    scripture: quran
+    name: Quran 56:62
+    chapter: 56
+    verse: 62
+    ordinal: 5041
+    text: And verily ye know the first creation. Why, then, do ye not reflect?
+    translation: Pickthall
+    original: وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ
+    arabicPlain: ولقد علمتم النشأة الأولى فلولا تذكرون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:63
+    scripture: quran
+    name: Quran 56:63
+    chapter: 56
+    verse: 63
+    ordinal: 5042
+    text: Have ye seen that which ye cultivate?
+    translation: Pickthall
+    original: أَفَرَءَيْتُم مَّا تَحْرُثُونَ
+    arabicPlain: أفرأيتم ما تحرثون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:64
+    scripture: quran
+    name: Quran 56:64
+    chapter: 56
+    verse: 64
+    ordinal: 5043
+    text: Is it ye who foster it, or are We the Fosterer?
+    translation: Pickthall
+    original: ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ
+    arabicPlain: أأنتم تزرعونه أم نحن الزارعون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:65
+    scripture: quran
+    name: Quran 56:65
+    chapter: 56
+    verse: 65
+    ordinal: 5044
+    text: 'If We willed, We verily could make it chaff, then would ye cease not to exclaim:'
+    translation: Pickthall
+    original: لَوْ نَشَآءُ لَجَعَلْنَـٰهُ حُطَـٰمًا فَظَلْتُمْ تَفَكَّهُونَ
+    arabicPlain: لو نشاء لجعلناه حطاما فظلتم تفكهون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:66
+    scripture: quran
+    name: Quran 56:66
+    chapter: 56
+    verse: 66
+    ordinal: 5045
+    text: Lo! we are laden with debt!
+    translation: Pickthall
+    original: إِنَّا لَمُغْرَمُونَ
+    arabicPlain: إنا لمغرمون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:67
+    scripture: quran
+    name: Quran 56:67
+    chapter: 56
+    verse: 67
+    ordinal: 5046
+    text: Nay, but we are deprived!
+    translation: Pickthall
+    original: بَلْ نَحْنُ مَحْرُومُونَ
+    arabicPlain: بل نحن محرومون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:68
+    scripture: quran
+    name: Quran 56:68
+    chapter: 56
+    verse: 68
+    ordinal: 5047
+    text: Have ye observed the water which ye drink?
+    translation: Pickthall
+    original: أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ
+    arabicPlain: أفرأيتم الماء الذي تشربون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:69
+    scripture: quran
+    name: Quran 56:69
+    chapter: 56
+    verse: 69
+    ordinal: 5048
+    text: Is it ye who shed it from the raincloud, or are We the Shedder?
+    translation: Pickthall
+    original: ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ
+    arabicPlain: أأنتم أنزلتموه من المزن أم نحن المنزلون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:70
+    scripture: quran
+    name: Quran 56:70
+    chapter: 56
+    verse: 70
+    ordinal: 5049
+    text: If We willed We verily could make it bitter. Why then, give ye not thanks?
+    translation: Pickthall
+    original: لَوْ نَشَآءُ جَعَلْنَـٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ
+    arabicPlain: لو نشاء جعلناه أجاجا فلولا تشكرون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:71
+    scripture: quran
+    name: Quran 56:71
+    chapter: 56
+    verse: 71
+    ordinal: 5050
+    text: Have ye observed the fire which ye strike out;
+    translation: Pickthall
+    original: أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ
+    arabicPlain: أفرأيتم النار التي تورون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:72
+    scripture: quran
+    name: Quran 56:72
+    chapter: 56
+    verse: 72
+    ordinal: 5051
+    text: Was it ye who made the tree thereof to grow, or were We the grower?
+    translation: Pickthall
+    original: ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ
+    arabicPlain: أأنتم أنشأتم شجرتها أم نحن المنشئون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:73
+    scripture: quran
+    name: Quran 56:73
+    chapter: 56
+    verse: 73
+    ordinal: 5052
+    text: We, even We, appointed it a memorial and a comfort for the dwellers in the wilderness.
+    translation: Pickthall
+    original: نَحْنُ جَعَلْنَـٰهَا تَذْكِرَةً وَمَتَـٰعًا لِّلْمُقْوِينَ
+    arabicPlain: نحن جعلناها تذكرة ومتاعا للمقوين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:74
+    scripture: quran
+    name: Quran 56:74
+    chapter: 56
+    verse: 74
+    ordinal: 5053
+    text: Therefor (O Muhammad), praise the name of thy Lord, the Tremendous.
+    translation: Pickthall
+    original: فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ
+    arabicPlain: فسبح باسم ربك العظيم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 470
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:75
+    scripture: quran
+    name: Quran 56:75
+    chapter: 56
+    verse: 75
+    ordinal: 5054
+    text: Nay, I swear by the places of the stars -
+    translation: Pickthall
+    original: ۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ
+    arabicPlain: ۞ فلا أقسم بمواقع النجوم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:76
+    scripture: quran
+    name: Quran 56:76
+    chapter: 56
+    verse: 76
+    ordinal: 5055
+    text: And lo! that verily is a tremendous oath, if ye but knew -
+    translation: Pickthall
+    original: وَإِنَّهُۥ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ
+    arabicPlain: وإنه لقسم لو تعلمون عظيم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 536
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:77
+    scripture: quran
+    name: Quran 56:77
+    chapter: 56
+    verse: 77
+    ordinal: 5056
+    text: That (this) is indeed a noble Qur'an
+    translation: Pickthall
+    original: إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ
+    arabicPlain: إنه لقرآن كريم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:78
+    scripture: quran
+    name: Quran 56:78
+    chapter: 56
+    verse: 78
+    ordinal: 5057
+    text: In a Book kept hidden
+    translation: Pickthall
+    original: فِى كِتَـٰبٍ مَّكْنُونٍ
+    arabicPlain: في كتاب مكنون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:79
+    scripture: quran
+    name: Quran 56:79
+    chapter: 56
+    verse: 79
+    ordinal: 5058
+    text: Which none toucheth save the purified,
+    translation: Pickthall
+    original: لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ
+    arabicPlain: لا يمسه إلا المطهرون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:80
+    scripture: quran
+    name: Quran 56:80
+    chapter: 56
+    verse: 80
+    ordinal: 5059
+    text: A revelation from the Lord of the Worlds.
+    translation: Pickthall
+    original: تَنزِيلٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ
+    arabicPlain: تنزيل من رب العالمين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:81
+    scripture: quran
+    name: Quran 56:81
+    chapter: 56
+    verse: 81
+    ordinal: 5060
+    text: Is it this Statement that ye scorn,
+    translation: Pickthall
+    original: أَفَبِهَـٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ
+    arabicPlain: أفبهذا الحديث أنتم مدهنون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:82
+    scripture: quran
+    name: Quran 56:82
+    chapter: 56
+    verse: 82
+    ordinal: 5061
+    text: And make denial thereof your livelihood?
+    translation: Pickthall
+    original: وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ
+    arabicPlain: وتجعلون رزقكم أنكم تكذبون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:83
+    scripture: quran
+    name: Quran 56:83
+    chapter: 56
+    verse: 83
+    ordinal: 5062
+    text: Why, then, when (the soul) cometh up to the throat (of the dying)
+    translation: Pickthall
+    original: فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ
+    arabicPlain: فلولا إذا بلغت الحلقوم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:84
+    scripture: quran
+    name: Quran 56:84
+    chapter: 56
+    verse: 84
+    ordinal: 5063
+    text: And ye are at that moment looking
+    translation: Pickthall
+    original: وَأَنتُمْ حِينَئِذٍ تَنظُرُونَ
+    arabicPlain: وأنتم حينئذ تنظرون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:85
+    scripture: quran
+    name: Quran 56:85
+    chapter: 56
+    verse: 85
+    ordinal: 5064
+    text: '- And We are nearer unto him than ye are, but ye see not -'
+    translation: Pickthall
+    original: وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ
+    arabicPlain: ونحن أقرب إليه منكم ولكن لا تبصرون
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:86
+    scripture: quran
+    name: Quran 56:86
+    chapter: 56
+    verse: 86
+    ordinal: 5065
+    text: Why then, if ye are not in bondage (unto Us),
+    translation: Pickthall
+    original: فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ
+    arabicPlain: فلولا إن كنتم غير مدينين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:87
+    scripture: quran
+    name: Quran 56:87
+    chapter: 56
+    verse: 87
+    ordinal: 5066
+    text: Do ye not force it back, if ye are truthful?
+    translation: Pickthall
+    original: تَرْجِعُونَهَآ إِن كُنتُمْ صَـٰدِقِينَ
+    arabicPlain: ترجعونها إن كنتم صادقين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:88
+    scripture: quran
+    name: Quran 56:88
+    chapter: 56
+    verse: 88
+    ordinal: 5067
+    text: Thus if he is of those brought nigh,
+    translation: Pickthall
+    original: فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ
+    arabicPlain: فأما إن كان من المقربين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:89
+    scripture: quran
+    name: Quran 56:89
+    chapter: 56
+    verse: 89
+    ordinal: 5068
+    text: Then breath of life, and plenty, and a Garden of delight.
+    translation: Pickthall
+    original: فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ
+    arabicPlain: فروح وريحان وجنت نعيم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:90
+    scripture: quran
+    name: Quran 56:90
+    chapter: 56
+    verse: 90
+    ordinal: 5069
+    text: And if he is of those on the right hand,
+    translation: Pickthall
+    original: وَأَمَّآ إِن كَانَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ
+    arabicPlain: وأما إن كان من أصحاب اليمين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:91
+    scripture: quran
+    name: Quran 56:91
+    chapter: 56
+    verse: 91
+    ordinal: 5070
+    text: Then (the greeting) "Peace be unto thee" from those on the right hand.
+    translation: Pickthall
+    original: فَسَلَـٰمٌ لَّكَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ
+    arabicPlain: فسلام لك من أصحاب اليمين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:92
+    scripture: quran
+    name: Quran 56:92
+    chapter: 56
+    verse: 92
+    ordinal: 5071
+    text: But if he is of the rejecters, the erring,
+    translation: Pickthall
+    original: وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ
+    arabicPlain: وأما إن كان من المكذبين الضالين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:93
+    scripture: quran
+    name: Quran 56:93
+    chapter: 56
+    verse: 93
+    ordinal: 5072
+    text: Then the welcome will be boiling water
+    translation: Pickthall
+    original: فَنُزُلٌ مِّنْ حَمِيمٍ
+    arabicPlain: فنزل من حميم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:94
+    scripture: quran
+    name: Quran 56:94
+    chapter: 56
+    verse: 94
+    ordinal: 5073
+    text: And roasting at hell-fire.
+    translation: Pickthall
+    original: وَتَصْلِيَةُ جَحِيمٍ
+    arabicPlain: وتصلية جحيم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:95
+    scripture: quran
+    name: Quran 56:95
+    chapter: 56
+    verse: 95
+    ordinal: 5074
+    text: Lo! this is certain truth.
+    translation: Pickthall
+    original: إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ
+    arabicPlain: إن هذا لهو حق اليقين
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 56:96
+    scripture: quran
+    name: Quran 56:96
+    chapter: 56
+    verse: 96
+    ordinal: 5075
+    text: Therefor (O Muhammad) praise the name of thy Lord, the Tremendous.
+    translation: Pickthall
+    original: فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ
+    arabicPlain: فسبح باسم ربك العظيم
+    surahName: Al-Waaqia
+    juz: 27
+    manzil: 7
+    ruku: 471
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '56'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27

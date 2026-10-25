@@ -1,0 +1,271 @@
+# Every ayah of Surah At-Takaathur (Competition): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '102:1'
+    scripture: quran
+    name: Quran 102:1
+    chapter: 102
+    verse: 1
+    ordinal: 6169
+    text: Rivalry in worldly increase distracteth you
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ
+    arabicPlain: بسم الله الرحمن الرحيم ألهاكم التكاثر
+    surahName: At-Takaathur
+    juz: 30
+    manzil: 7
+    ruku: 544
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '102'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '102:2'
+    scripture: quran
+    name: Quran 102:2
+    chapter: 102
+    verse: 2
+    ordinal: 6170
+    text: Until ye come to the graves.
+    translation: Pickthall
+    original: حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ
+    arabicPlain: حتى زرتم المقابر
+    surahName: At-Takaathur
+    juz: 30
+    manzil: 7
+    ruku: 544
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '102'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '102:3'
+    scripture: quran
+    name: Quran 102:3
+    chapter: 102
+    verse: 3
+    ordinal: 6171
+    text: Nay, but ye will come to know!
+    translation: Pickthall
+    original: كَلَّا سَوْفَ تَعْلَمُونَ
+    arabicPlain: كلا سوف تعلمون
+    surahName: At-Takaathur
+    juz: 30
+    manzil: 7
+    ruku: 544
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '102'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '102:4'
+    scripture: quran
+    name: Quran 102:4
+    chapter: 102
+    verse: 4
+    ordinal: 6172
+    text: Nay, but ye will come to know!
+    translation: Pickthall
+    original: ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ
+    arabicPlain: ثم كلا سوف تعلمون
+    surahName: At-Takaathur
+    juz: 30
+    manzil: 7
+    ruku: 544
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '102'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '102:5'
+    scripture: quran
+    name: Quran 102:5
+    chapter: 102
+    verse: 5
+    ordinal: 6173
+    text: Nay, would that ye knew (now) with a sure knowledge!
+    translation: Pickthall
+    original: كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ
+    arabicPlain: كلا لو تعلمون علم اليقين
+    surahName: At-Takaathur
+    juz: 30
+    manzil: 7
+    ruku: 544
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '102'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '102:6'
+    scripture: quran
+    name: Quran 102:6
+    chapter: 102
+    verse: 6
+    ordinal: 6174
+    text: For ye will behold hell-fire.
+    translation: Pickthall
+    original: لَتَرَوُنَّ ٱلْجَحِيمَ
+    arabicPlain: لترون الجحيم
+    surahName: At-Takaathur
+    juz: 30
+    manzil: 7
+    ruku: 544
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '102'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '102:7'
+    scripture: quran
+    name: Quran 102:7
+    chapter: 102
+    verse: 7
+    ordinal: 6175
+    text: Aye, ye will behold it with sure vision.
+    translation: Pickthall
+    original: ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ
+    arabicPlain: ثم لترونها عين اليقين
+    surahName: At-Takaathur
+    juz: 30
+    manzil: 7
+    ruku: 544
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '102'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '102:8'
+    scripture: quran
+    name: Quran 102:8
+    chapter: 102
+    verse: 8
+    ordinal: 6176
+    text: Then, on that day, ye will be asked concerning pleasure.
+    translation: Pickthall
+    original: ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ
+    arabicPlain: ثم لتسألن يومئذ عن النعيم
+    surahName: At-Takaathur
+    juz: 30
+    manzil: 7
+    ruku: 544
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '102'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

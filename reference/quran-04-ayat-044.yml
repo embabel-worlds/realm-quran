@@ -1,0 +1,1597 @@
+# Every ayah of Surah Ad-Dukhaan (The Smoke): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '44:1'
+    scripture: quran
+    name: Quran 44:1
+    chapter: 44
+    verse: 1
+    ordinal: 4415
+    text: Ha. Mim.
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ حمٓ
+    arabicPlain: بسم الله الرحمن الرحيم حم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:2'
+    scripture: quran
+    name: Quran 44:2
+    chapter: 44
+    verse: 2
+    ordinal: 4416
+    text: By the Scripture that maketh plain
+    translation: Pickthall
+    original: وَٱلْكِتَـٰبِ ٱلْمُبِينِ
+    arabicPlain: والكتاب المبين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:3'
+    scripture: quran
+    name: Quran 44:3
+    chapter: 44
+    verse: 3
+    ordinal: 4417
+    text: Lo! We revealed it on a blessed night - Lo! We are ever warning -
+    translation: Pickthall
+    original: إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةٍ مُّبَـٰرَكَةٍ ۚ إِنَّا كُنَّا مُنذِرِينَ
+    arabicPlain: إنا أنزلناه في ليلة مباركة ۚ إنا كنا منذرين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:4'
+    scripture: quran
+    name: Quran 44:4
+    chapter: 44
+    verse: 4
+    ordinal: 4418
+    text: Whereon every wise command is made clear
+    translation: Pickthall
+    original: فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ
+    arabicPlain: فيها يفرق كل أمر حكيم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:5'
+    scripture: quran
+    name: Quran 44:5
+    chapter: 44
+    verse: 5
+    ordinal: 4419
+    text: As a command from Our presence - Lo! We are ever sending -
+    translation: Pickthall
+    original: أَمْرًا مِّنْ عِندِنَآ ۚ إِنَّا كُنَّا مُرْسِلِينَ
+    arabicPlain: أمرا من عندنا ۚ إنا كنا مرسلين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:6'
+    scripture: quran
+    name: Quran 44:6
+    chapter: 44
+    verse: 6
+    ordinal: 4420
+    text: A mercy from thy Lord. Lo! He, even He is the Hearer, the Knower,
+    translation: Pickthall
+    original: رَحْمَةً مِّن رَّبِّكَ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+    arabicPlain: رحمة من ربك ۚ إنه هو السميع العليم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:7'
+    scripture: quran
+    name: Quran 44:7
+    chapter: 44
+    verse: 7
+    ordinal: 4421
+    text: Lord of the heavens and the earth and all that is between them, if ye would be sure.
+    translation: Pickthall
+    original: رَبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ
+    arabicPlain: رب السماوات والأرض وما بينهما ۖ إن كنتم موقنين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:8'
+    scripture: quran
+    name: Quran 44:8
+    chapter: 44
+    verse: 8
+    ordinal: 4422
+    text: There is no Allah save Him. He quickeneth and giveth death; your Lord and Lord of your forefathers.
+    translation: Pickthall
+    original: لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
+    arabicPlain: لا إله إلا هو يحيي ويميت ۖ ربكم ورب آبائكم الأولين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:9'
+    scripture: quran
+    name: Quran 44:9
+    chapter: 44
+    verse: 9
+    ordinal: 4423
+    text: Nay, but they play in doubt.
+    translation: Pickthall
+    original: بَلْ هُمْ فِى شَكٍّ يَلْعَبُونَ
+    arabicPlain: بل هم في شك يلعبون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:10'
+    scripture: quran
+    name: Quran 44:10
+    chapter: 44
+    verse: 10
+    ordinal: 4424
+    text: But watch thou (O Muhammad) for the day when the sky will produce visible smoke
+    translation: Pickthall
+    original: فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ
+    arabicPlain: فارتقب يوم تأتي السماء بدخان مبين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:11'
+    scripture: quran
+    name: Quran 44:11
+    chapter: 44
+    verse: 11
+    ordinal: 4425
+    text: That will envelop the people. This will be a painful torment.
+    translation: Pickthall
+    original: يَغْشَى ٱلنَّاسَ ۖ هَـٰذَا عَذَابٌ أَلِيمٌ
+    arabicPlain: يغشى الناس ۖ هذا عذاب أليم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:12'
+    scripture: quran
+    name: Quran 44:12
+    chapter: 44
+    verse: 12
+    ordinal: 4426
+    text: '(Then they will say): Our Lord relieve us of the torment. Lo! we are believers.'
+    translation: Pickthall
+    original: رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ
+    arabicPlain: ربنا اكشف عنا العذاب إنا مؤمنون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:13'
+    scripture: quran
+    name: Quran 44:13
+    chapter: 44
+    verse: 13
+    ordinal: 4427
+    text: How can there be remembrance for them, when a messenger making plain (the Truth) had already come unto them,
+    translation: Pickthall
+    original: أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ وَقَدْ جَآءَهُمْ رَسُولٌ مُّبِينٌ
+    arabicPlain: أنى لهم الذكرى وقد جاءهم رسول مبين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:14'
+    scripture: quran
+    name: Quran 44:14
+    chapter: 44
+    verse: 14
+    ordinal: 4428
+    text: 'And they had turned away from him and said: One taught (by others), a madman?'
+    translation: Pickthall
+    original: ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌ مَّجْنُونٌ
+    arabicPlain: ثم تولوا عنه وقالوا معلم مجنون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:15'
+    scripture: quran
+    name: Quran 44:15
+    chapter: 44
+    verse: 15
+    ordinal: 4429
+    text: Lo! We withdraw the torment a little. Lo! ye return (to disbelief).
+    translation: Pickthall
+    original: إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَآئِدُونَ
+    arabicPlain: إنا كاشفو العذاب قليلا ۚ إنكم عائدون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:16'
+    scripture: quran
+    name: Quran 44:16
+    chapter: 44
+    verse: 16
+    ordinal: 4430
+    text: On the day when We shall seize them with the greater seizure, (then) in truth We shall punish.
+    translation: Pickthall
+    original: يَوْمَ نَبْطِشُ ٱلْبَطْشَةَ ٱلْكُبْرَىٰٓ إِنَّا مُنتَقِمُونَ
+    arabicPlain: يوم نبطش البطشة الكبرى إنا منتقمون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:17'
+    scripture: quran
+    name: Quran 44:17
+    chapter: 44
+    verse: 17
+    ordinal: 4431
+    text: And verily We tried before them Pharaoh's folk, when there came unto them a noble messenger,
+    translation: Pickthall
+    original: ۞ وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَآءَهُمْ رَسُولٌ كَرِيمٌ
+    arabicPlain: ۞ ولقد فتنا قبلهم قوم فرعون وجاءهم رسول كريم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:18'
+    scripture: quran
+    name: Quran 44:18
+    chapter: 44
+    verse: 18
+    ordinal: 4432
+    text: 'Saying: Give up to me the slaves of Allah. Lo! I am a faithful messenger unto you.'
+    translation: Pickthall
+    original: أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌ
+    arabicPlain: أن أدوا إلي عباد الله ۖ إني لكم رسول أمين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 496
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:19'
+    scripture: quran
+    name: Quran 44:19
+    chapter: 44
+    verse: 19
+    ordinal: 4433
+    text: 'And saying: Be not proud against Allah. Lo! I bring you a clear warrant.'
+    translation: Pickthall
+    original: وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَـٰنٍ مُّبِينٍ
+    arabicPlain: وأن لا تعلوا على الله ۖ إني آتيكم بسلطان مبين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:20'
+    scripture: quran
+    name: Quran 44:20
+    chapter: 44
+    verse: 20
+    ordinal: 4434
+    text: And lo! I have sought refuge in my Lord and your Lord lest ye stone me to death.
+    translation: Pickthall
+    original: وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ
+    arabicPlain: وإني عذت بربي وربكم أن ترجمون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:21'
+    scripture: quran
+    name: Quran 44:21
+    chapter: 44
+    verse: 21
+    ordinal: 4435
+    text: And if ye put no faith in me, then let me go.
+    translation: Pickthall
+    original: وَإِن لَّمْ تُؤْمِنُوا۟ لِى فَٱعْتَزِلُونِ
+    arabicPlain: وإن لم تؤمنوا لي فاعتزلون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:22'
+    scripture: quran
+    name: Quran 44:22
+    chapter: 44
+    verse: 22
+    ordinal: 4436
+    text: 'And he cried unto his Lord, (saying): These are guilty folk.'
+    translation: Pickthall
+    original: فَدَعَا رَبَّهُۥٓ أَنَّ هَـٰٓؤُلَآءِ قَوْمٌ مُّجْرِمُونَ
+    arabicPlain: فدعا ربه أن هؤلاء قوم مجرمون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:23'
+    scripture: quran
+    name: Quran 44:23
+    chapter: 44
+    verse: 23
+    ordinal: 4437
+    text: 'Then (his Lord commanded): Take away My slaves by night. Lo! ye will be followed,'
+    translation: Pickthall
+    original: فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ
+    arabicPlain: فأسر بعبادي ليلا إنكم متبعون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:24'
+    scripture: quran
+    name: Quran 44:24
+    chapter: 44
+    verse: 24
+    ordinal: 4438
+    text: And leave the sea behind at rest, for lo! they are a drowned host.
+    translation: Pickthall
+    original: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌ مُّغْرَقُونَ
+    arabicPlain: واترك البحر رهوا ۖ إنهم جند مغرقون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:25'
+    scripture: quran
+    name: Quran 44:25
+    chapter: 44
+    verse: 25
+    ordinal: 4439
+    text: How many were the gardens and the watersprings that they left behind,
+    translation: Pickthall
+    original: كَمْ تَرَكُوا۟ مِن جَنَّـٰتٍ وَعُيُونٍ
+    arabicPlain: كم تركوا من جنات وعيون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:26'
+    scripture: quran
+    name: Quran 44:26
+    chapter: 44
+    verse: 26
+    ordinal: 4440
+    text: And the cornlands and the goodly sites
+    translation: Pickthall
+    original: وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ
+    arabicPlain: وزروع ومقام كريم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:27'
+    scripture: quran
+    name: Quran 44:27
+    chapter: 44
+    verse: 27
+    ordinal: 4441
+    text: And pleasant things wherein they took delight!
+    translation: Pickthall
+    original: وَنَعْمَةٍ كَانُوا۟ فِيهَا فَـٰكِهِينَ
+    arabicPlain: ونعمة كانوا فيها فاكهين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:28'
+    scripture: quran
+    name: Quran 44:28
+    chapter: 44
+    verse: 28
+    ordinal: 4442
+    text: Even so (it was), and We made it an inheritance for other folk;
+    translation: Pickthall
+    original: كَذَٰلِكَ ۖ وَأَوْرَثْنَـٰهَا قَوْمًا ءَاخَرِينَ
+    arabicPlain: كذلك ۖ وأورثناها قوما آخرين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:29'
+    scripture: quran
+    name: Quran 44:29
+    chapter: 44
+    verse: 29
+    ordinal: 4443
+    text: And the heaven and the earth wept not for them, nor were they reprieved.
+    translation: Pickthall
+    original: فَمَا بَكَتْ عَلَيْهِمُ ٱلسَّمَآءُ وَٱلْأَرْضُ وَمَا كَانُوا۟ مُنظَرِينَ
+    arabicPlain: فما بكت عليهم السماء والأرض وما كانوا منظرين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 431
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:30'
+    scripture: quran
+    name: Quran 44:30
+    chapter: 44
+    verse: 30
+    ordinal: 4444
+    text: And We delivered the Children of Israel from the shameful doom;
+    translation: Pickthall
+    original: وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ
+    arabicPlain: ولقد نجينا بني إسرائيل من العذاب المهين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:31'
+    scripture: quran
+    name: Quran 44:31
+    chapter: 44
+    verse: 31
+    ordinal: 4445
+    text: (We delivered them) from Pharaoh. Lo! he was a tyrant of the wanton ones.
+    translation: Pickthall
+    original: مِن فِرْعَوْنَ ۚ إِنَّهُۥ كَانَ عَالِيًا مِّنَ ٱلْمُسْرِفِينَ
+    arabicPlain: من فرعون ۚ إنه كان عاليا من المسرفين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:32'
+    scripture: quran
+    name: Quran 44:32
+    chapter: 44
+    verse: 32
+    ordinal: 4446
+    text: And We chose them, purposely, above (all) creatures.
+    translation: Pickthall
+    original: وَلَقَدِ ٱخْتَرْنَـٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَـٰلَمِينَ
+    arabicPlain: ولقد اخترناهم على علم على العالمين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:33'
+    scripture: quran
+    name: Quran 44:33
+    chapter: 44
+    verse: 33
+    ordinal: 4447
+    text: And We gave them portents wherein was a clear trial.
+    translation: Pickthall
+    original: وَءَاتَيْنَـٰهُم مِّنَ ٱلْـَٔايَـٰتِ مَا فِيهِ بَلَـٰٓؤٌا۟ مُّبِينٌ
+    arabicPlain: وآتيناهم من الآيات ما فيه بلاء مبين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:34'
+    scripture: quran
+    name: Quran 44:34
+    chapter: 44
+    verse: 34
+    ordinal: 4448
+    text: 'Lo! these, forsooth, are saying:'
+    translation: Pickthall
+    original: إِنَّ هَـٰٓؤُلَآءِ لَيَقُولُونَ
+    arabicPlain: إن هؤلاء ليقولون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:35'
+    scripture: quran
+    name: Quran 44:35
+    chapter: 44
+    verse: 35
+    ordinal: 4449
+    text: There is naught but our first death, and we shall not be raised again.
+    translation: Pickthall
+    original: إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ
+    arabicPlain: إن هي إلا موتتنا الأولى وما نحن بمنشرين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:36'
+    scripture: quran
+    name: Quran 44:36
+    chapter: 44
+    verse: 36
+    ordinal: 4450
+    text: Bring back our fathers, if ye speak the truth!
+    translation: Pickthall
+    original: فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَـٰدِقِينَ
+    arabicPlain: فأتوا بآبائنا إن كنتم صادقين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:37'
+    scripture: quran
+    name: Quran 44:37
+    chapter: 44
+    verse: 37
+    ordinal: 4451
+    text: Are they better, or the folk of Tubb'a and those before them? We destroyed them, for surely they were guilty.
+    translation: Pickthall
+    original: أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ أَهْلَكْنَـٰهُمْ ۖ إِنَّهُمْ كَانُوا۟ مُجْرِمِينَ
+    arabicPlain: أهم خير أم قوم تبع والذين من قبلهم ۚ أهلكناهم ۖ إنهم كانوا مجرمين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:38'
+    scripture: quran
+    name: Quran 44:38
+    chapter: 44
+    verse: 38
+    ordinal: 4452
+    text: And We created not the heavens and the earth, and all that is between them, in play.
+    translation: Pickthall
+    original: وَمَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَـٰعِبِينَ
+    arabicPlain: وما خلقنا السماوات والأرض وما بينهما لاعبين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:39'
+    scripture: quran
+    name: Quran 44:39
+    chapter: 44
+    verse: 39
+    ordinal: 4453
+    text: We created them not save with truth; but most of them know not.
+    translation: Pickthall
+    original: مَا خَلَقْنَـٰهُمَآ إِلَّا بِٱلْحَقِّ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+    arabicPlain: ما خلقناهما إلا بالحق ولكن أكثرهم لا يعلمون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 497
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:40'
+    scripture: quran
+    name: Quran 44:40
+    chapter: 44
+    verse: 40
+    ordinal: 4454
+    text: Assuredly the Day of Decision is the term for all of them,
+    translation: Pickthall
+    original: إِنَّ يَوْمَ ٱلْفَصْلِ مِيقَـٰتُهُمْ أَجْمَعِينَ
+    arabicPlain: إن يوم الفصل ميقاتهم أجمعين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:41'
+    scripture: quran
+    name: Quran 44:41
+    chapter: 44
+    verse: 41
+    ordinal: 4455
+    text: A day when friend can in naught avail friend, nor can they be helped,
+    translation: Pickthall
+    original: يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ
+    arabicPlain: يوم لا يغني مولى عن مولى شيئا ولا هم ينصرون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:42'
+    scripture: quran
+    name: Quran 44:42
+    chapter: 44
+    verse: 42
+    ordinal: 4456
+    text: Save him on whom Allah hath mercy. Lo! He is the Mighty, the Merciful.
+    translation: Pickthall
+    original: إِلَّا مَن رَّحِمَ ٱللَّهُ ۚ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
+    arabicPlain: إلا من رحم الله ۚ إنه هو العزيز الرحيم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 432
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:43'
+    scripture: quran
+    name: Quran 44:43
+    chapter: 44
+    verse: 43
+    ordinal: 4457
+    text: Lo! the tree of Zaqqum,
+    translation: Pickthall
+    original: إِنَّ شَجَرَتَ ٱلزَّقُّومِ
+    arabicPlain: إن شجرت الزقوم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:44'
+    scripture: quran
+    name: Quran 44:44
+    chapter: 44
+    verse: 44
+    ordinal: 4458
+    text: The food of the sinner!
+    translation: Pickthall
+    original: طَعَامُ ٱلْأَثِيمِ
+    arabicPlain: طعام الأثيم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:45'
+    scripture: quran
+    name: Quran 44:45
+    chapter: 44
+    verse: 45
+    ordinal: 4459
+    text: Like molten brass, it seetheth in their bellies
+    translation: Pickthall
+    original: كَٱلْمُهْلِ يَغْلِى فِى ٱلْبُطُونِ
+    arabicPlain: كالمهل يغلي في البطون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:46'
+    scripture: quran
+    name: Quran 44:46
+    chapter: 44
+    verse: 46
+    ordinal: 4460
+    text: As the seething of boiling water.
+    translation: Pickthall
+    original: كَغَلْىِ ٱلْحَمِيمِ
+    arabicPlain: كغلي الحميم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:47'
+    scripture: quran
+    name: Quran 44:47
+    chapter: 44
+    verse: 47
+    ordinal: 4461
+    text: '(And it will be said): Take him and drag him to the midst of hell,'
+    translation: Pickthall
+    original: خُذُوهُ فَٱعْتِلُوهُ إِلَىٰ سَوَآءِ ٱلْجَحِيمِ
+    arabicPlain: خذوه فاعتلوه إلى سواء الجحيم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:48'
+    scripture: quran
+    name: Quran 44:48
+    chapter: 44
+    verse: 48
+    ordinal: 4462
+    text: Then pour upon his head the torment of boiling water.
+    translation: Pickthall
+    original: ثُمَّ صُبُّوا۟ فَوْقَ رَأْسِهِۦ مِنْ عَذَابِ ٱلْحَمِيمِ
+    arabicPlain: ثم صبوا فوق رأسه من عذاب الحميم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:49'
+    scripture: quran
+    name: Quran 44:49
+    chapter: 44
+    verse: 49
+    ordinal: 4463
+    text: '(Saying): Taste! Lo! thou wast forsooth the mighty, the noble!'
+    translation: Pickthall
+    original: ذُقْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْكَرِيمُ
+    arabicPlain: ذق إنك أنت العزيز الكريم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:50'
+    scripture: quran
+    name: Quran 44:50
+    chapter: 44
+    verse: 50
+    ordinal: 4464
+    text: Lo! this is that whereof ye used to doubt.
+    translation: Pickthall
+    original: إِنَّ هَـٰذَا مَا كُنتُم بِهِۦ تَمْتَرُونَ
+    arabicPlain: إن هذا ما كنتم به تمترون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:51'
+    scripture: quran
+    name: Quran 44:51
+    chapter: 44
+    verse: 51
+    ordinal: 4465
+    text: Lo! those who kept their duty will be in a place secured.
+    translation: Pickthall
+    original: إِنَّ ٱلْمُتَّقِينَ فِى مَقَامٍ أَمِينٍ
+    arabicPlain: إن المتقين في مقام أمين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:52'
+    scripture: quran
+    name: Quran 44:52
+    chapter: 44
+    verse: 52
+    ordinal: 4466
+    text: Amid gardens and watersprings,
+    translation: Pickthall
+    original: فِى جَنَّـٰتٍ وَعُيُونٍ
+    arabicPlain: في جنات وعيون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:53'
+    scripture: quran
+    name: Quran 44:53
+    chapter: 44
+    verse: 53
+    ordinal: 4467
+    text: Attired in silk and silk embroidery, facing one another.
+    translation: Pickthall
+    original: يَلْبَسُونَ مِن سُندُسٍ وَإِسْتَبْرَقٍ مُّتَقَـٰبِلِينَ
+    arabicPlain: يلبسون من سندس وإستبرق متقابلين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:54'
+    scripture: quran
+    name: Quran 44:54
+    chapter: 44
+    verse: 54
+    ordinal: 4468
+    text: Even so (it will be). And We shall wed them unto fair ones with wide, lovely eyes.
+    translation: Pickthall
+    original: كَذَٰلِكَ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ
+    arabicPlain: كذلك وزوجناهم بحور عين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:55'
+    scripture: quran
+    name: Quran 44:55
+    chapter: 44
+    verse: 55
+    ordinal: 4469
+    text: They call therein for every fruit in safety.
+    translation: Pickthall
+    original: يَدْعُونَ فِيهَا بِكُلِّ فَـٰكِهَةٍ ءَامِنِينَ
+    arabicPlain: يدعون فيها بكل فاكهة آمنين
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:56'
+    scripture: quran
+    name: Quran 44:56
+    chapter: 44
+    verse: 56
+    ordinal: 4470
+    text: They taste not death therein, save the first death. And He hath saved them from the doom of hell,
+    translation: Pickthall
+    original: لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ
+    arabicPlain: لا يذوقون فيها الموت إلا الموتة الأولى ۖ ووقاهم عذاب الجحيم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:57'
+    scripture: quran
+    name: Quran 44:57
+    chapter: 44
+    verse: 57
+    ordinal: 4471
+    text: A bounty from thy Lord. That is the supreme triumph.
+    translation: Pickthall
+    original: فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+    arabicPlain: فضلا من ربك ۚ ذلك هو الفوز العظيم
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:58'
+    scripture: quran
+    name: Quran 44:58
+    chapter: 44
+    verse: 58
+    ordinal: 4472
+    text: And We have made (this Scripture) easy in thy language only that they may heed.
+    translation: Pickthall
+    original: فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ
+    arabicPlain: فإنما يسرناه بلسانك لعلهم يتذكرون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25
+- type: Ayah
+  data:
+    ref: '44:59'
+    scripture: quran
+    name: Quran 44:59
+    chapter: 44
+    verse: 59
+    ordinal: 4473
+    text: Wait then (O Muhammad). Lo! they (too) are waiting.
+    translation: Pickthall
+    original: فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ
+    arabicPlain: فارتقب إنهم مرتقبون
+    surahName: Ad-Dukhaan
+    juz: 25
+    manzil: 6
+    ruku: 433
+    page: 498
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '44'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-25

@@ -1,0 +1,947 @@
+# Every ayah of Surah Luqman (Luqman): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '31:1'
+    scripture: quran
+    name: Quran 31:1
+    chapter: 31
+    verse: 1
+    ordinal: 3470
+    text: Alif. Lam. Mim.
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ الٓمٓ
+    arabicPlain: بسم الله الرحمن الرحيم الم
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 355
+    page: 411
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:2'
+    scripture: quran
+    name: Quran 31:2
+    chapter: 31
+    verse: 2
+    ordinal: 3471
+    text: These are revelations of the wise Scripture,
+    translation: Pickthall
+    original: تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْحَكِيمِ
+    arabicPlain: تلك آيات الكتاب الحكيم
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 355
+    page: 411
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:3'
+    scripture: quran
+    name: Quran 31:3
+    chapter: 31
+    verse: 3
+    ordinal: 3472
+    text: A guidance and a mercy for the good,
+    translation: Pickthall
+    original: هُدًى وَرَحْمَةً لِّلْمُحْسِنِينَ
+    arabicPlain: هدى ورحمة للمحسنين
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 355
+    page: 411
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:4'
+    scripture: quran
+    name: Quran 31:4
+    chapter: 31
+    verse: 4
+    ordinal: 3473
+    text: Those who establish worship and pay the poor-due and have sure faith in the Hereafter.
+    translation: Pickthall
+    original: ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ
+    arabicPlain: الذين يقيمون الصلاة ويؤتون الزكاة وهم بالآخرة هم يوقنون
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 355
+    page: 411
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:5'
+    scripture: quran
+    name: Quran 31:5
+    chapter: 31
+    verse: 5
+    ordinal: 3474
+    text: Such have guidance from their Lord. Such are the successful.
+    translation: Pickthall
+    original: أُو۟لَـٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+    arabicPlain: أولئك على هدى من ربهم ۖ وأولئك هم المفلحون
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 355
+    page: 411
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:6'
+    scripture: quran
+    name: Quran 31:6
+    chapter: 31
+    verse: 6
+    ordinal: 3475
+    text: And of mankind is he who payeth for mere pastime of discourse, that he may mislead from Allah's way without knowledge, and maketh it the butt of mockery. For such there is a shameful doom.
+    translation: Pickthall
+    original: وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ
+    arabicPlain: ومن الناس من يشتري لهو الحديث ليضل عن سبيل الله بغير علم ويتخذها هزوا ۚ أولئك لهم عذاب مهين
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 355
+    page: 411
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:7'
+    scripture: quran
+    name: Quran 31:7
+    chapter: 31
+    verse: 7
+    ordinal: 3476
+    text: And when Our revelations are recited unto him he turneth away in pride as if he heard them not, as if there were a deafness in his ears. So give him tidings of a painful doom.
+    translation: Pickthall
+    original: وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا وَلَّىٰ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا كَأَنَّ فِىٓ أُذُنَيْهِ وَقْرًا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ
+    arabicPlain: وإذا تتلى عليه آياتنا ولى مستكبرا كأن لم يسمعها كأن في أذنيه وقرا ۖ فبشره بعذاب أليم
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 355
+    page: 411
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:8'
+    scripture: quran
+    name: Quran 31:8
+    chapter: 31
+    verse: 8
+    ordinal: 3477
+    text: Lo! those who believe and do good works, for them are the gardens of delight,
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتُ ٱلنَّعِيمِ
+    arabicPlain: إن الذين آمنوا وعملوا الصالحات لهم جنات النعيم
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 355
+    page: 411
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:9'
+    scripture: quran
+    name: Quran 31:9
+    chapter: 31
+    verse: 9
+    ordinal: 3478
+    text: Wherein they will abide. It is a promise of Allah in truth. He is the Mighty, the Wise.
+    translation: Pickthall
+    original: خَـٰلِدِينَ فِيهَا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+    arabicPlain: خالدين فيها ۖ وعد الله حقا ۚ وهو العزيز الحكيم
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 355
+    page: 411
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:10'
+    scripture: quran
+    name: Quran 31:10
+    chapter: 31
+    verse: 10
+    ordinal: 3479
+    text: He hath created the heavens without supports that ye can see, and hath cast into the earth firm hills, so that it quake not with you; and He hath dispersed therein all kinds of beasts. And We send down water from the sky and We cause (plants) of every goodly kind to grow therein.
+    translation: Pickthall
+    original: خَلَقَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ
+    arabicPlain: خلق السماوات بغير عمد ترونها ۖ وألقى في الأرض رواسي أن تميد بكم وبث فيها من كل دابة ۚ وأنزلنا من السماء ماء فأنبتنا فيها من كل زوج كريم
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 355
+    page: 411
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:11'
+    scripture: quran
+    name: Quran 31:11
+    chapter: 31
+    verse: 11
+    ordinal: 3480
+    text: This is the Creation of Allah. Now show me that which those (ye worship) beside Him have created. Nay, but the wrong-doers are in error manifest!
+    translation: Pickthall
+    original: هَـٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ ۚ بَلِ ٱلظَّـٰلِمُونَ فِى ضَلَـٰلٍ مُّبِينٍ
+    arabicPlain: هذا خلق الله فأروني ماذا خلق الذين من دونه ۚ بل الظالمون في ضلال مبين
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 355
+    page: 411
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:12'
+    scripture: quran
+    name: Quran 31:12
+    chapter: 31
+    verse: 12
+    ordinal: 3481
+    text: 'And verily We gave Luqman wisdom, saying: Give thanks unto Allah; and whosoever giveth thanks, he giveth thanks for (the good of) his soul. And whosoever refuseth - Lo! Allah is Absolute, Owner of Praise.'
+    translation: Pickthall
+    original: وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ
+    arabicPlain: ولقد آتينا لقمان الحكمة أن اشكر لله ۚ ومن يشكر فإنما يشكر لنفسه ۖ ومن كفر فإن الله غني حميد
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 356
+    page: 412
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:13'
+    scripture: quran
+    name: Quran 31:13
+    chapter: 31
+    verse: 13
+    ordinal: 3482
+    text: 'And (remember) when Luqman said unto his son, when he was exhorting him: O my dear son! Ascribe no partners unto Allah. Lo! to ascribe partners (unto Him) is a tremendous wrong -'
+    translation: Pickthall
+    original: وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ
+    arabicPlain: وإذ قال لقمان لابنه وهو يعظه يا بني لا تشرك بالله ۖ إن الشرك لظلم عظيم
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 356
+    page: 412
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:14'
+    scripture: quran
+    name: Quran 31:14
+    chapter: 31
+    verse: 14
+    ordinal: 3483
+    text: And We have enjoined upon man concerning his partners - His mother beareth him in weakness upon weakness, and his weaning is in two years - Give thanks unto Me and unto thy parents. Unto Me is the journeying.
+    translation: Pickthall
+    original: وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَـٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ
+    arabicPlain: ووصينا الإنسان بوالديه حملته أمه وهنا على وهن وفصاله في عامين أن اشكر لي ولوالديك إلي المصير
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 356
+    page: 412
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:15'
+    scripture: quran
+    name: Quran 31:15
+    chapter: 31
+    verse: 15
+    ordinal: 3484
+    text: But if they strive with thee to make thee ascribe unto Me as partner that of which thou hast no knowledge, then obey them not. Consort with them in the world kindly, and follow the path of him who repenteth unto Me. Then unto Me will be your return, and I shall tell you what ye used to do -
+    translation: Pickthall
+    original: وَإِن جَـٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِى ٱلدُّنْيَا مَعْرُوفًا ۖ وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ۚ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
+    arabicPlain: وإن جاهداك على أن تشرك بي ما ليس لك به علم فلا تطعهما ۖ وصاحبهما في الدنيا معروفا ۖ واتبع سبيل من أناب إلي ۚ ثم إلي مرجعكم فأنبئكم بما كنتم تعملون
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 356
+    page: 412
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:16'
+    scripture: quran
+    name: Quran 31:16
+    chapter: 31
+    verse: 16
+    ordinal: 3485
+    text: O my dear son! Lo! though it be but the weight of a grain of mustard-seed, and though it be in a rock, or in the heavens, or in the earth, Allah will bring it forth. Lo! Allah is Subtile, Aware.
+    translation: Pickthall
+    original: يَـٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَـٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ ۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌ
+    arabicPlain: يا بني إنها إن تك مثقال حبة من خردل فتكن في صخرة أو في السماوات أو في الأرض يأت بها الله ۚ إن الله لطيف خبير
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 356
+    page: 412
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:17'
+    scripture: quran
+    name: Quran 31:17
+    chapter: 31
+    verse: 17
+    ordinal: 3486
+    text: O my dear son! Establish worship and enjoin kindness and forbid iniquity, and persevere whatever may befall thee. Lo! that is of the steadfast heart of things.
+    translation: Pickthall
+    original: يَـٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ
+    arabicPlain: يا بني أقم الصلاة وأمر بالمعروف وانه عن المنكر واصبر على ما أصابك ۖ إن ذلك من عزم الأمور
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 356
+    page: 412
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:18'
+    scripture: quran
+    name: Quran 31:18
+    chapter: 31
+    verse: 18
+    ordinal: 3487
+    text: Turn not thy cheek in scorn toward folk, nor walk with pertness in the land. Lo! Allah loveth not each braggart boaster.
+    translation: Pickthall
+    original: وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
+    arabicPlain: ولا تصعر خدك للناس ولا تمش في الأرض مرحا ۖ إن الله لا يحب كل مختال فخور
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 356
+    page: 412
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:19'
+    scripture: quran
+    name: Quran 31:19
+    chapter: 31
+    verse: 19
+    ordinal: 3488
+    text: Be modest in thy bearing and subdue thy voice. Lo! the harshest of all voices is the voice of the ass.
+    translation: Pickthall
+    original: وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ
+    arabicPlain: واقصد في مشيك واغضض من صوتك ۚ إن أنكر الأصوات لصوت الحمير
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 356
+    page: 412
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:20'
+    scripture: quran
+    name: Quran 31:20
+    chapter: 31
+    verse: 20
+    ordinal: 3489
+    text: See ye not how Allah hath made serviceable unto you whatsoever is in the skies and whatsoever is in the earth and hath loaded you with His favours both without and within? Yet of mankind is he who disputeth concerning Allah, without knowledge or guidance or a scripture giving light.
+    translation: Pickthall
+    original: أَلَمْ تَرَوْا۟ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُۥ ظَـٰهِرَةً وَبَاطِنَةً ۗ وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَـٰبٍ مُّنِيرٍ
+    arabicPlain: ألم تروا أن الله سخر لكم ما في السماوات وما في الأرض وأسبغ عليكم نعمه ظاهرة وباطنة ۗ ومن الناس من يجادل في الله بغير علم ولا هدى ولا كتاب منير
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 413
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:21'
+    scripture: quran
+    name: Quran 31:21
+    chapter: 31
+    verse: 21
+    ordinal: 3490
+    text: 'And if it be said unto them: Follow that which Allah hath revealed, they say: Nay, but we follow that wherein we found our fathers. What! Even though the devil were inviting them unto the doom of flame?'
+    translation: Pickthall
+    original: وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ٱلشَّيْطَـٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ
+    arabicPlain: وإذا قيل لهم اتبعوا ما أنزل الله قالوا بل نتبع ما وجدنا عليه آباءنا ۚ أولو كان الشيطان يدعوهم إلى عذاب السعير
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 413
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:22'
+    scripture: quran
+    name: Quran 31:22
+    chapter: 31
+    verse: 22
+    ordinal: 3491
+    text: Whosoever surrendereth his purpose to Allah while doing good, he verily hath grasped the firm hand-hold. Unto Allah belongeth the sequel of all things.
+    translation: Pickthall
+    original: ۞ وَمَن يُسْلِمْ وَجْهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ ۗ وَإِلَى ٱللَّهِ عَـٰقِبَةُ ٱلْأُمُورِ
+    arabicPlain: ۞ ومن يسلم وجهه إلى الله وهو محسن فقد استمسك بالعروة الوثقى ۗ وإلى الله عاقبة الأمور
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 413
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:23'
+    scripture: quran
+    name: Quran 31:23
+    chapter: 31
+    verse: 23
+    ordinal: 3492
+    text: And whosoever disbelieveth, let not his disbelief afflict thee (O Muhammad). Unto Us is their return, and We shall tell them what they did. Lo! Allah is Aware of what is in the breasts (of men).
+    translation: Pickthall
+    original: وَمَن كَفَرَ فَلَا يَحْزُنكَ كُفْرُهُۥٓ ۚ إِلَيْنَا مَرْجِعُهُمْ فَنُنَبِّئُهُم بِمَا عَمِلُوٓا۟ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+    arabicPlain: ومن كفر فلا يحزنك كفره ۚ إلينا مرجعهم فننبئهم بما عملوا ۚ إن الله عليم بذات الصدور
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 413
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:24'
+    scripture: quran
+    name: Quran 31:24
+    chapter: 31
+    verse: 24
+    ordinal: 3493
+    text: We give them comfort for a little, and then We drive them to a heavy doom.
+    translation: Pickthall
+    original: نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍ
+    arabicPlain: نمتعهم قليلا ثم نضطرهم إلى عذاب غليظ
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 413
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:25'
+    scripture: quran
+    name: Quran 31:25
+    chapter: 31
+    verse: 25
+    ordinal: 3494
+    text: 'If thou shouldst ask them: Who created the heavens and the earth? they would answer: Allah. Say: Praise be to Allah! But most of them know not.'
+    translation: Pickthall
+    original: وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلِ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
+    arabicPlain: ولئن سألتهم من خلق السماوات والأرض ليقولن الله ۚ قل الحمد لله ۚ بل أكثرهم لا يعلمون
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 413
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:26'
+    scripture: quran
+    name: Quran 31:26
+    chapter: 31
+    verse: 26
+    ordinal: 3495
+    text: Unto Allah belongeth whatsoever is in the heavens and the earth. Lo! Allah, He is the Absolute, the Owner of Praise.
+    translation: Pickthall
+    original: لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
+    arabicPlain: لله ما في السماوات والأرض ۚ إن الله هو الغني الحميد
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 413
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:27'
+    scripture: quran
+    name: Quran 31:27
+    chapter: 31
+    verse: 27
+    ordinal: 3496
+    text: And if all the trees in the earth were pens, and the sea, with seven more seas to help it, (were ink), the words of Allah could not be exhausted. Lo! Allah is Mighty, Wise.
+    translation: Pickthall
+    original: وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَـٰمٌ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَـٰتُ ٱللَّهِ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
+    arabicPlain: ولو أنما في الأرض من شجرة أقلام والبحر يمده من بعده سبعة أبحر ما نفدت كلمات الله ۗ إن الله عزيز حكيم
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 413
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:28'
+    scripture: quran
+    name: Quran 31:28
+    chapter: 31
+    verse: 28
+    ordinal: 3497
+    text: Your creation and your raising (from the dead) are only as (the creation and the raising of) a single soul. Lo! Allah is Hearer, Knower.
+    translation: Pickthall
+    original: مَّا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَٰحِدَةٍ ۗ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ
+    arabicPlain: ما خلقكم ولا بعثكم إلا كنفس واحدة ۗ إن الله سميع بصير
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 413
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:29'
+    scripture: quran
+    name: Quran 31:29
+    chapter: 31
+    verse: 29
+    ordinal: 3498
+    text: Hast thou not seen how Allah causeth the night to pass into the day and causeth the day to pass into the night, and hath subdued the sun and the moon (to do their work), each running unto an appointed term; and that Allah is Informed of what ye do?
+    translation: Pickthall
+    original: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِىٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى وَأَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ
+    arabicPlain: ألم تر أن الله يولج الليل في النهار ويولج النهار في الليل وسخر الشمس والقمر كل يجري إلى أجل مسمى وأن الله بما تعملون خبير
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 414
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:30'
+    scripture: quran
+    name: Quran 31:30
+    chapter: 31
+    verse: 30
+    ordinal: 3499
+    text: That (is so) because Allah, He is the True, and that which they invoke beside Him is the False, and because Allah, He is the Sublime, the Great.
+    translation: Pickthall
+    original: ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ ٱلْبَـٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ
+    arabicPlain: ذلك بأن الله هو الحق وأن ما يدعون من دونه الباطل وأن الله هو العلي الكبير
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 414
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:31'
+    scripture: quran
+    name: Quran 31:31
+    chapter: 31
+    verse: 31
+    ordinal: 3500
+    text: Hast thou not seen how the ships glide on the sea by Allah's grace, that He may show you of His wonders? Lo! therein indeed are portents for every steadfast, grateful (heart).
+    translation: Pickthall
+    original: أَلَمْ تَرَ أَنَّ ٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِنِعْمَتِ ٱللَّهِ لِيُرِيَكُم مِّنْ ءَايَـٰتِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
+    arabicPlain: ألم تر أن الفلك تجري في البحر بنعمت الله ليريكم من آياته ۚ إن في ذلك لآيات لكل صبار شكور
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 414
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:32'
+    scripture: quran
+    name: Quran 31:32
+    chapter: 31
+    verse: 32
+    ordinal: 3501
+    text: And if a wave enshroudeth them like awnings, they cry unto Allah, making their faith pure for Him only. But when He bringeth them safe to land, some of them compromise. None denieth Our signs save every traitor ingrate.
+    translation: Pickthall
+    original: وَإِذَا غَشِيَهُم مَّوْجٌ كَٱلظُّلَلِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ فَمِنْهُم مُّقْتَصِدٌ ۚ وَمَا يَجْحَدُ بِـَٔايَـٰتِنَآ إِلَّا كُلُّ خَتَّارٍ كَفُورٍ
+    arabicPlain: وإذا غشيهم موج كالظلل دعوا الله مخلصين له الدين فلما نجاهم إلى البر فمنهم مقتصد ۚ وما يجحد بآياتنا إلا كل ختار كفور
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 414
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:33'
+    scripture: quran
+    name: Quran 31:33
+    chapter: 31
+    verse: 33
+    ordinal: 3502
+    text: O mankind! Keep your duty to your Lord and fear a Day when the parent will not be able to avail the child in aught, nor the child to avail the parent. Lo! Allah's promise is the very truth. Let not the life of the world beguile you, nor let the deceiver beguile you, in regard to Allah.
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ وَٱخْشَوْا۟ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا ۚ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ
+    arabicPlain: يا أيها الناس اتقوا ربكم واخشوا يوما لا يجزي والد عن ولده ولا مولود هو جاز عن والده شيئا ۚ إن وعد الله حق ۖ فلا تغرنكم الحياة الدنيا ولا يغرنكم بالله الغرور
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 414
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21
+- type: Ayah
+  data:
+    ref: '31:34'
+    scripture: quran
+    name: Quran 31:34
+    chapter: 31
+    verse: 34
+    ordinal: 3503
+    text: Lo! Allah! With Him is knowledge of the Hour. He sendeth down the rain, and knoweth that which is in the wombs. No soul knoweth what it will earn to-morrow, and no soul knoweth in what land it will die. Lo! Allah is Knower, Aware.
+    translation: Pickthall
+    original: إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ ۖ وَمَا تَدْرِى نَفْسٌ مَّاذَا تَكْسِبُ غَدًا ۖ وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍ تَمُوتُ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۢ
+    arabicPlain: إن الله عنده علم الساعة وينزل الغيث ويعلم ما في الأرحام ۖ وما تدري نفس ماذا تكسب غدا ۖ وما تدري نفس بأي أرض تموت ۚ إن الله عليم خبير
+    surahName: Luqman
+    juz: 21
+    manzil: 5
+    ruku: 357
+    page: 414
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '31'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-21

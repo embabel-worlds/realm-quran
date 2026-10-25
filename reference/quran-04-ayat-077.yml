@@ -1,0 +1,1363 @@
+# Every ayah of Surah Al-Mursalaat (The Emissaries): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '77:1'
+    scripture: quran
+    name: Quran 77:1
+    chapter: 77
+    verse: 1
+    ordinal: 5623
+    text: By the emissary winds, (sent) one after another
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْمُرْسَلَـٰتِ عُرْفًا
+    arabicPlain: بسم الله الرحمن الرحيم والمرسلات عرفا
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:2'
+    scripture: quran
+    name: Quran 77:2
+    chapter: 77
+    verse: 2
+    ordinal: 5624
+    text: By the raging hurricanes,
+    translation: Pickthall
+    original: فَٱلْعَـٰصِفَـٰتِ عَصْفًا
+    arabicPlain: فالعاصفات عصفا
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:3'
+    scripture: quran
+    name: Quran 77:3
+    chapter: 77
+    verse: 3
+    ordinal: 5625
+    text: By those which cause earth's vegetation to revive;
+    translation: Pickthall
+    original: وَٱلنَّـٰشِرَٰتِ نَشْرًا
+    arabicPlain: والناشرات نشرا
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:4'
+    scripture: quran
+    name: Quran 77:4
+    chapter: 77
+    verse: 4
+    ordinal: 5626
+    text: By those who winnow with a winnowing,
+    translation: Pickthall
+    original: فَٱلْفَـٰرِقَـٰتِ فَرْقًا
+    arabicPlain: فالفارقات فرقا
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:5'
+    scripture: quran
+    name: Quran 77:5
+    chapter: 77
+    verse: 5
+    ordinal: 5627
+    text: By those who bring down the Reminder,
+    translation: Pickthall
+    original: فَٱلْمُلْقِيَـٰتِ ذِكْرًا
+    arabicPlain: فالملقيات ذكرا
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:6'
+    scripture: quran
+    name: Quran 77:6
+    chapter: 77
+    verse: 6
+    ordinal: 5628
+    text: To excuse or to warn,
+    translation: Pickthall
+    original: عُذْرًا أَوْ نُذْرًا
+    arabicPlain: عذرا أو نذرا
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:7'
+    scripture: quran
+    name: Quran 77:7
+    chapter: 77
+    verse: 7
+    ordinal: 5629
+    text: Surely that which ye are promised will befall.
+    translation: Pickthall
+    original: إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ
+    arabicPlain: إنما توعدون لواقع
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:8'
+    scripture: quran
+    name: Quran 77:8
+    chapter: 77
+    verse: 8
+    ordinal: 5630
+    text: So when the stars are put out,
+    translation: Pickthall
+    original: فَإِذَا ٱلنُّجُومُ طُمِسَتْ
+    arabicPlain: فإذا النجوم طمست
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:9'
+    scripture: quran
+    name: Quran 77:9
+    chapter: 77
+    verse: 9
+    ordinal: 5631
+    text: And when the sky is riven asunder,
+    translation: Pickthall
+    original: وَإِذَا ٱلسَّمَآءُ فُرِجَتْ
+    arabicPlain: وإذا السماء فرجت
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:10'
+    scripture: quran
+    name: Quran 77:10
+    chapter: 77
+    verse: 10
+    ordinal: 5632
+    text: And when the mountains are blown away,
+    translation: Pickthall
+    original: وَإِذَا ٱلْجِبَالُ نُسِفَتْ
+    arabicPlain: وإذا الجبال نسفت
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:11'
+    scripture: quran
+    name: Quran 77:11
+    chapter: 77
+    verse: 11
+    ordinal: 5633
+    text: And when the messengers are brought unto their time appointed -
+    translation: Pickthall
+    original: وَإِذَا ٱلرُّسُلُ أُقِّتَتْ
+    arabicPlain: وإذا الرسل أقتت
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:12'
+    scripture: quran
+    name: Quran 77:12
+    chapter: 77
+    verse: 12
+    ordinal: 5634
+    text: For what day is the time appointed?
+    translation: Pickthall
+    original: لِأَىِّ يَوْمٍ أُجِّلَتْ
+    arabicPlain: لأي يوم أجلت
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:13'
+    scripture: quran
+    name: Quran 77:13
+    chapter: 77
+    verse: 13
+    ordinal: 5635
+    text: For the Day of Decision.
+    translation: Pickthall
+    original: لِيَوْمِ ٱلْفَصْلِ
+    arabicPlain: ليوم الفصل
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:14'
+    scripture: quran
+    name: Quran 77:14
+    chapter: 77
+    verse: 14
+    ordinal: 5636
+    text: And what will convey unto thee what the Day of Decision is! -
+    translation: Pickthall
+    original: وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ
+    arabicPlain: وما أدراك ما يوم الفصل
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:15'
+    scripture: quran
+    name: Quran 77:15
+    chapter: 77
+    verse: 15
+    ordinal: 5637
+    text: Woe unto the repudiators on that day!
+    translation: Pickthall
+    original: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    arabicPlain: ويل يومئذ للمكذبين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:16'
+    scripture: quran
+    name: Quran 77:16
+    chapter: 77
+    verse: 16
+    ordinal: 5638
+    text: Destroyed We not the former folk,
+    translation: Pickthall
+    original: أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ
+    arabicPlain: ألم نهلك الأولين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:17'
+    scripture: quran
+    name: Quran 77:17
+    chapter: 77
+    verse: 17
+    ordinal: 5639
+    text: Then caused the latter folk to follow after?
+    translation: Pickthall
+    original: ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ
+    arabicPlain: ثم نتبعهم الآخرين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:18'
+    scripture: quran
+    name: Quran 77:18
+    chapter: 77
+    verse: 18
+    ordinal: 5640
+    text: Thus deal We ever with the guilty.
+    translation: Pickthall
+    original: كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ
+    arabicPlain: كذلك نفعل بالمجرمين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:19'
+    scripture: quran
+    name: Quran 77:19
+    chapter: 77
+    verse: 19
+    ordinal: 5641
+    text: Woe unto the repudiators on that day!
+    translation: Pickthall
+    original: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    arabicPlain: ويل يومئذ للمكذبين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:20'
+    scripture: quran
+    name: Quran 77:20
+    chapter: 77
+    verse: 20
+    ordinal: 5642
+    text: Did We not create you from a base fluid
+    translation: Pickthall
+    original: أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ
+    arabicPlain: ألم نخلقكم من ماء مهين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:21'
+    scripture: quran
+    name: Quran 77:21
+    chapter: 77
+    verse: 21
+    ordinal: 5643
+    text: Which We laid up in a safe abode
+    translation: Pickthall
+    original: فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ
+    arabicPlain: فجعلناه في قرار مكين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:22'
+    scripture: quran
+    name: Quran 77:22
+    chapter: 77
+    verse: 22
+    ordinal: 5644
+    text: For a known term?
+    translation: Pickthall
+    original: إِلَىٰ قَدَرٍ مَّعْلُومٍ
+    arabicPlain: إلى قدر معلوم
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:23'
+    scripture: quran
+    name: Quran 77:23
+    chapter: 77
+    verse: 23
+    ordinal: 5645
+    text: Thus We arranged. How excellent is Our arranging!
+    translation: Pickthall
+    original: فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ
+    arabicPlain: فقدرنا فنعم القادرون
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:24'
+    scripture: quran
+    name: Quran 77:24
+    chapter: 77
+    verse: 24
+    ordinal: 5646
+    text: Woe unto the repudiators on that day!
+    translation: Pickthall
+    original: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    arabicPlain: ويل يومئذ للمكذبين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:25'
+    scripture: quran
+    name: Quran 77:25
+    chapter: 77
+    verse: 25
+    ordinal: 5647
+    text: Have We not made the earth a receptacle
+    translation: Pickthall
+    original: أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا
+    arabicPlain: ألم نجعل الأرض كفاتا
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:26'
+    scripture: quran
+    name: Quran 77:26
+    chapter: 77
+    verse: 26
+    ordinal: 5648
+    text: Both for the living and the dead,
+    translation: Pickthall
+    original: أَحْيَآءً وَأَمْوَٰتًا
+    arabicPlain: أحياء وأمواتا
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:27'
+    scripture: quran
+    name: Quran 77:27
+    chapter: 77
+    verse: 27
+    ordinal: 5649
+    text: And placed therein high mountains and given you to drink sweet water therein?
+    translation: Pickthall
+    original: وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا
+    arabicPlain: وجعلنا فيها رواسي شامخات وأسقيناكم ماء فراتا
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:28'
+    scripture: quran
+    name: Quran 77:28
+    chapter: 77
+    verse: 28
+    ordinal: 5650
+    text: Woe unto the repudiators on that day!
+    translation: Pickthall
+    original: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    arabicPlain: ويل يومئذ للمكذبين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:29'
+    scripture: quran
+    name: Quran 77:29
+    chapter: 77
+    verse: 29
+    ordinal: 5651
+    text: (It will be said unto them:) Depart unto that (doom) which ye used to deny;
+    translation: Pickthall
+    original: ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ
+    arabicPlain: انطلقوا إلى ما كنتم به تكذبون
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:30'
+    scripture: quran
+    name: Quran 77:30
+    chapter: 77
+    verse: 30
+    ordinal: 5652
+    text: Depart unto the shadow falling threefold,
+    translation: Pickthall
+    original: ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ
+    arabicPlain: انطلقوا إلى ظل ذي ثلاث شعب
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:31'
+    scripture: quran
+    name: Quran 77:31
+    chapter: 77
+    verse: 31
+    ordinal: 5653
+    text: (Which yet is) no relief nor shelter from the flame.
+    translation: Pickthall
+    original: لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ
+    arabicPlain: لا ظليل ولا يغني من اللهب
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:32'
+    scripture: quran
+    name: Quran 77:32
+    chapter: 77
+    verse: 32
+    ordinal: 5654
+    text: Lo! it throweth up sparks like the castles,
+    translation: Pickthall
+    original: إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ
+    arabicPlain: إنها ترمي بشرر كالقصر
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:33'
+    scripture: quran
+    name: Quran 77:33
+    chapter: 77
+    verse: 33
+    ordinal: 5655
+    text: (Or) as it might be camels of bright yellow hue.
+    translation: Pickthall
+    original: كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ
+    arabicPlain: كأنه جمالت صفر
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:34'
+    scripture: quran
+    name: Quran 77:34
+    chapter: 77
+    verse: 34
+    ordinal: 5656
+    text: Woe unto the repudiators on that day!
+    translation: Pickthall
+    original: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    arabicPlain: ويل يومئذ للمكذبين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:35'
+    scripture: quran
+    name: Quran 77:35
+    chapter: 77
+    verse: 35
+    ordinal: 5657
+    text: This is a day wherein they speak not,
+    translation: Pickthall
+    original: هَـٰذَا يَوْمُ لَا يَنطِقُونَ
+    arabicPlain: هذا يوم لا ينطقون
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:36'
+    scripture: quran
+    name: Quran 77:36
+    chapter: 77
+    verse: 36
+    ordinal: 5658
+    text: Nor are they suffered to put forth excuses.
+    translation: Pickthall
+    original: وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
+    arabicPlain: ولا يؤذن لهم فيعتذرون
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:37'
+    scripture: quran
+    name: Quran 77:37
+    chapter: 77
+    verse: 37
+    ordinal: 5659
+    text: Woe unto the repudiators on that day!
+    translation: Pickthall
+    original: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    arabicPlain: ويل يومئذ للمكذبين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:38'
+    scripture: quran
+    name: Quran 77:38
+    chapter: 77
+    verse: 38
+    ordinal: 5660
+    text: This is the Day of Decision, We have brought you and the men of old together.
+    translation: Pickthall
+    original: هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ
+    arabicPlain: هذا يوم الفصل ۖ جمعناكم والأولين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:39'
+    scripture: quran
+    name: Quran 77:39
+    chapter: 77
+    verse: 39
+    ordinal: 5661
+    text: If now ye have any wit, outwit Me.
+    translation: Pickthall
+    original: فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ
+    arabicPlain: فإن كان لكم كيد فكيدون
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:40'
+    scripture: quran
+    name: Quran 77:40
+    chapter: 77
+    verse: 40
+    ordinal: 5662
+    text: Woe unto the repudiators on that day!
+    translation: Pickthall
+    original: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    arabicPlain: ويل يومئذ للمكذبين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 516
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:41'
+    scripture: quran
+    name: Quran 77:41
+    chapter: 77
+    verse: 41
+    ordinal: 5663
+    text: Lo! those who kept their duty are amid shade and fountains,
+    translation: Pickthall
+    original: إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ
+    arabicPlain: إن المتقين في ظلال وعيون
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 517
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:42'
+    scripture: quran
+    name: Quran 77:42
+    chapter: 77
+    verse: 42
+    ordinal: 5664
+    text: And fruits such as they desire.
+    translation: Pickthall
+    original: وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ
+    arabicPlain: وفواكه مما يشتهون
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 517
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:43'
+    scripture: quran
+    name: Quran 77:43
+    chapter: 77
+    verse: 43
+    ordinal: 5665
+    text: (Unto them it is said:) Eat, drink and welcome, O ye blessed, in return for what ye did.
+    translation: Pickthall
+    original: كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ
+    arabicPlain: كلوا واشربوا هنيئا بما كنتم تعملون
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 517
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:44'
+    scripture: quran
+    name: Quran 77:44
+    chapter: 77
+    verse: 44
+    ordinal: 5666
+    text: Thus do We reward the good.
+    translation: Pickthall
+    original: إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+    arabicPlain: إنا كذلك نجزي المحسنين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 517
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:45'
+    scripture: quran
+    name: Quran 77:45
+    chapter: 77
+    verse: 45
+    ordinal: 5667
+    text: Woe unto the repudiators on that day!
+    translation: Pickthall
+    original: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    arabicPlain: ويل يومئذ للمكذبين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 517
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:46'
+    scripture: quran
+    name: Quran 77:46
+    chapter: 77
+    verse: 46
+    ordinal: 5668
+    text: Eat and take your ease (on earth) a little. Lo! ye are guilty.
+    translation: Pickthall
+    original: كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ
+    arabicPlain: كلوا وتمتعوا قليلا إنكم مجرمون
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 517
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:47'
+    scripture: quran
+    name: Quran 77:47
+    chapter: 77
+    verse: 47
+    ordinal: 5669
+    text: Woe unto the repudiators on that day!
+    translation: Pickthall
+    original: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    arabicPlain: ويل يومئذ للمكذبين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 517
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:48'
+    scripture: quran
+    name: Quran 77:48
+    chapter: 77
+    verse: 48
+    ordinal: 5670
+    text: 'When it is said unto them: Bow down, they bow not down!'
+    translation: Pickthall
+    original: وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ
+    arabicPlain: وإذا قيل لهم اركعوا لا يركعون
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 517
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:49'
+    scripture: quran
+    name: Quran 77:49
+    chapter: 77
+    verse: 49
+    ordinal: 5671
+    text: Woe unto the repudiators on that day!
+    translation: Pickthall
+    original: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    arabicPlain: ويل يومئذ للمكذبين
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 517
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '77:50'
+    scripture: quran
+    name: Quran 77:50
+    chapter: 77
+    verse: 50
+    ordinal: 5672
+    text: In what statement, after this, will they believe?
+    translation: Pickthall
+    original: فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ
+    arabicPlain: فبأي حديث بعده يؤمنون
+    surahName: Al-Mursalaat
+    juz: 29
+    manzil: 7
+    ruku: 517
+    page: 581
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '77'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29

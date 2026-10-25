@@ -1,0 +1,505 @@
+# Every ayah of Surah At-Taariq (The Morning Star): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '86:1'
+    scripture: quran
+    name: Quran 86:1
+    chapter: 86
+    verse: 1
+    ordinal: 5932
+    text: By the heaven and the Morning Star
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ وَٱلطَّارِقِ
+    arabicPlain: بسم الله الرحمن الرحيم والسماء والطارق
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:2'
+    scripture: quran
+    name: Quran 86:2
+    chapter: 86
+    verse: 2
+    ordinal: 5933
+    text: '- Ah, what will tell thee what the Morning Star is!'
+    translation: Pickthall
+    original: وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ
+    arabicPlain: وما أدراك ما الطارق
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:3'
+    scripture: quran
+    name: Quran 86:3
+    chapter: 86
+    verse: 3
+    ordinal: 5934
+    text: '- The piercing Star!'
+    translation: Pickthall
+    original: ٱلنَّجْمُ ٱلثَّاقِبُ
+    arabicPlain: النجم الثاقب
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:4'
+    scripture: quran
+    name: Quran 86:4
+    chapter: 86
+    verse: 4
+    ordinal: 5935
+    text: No human soul but hath a guardian over it.
+    translation: Pickthall
+    original: إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ
+    arabicPlain: إن كل نفس لما عليها حافظ
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:5'
+    scripture: quran
+    name: Quran 86:5
+    chapter: 86
+    verse: 5
+    ordinal: 5936
+    text: So let man consider from what he is created.
+    translation: Pickthall
+    original: فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ
+    arabicPlain: فلينظر الإنسان مم خلق
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:6'
+    scripture: quran
+    name: Quran 86:6
+    chapter: 86
+    verse: 6
+    ordinal: 5937
+    text: He is created from a gushing fluid
+    translation: Pickthall
+    original: خُلِقَ مِن مَّآءٍ دَافِقٍ
+    arabicPlain: خلق من ماء دافق
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:7'
+    scripture: quran
+    name: Quran 86:7
+    chapter: 86
+    verse: 7
+    ordinal: 5938
+    text: That issued from between the loins and ribs.
+    translation: Pickthall
+    original: يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ
+    arabicPlain: يخرج من بين الصلب والترائب
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:8'
+    scripture: quran
+    name: Quran 86:8
+    chapter: 86
+    verse: 8
+    ordinal: 5939
+    text: Lo! He verily is Able to return him (unto life)
+    translation: Pickthall
+    original: إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ
+    arabicPlain: إنه على رجعه لقادر
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:9'
+    scripture: quran
+    name: Quran 86:9
+    chapter: 86
+    verse: 9
+    ordinal: 5940
+    text: On the day when hidden thoughts shall be searched out.
+    translation: Pickthall
+    original: يَوْمَ تُبْلَى ٱلسَّرَآئِرُ
+    arabicPlain: يوم تبلى السرائر
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:10'
+    scripture: quran
+    name: Quran 86:10
+    chapter: 86
+    verse: 10
+    ordinal: 5941
+    text: Then will he have no might nor any helper.
+    translation: Pickthall
+    original: فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ
+    arabicPlain: فما له من قوة ولا ناصر
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:11'
+    scripture: quran
+    name: Quran 86:11
+    chapter: 86
+    verse: 11
+    ordinal: 5942
+    text: By the heaven which giveth the returning rain,
+    translation: Pickthall
+    original: وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ
+    arabicPlain: والسماء ذات الرجع
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:12'
+    scripture: quran
+    name: Quran 86:12
+    chapter: 86
+    verse: 12
+    ordinal: 5943
+    text: And the earth which splitteth (with the growth of trees and plants)
+    translation: Pickthall
+    original: وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ
+    arabicPlain: والأرض ذات الصدع
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:13'
+    scripture: quran
+    name: Quran 86:13
+    chapter: 86
+    verse: 13
+    ordinal: 5944
+    text: Lo! this (Qur'an) is a conclusive word,
+    translation: Pickthall
+    original: إِنَّهُۥ لَقَوْلٌ فَصْلٌ
+    arabicPlain: إنه لقول فصل
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:14'
+    scripture: quran
+    name: Quran 86:14
+    chapter: 86
+    verse: 14
+    ordinal: 5945
+    text: It is no pleasantry.
+    translation: Pickthall
+    original: وَمَا هُوَ بِٱلْهَزْلِ
+    arabicPlain: وما هو بالهزل
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:15'
+    scripture: quran
+    name: Quran 86:15
+    chapter: 86
+    verse: 15
+    ordinal: 5946
+    text: Lo! they plot a plot (against thee, O Muhammad)
+    translation: Pickthall
+    original: إِنَّهُمْ يَكِيدُونَ كَيْدًا
+    arabicPlain: إنهم يكيدون كيدا
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:16'
+    scripture: quran
+    name: Quran 86:16
+    chapter: 86
+    verse: 16
+    ordinal: 5947
+    text: And I plot a plot (against them).
+    translation: Pickthall
+    original: وَأَكِيدُ كَيْدًا
+    arabicPlain: وأكيد كيدا
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '86:17'
+    scripture: quran
+    name: Quran 86:17
+    chapter: 86
+    verse: 17
+    ordinal: 5948
+    text: So give a respite to the disbelievers. Deal thou gently with them for a while.
+    translation: Pickthall
+    original: فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا
+    arabicPlain: فمهل الكافرين أمهلهم رويدا
+    surahName: At-Taariq
+    juz: 30
+    manzil: 7
+    ruku: 528
+    page: 591
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '86'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

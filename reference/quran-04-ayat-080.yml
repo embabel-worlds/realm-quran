@@ -1,0 +1,1155 @@
+# Every ayah of Surah Abasa (He frowned): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '80:1'
+    scripture: quran
+    name: Quran 80:1
+    chapter: 80
+    verse: 1
+    ordinal: 5759
+    text: He frowned and turned away
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ عَبَسَ وَتَوَلَّىٰٓ
+    arabicPlain: بسم الله الرحمن الرحيم عبس وتولى
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:2'
+    scripture: quran
+    name: Quran 80:2
+    chapter: 80
+    verse: 2
+    ordinal: 5760
+    text: Because the blind man came unto him.
+    translation: Pickthall
+    original: أَن جَآءَهُ ٱلْأَعْمَىٰ
+    arabicPlain: أن جاءه الأعمى
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:3'
+    scripture: quran
+    name: Quran 80:3
+    chapter: 80
+    verse: 3
+    ordinal: 5761
+    text: What could inform thee but that he might grow (in grace)
+    translation: Pickthall
+    original: وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ
+    arabicPlain: وما يدريك لعله يزكى
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:4'
+    scripture: quran
+    name: Quran 80:4
+    chapter: 80
+    verse: 4
+    ordinal: 5762
+    text: Or take heed and so the reminder might avail him?
+    translation: Pickthall
+    original: أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ
+    arabicPlain: أو يذكر فتنفعه الذكرى
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:5'
+    scripture: quran
+    name: Quran 80:5
+    chapter: 80
+    verse: 5
+    ordinal: 5763
+    text: As for him who thinketh himself independent,
+    translation: Pickthall
+    original: أَمَّا مَنِ ٱسْتَغْنَىٰ
+    arabicPlain: أما من استغنى
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:6'
+    scripture: quran
+    name: Quran 80:6
+    chapter: 80
+    verse: 6
+    ordinal: 5764
+    text: Unto him thou payest regard.
+    translation: Pickthall
+    original: فَأَنتَ لَهُۥ تَصَدَّىٰ
+    arabicPlain: فأنت له تصدى
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:7'
+    scripture: quran
+    name: Quran 80:7
+    chapter: 80
+    verse: 7
+    ordinal: 5765
+    text: Yet it is not thy concern if he grow not (in grace).
+    translation: Pickthall
+    original: وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
+    arabicPlain: وما عليك ألا يزكى
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:8'
+    scripture: quran
+    name: Quran 80:8
+    chapter: 80
+    verse: 8
+    ordinal: 5766
+    text: But as for him who cometh unto thee with earnest purpose
+    translation: Pickthall
+    original: وَأَمَّا مَن جَآءَكَ يَسْعَىٰ
+    arabicPlain: وأما من جاءك يسعى
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:9'
+    scripture: quran
+    name: Quran 80:9
+    chapter: 80
+    verse: 9
+    ordinal: 5767
+    text: And hath fear,
+    translation: Pickthall
+    original: وَهُوَ يَخْشَىٰ
+    arabicPlain: وهو يخشى
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:10'
+    scripture: quran
+    name: Quran 80:10
+    chapter: 80
+    verse: 10
+    ordinal: 5768
+    text: From him thou art distracted.
+    translation: Pickthall
+    original: فَأَنتَ عَنْهُ تَلَهَّىٰ
+    arabicPlain: فأنت عنه تلهى
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:11'
+    scripture: quran
+    name: Quran 80:11
+    chapter: 80
+    verse: 11
+    ordinal: 5769
+    text: Nay, but verily it is an Admonishment,
+    translation: Pickthall
+    original: كَلَّآ إِنَّهَا تَذْكِرَةٌ
+    arabicPlain: كلا إنها تذكرة
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:12'
+    scripture: quran
+    name: Quran 80:12
+    chapter: 80
+    verse: 12
+    ordinal: 5770
+    text: So let whosoever will pay heed to it,
+    translation: Pickthall
+    original: فَمَن شَآءَ ذَكَرَهُۥ
+    arabicPlain: فمن شاء ذكره
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:13'
+    scripture: quran
+    name: Quran 80:13
+    chapter: 80
+    verse: 13
+    ordinal: 5771
+    text: On honoured leaves
+    translation: Pickthall
+    original: فِى صُحُفٍ مُّكَرَّمَةٍ
+    arabicPlain: في صحف مكرمة
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:14'
+    scripture: quran
+    name: Quran 80:14
+    chapter: 80
+    verse: 14
+    ordinal: 5772
+    text: Exalted, purified,
+    translation: Pickthall
+    original: مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ
+    arabicPlain: مرفوعة مطهرة
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:15'
+    scripture: quran
+    name: Quran 80:15
+    chapter: 80
+    verse: 15
+    ordinal: 5773
+    text: (Set down) by scribes
+    translation: Pickthall
+    original: بِأَيْدِى سَفَرَةٍ
+    arabicPlain: بأيدي سفرة
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:16'
+    scripture: quran
+    name: Quran 80:16
+    chapter: 80
+    verse: 16
+    ordinal: 5774
+    text: Noble and righteous.
+    translation: Pickthall
+    original: كِرَامٍۭ بَرَرَةٍ
+    arabicPlain: كرام بررة
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:17'
+    scripture: quran
+    name: Quran 80:17
+    chapter: 80
+    verse: 17
+    ordinal: 5775
+    text: 'Man is (self-)destroyed: how ungrateful!'
+    translation: Pickthall
+    original: قُتِلَ ٱلْإِنسَـٰنُ مَآ أَكْفَرَهُۥ
+    arabicPlain: قتل الإنسان ما أكفره
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:18'
+    scripture: quran
+    name: Quran 80:18
+    chapter: 80
+    verse: 18
+    ordinal: 5776
+    text: From what thing doth He create him?
+    translation: Pickthall
+    original: مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ
+    arabicPlain: من أي شيء خلقه
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:19'
+    scripture: quran
+    name: Quran 80:19
+    chapter: 80
+    verse: 19
+    ordinal: 5777
+    text: From a drop of seed. He createth him and proportioneth him,
+    translation: Pickthall
+    original: مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ
+    arabicPlain: من نطفة خلقه فقدره
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:20'
+    scripture: quran
+    name: Quran 80:20
+    chapter: 80
+    verse: 20
+    ordinal: 5778
+    text: Then maketh the way easy for him,
+    translation: Pickthall
+    original: ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ
+    arabicPlain: ثم السبيل يسره
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:21'
+    scripture: quran
+    name: Quran 80:21
+    chapter: 80
+    verse: 21
+    ordinal: 5779
+    text: Then causeth him to die, and burieth him;
+    translation: Pickthall
+    original: ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ
+    arabicPlain: ثم أماته فأقبره
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:22'
+    scripture: quran
+    name: Quran 80:22
+    chapter: 80
+    verse: 22
+    ordinal: 5780
+    text: Then, when He will, He bringeth him again to life.
+    translation: Pickthall
+    original: ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ
+    arabicPlain: ثم إذا شاء أنشره
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:23'
+    scripture: quran
+    name: Quran 80:23
+    chapter: 80
+    verse: 23
+    ordinal: 5781
+    text: Nay, but (man) hath not done what He commanded him.
+    translation: Pickthall
+    original: كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ
+    arabicPlain: كلا لما يقض ما أمره
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:24'
+    scripture: quran
+    name: Quran 80:24
+    chapter: 80
+    verse: 24
+    ordinal: 5782
+    text: 'Let man consider his food:'
+    translation: Pickthall
+    original: فَلْيَنظُرِ ٱلْإِنسَـٰنُ إِلَىٰ طَعَامِهِۦٓ
+    arabicPlain: فلينظر الإنسان إلى طعامه
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:25'
+    scripture: quran
+    name: Quran 80:25
+    chapter: 80
+    verse: 25
+    ordinal: 5783
+    text: How We pour water in showers
+    translation: Pickthall
+    original: أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا
+    arabicPlain: أنا صببنا الماء صبا
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:26'
+    scripture: quran
+    name: Quran 80:26
+    chapter: 80
+    verse: 26
+    ordinal: 5784
+    text: Then split the earth in clefts
+    translation: Pickthall
+    original: ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا
+    arabicPlain: ثم شققنا الأرض شقا
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:27'
+    scripture: quran
+    name: Quran 80:27
+    chapter: 80
+    verse: 27
+    ordinal: 5785
+    text: And cause the grain to grow therein
+    translation: Pickthall
+    original: فَأَنۢبَتْنَا فِيهَا حَبًّا
+    arabicPlain: فأنبتنا فيها حبا
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:28'
+    scripture: quran
+    name: Quran 80:28
+    chapter: 80
+    verse: 28
+    ordinal: 5786
+    text: And grapes and green fodder
+    translation: Pickthall
+    original: وَعِنَبًا وَقَضْبًا
+    arabicPlain: وعنبا وقضبا
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:29'
+    scripture: quran
+    name: Quran 80:29
+    chapter: 80
+    verse: 29
+    ordinal: 5787
+    text: And olive-trees and palm-trees
+    translation: Pickthall
+    original: وَزَيْتُونًا وَنَخْلًا
+    arabicPlain: وزيتونا ونخلا
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:30'
+    scripture: quran
+    name: Quran 80:30
+    chapter: 80
+    verse: 30
+    ordinal: 5788
+    text: And garden-closes of thick foliage
+    translation: Pickthall
+    original: وَحَدَآئِقَ غُلْبًا
+    arabicPlain: وحدائق غلبا
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:31'
+    scripture: quran
+    name: Quran 80:31
+    chapter: 80
+    verse: 31
+    ordinal: 5789
+    text: 'And fruits and grasses:'
+    translation: Pickthall
+    original: وَفَـٰكِهَةً وَأَبًّا
+    arabicPlain: وفاكهة وأبا
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:32'
+    scripture: quran
+    name: Quran 80:32
+    chapter: 80
+    verse: 32
+    ordinal: 5790
+    text: Provision for you and your cattle.
+    translation: Pickthall
+    original: مَّتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ
+    arabicPlain: متاعا لكم ولأنعامكم
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:33'
+    scripture: quran
+    name: Quran 80:33
+    chapter: 80
+    verse: 33
+    ordinal: 5791
+    text: But when the Shout cometh
+    translation: Pickthall
+    original: فَإِذَا جَآءَتِ ٱلصَّآخَّةُ
+    arabicPlain: فإذا جاءت الصاخة
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:34'
+    scripture: quran
+    name: Quran 80:34
+    chapter: 80
+    verse: 34
+    ordinal: 5792
+    text: On the day when a man fleeth from his brother
+    translation: Pickthall
+    original: يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ
+    arabicPlain: يوم يفر المرء من أخيه
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:35'
+    scripture: quran
+    name: Quran 80:35
+    chapter: 80
+    verse: 35
+    ordinal: 5793
+    text: And his mother and his father
+    translation: Pickthall
+    original: وَأُمِّهِۦ وَأَبِيهِ
+    arabicPlain: وأمه وأبيه
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:36'
+    scripture: quran
+    name: Quran 80:36
+    chapter: 80
+    verse: 36
+    ordinal: 5794
+    text: And his wife and his children,
+    translation: Pickthall
+    original: وَصَـٰحِبَتِهِۦ وَبَنِيهِ
+    arabicPlain: وصاحبته وبنيه
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:37'
+    scripture: quran
+    name: Quran 80:37
+    chapter: 80
+    verse: 37
+    ordinal: 5795
+    text: Every man that day will have concern enough to make him heedless (of others).
+    translation: Pickthall
+    original: لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+    arabicPlain: لكل امرئ منهم يومئذ شأن يغنيه
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:38'
+    scripture: quran
+    name: Quran 80:38
+    chapter: 80
+    verse: 38
+    ordinal: 5796
+    text: On that day faces will be bright as dawn,
+    translation: Pickthall
+    original: وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ
+    arabicPlain: وجوه يومئذ مسفرة
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:39'
+    scripture: quran
+    name: Quran 80:39
+    chapter: 80
+    verse: 39
+    ordinal: 5797
+    text: Laughing, rejoicing at good news;
+    translation: Pickthall
+    original: ضَاحِكَةٌ مُّسْتَبْشِرَةٌ
+    arabicPlain: ضاحكة مستبشرة
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:40'
+    scripture: quran
+    name: Quran 80:40
+    chapter: 80
+    verse: 40
+    ordinal: 5798
+    text: And other faces, on that day, with dust upon them,
+    translation: Pickthall
+    original: وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ
+    arabicPlain: ووجوه يومئذ عليها غبرة
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:41'
+    scripture: quran
+    name: Quran 80:41
+    chapter: 80
+    verse: 41
+    ordinal: 5799
+    text: Veiled in darkness,
+    translation: Pickthall
+    original: تَرْهَقُهَا قَتَرَةٌ
+    arabicPlain: ترهقها قترة
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '80:42'
+    scripture: quran
+    name: Quran 80:42
+    chapter: 80
+    verse: 42
+    ordinal: 5800
+    text: Those are the disbelievers, the wicked.
+    translation: Pickthall
+    original: أُو۟لَـٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ
+    arabicPlain: أولئك هم الكفرة الفجرة
+    surahName: Abasa
+    juz: 30
+    manzil: 7
+    ruku: 522
+    page: 585
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '80'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

@@ -1,0 +1,453 @@
+# Every ayah of Surah Ash-Shams (The Sun): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '91:1'
+    scripture: quran
+    name: Quran 91:1
+    chapter: 91
+    verse: 1
+    ordinal: 6044
+    text: By the sun and his brightness,
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا
+    arabicPlain: بسم الله الرحمن الرحيم والشمس وضحاها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:2'
+    scripture: quran
+    name: Quran 91:2
+    chapter: 91
+    verse: 2
+    ordinal: 6045
+    text: And the moon when she followeth him,
+    translation: Pickthall
+    original: وَٱلْقَمَرِ إِذَا تَلَىٰهَا
+    arabicPlain: والقمر إذا تلاها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:3'
+    scripture: quran
+    name: Quran 91:3
+    chapter: 91
+    verse: 3
+    ordinal: 6046
+    text: And the day when it revealeth him,
+    translation: Pickthall
+    original: وَٱلنَّهَارِ إِذَا جَلَّىٰهَا
+    arabicPlain: والنهار إذا جلاها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:4'
+    scripture: quran
+    name: Quran 91:4
+    chapter: 91
+    verse: 4
+    ordinal: 6047
+    text: And the night when it enshroudeth him,
+    translation: Pickthall
+    original: وَٱلَّيْلِ إِذَا يَغْشَىٰهَا
+    arabicPlain: والليل إذا يغشاها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:5'
+    scripture: quran
+    name: Quran 91:5
+    chapter: 91
+    verse: 5
+    ordinal: 6048
+    text: And the heaven and Him Who built it,
+    translation: Pickthall
+    original: وَٱلسَّمَآءِ وَمَا بَنَىٰهَا
+    arabicPlain: والسماء وما بناها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:6'
+    scripture: quran
+    name: Quran 91:6
+    chapter: 91
+    verse: 6
+    ordinal: 6049
+    text: And the earth and Him Who spread it,
+    translation: Pickthall
+    original: وَٱلْأَرْضِ وَمَا طَحَىٰهَا
+    arabicPlain: والأرض وما طحاها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:7'
+    scripture: quran
+    name: Quran 91:7
+    chapter: 91
+    verse: 7
+    ordinal: 6050
+    text: And a soul and Him Who perfected it
+    translation: Pickthall
+    original: وَنَفْسٍ وَمَا سَوَّىٰهَا
+    arabicPlain: ونفس وما سواها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:8'
+    scripture: quran
+    name: Quran 91:8
+    chapter: 91
+    verse: 8
+    ordinal: 6051
+    text: And inspired it (with conscience of) what is wrong for it and (what is) right for it.
+    translation: Pickthall
+    original: فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا
+    arabicPlain: فألهمها فجورها وتقواها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:9'
+    scripture: quran
+    name: Quran 91:9
+    chapter: 91
+    verse: 9
+    ordinal: 6052
+    text: He is indeed successful who causeth it to grow,
+    translation: Pickthall
+    original: قَدْ أَفْلَحَ مَن زَكَّىٰهَا
+    arabicPlain: قد أفلح من زكاها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:10'
+    scripture: quran
+    name: Quran 91:10
+    chapter: 91
+    verse: 10
+    ordinal: 6053
+    text: And he is indeed a failure who stunteth it.
+    translation: Pickthall
+    original: وَقَدْ خَابَ مَن دَسَّىٰهَا
+    arabicPlain: وقد خاب من دساها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:11'
+    scripture: quran
+    name: Quran 91:11
+    chapter: 91
+    verse: 11
+    ordinal: 6054
+    text: (The tribe of) Thamud denied (the truth) in their rebellious pride,
+    translation: Pickthall
+    original: كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ
+    arabicPlain: كذبت ثمود بطغواها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:12'
+    scripture: quran
+    name: Quran 91:12
+    chapter: 91
+    verse: 12
+    ordinal: 6055
+    text: When the basest of them broke forth
+    translation: Pickthall
+    original: إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا
+    arabicPlain: إذ انبعث أشقاها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:13'
+    scripture: quran
+    name: Quran 91:13
+    chapter: 91
+    verse: 13
+    ordinal: 6056
+    text: 'And the messenger of Allah said: It is the she-camel of Allah, so let her drink!'
+    translation: Pickthall
+    original: فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا
+    arabicPlain: فقال لهم رسول الله ناقة الله وسقياها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:14'
+    scripture: quran
+    name: Quran 91:14
+    chapter: 91
+    verse: 14
+    ordinal: 6057
+    text: But they denied him, and they hamstrung her, so Allah doomed them for their sin and rased (their dwellings).
+    translation: Pickthall
+    original: فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا
+    arabicPlain: فكذبوه فعقروها فدمدم عليهم ربهم بذنبهم فسواها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '91:15'
+    scripture: quran
+    name: Quran 91:15
+    chapter: 91
+    verse: 15
+    ordinal: 6058
+    text: He dreadeth not the sequel (of events).
+    translation: Pickthall
+    original: وَلَا يَخَافُ عُقْبَـٰهَا
+    arabicPlain: ولا يخاف عقباها
+    surahName: Ash-Shams
+    juz: 30
+    manzil: 7
+    ruku: 533
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '91'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

@@ -1,0 +1,817 @@
+# Every ayah of Surah Al-Hadid (The Iron): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '57:1'
+    scripture: quran
+    name: Quran 57:1
+    chapter: 57
+    verse: 1
+    ordinal: 5076
+    text: All that is in the heavens and the earth glorifieth Allah; and He is the Mighty, the Wise.
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+    arabicPlain: بسم الله الرحمن الرحيم سبح لله ما في السماوات والأرض ۖ وهو العزيز الحكيم
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 472
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:2'
+    scripture: quran
+    name: Quran 57:2
+    chapter: 57
+    verse: 2
+    ordinal: 5077
+    text: His is the Sovereignty of the heavens and the earth; He quickeneth and He giveth death; and He is Able to do all things.
+    translation: Pickthall
+    original: لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+    arabicPlain: له ملك السماوات والأرض ۖ يحيي ويميت ۖ وهو على كل شيء قدير
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 472
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:3'
+    scripture: quran
+    name: Quran 57:3
+    chapter: 57
+    verse: 3
+    ordinal: 5078
+    text: He is the First and the Last, and the Outward and the Inward; and He is Knower of all things.
+    translation: Pickthall
+    original: هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّـٰهِرُ وَٱلْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
+    arabicPlain: هو الأول والآخر والظاهر والباطن ۖ وهو بكل شيء عليم
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 472
+    page: 537
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:4'
+    scripture: quran
+    name: Quran 57:4
+    chapter: 57
+    verse: 4
+    ordinal: 5079
+    text: He it is Who created the heavens and the earth in six Days; then He mounted the Throne. He knoweth all that entereth the earth and all that emergeth therefrom and all that cometh down from the sky and all that ascendeth therein; and He is with you wheresoever ye may be. And Allah is Seer of what ye do.
+    translation: Pickthall
+    original: هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+    arabicPlain: هو الذي خلق السماوات والأرض في ستة أيام ثم استوى على العرش ۚ يعلم ما يلج في الأرض وما يخرج منها وما ينزل من السماء وما يعرج فيها ۖ وهو معكم أين ما كنتم ۚ والله بما تعملون بصير
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 472
+    page: 538
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:5'
+    scripture: quran
+    name: Quran 57:5
+    chapter: 57
+    verse: 5
+    ordinal: 5080
+    text: His is the Sovereignty of the heavens and the earth, and unto Allah (all) things are brought back.
+    translation: Pickthall
+    original: لَّهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
+    arabicPlain: له ملك السماوات والأرض ۚ وإلى الله ترجع الأمور
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 472
+    page: 538
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:6'
+    scripture: quran
+    name: Quran 57:6
+    chapter: 57
+    verse: 6
+    ordinal: 5081
+    text: He causeth the night to pass into the day, and He causeth the day to pass into the night, and He is knower of all that is in the breasts.
+    translation: Pickthall
+    original: يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۚ وَهُوَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+    arabicPlain: يولج الليل في النهار ويولج النهار في الليل ۚ وهو عليم بذات الصدور
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 472
+    page: 538
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:7'
+    scripture: quran
+    name: Quran 57:7
+    chapter: 57
+    verse: 7
+    ordinal: 5082
+    text: Believe in Allah and His messenger, and spend of that whereof He hath made you trustees; and such of you as believe and spend (aright), theirs will be a great reward.
+    translation: Pickthall
+    original: ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ ۖ فَٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ
+    arabicPlain: آمنوا بالله ورسوله وأنفقوا مما جعلكم مستخلفين فيه ۖ فالذين آمنوا منكم وأنفقوا لهم أجر كبير
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 472
+    page: 538
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:8'
+    scripture: quran
+    name: Quran 57:8
+    chapter: 57
+    verse: 8
+    ordinal: 5083
+    text: What aileth you that ye believe not in Allah, when the messenger calleth you to believe in your Lord, and He hath already made a covenant with you, if ye are believers?
+    translation: Pickthall
+    original: وَمَا لَكُمْ لَا تُؤْمِنُونَ بِٱللَّهِ ۙ وَٱلرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا۟ بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَـٰقَكُمْ إِن كُنتُم مُّؤْمِنِينَ
+    arabicPlain: وما لكم لا تؤمنون بالله ۙ والرسول يدعوكم لتؤمنوا بربكم وقد أخذ ميثاقكم إن كنتم مؤمنين
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 472
+    page: 538
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:9'
+    scripture: quran
+    name: Quran 57:9
+    chapter: 57
+    verse: 9
+    ordinal: 5084
+    text: He it is Who sendeth down clear revelations unto His slave, that He may bring you forth from darkness unto light; and lo! for you, Allah is Full of Pity, Merciful.
+    translation: Pickthall
+    original: هُوَ ٱلَّذِى يُنَزِّلُ عَلَىٰ عَبْدِهِۦٓ ءَايَـٰتٍۭ بَيِّنَـٰتٍ لِّيُخْرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَإِنَّ ٱللَّهَ بِكُمْ لَرَءُوفٌ رَّحِيمٌ
+    arabicPlain: هو الذي ينزل على عبده آيات بينات ليخرجكم من الظلمات إلى النور ۚ وإن الله بكم لرءوف رحيم
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 472
+    page: 538
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:10'
+    scripture: quran
+    name: Quran 57:10
+    chapter: 57
+    verse: 10
+    ordinal: 5085
+    text: And what aileth you that ye spend not in the way of Allah when unto Allah belongeth the inheritance of the heavens and the earth? Those who spent and fought before the victory are not upon a level (with the rest of you). Such are greater in rank than those who spent and fought afterwards. Unto each hath Allah promised good. And Allah is Informed of what ye do.
+    translation: Pickthall
+    original: وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَـٰتَلَ ۚ أُو۟لَـٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَـٰتَلُوا۟ ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+    arabicPlain: وما لكم ألا تنفقوا في سبيل الله ولله ميراث السماوات والأرض ۚ لا يستوي منكم من أنفق من قبل الفتح وقاتل ۚ أولئك أعظم درجة من الذين أنفقوا من بعد وقاتلوا ۚ وكلا وعد الله الحسنى ۚ والله بما تعملون خبير
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 472
+    page: 538
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:11'
+    scripture: quran
+    name: Quran 57:11
+    chapter: 57
+    verse: 11
+    ordinal: 5086
+    text: Who is he that will lend unto Allah a goodly loan, that He may double it for him and his may be a rich reward?
+    translation: Pickthall
+    original: مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًا فَيُضَـٰعِفَهُۥ لَهُۥ وَلَهُۥٓ أَجْرٌ كَرِيمٌ
+    arabicPlain: من ذا الذي يقرض الله قرضا حسنا فيضاعفه له وله أجر كريم
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 473
+    page: 538
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:12'
+    scripture: quran
+    name: Quran 57:12
+    chapter: 57
+    verse: 12
+    ordinal: 5087
+    text: 'On the day when thou (Muhammad) wilt see the believers, men and women, their light shining forth before them and on their right hands, (and wilt hear it said unto them): Glad news for you this day: Gardens underneath which rivers flow, wherein ye are immortal. That is the supreme triumph.'
+    translation: Pickthall
+    original: يَوْمَ تَرَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ يَسْعَىٰ نُورُهُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَـٰنِهِم بُشْرَىٰكُمُ ٱلْيَوْمَ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+    arabicPlain: يوم ترى المؤمنين والمؤمنات يسعى نورهم بين أيديهم وبأيمانهم بشراكم اليوم جنات تجري من تحتها الأنهار خالدين فيها ۚ ذلك هو الفوز العظيم
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 473
+    page: 539
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:13'
+    scripture: quran
+    name: Quran 57:13
+    chapter: 57
+    verse: 13
+    ordinal: 5088
+    text: 'On the day when the hypocritical men and the hypocritical women will say unto those who believe: Look on us that we may borrow from your light! it will be said: Go back and seek for light! Then there will separate them a wall wherein is a gate, the inner side whereof containeth mercy, while the outer side thereof is toward the doom.'
+    translation: Pickthall
+    original: يَوْمَ يَقُولُ ٱلْمُنَـٰفِقُونَ وَٱلْمُنَـٰفِقَـٰتُ لِلَّذِينَ ءَامَنُوا۟ ٱنظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ٱرْجِعُوا۟ وَرَآءَكُمْ فَٱلْتَمِسُوا۟ نُورًا فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ وَظَـٰهِرُهُۥ مِن قِبَلِهِ ٱلْعَذَابُ
+    arabicPlain: يوم يقول المنافقون والمنافقات للذين آمنوا انظرونا نقتبس من نوركم قيل ارجعوا وراءكم فالتمسوا نورا فضرب بينهم بسور له باب باطنه فيه الرحمة وظاهره من قبله العذاب
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 473
+    page: 539
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:14'
+    scripture: quran
+    name: Quran 57:14
+    chapter: 57
+    verse: 14
+    ordinal: 5089
+    text: 'They will cry unto them (saying): Were we not with you? They will say: Yea, verily; but ye tempted one another, and hesitated, and doubted, and vain desires beguiled you till the ordinance of Allah came to pass; and the deceiver deceived you concerning Allah;'
+    translation: Pickthall
+    original: يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ ۖ قَالُوا۟ بَلَىٰ وَلَـٰكِنَّكُمْ فَتَنتُمْ أَنفُسَكُمْ وَتَرَبَّصْتُمْ وَٱرْتَبْتُمْ وَغَرَّتْكُمُ ٱلْأَمَانِىُّ حَتَّىٰ جَآءَ أَمْرُ ٱللَّهِ وَغَرَّكُم بِٱللَّهِ ٱلْغَرُورُ
+    arabicPlain: ينادونهم ألم نكن معكم ۖ قالوا بلى ولكنكم فتنتم أنفسكم وتربصتم وارتبتم وغرتكم الأماني حتى جاء أمر الله وغركم بالله الغرور
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 473
+    page: 539
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:15'
+    scripture: quran
+    name: Quran 57:15
+    chapter: 57
+    verse: 15
+    ordinal: 5090
+    text: So this day no ransom can be taken from you nor from those who disbelieved. Your home is the Fire; that is your patron, and a hapless journey's end.
+    translation: Pickthall
+    original: فَٱلْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلَا مِنَ ٱلَّذِينَ كَفَرُوا۟ ۚ مَأْوَىٰكُمُ ٱلنَّارُ ۖ هِىَ مَوْلَىٰكُمْ ۖ وَبِئْسَ ٱلْمَصِيرُ
+    arabicPlain: فاليوم لا يؤخذ منكم فدية ولا من الذين كفروا ۚ مأواكم النار ۖ هي مولاكم ۖ وبئس المصير
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 473
+    page: 539
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:16'
+    scripture: quran
+    name: Quran 57:16
+    chapter: 57
+    verse: 16
+    ordinal: 5091
+    text: Is not the time ripe for the hearts of those who believe to submit to Allah's reminder and to the truth which is revealed, that they become not as those who received the scripture of old but the term was prolonged for them and so their hearts were hardened, and many of them are evil-livers.
+    translation: Pickthall
+    original: ۞ أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ ۖ وَكَثِيرٌ مِّنْهُمْ فَـٰسِقُونَ
+    arabicPlain: ۞ ألم يأن للذين آمنوا أن تخشع قلوبهم لذكر الله وما نزل من الحق ولا يكونوا كالذين أوتوا الكتاب من قبل فطال عليهم الأمد فقست قلوبهم ۖ وكثير منهم فاسقون
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 473
+    page: 539
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:17'
+    scripture: quran
+    name: Quran 57:17
+    chapter: 57
+    verse: 17
+    ordinal: 5092
+    text: Know that Allah quickeneth the earth after its death. We have made clear Our revelations for you, that haply ye may understand.
+    translation: Pickthall
+    original: ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَعْقِلُونَ
+    arabicPlain: اعلموا أن الله يحيي الأرض بعد موتها ۚ قد بينا لكم الآيات لعلكم تعقلون
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 473
+    page: 539
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:18'
+    scripture: quran
+    name: Quran 57:18
+    chapter: 57
+    verse: 18
+    ordinal: 5093
+    text: Lo! those who give alms, both men and women, and lend unto Allah a goodly loan, it will be doubled for them, and theirs will be a rich reward.
+    translation: Pickthall
+    original: إِنَّ ٱلْمُصَّدِّقِينَ وَٱلْمُصَّدِّقَـٰتِ وَأَقْرَضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَـٰعَفُ لَهُمْ وَلَهُمْ أَجْرٌ كَرِيمٌ
+    arabicPlain: إن المصدقين والمصدقات وأقرضوا الله قرضا حسنا يضاعف لهم ولهم أجر كريم
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 473
+    page: 539
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:19'
+    scripture: quran
+    name: Quran 57:19
+    chapter: 57
+    verse: 19
+    ordinal: 5094
+    text: And those who believe in Allah and His messengers, they are the loyal, and the martyrs are with their Lord; they have their reward and their light; while as for those who disbelieve and deny Our revelations, they are owners of hell-fire.
+    translation: Pickthall
+    original: وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَـٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ ۖ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ ۖ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ
+    arabicPlain: والذين آمنوا بالله ورسله أولئك هم الصديقون ۖ والشهداء عند ربهم لهم أجرهم ونورهم ۖ والذين كفروا وكذبوا بآياتنا أولئك أصحاب الجحيم
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 473
+    page: 540
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:20'
+    scripture: quran
+    name: Quran 57:20
+    chapter: 57
+    verse: 20
+    ordinal: 5095
+    text: Know that the life of the world is only play, and idle talk, and pageantry, and boasting among you, and rivalry in respect of wealth and children; as the likeness of vegetation after rain, whereof the growth is pleasing to the husbandman, but afterward it drieth up and thou seest it turning yellow, then it becometh straw. And in the Hereafter there is grievous punishment, and (also) forgiveness from Allah and His good pleasure, whereas the life of the world is but matter of illusion.
+    translation: Pickthall
+    original: ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَـٰدِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَـٰمًا ۖ وَفِى ٱلْـَٔاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرِضْوَٰنٌ ۚ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ
+    arabicPlain: اعلموا أنما الحياة الدنيا لعب ولهو وزينة وتفاخر بينكم وتكاثر في الأموال والأولاد ۖ كمثل غيث أعجب الكفار نباته ثم يهيج فتراه مصفرا ثم يكون حطاما ۖ وفي الآخرة عذاب شديد ومغفرة من الله ورضوان ۚ وما الحياة الدنيا إلا متاع الغرور
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 474
+    page: 540
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:21'
+    scripture: quran
+    name: Quran 57:21
+    chapter: 57
+    verse: 21
+    ordinal: 5096
+    text: Race one with another for forgiveness from your Lord and a Garden whereof the breadth is as the breadth of the heavens and the earth, which is in store for those who believe in Allah and His messengers. Such is the bounty of Allah, which He bestoweth upon whom He will, and Allah is of Infinite Bounty.
+    translation: Pickthall
+    original: سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+    arabicPlain: سابقوا إلى مغفرة من ربكم وجنة عرضها كعرض السماء والأرض أعدت للذين آمنوا بالله ورسله ۚ ذلك فضل الله يؤتيه من يشاء ۚ والله ذو الفضل العظيم
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 474
+    page: 540
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:22'
+    scripture: quran
+    name: Quran 57:22
+    chapter: 57
+    verse: 22
+    ordinal: 5097
+    text: Naught of disaster befalleth in the earth or in yourselves but it is in a Book before we bring it into being - Lo! that is easy for Allah -
+    translation: Pickthall
+    original: مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَـٰبٍ مِّن قَبْلِ أَن نَّبْرَأَهَآ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
+    arabicPlain: ما أصاب من مصيبة في الأرض ولا في أنفسكم إلا في كتاب من قبل أن نبرأها ۚ إن ذلك على الله يسير
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 474
+    page: 540
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:23'
+    scripture: quran
+    name: Quran 57:23
+    chapter: 57
+    verse: 23
+    ordinal: 5098
+    text: That ye grieve not for the sake of that which hath escaped you, nor yet exult because of that which hath been given. Allah loveth not all prideful boasters,
+    translation: Pickthall
+    original: لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ ۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
+    arabicPlain: لكيلا تأسوا على ما فاتكم ولا تفرحوا بما آتاكم ۗ والله لا يحب كل مختال فخور
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 474
+    page: 540
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:24'
+    scripture: quran
+    name: Quran 57:24
+    chapter: 57
+    verse: 24
+    ordinal: 5099
+    text: Who hoard and who enjoin upon the people avarice. And whosoever turneth away, still Allah is the Absolute, the Owner of Praise.
+    translation: Pickthall
+    original: ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ ۗ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
+    arabicPlain: الذين يبخلون ويأمرون الناس بالبخل ۗ ومن يتول فإن الله هو الغني الحميد
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 474
+    page: 540
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:25'
+    scripture: quran
+    name: Quran 57:25
+    chapter: 57
+    verse: 25
+    ordinal: 5100
+    text: We verily sent Our messengers with clear proofs, and revealed with them the Scripture and the Balance, that mankind may observe right measure; and He revealed iron, wherein is mighty power and (many) uses for mankind, and that Allah may know him who helpeth Him and His messengers, though unseen. Lo! Allah is Strong, Almighty.
+    translation: Pickthall
+    original: لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَـٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَـٰبَ وَٱلْمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ ۖ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَـٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
+    arabicPlain: لقد أرسلنا رسلنا بالبينات وأنزلنا معهم الكتاب والميزان ليقوم الناس بالقسط ۖ وأنزلنا الحديد فيه بأس شديد ومنافع للناس وليعلم الله من ينصره ورسله بالغيب ۚ إن الله قوي عزيز
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 474
+    page: 541
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:26'
+    scripture: quran
+    name: Quran 57:26
+    chapter: 57
+    verse: 26
+    ordinal: 5101
+    text: And We verily sent Noah and Abraham and placed the prophethood and the scripture among their seed, and among them there is he who goeth right, but many of them are evil-livers.
+    translation: Pickthall
+    original: وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلْكِتَـٰبَ ۖ فَمِنْهُم مُّهْتَدٍ ۖ وَكَثِيرٌ مِّنْهُمْ فَـٰسِقُونَ
+    arabicPlain: ولقد أرسلنا نوحا وإبراهيم وجعلنا في ذريتهما النبوة والكتاب ۖ فمنهم مهتد ۖ وكثير منهم فاسقون
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 475
+    page: 541
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:27'
+    scripture: quran
+    name: Quran 57:27
+    chapter: 57
+    verse: 27
+    ordinal: 5102
+    text: Then We caused Our messengers to follow in their footsteps; and We caused Jesus, son of Mary, to follow, and gave him the Gospel, and placed compassion and mercy in the hearts of those who followed him. But monasticism they invented - We ordained it not for them - only seeking Allah's pleasure, and they observed it not with right observance. So We give those of them who believe their reward, but many of them are evil-livers.
+    translation: Pickthall
+    original: ثُمَّ قَفَّيْنَا عَلَىٰٓ ءَاثَـٰرِهِم بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ٱبْنِ مَرْيَمَ وَءَاتَيْنَـٰهُ ٱلْإِنجِيلَ وَجَعَلْنَا فِى قُلُوبِ ٱلَّذِينَ ٱتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً ٱبْتَدَعُوهَا مَا كَتَبْنَـٰهَا عَلَيْهِمْ إِلَّا ٱبْتِغَآءَ رِضْوَٰنِ ٱللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا ۖ فَـَٔاتَيْنَا ٱلَّذِينَ ءَامَنُوا۟ مِنْهُمْ أَجْرَهُمْ ۖ وَكَثِيرٌ مِّنْهُمْ فَـٰسِقُونَ
+    arabicPlain: ثم قفينا على آثارهم برسلنا وقفينا بعيسى ابن مريم وآتيناه الإنجيل وجعلنا في قلوب الذين اتبعوه رأفة ورحمة ورهبانية ابتدعوها ما كتبناها عليهم إلا ابتغاء رضوان الله فما رعوها حق رعايتها ۖ فآتينا الذين آمنوا منهم أجرهم ۖ وكثير منهم فاسقون
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 475
+    page: 541
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:28'
+    scripture: quran
+    name: Quran 57:28
+    chapter: 57
+    verse: 28
+    ordinal: 5103
+    text: O ye who believe! Be mindful of your duty to Allah and put faith in His messenger. He will give you twofold of His mercy and will appoint for you a light wherein ye shall walk, and will forgive you. Allah is Forgiving, Merciful;
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَءَامِنُوا۟ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+    arabicPlain: يا أيها الذين آمنوا اتقوا الله وآمنوا برسوله يؤتكم كفلين من رحمته ويجعل لكم نورا تمشون به ويغفر لكم ۚ والله غفور رحيم
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 475
+    page: 541
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '57:29'
+    scripture: quran
+    name: Quran 57:29
+    chapter: 57
+    verse: 29
+    ordinal: 5104
+    text: That the People of the Scripture may know that they control naught of the bounty of Allah, but that the bounty is in Allah's hand to give to whom He will. And Allah is of Infinite Bounty.
+    translation: Pickthall
+    original: لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَـٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ ۙ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+    arabicPlain: لئلا يعلم أهل الكتاب ألا يقدرون على شيء من فضل الله ۙ وأن الفضل بيد الله يؤتيه من يشاء ۚ والله ذو الفضل العظيم
+    surahName: Al-Hadid
+    juz: 27
+    manzil: 7
+    ruku: 475
+    page: 541
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '57'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27

@@ -1,0 +1,1259 @@
+# Every ayah of Surah An-Naazi'aat (Those who drag forth): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '79:1'
+    scripture: quran
+    name: Quran 79:1
+    chapter: 79
+    verse: 1
+    ordinal: 5713
+    text: By those who drag forth to destruction,
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلنَّـٰزِعَـٰتِ غَرْقًا
+    arabicPlain: بسم الله الرحمن الرحيم والنازعات غرقا
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:2'
+    scripture: quran
+    name: Quran 79:2
+    chapter: 79
+    verse: 2
+    ordinal: 5714
+    text: By the meteors rushing,
+    translation: Pickthall
+    original: وَٱلنَّـٰشِطَـٰتِ نَشْطًا
+    arabicPlain: والناشطات نشطا
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:3'
+    scripture: quran
+    name: Quran 79:3
+    chapter: 79
+    verse: 3
+    ordinal: 5715
+    text: By the lone stars floating,
+    translation: Pickthall
+    original: وَٱلسَّـٰبِحَـٰتِ سَبْحًا
+    arabicPlain: والسابحات سبحا
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:4'
+    scripture: quran
+    name: Quran 79:4
+    chapter: 79
+    verse: 4
+    ordinal: 5716
+    text: By the angels hastening,
+    translation: Pickthall
+    original: فَٱلسَّـٰبِقَـٰتِ سَبْقًا
+    arabicPlain: فالسابقات سبقا
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:5'
+    scripture: quran
+    name: Quran 79:5
+    chapter: 79
+    verse: 5
+    ordinal: 5717
+    text: And those who govern the event,
+    translation: Pickthall
+    original: فَٱلْمُدَبِّرَٰتِ أَمْرًا
+    arabicPlain: فالمدبرات أمرا
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:6'
+    scripture: quran
+    name: Quran 79:6
+    chapter: 79
+    verse: 6
+    ordinal: 5718
+    text: On the day when the first trump resoundeth.
+    translation: Pickthall
+    original: يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ
+    arabicPlain: يوم ترجف الراجفة
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:7'
+    scripture: quran
+    name: Quran 79:7
+    chapter: 79
+    verse: 7
+    ordinal: 5719
+    text: And the second followeth it,
+    translation: Pickthall
+    original: تَتْبَعُهَا ٱلرَّادِفَةُ
+    arabicPlain: تتبعها الرادفة
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:8'
+    scripture: quran
+    name: Quran 79:8
+    chapter: 79
+    verse: 8
+    ordinal: 5720
+    text: On that day hearts beat painfully
+    translation: Pickthall
+    original: قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ
+    arabicPlain: قلوب يومئذ واجفة
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:9'
+    scripture: quran
+    name: Quran 79:9
+    chapter: 79
+    verse: 9
+    ordinal: 5721
+    text: While eyes are downcast
+    translation: Pickthall
+    original: أَبْصَـٰرُهَا خَـٰشِعَةٌ
+    arabicPlain: أبصارها خاشعة
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:10'
+    scripture: quran
+    name: Quran 79:10
+    chapter: 79
+    verse: 10
+    ordinal: 5722
+    text: '(Now) they are saying: Shall we really be restored to our first state'
+    translation: Pickthall
+    original: يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ
+    arabicPlain: يقولون أإنا لمردودون في الحافرة
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:11'
+    scripture: quran
+    name: Quran 79:11
+    chapter: 79
+    verse: 11
+    ordinal: 5723
+    text: Even after we are crumbled bones?
+    translation: Pickthall
+    original: أَءِذَا كُنَّا عِظَـٰمًا نَّخِرَةً
+    arabicPlain: أإذا كنا عظاما نخرة
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:12'
+    scripture: quran
+    name: Quran 79:12
+    chapter: 79
+    verse: 12
+    ordinal: 5724
+    text: 'They say: Then that would be a vain proceeding.'
+    translation: Pickthall
+    original: قَالُوا۟ تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ
+    arabicPlain: قالوا تلك إذا كرة خاسرة
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:13'
+    scripture: quran
+    name: Quran 79:13
+    chapter: 79
+    verse: 13
+    ordinal: 5725
+    text: Surely it will need but one shout,
+    translation: Pickthall
+    original: فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ
+    arabicPlain: فإنما هي زجرة واحدة
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:14'
+    scripture: quran
+    name: Quran 79:14
+    chapter: 79
+    verse: 14
+    ordinal: 5726
+    text: And lo! they will be awakened.
+    translation: Pickthall
+    original: فَإِذَا هُم بِٱلسَّاهِرَةِ
+    arabicPlain: فإذا هم بالساهرة
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:15'
+    scripture: quran
+    name: Quran 79:15
+    chapter: 79
+    verse: 15
+    ordinal: 5727
+    text: Hath there come unto thee the history of Moses?
+    translation: Pickthall
+    original: هَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ
+    arabicPlain: هل أتاك حديث موسى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 583
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:16'
+    scripture: quran
+    name: Quran 79:16
+    chapter: 79
+    verse: 16
+    ordinal: 5728
+    text: How his Lord called him in the holy vale of Tuwa,
+    translation: Pickthall
+    original: إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى
+    arabicPlain: إذ ناداه ربه بالواد المقدس طوى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:17'
+    scripture: quran
+    name: Quran 79:17
+    chapter: 79
+    verse: 17
+    ordinal: 5729
+    text: (Saying:) Go thou unto Pharaoh - Lo! he hath rebelled -
+    translation: Pickthall
+    original: ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
+    arabicPlain: اذهب إلى فرعون إنه طغى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:18'
+    scripture: quran
+    name: Quran 79:18
+    chapter: 79
+    verse: 18
+    ordinal: 5730
+    text: 'And say (unto him): Hast thou (will) to grow (in grace)?'
+    translation: Pickthall
+    original: فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ
+    arabicPlain: فقل هل لك إلى أن تزكى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:19'
+    scripture: quran
+    name: Quran 79:19
+    chapter: 79
+    verse: 19
+    ordinal: 5731
+    text: Then I will guide thee to thy Lord and thou shalt fear (Him).
+    translation: Pickthall
+    original: وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ
+    arabicPlain: وأهديك إلى ربك فتخشى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:20'
+    scripture: quran
+    name: Quran 79:20
+    chapter: 79
+    verse: 20
+    ordinal: 5732
+    text: And he showed him the tremendous token.
+    translation: Pickthall
+    original: فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ
+    arabicPlain: فأراه الآية الكبرى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:21'
+    scripture: quran
+    name: Quran 79:21
+    chapter: 79
+    verse: 21
+    ordinal: 5733
+    text: But he denied and disobeyed,
+    translation: Pickthall
+    original: فَكَذَّبَ وَعَصَىٰ
+    arabicPlain: فكذب وعصى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:22'
+    scripture: quran
+    name: Quran 79:22
+    chapter: 79
+    verse: 22
+    ordinal: 5734
+    text: Then turned he away in haste,
+    translation: Pickthall
+    original: ثُمَّ أَدْبَرَ يَسْعَىٰ
+    arabicPlain: ثم أدبر يسعى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:23'
+    scripture: quran
+    name: Quran 79:23
+    chapter: 79
+    verse: 23
+    ordinal: 5735
+    text: Then gathered he and summoned
+    translation: Pickthall
+    original: فَحَشَرَ فَنَادَىٰ
+    arabicPlain: فحشر فنادى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:24'
+    scripture: quran
+    name: Quran 79:24
+    chapter: 79
+    verse: 24
+    ordinal: 5736
+    text: 'And proclaimed: "I (Pharaoh) am your Lord the Highest."'
+    translation: Pickthall
+    original: فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ
+    arabicPlain: فقال أنا ربكم الأعلى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:25'
+    scripture: quran
+    name: Quran 79:25
+    chapter: 79
+    verse: 25
+    ordinal: 5737
+    text: So Allah seized him (and made him) an example for the after (life) and for the former.
+    translation: Pickthall
+    original: فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْـَٔاخِرَةِ وَٱلْأُولَىٰٓ
+    arabicPlain: فأخذه الله نكال الآخرة والأولى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:26'
+    scripture: quran
+    name: Quran 79:26
+    chapter: 79
+    verse: 26
+    ordinal: 5738
+    text: Lo! herein is indeed a lesson for him who feareth.
+    translation: Pickthall
+    original: إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰٓ
+    arabicPlain: إن في ذلك لعبرة لمن يخشى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 520
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:27'
+    scripture: quran
+    name: Quran 79:27
+    chapter: 79
+    verse: 27
+    ordinal: 5739
+    text: Are ye the harder to create, or is the heaven that He built?
+    translation: Pickthall
+    original: ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ ۚ بَنَىٰهَا
+    arabicPlain: أأنتم أشد خلقا أم السماء ۚ بناها
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:28'
+    scripture: quran
+    name: Quran 79:28
+    chapter: 79
+    verse: 28
+    ordinal: 5740
+    text: He raised the height thereof and ordered it;
+    translation: Pickthall
+    original: رَفَعَ سَمْكَهَا فَسَوَّىٰهَا
+    arabicPlain: رفع سمكها فسواها
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:29'
+    scripture: quran
+    name: Quran 79:29
+    chapter: 79
+    verse: 29
+    ordinal: 5741
+    text: And He made dark the night thereof, and He brought forth the morn thereof.
+    translation: Pickthall
+    original: وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا
+    arabicPlain: وأغطش ليلها وأخرج ضحاها
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:30'
+    scripture: quran
+    name: Quran 79:30
+    chapter: 79
+    verse: 30
+    ordinal: 5742
+    text: And after that He spread the earth,
+    translation: Pickthall
+    original: وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ
+    arabicPlain: والأرض بعد ذلك دحاها
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:31'
+    scripture: quran
+    name: Quran 79:31
+    chapter: 79
+    verse: 31
+    ordinal: 5743
+    text: And produced therefrom the water thereof and the pasture thereof,
+    translation: Pickthall
+    original: أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا
+    arabicPlain: أخرج منها ماءها ومرعاها
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:32'
+    scripture: quran
+    name: Quran 79:32
+    chapter: 79
+    verse: 32
+    ordinal: 5744
+    text: And He made fast the hills,
+    translation: Pickthall
+    original: وَٱلْجِبَالَ أَرْسَىٰهَا
+    arabicPlain: والجبال أرساها
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:33'
+    scripture: quran
+    name: Quran 79:33
+    chapter: 79
+    verse: 33
+    ordinal: 5745
+    text: A provision for you and for your cattle.
+    translation: Pickthall
+    original: مَتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ
+    arabicPlain: متاعا لكم ولأنعامكم
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:34'
+    scripture: quran
+    name: Quran 79:34
+    chapter: 79
+    verse: 34
+    ordinal: 5746
+    text: But when the great disaster cometh,
+    translation: Pickthall
+    original: فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ
+    arabicPlain: فإذا جاءت الطامة الكبرى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:35'
+    scripture: quran
+    name: Quran 79:35
+    chapter: 79
+    verse: 35
+    ordinal: 5747
+    text: The day when man will call to mind his (whole) endeavour,
+    translation: Pickthall
+    original: يَوْمَ يَتَذَكَّرُ ٱلْإِنسَـٰنُ مَا سَعَىٰ
+    arabicPlain: يوم يتذكر الإنسان ما سعى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:36'
+    scripture: quran
+    name: Quran 79:36
+    chapter: 79
+    verse: 36
+    ordinal: 5748
+    text: And hell will stand forth visible to him who seeth,
+    translation: Pickthall
+    original: وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ
+    arabicPlain: وبرزت الجحيم لمن يرى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:37'
+    scripture: quran
+    name: Quran 79:37
+    chapter: 79
+    verse: 37
+    ordinal: 5749
+    text: Then, as for him who rebelled
+    translation: Pickthall
+    original: فَأَمَّا مَن طَغَىٰ
+    arabicPlain: فأما من طغى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:38'
+    scripture: quran
+    name: Quran 79:38
+    chapter: 79
+    verse: 38
+    ordinal: 5750
+    text: And chose the life of the world,
+    translation: Pickthall
+    original: وَءَاثَرَ ٱلْحَيَوٰةَ ٱلدُّنْيَا
+    arabicPlain: وآثر الحياة الدنيا
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:39'
+    scripture: quran
+    name: Quran 79:39
+    chapter: 79
+    verse: 39
+    ordinal: 5751
+    text: Lo! hell will be his home.
+    translation: Pickthall
+    original: فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ
+    arabicPlain: فإن الجحيم هي المأوى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:40'
+    scripture: quran
+    name: Quran 79:40
+    chapter: 79
+    verse: 40
+    ordinal: 5752
+    text: But as for him who feared to stand before his Lord and restrained his soul from lust,
+    translation: Pickthall
+    original: وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ
+    arabicPlain: وأما من خاف مقام ربه ونهى النفس عن الهوى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:41'
+    scripture: quran
+    name: Quran 79:41
+    chapter: 79
+    verse: 41
+    ordinal: 5753
+    text: Lo! the Garden will be his home.
+    translation: Pickthall
+    original: فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ
+    arabicPlain: فإن الجنة هي المأوى
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:42'
+    scripture: quran
+    name: Quran 79:42
+    chapter: 79
+    verse: 42
+    ordinal: 5754
+    text: 'They ask thee of the Hour: when will it come to port?'
+    translation: Pickthall
+    original: يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا
+    arabicPlain: يسألونك عن الساعة أيان مرساها
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:43'
+    scripture: quran
+    name: Quran 79:43
+    chapter: 79
+    verse: 43
+    ordinal: 5755
+    text: Why (ask they)? What hast thou to tell thereof?
+    translation: Pickthall
+    original: فِيمَ أَنتَ مِن ذِكْرَىٰهَآ
+    arabicPlain: فيم أنت من ذكراها
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:44'
+    scripture: quran
+    name: Quran 79:44
+    chapter: 79
+    verse: 44
+    ordinal: 5756
+    text: Unto thy Lord belongeth (knowledge of) the term thereof.
+    translation: Pickthall
+    original: إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ
+    arabicPlain: إلى ربك منتهاها
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:45'
+    scripture: quran
+    name: Quran 79:45
+    chapter: 79
+    verse: 45
+    ordinal: 5757
+    text: Thou art but a warner unto him who feareth it.
+    translation: Pickthall
+    original: إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا
+    arabicPlain: إنما أنت منذر من يخشاها
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '79:46'
+    scripture: quran
+    name: Quran 79:46
+    chapter: 79
+    verse: 46
+    ordinal: 5758
+    text: On the day when they behold it, it will be as if they had but tarried for an evening or the morn thereof.
+    translation: Pickthall
+    original: كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا
+    arabicPlain: كأنهم يوم يرونها لم يلبثوا إلا عشية أو ضحاها
+    surahName: An-Naazi'aat
+    juz: 30
+    manzil: 7
+    ruku: 521
+    page: 584
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '79'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

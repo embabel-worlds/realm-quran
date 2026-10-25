@@ -1,0 +1,869 @@
+# Every ayah of Surah Al-Insaan (Man): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '76:1'
+    scripture: quran
+    name: Quran 76:1
+    chapter: 76
+    verse: 1
+    ordinal: 5592
+    text: Hath there come upon man (ever) any period of time in which he was a thing unremembered?
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا
+    arabicPlain: بسم الله الرحمن الرحيم هل أتى على الإنسان حين من الدهر لم يكن شيئا مذكورا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 578
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:2'
+    scripture: quran
+    name: Quran 76:2
+    chapter: 76
+    verse: 2
+    ordinal: 5593
+    text: Lo! We create man from a drop of thickened fluid to test him; so We make him hearing, knowing.
+    translation: Pickthall
+    original: إِنَّا خَلَقْنَا ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَـٰهُ سَمِيعًۢا بَصِيرًا
+    arabicPlain: إنا خلقنا الإنسان من نطفة أمشاج نبتليه فجعلناه سميعا بصيرا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 578
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:3'
+    scripture: quran
+    name: Quran 76:3
+    chapter: 76
+    verse: 3
+    ordinal: 5594
+    text: Lo! We have shown him the way, whether he be grateful or disbelieving.
+    translation: Pickthall
+    original: إِنَّا هَدَيْنَـٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
+    arabicPlain: إنا هديناه السبيل إما شاكرا وإما كفورا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 578
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:4'
+    scripture: quran
+    name: Quran 76:4
+    chapter: 76
+    verse: 4
+    ordinal: 5595
+    text: Lo! We have prepared for disbelievers manacles and carcans and a raging fire.
+    translation: Pickthall
+    original: إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًا وَسَعِيرًا
+    arabicPlain: إنا أعتدنا للكافرين سلاسل وأغلالا وسعيرا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 578
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:5'
+    scripture: quran
+    name: Quran 76:5
+    chapter: 76
+    verse: 5
+    ordinal: 5596
+    text: Lo! the righteous shall drink of a cup whereof the mixture is of Kafur,
+    translation: Pickthall
+    original: إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا
+    arabicPlain: إن الأبرار يشربون من كأس كان مزاجها كافورا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 578
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:6'
+    scripture: quran
+    name: Quran 76:6
+    chapter: 76
+    verse: 6
+    ordinal: 5597
+    text: A spring wherefrom the slaves of Allah drink, making it gush forth abundantly,
+    translation: Pickthall
+    original: عَيْنًا يَشْرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا
+    arabicPlain: عينا يشرب بها عباد الله يفجرونها تفجيرا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:7'
+    scripture: quran
+    name: Quran 76:7
+    chapter: 76
+    verse: 7
+    ordinal: 5598
+    text: (Because) they perform the vow and fear a day whereof the evil is wide-spreading,
+    translation: Pickthall
+    original: يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا
+    arabicPlain: يوفون بالنذر ويخافون يوما كان شره مستطيرا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:8'
+    scripture: quran
+    name: Quran 76:8
+    chapter: 76
+    verse: 8
+    ordinal: 5599
+    text: And feed with food the needy wretch, the orphan and the prisoner, for love of Him,
+    translation: Pickthall
+    original: وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا
+    arabicPlain: ويطعمون الطعام على حبه مسكينا ويتيما وأسيرا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:9'
+    scripture: quran
+    name: Quran 76:9
+    chapter: 76
+    verse: 9
+    ordinal: 5600
+    text: '(Saying): We feed you, for the sake of Allah only. We wish for no reward nor thanks from you;'
+    translation: Pickthall
+    original: إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا
+    arabicPlain: إنما نطعمكم لوجه الله لا نريد منكم جزاء ولا شكورا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:10'
+    scripture: quran
+    name: Quran 76:10
+    chapter: 76
+    verse: 10
+    ordinal: 5601
+    text: Lo! we fear from our Lord a day of frowning and of fate.
+    translation: Pickthall
+    original: إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا
+    arabicPlain: إنا نخاف من ربنا يوما عبوسا قمطريرا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:11'
+    scripture: quran
+    name: Quran 76:11
+    chapter: 76
+    verse: 11
+    ordinal: 5602
+    text: Therefor Allah hath warded off from them the evil of that day, and hath made them find brightness and joy;
+    translation: Pickthall
+    original: فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلْيَوْمِ وَلَقَّىٰهُمْ نَضْرَةً وَسُرُورًا
+    arabicPlain: فوقاهم الله شر ذلك اليوم ولقاهم نضرة وسرورا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:12'
+    scripture: quran
+    name: Quran 76:12
+    chapter: 76
+    verse: 12
+    ordinal: 5603
+    text: And hath awarded them for all that they endured, a Garden and silk attire;
+    translation: Pickthall
+    original: وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةً وَحَرِيرًا
+    arabicPlain: وجزاهم بما صبروا جنة وحريرا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:13'
+    scripture: quran
+    name: Quran 76:13
+    chapter: 76
+    verse: 13
+    ordinal: 5604
+    text: Reclining therein upon couches, they will find there neither (heat of) a sun nor bitter cold.
+    translation: Pickthall
+    original: مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا
+    arabicPlain: متكئين فيها على الأرائك ۖ لا يرون فيها شمسا ولا زمهريرا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:14'
+    scripture: quran
+    name: Quran 76:14
+    chapter: 76
+    verse: 14
+    ordinal: 5605
+    text: The shade thereof is close upon them and the clustered fruits thereof bow down.
+    translation: Pickthall
+    original: وَدَانِيَةً عَلَيْهِمْ ظِلَـٰلُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا
+    arabicPlain: ودانية عليهم ظلالها وذللت قطوفها تذليلا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:15'
+    scripture: quran
+    name: Quran 76:15
+    chapter: 76
+    verse: 15
+    ordinal: 5606
+    text: Goblets of silver are brought round for them, and beakers (as) of glass
+    translation: Pickthall
+    original: وَيُطَافُ عَلَيْهِم بِـَٔانِيَةٍ مِّن فِضَّةٍ وَأَكْوَابٍ كَانَتْ قَوَارِيرَا۠
+    arabicPlain: ويطاف عليهم بآنية من فضة وأكواب كانت قواريرا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:16'
+    scripture: quran
+    name: Quran 76:16
+    chapter: 76
+    verse: 16
+    ordinal: 5607
+    text: (Bright as) glass but (made) of silver, which they (themselves) have measured to the measure (of their deeds).
+    translation: Pickthall
+    original: قَوَارِيرَا۟ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا
+    arabicPlain: قوارير من فضة قدروها تقديرا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:17'
+    scripture: quran
+    name: Quran 76:17
+    chapter: 76
+    verse: 17
+    ordinal: 5608
+    text: There are they watered with a cup whereof the mixture is of Zanjabil,
+    translation: Pickthall
+    original: وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنجَبِيلًا
+    arabicPlain: ويسقون فيها كأسا كان مزاجها زنجبيلا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:18'
+    scripture: quran
+    name: Quran 76:18
+    chapter: 76
+    verse: 18
+    ordinal: 5609
+    text: (The water of) a spring therein, named Salsabil.
+    translation: Pickthall
+    original: عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا
+    arabicPlain: عينا فيها تسمى سلسبيلا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:19'
+    scripture: quran
+    name: Quran 76:19
+    chapter: 76
+    verse: 19
+    ordinal: 5610
+    text: There wait on them immortal youths, whom, when thou seest, thou wouldst take for scattered pearls.
+    translation: Pickthall
+    original: ۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا
+    arabicPlain: ۞ ويطوف عليهم ولدان مخلدون إذا رأيتهم حسبتهم لؤلؤا منثورا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:20'
+    scripture: quran
+    name: Quran 76:20
+    chapter: 76
+    verse: 20
+    ordinal: 5611
+    text: When thou seest, thou wilt see there bliss and high estate.
+    translation: Pickthall
+    original: وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًا وَمُلْكًا كَبِيرًا
+    arabicPlain: وإذا رأيت ثم رأيت نعيما وملكا كبيرا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:21'
+    scripture: quran
+    name: Quran 76:21
+    chapter: 76
+    verse: 21
+    ordinal: 5612
+    text: Their raiment will be fine green silk and gold embroidery. Bracelets of silver will they wear. Their Lord will slake their thirst with a pure drink.
+    translation: Pickthall
+    original: عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًا طَهُورًا
+    arabicPlain: عاليهم ثياب سندس خضر وإستبرق ۖ وحلوا أساور من فضة وسقاهم ربهم شرابا طهورا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:22'
+    scripture: quran
+    name: Quran 76:22
+    chapter: 76
+    verse: 22
+    ordinal: 5613
+    text: '(And it will be said unto them): Lo! this is a reward for you. Your endeavour (upon earth) hath found acceptance.'
+    translation: Pickthall
+    original: إِنَّ هَـٰذَا كَانَ لَكُمْ جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا
+    arabicPlain: إن هذا كان لكم جزاء وكان سعيكم مشكورا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 514
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:23'
+    scripture: quran
+    name: Quran 76:23
+    chapter: 76
+    verse: 23
+    ordinal: 5614
+    text: Lo! We, even We, have revealed unto thee the Qur'an, a revelation;
+    translation: Pickthall
+    original: إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ ٱلْقُرْءَانَ تَنزِيلًا
+    arabicPlain: إنا نحن نزلنا عليك القرآن تنزيلا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 515
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:24'
+    scripture: quran
+    name: Quran 76:24
+    chapter: 76
+    verse: 24
+    ordinal: 5615
+    text: So submit patiently to thy Lord's command, and obey not of them any guilty one or disbeliever.
+    translation: Pickthall
+    original: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًا
+    arabicPlain: فاصبر لحكم ربك ولا تطع منهم آثما أو كفورا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 515
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:25'
+    scripture: quran
+    name: Quran 76:25
+    chapter: 76
+    verse: 25
+    ordinal: 5616
+    text: Remember the name of thy Lord at morn and evening.
+    translation: Pickthall
+    original: وَٱذْكُرِ ٱسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا
+    arabicPlain: واذكر اسم ربك بكرة وأصيلا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 515
+    page: 579
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:26'
+    scripture: quran
+    name: Quran 76:26
+    chapter: 76
+    verse: 26
+    ordinal: 5617
+    text: And worship Him (a portion) of the night. And glorify Him through the livelong night.
+    translation: Pickthall
+    original: وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا
+    arabicPlain: ومن الليل فاسجد له وسبحه ليلا طويلا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 515
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:27'
+    scripture: quran
+    name: Quran 76:27
+    chapter: 76
+    verse: 27
+    ordinal: 5618
+    text: Lo! these love fleeting life, and put behind them (the remembrance of) a grievous day.
+    translation: Pickthall
+    original: إِنَّ هَـٰٓؤُلَآءِ يُحِبُّونَ ٱلْعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمْ يَوْمًا ثَقِيلًا
+    arabicPlain: إن هؤلاء يحبون العاجلة ويذرون وراءهم يوما ثقيلا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 515
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:28'
+    scripture: quran
+    name: Quran 76:28
+    chapter: 76
+    verse: 28
+    ordinal: 5619
+    text: We, even We, created them, and strengthened their frame. And when We will, We can replace them, bringing others like them in their stead.
+    translation: Pickthall
+    original: نَّحْنُ خَلَقْنَـٰهُمْ وَشَدَدْنَآ أَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَآ أَمْثَـٰلَهُمْ تَبْدِيلًا
+    arabicPlain: نحن خلقناهم وشددنا أسرهم ۖ وإذا شئنا بدلنا أمثالهم تبديلا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 515
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:29'
+    scripture: quran
+    name: Quran 76:29
+    chapter: 76
+    verse: 29
+    ordinal: 5620
+    text: Lo! this is an Admonishment, that whosoever will may choose a way unto his Lord.
+    translation: Pickthall
+    original: إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا
+    arabicPlain: إن هذه تذكرة ۖ فمن شاء اتخذ إلى ربه سبيلا
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 515
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:30'
+    scripture: quran
+    name: Quran 76:30
+    chapter: 76
+    verse: 30
+    ordinal: 5621
+    text: Yet ye will not, unless Allah willeth. Lo! Allah is Knower, Wise.
+    translation: Pickthall
+    original: وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا
+    arabicPlain: وما تشاءون إلا أن يشاء الله ۚ إن الله كان عليما حكيما
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 515
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '76:31'
+    scripture: quran
+    name: Quran 76:31
+    chapter: 76
+    verse: 31
+    ordinal: 5622
+    text: He maketh whom He will to enter His mercy, and for evil-doers hath prepared a painful doom.
+    translation: Pickthall
+    original: يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًۢا
+    arabicPlain: يدخل من يشاء في رحمته ۚ والظالمين أعد لهم عذابا أليما
+    surahName: Al-Insaan
+    juz: 29
+    manzil: 7
+    ruku: 515
+    page: 580
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '76'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29

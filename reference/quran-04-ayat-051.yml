@@ -1,0 +1,1623 @@
+# Every ayah of Surah Adh-Dhaariyat (The Winnowing Winds): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '51:1'
+    scripture: quran
+    name: Quran 51:1
+    chapter: 51
+    verse: 1
+    ordinal: 4676
+    text: By those that winnow with a winnowing
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلذَّٰرِيَـٰتِ ذَرْوًا
+    arabicPlain: بسم الله الرحمن الرحيم والذاريات ذروا
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:2'
+    scripture: quran
+    name: Quran 51:2
+    chapter: 51
+    verse: 2
+    ordinal: 4677
+    text: And those that bear the burden (of the rain)
+    translation: Pickthall
+    original: فَٱلْحَـٰمِلَـٰتِ وِقْرًا
+    arabicPlain: فالحاملات وقرا
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:3'
+    scripture: quran
+    name: Quran 51:3
+    chapter: 51
+    verse: 3
+    ordinal: 4678
+    text: And those that glide with ease (upon the sea)
+    translation: Pickthall
+    original: فَٱلْجَـٰرِيَـٰتِ يُسْرًا
+    arabicPlain: فالجاريات يسرا
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:4'
+    scripture: quran
+    name: Quran 51:4
+    chapter: 51
+    verse: 4
+    ordinal: 4679
+    text: And those who distribute (blessings) by command,
+    translation: Pickthall
+    original: فَٱلْمُقَسِّمَـٰتِ أَمْرًا
+    arabicPlain: فالمقسمات أمرا
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:5'
+    scripture: quran
+    name: Quran 51:5
+    chapter: 51
+    verse: 5
+    ordinal: 4680
+    text: Lo! that wherewith ye are threatened is indeed true,
+    translation: Pickthall
+    original: إِنَّمَا تُوعَدُونَ لَصَادِقٌ
+    arabicPlain: إنما توعدون لصادق
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:6'
+    scripture: quran
+    name: Quran 51:6
+    chapter: 51
+    verse: 6
+    ordinal: 4681
+    text: And lo! the judgment will indeed befall.
+    translation: Pickthall
+    original: وَإِنَّ ٱلدِّينَ لَوَٰقِعٌ
+    arabicPlain: وإن الدين لواقع
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:7'
+    scripture: quran
+    name: Quran 51:7
+    chapter: 51
+    verse: 7
+    ordinal: 4682
+    text: By the heaven full of paths,
+    translation: Pickthall
+    original: وَٱلسَّمَآءِ ذَاتِ ٱلْحُبُكِ
+    arabicPlain: والسماء ذات الحبك
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:8'
+    scripture: quran
+    name: Quran 51:8
+    chapter: 51
+    verse: 8
+    ordinal: 4683
+    text: Lo! ye, forsooth, are of various opinion (concerning the truth).
+    translation: Pickthall
+    original: إِنَّكُمْ لَفِى قَوْلٍ مُّخْتَلِفٍ
+    arabicPlain: إنكم لفي قول مختلف
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:9'
+    scripture: quran
+    name: Quran 51:9
+    chapter: 51
+    verse: 9
+    ordinal: 4684
+    text: He is made to turn away from it who is (himself) averse.
+    translation: Pickthall
+    original: يُؤْفَكُ عَنْهُ مَنْ أُفِكَ
+    arabicPlain: يؤفك عنه من أفك
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:10'
+    scripture: quran
+    name: Quran 51:10
+    chapter: 51
+    verse: 10
+    ordinal: 4685
+    text: Accursed be the conjecturers
+    translation: Pickthall
+    original: قُتِلَ ٱلْخَرَّٰصُونَ
+    arabicPlain: قتل الخراصون
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:11'
+    scripture: quran
+    name: Quran 51:11
+    chapter: 51
+    verse: 11
+    ordinal: 4686
+    text: Who are careless in an abyss!
+    translation: Pickthall
+    original: ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ
+    arabicPlain: الذين هم في غمرة ساهون
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:12'
+    scripture: quran
+    name: Quran 51:12
+    chapter: 51
+    verse: 12
+    ordinal: 4687
+    text: 'They ask: When is the Day of Judgment?'
+    translation: Pickthall
+    original: يَسْـَٔلُونَ أَيَّانَ يَوْمُ ٱلدِّينِ
+    arabicPlain: يسألون أيان يوم الدين
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:13'
+    scripture: quran
+    name: Quran 51:13
+    chapter: 51
+    verse: 13
+    ordinal: 4688
+    text: (It is) the day when they will be tormented at the Fire,
+    translation: Pickthall
+    original: يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ
+    arabicPlain: يوم هم على النار يفتنون
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:14'
+    scripture: quran
+    name: Quran 51:14
+    chapter: 51
+    verse: 14
+    ordinal: 4689
+    text: '(And it will be said unto them): Taste your torment (which ye inflicted). This is what ye sought to hasten.'
+    translation: Pickthall
+    original: ذُوقُوا۟ فِتْنَتَكُمْ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ
+    arabicPlain: ذوقوا فتنتكم هذا الذي كنتم به تستعجلون
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:15'
+    scripture: quran
+    name: Quran 51:15
+    chapter: 51
+    verse: 15
+    ordinal: 4690
+    text: Lo! those who keep from evil will dwell amid gardens and watersprings,
+    translation: Pickthall
+    original: إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَعُيُونٍ
+    arabicPlain: إن المتقين في جنات وعيون
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:16'
+    scripture: quran
+    name: Quran 51:16
+    chapter: 51
+    verse: 16
+    ordinal: 4691
+    text: Taking that which their Lord giveth them; for lo! aforetime they were doers of good;
+    translation: Pickthall
+    original: ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُحْسِنِينَ
+    arabicPlain: آخذين ما آتاهم ربهم ۚ إنهم كانوا قبل ذلك محسنين
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:17'
+    scripture: quran
+    name: Quran 51:17
+    chapter: 51
+    verse: 17
+    ordinal: 4692
+    text: They used to sleep but little of the night,
+    translation: Pickthall
+    original: كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ
+    arabicPlain: كانوا قليلا من الليل ما يهجعون
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:18'
+    scripture: quran
+    name: Quran 51:18
+    chapter: 51
+    verse: 18
+    ordinal: 4693
+    text: And ere the dawning of each day would seek forgiveness,
+    translation: Pickthall
+    original: وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
+    arabicPlain: وبالأسحار هم يستغفرون
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:19'
+    scripture: quran
+    name: Quran 51:19
+    chapter: 51
+    verse: 19
+    ordinal: 4694
+    text: And in their wealth the beggar and the outcast had due share.
+    translation: Pickthall
+    original: وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ
+    arabicPlain: وفي أموالهم حق للسائل والمحروم
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:20'
+    scripture: quran
+    name: Quran 51:20
+    chapter: 51
+    verse: 20
+    ordinal: 4695
+    text: And in the earth are portents for those whose faith is sure.
+    translation: Pickthall
+    original: وَفِى ٱلْأَرْضِ ءَايَـٰتٌ لِّلْمُوقِنِينَ
+    arabicPlain: وفي الأرض آيات للموقنين
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:21'
+    scripture: quran
+    name: Quran 51:21
+    chapter: 51
+    verse: 21
+    ordinal: 4696
+    text: And (also) in yourselves. Can ye then not see?
+    translation: Pickthall
+    original: وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ
+    arabicPlain: وفي أنفسكم ۚ أفلا تبصرون
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:22'
+    scripture: quran
+    name: Quran 51:22
+    chapter: 51
+    verse: 22
+    ordinal: 4697
+    text: And in the heaven is your providence and that which ye are promised;
+    translation: Pickthall
+    original: وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ
+    arabicPlain: وفي السماء رزقكم وما توعدون
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:23'
+    scripture: quran
+    name: Quran 51:23
+    chapter: 51
+    verse: 23
+    ordinal: 4698
+    text: And by the Lord of the heavens and the earth, it is the truth, even as (it is true) that ye speak.
+    translation: Pickthall
+    original: فَوَرَبِّ ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّهُۥ لَحَقٌّ مِّثْلَ مَآ أَنَّكُمْ تَنطِقُونَ
+    arabicPlain: فورب السماء والأرض إنه لحق مثل ما أنكم تنطقون
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 455
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:24'
+    scripture: quran
+    name: Quran 51:24
+    chapter: 51
+    verse: 24
+    ordinal: 4699
+    text: Hath the story of Abraham's honoured guests reached thee (O Muhammad)?
+    translation: Pickthall
+    original: هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ
+    arabicPlain: هل أتاك حديث ضيف إبراهيم المكرمين
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 456
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:25'
+    scripture: quran
+    name: Quran 51:25
+    chapter: 51
+    verse: 25
+    ordinal: 4700
+    text: 'When they came in unto him and said: Peace! he answered, Peace! (and thought): Folk unknown (to me).'
+    translation: Pickthall
+    original: إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَـٰمًا ۖ قَالَ سَلَـٰمٌ قَوْمٌ مُّنكَرُونَ
+    arabicPlain: إذ دخلوا عليه فقالوا سلاما ۖ قال سلام قوم منكرون
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 456
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:26'
+    scripture: quran
+    name: Quran 51:26
+    chapter: 51
+    verse: 26
+    ordinal: 4701
+    text: Then he went apart unto his housefolk so that they brought a fatted calf;
+    translation: Pickthall
+    original: فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ
+    arabicPlain: فراغ إلى أهله فجاء بعجل سمين
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 456
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:27'
+    scripture: quran
+    name: Quran 51:27
+    chapter: 51
+    verse: 27
+    ordinal: 4702
+    text: 'And he set it before them, saying: Will ye not eat?'
+    translation: Pickthall
+    original: فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
+    arabicPlain: فقربه إليهم قال ألا تأكلون
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 456
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:28'
+    scripture: quran
+    name: Quran 51:28
+    chapter: 51
+    verse: 28
+    ordinal: 4703
+    text: 'Then he conceived a fear of them. They said: Fear not! and gave him tidings of (the birth of) a wise son.'
+    translation: Pickthall
+    original: فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ قَالُوا۟ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَـٰمٍ عَلِيمٍ
+    arabicPlain: فأوجس منهم خيفة ۖ قالوا لا تخف ۖ وبشروه بغلام عليم
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 456
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:29'
+    scripture: quran
+    name: Quran 51:29
+    chapter: 51
+    verse: 29
+    ordinal: 4704
+    text: 'Then his wife came forward, making moan, and smote her face, and cried: A barren old woman!'
+    translation: Pickthall
+    original: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
+    arabicPlain: فأقبلت امرأته في صرة فصكت وجهها وقالت عجوز عقيم
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 456
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:30'
+    scripture: quran
+    name: Quran 51:30
+    chapter: 51
+    verse: 30
+    ordinal: 4705
+    text: 'They said: Even so saith thy Lord. Lo! He is the Wise, the Knower.'
+    translation: Pickthall
+    original: قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ
+    arabicPlain: قالوا كذلك قال ربك ۖ إنه هو الحكيم العليم
+    surahName: Adh-Dhaariyat
+    juz: 26
+    manzil: 7
+    ruku: 456
+    page: 521
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '51:31'
+    scripture: quran
+    name: Quran 51:31
+    chapter: 51
+    verse: 31
+    ordinal: 4706
+    text: '(Abraham) said: And (afterward) what is your errand, O ye sent (from Allah)?'
+    translation: Pickthall
+    original: ۞ قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ
+    arabicPlain: ۞ قال فما خطبكم أيها المرسلون
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:32'
+    scripture: quran
+    name: Quran 51:32
+    chapter: 51
+    verse: 32
+    ordinal: 4707
+    text: 'They said: Lo! we are sent unto a guilty folk,'
+    translation: Pickthall
+    original: قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ
+    arabicPlain: قالوا إنا أرسلنا إلى قوم مجرمين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:33'
+    scripture: quran
+    name: Quran 51:33
+    chapter: 51
+    verse: 33
+    ordinal: 4708
+    text: That we may send upon them stones of clay,
+    translation: Pickthall
+    original: لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ
+    arabicPlain: لنرسل عليهم حجارة من طين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:34'
+    scripture: quran
+    name: Quran 51:34
+    chapter: 51
+    verse: 34
+    ordinal: 4709
+    text: Marked by thy Lord for (the destruction of) the wanton.
+    translation: Pickthall
+    original: مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ
+    arabicPlain: مسومة عند ربك للمسرفين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:35'
+    scripture: quran
+    name: Quran 51:35
+    chapter: 51
+    verse: 35
+    ordinal: 4710
+    text: Then we brought forth such believers as were there.
+    translation: Pickthall
+    original: فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ
+    arabicPlain: فأخرجنا من كان فيها من المؤمنين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:36'
+    scripture: quran
+    name: Quran 51:36
+    chapter: 51
+    verse: 36
+    ordinal: 4711
+    text: But We found there but one house of those surrendered (to Allah).
+    translation: Pickthall
+    original: فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ
+    arabicPlain: فما وجدنا فيها غير بيت من المسلمين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:37'
+    scripture: quran
+    name: Quran 51:37
+    chapter: 51
+    verse: 37
+    ordinal: 4712
+    text: And We left behind therein a portent for those who fear a painful doom.
+    translation: Pickthall
+    original: وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ
+    arabicPlain: وتركنا فيها آية للذين يخافون العذاب الأليم
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:38'
+    scripture: quran
+    name: Quran 51:38
+    chapter: 51
+    verse: 38
+    ordinal: 4713
+    text: And in Moses (too, there is a portent) when We sent him unto Pharaoh with clear warrant,
+    translation: Pickthall
+    original: وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَـٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَـٰنٍ مُّبِينٍ
+    arabicPlain: وفي موسى إذ أرسلناه إلى فرعون بسلطان مبين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:39'
+    scripture: quran
+    name: Quran 51:39
+    chapter: 51
+    verse: 39
+    ordinal: 4714
+    text: 'But he withdrew (confiding) in his might, and said: A wizard or a madman.'
+    translation: Pickthall
+    original: فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَـٰحِرٌ أَوْ مَجْنُونٌ
+    arabicPlain: فتولى بركنه وقال ساحر أو مجنون
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:40'
+    scripture: quran
+    name: Quran 51:40
+    chapter: 51
+    verse: 40
+    ordinal: 4715
+    text: So We seized him and his hosts and flung them in the sea, for he was reprobate.
+    translation: Pickthall
+    original: فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ
+    arabicPlain: فأخذناه وجنوده فنبذناهم في اليم وهو مليم
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:41'
+    scripture: quran
+    name: Quran 51:41
+    chapter: 51
+    verse: 41
+    ordinal: 4716
+    text: And in (the tribe of) A'ad (there is a portent) when we sent the fatal wind against them.
+    translation: Pickthall
+    original: وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ
+    arabicPlain: وفي عاد إذ أرسلنا عليهم الريح العقيم
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:42'
+    scripture: quran
+    name: Quran 51:42
+    chapter: 51
+    verse: 42
+    ordinal: 4717
+    text: It spared naught that it reached, but made it (all) as dust.
+    translation: Pickthall
+    original: مَا تَذَرُ مِن شَىْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَٱلرَّمِيمِ
+    arabicPlain: ما تذر من شيء أتت عليه إلا جعلته كالرميم
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:43'
+    scripture: quran
+    name: Quran 51:43
+    chapter: 51
+    verse: 43
+    ordinal: 4718
+    text: 'And in (the tribe of) Thamud (there is a portent) when it was told them: Take your ease awhile.'
+    translation: Pickthall
+    original: وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍ
+    arabicPlain: وفي ثمود إذ قيل لهم تمتعوا حتى حين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:44'
+    scripture: quran
+    name: Quran 51:44
+    chapter: 51
+    verse: 44
+    ordinal: 4719
+    text: But they rebelled against their Lord's decree, and so the thunderbolt overtook them even while they gazed;
+    translation: Pickthall
+    original: فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّـٰعِقَةُ وَهُمْ يَنظُرُونَ
+    arabicPlain: فعتوا عن أمر ربهم فأخذتهم الصاعقة وهم ينظرون
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:45'
+    scripture: quran
+    name: Quran 51:45
+    chapter: 51
+    verse: 45
+    ordinal: 4720
+    text: And they were unable to rise up, nor could they help themselves.
+    translation: Pickthall
+    original: فَمَا ٱسْتَطَـٰعُوا۟ مِن قِيَامٍ وَمَا كَانُوا۟ مُنتَصِرِينَ
+    arabicPlain: فما استطاعوا من قيام وما كانوا منتصرين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:46'
+    scripture: quran
+    name: Quran 51:46
+    chapter: 51
+    verse: 46
+    ordinal: 4721
+    text: And the folk of Noah aforetime. Lo! they were licentious folk.
+    translation: Pickthall
+    original: وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ قَوْمًا فَـٰسِقِينَ
+    arabicPlain: وقوم نوح من قبل ۖ إنهم كانوا قوما فاسقين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 456
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:47'
+    scripture: quran
+    name: Quran 51:47
+    chapter: 51
+    verse: 47
+    ordinal: 4722
+    text: We have built the heaven with might, and We it is Who make the vast extent (thereof).
+    translation: Pickthall
+    original: وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ
+    arabicPlain: والسماء بنيناها بأيد وإنا لموسعون
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:48'
+    scripture: quran
+    name: Quran 51:48
+    chapter: 51
+    verse: 48
+    ordinal: 4723
+    text: And the earth have We laid out, how gracious is the Spreader (thereof)!
+    translation: Pickthall
+    original: وَٱلْأَرْضَ فَرَشْنَـٰهَا فَنِعْمَ ٱلْمَـٰهِدُونَ
+    arabicPlain: والأرض فرشناها فنعم الماهدون
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:49'
+    scripture: quran
+    name: Quran 51:49
+    chapter: 51
+    verse: 49
+    ordinal: 4724
+    text: And all things We have created by pairs, that haply ye may reflect.
+    translation: Pickthall
+    original: وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ
+    arabicPlain: ومن كل شيء خلقنا زوجين لعلكم تذكرون
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:50'
+    scripture: quran
+    name: Quran 51:50
+    chapter: 51
+    verse: 50
+    ordinal: 4725
+    text: Therefor flee unto Allah; lo! I am a plain warner unto you from him.
+    translation: Pickthall
+    original: فَفِرُّوٓا۟ إِلَى ٱللَّهِ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ
+    arabicPlain: ففروا إلى الله ۖ إني لكم منه نذير مبين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:51'
+    scripture: quran
+    name: Quran 51:51
+    chapter: 51
+    verse: 51
+    ordinal: 4726
+    text: And set not any other god along with Allah; lo! I am a plain warner unto you from Him.
+    translation: Pickthall
+    original: وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ
+    arabicPlain: ولا تجعلوا مع الله إلها آخر ۖ إني لكم منه نذير مبين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 522
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:52'
+    scripture: quran
+    name: Quran 51:52
+    chapter: 51
+    verse: 52
+    ordinal: 4727
+    text: 'Even so there came no messenger unto those before them but they said: A wizard or a madman!'
+    translation: Pickthall
+    original: كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ
+    arabicPlain: كذلك ما أتى الذين من قبلهم من رسول إلا قالوا ساحر أو مجنون
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 523
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:53'
+    scripture: quran
+    name: Quran 51:53
+    chapter: 51
+    verse: 53
+    ordinal: 4728
+    text: Have they handed down (the saying) as an heirloom one unto another? Nay, but they are froward folk.
+    translation: Pickthall
+    original: أَتَوَاصَوْا۟ بِهِۦ ۚ بَلْ هُمْ قَوْمٌ طَاغُونَ
+    arabicPlain: أتواصوا به ۚ بل هم قوم طاغون
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 523
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:54'
+    scripture: quran
+    name: Quran 51:54
+    chapter: 51
+    verse: 54
+    ordinal: 4729
+    text: So withdraw from them (O Muhammad), for thou art in no wise blameworthy,
+    translation: Pickthall
+    original: فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍ
+    arabicPlain: فتول عنهم فما أنت بملوم
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 523
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:55'
+    scripture: quran
+    name: Quran 51:55
+    chapter: 51
+    verse: 55
+    ordinal: 4730
+    text: And warn, for warning profiteth believers.
+    translation: Pickthall
+    original: وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ
+    arabicPlain: وذكر فإن الذكرى تنفع المؤمنين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 523
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:56'
+    scripture: quran
+    name: Quran 51:56
+    chapter: 51
+    verse: 56
+    ordinal: 4731
+    text: I created the jinn and humankind only that they might worship Me.
+    translation: Pickthall
+    original: وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ
+    arabicPlain: وما خلقت الجن والإنس إلا ليعبدون
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 523
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:57'
+    scripture: quran
+    name: Quran 51:57
+    chapter: 51
+    verse: 57
+    ordinal: 4732
+    text: I seek no livelihood from them, nor do I ask that they should feed Me.
+    translation: Pickthall
+    original: مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ
+    arabicPlain: ما أريد منهم من رزق وما أريد أن يطعمون
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 523
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:58'
+    scripture: quran
+    name: Quran 51:58
+    chapter: 51
+    verse: 58
+    ordinal: 4733
+    text: Lo! Allah! He it is that giveth livelihood, the Lord of unbreakable might.
+    translation: Pickthall
+    original: إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ
+    arabicPlain: إن الله هو الرزاق ذو القوة المتين
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 523
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '51:59'
+    scripture: quran
+    name: Quran 51:59
+    chapter: 51
+    verse: 59
+    ordinal: 4734
+    text: And lo! for those who (now) do wrong there is an evil day like unto the evil day (which came for) their likes (of old); so let them not ask Me to hasten on (that day).
+    translation: Pickthall
+    original: فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَـٰبِهِمْ فَلَا يَسْتَعْجِلُونِ
+    arabicPlain: فإن للذين ظلموا ذنوبا مثل ذنوب أصحابهم فلا يستعجلون
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 523
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 51:60
+    scripture: quran
+    name: Quran 51:60
+    chapter: 51
+    verse: 60
+    ordinal: 4735
+    text: And woe unto those who disbelieve, from (that) their day which they are promised.
+    translation: Pickthall
+    original: فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ
+    arabicPlain: فويل للذين كفروا من يومهم الذي يوعدون
+    surahName: Adh-Dhaariyat
+    juz: 27
+    manzil: 7
+    ruku: 457
+    page: 523
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '51'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27

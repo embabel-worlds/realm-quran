@@ -1,0 +1,193 @@
+# Every ayah of Surah Al-Qadr (The Power, Fate): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '97:1'
+    scripture: quran
+    name: Quran 97:1
+    chapter: 97
+    verse: 1
+    ordinal: 6126
+    text: Lo! We revealed it on the Night of Predestination.
+    translation: Pickthall
+    original: بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ
+    arabicPlain: بسم الله الرحمن الرحيم إنا أنزلناه في ليلة القدر
+    surahName: Al-Qadr
+    juz: 30
+    manzil: 7
+    ruku: 539
+    page: 598
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '97'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '97:2'
+    scripture: quran
+    name: Quran 97:2
+    chapter: 97
+    verse: 2
+    ordinal: 6127
+    text: Ah, what will convey unto thee what the Night of Power is!
+    translation: Pickthall
+    original: وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ
+    arabicPlain: وما أدراك ما ليلة القدر
+    surahName: Al-Qadr
+    juz: 30
+    manzil: 7
+    ruku: 539
+    page: 598
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '97'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '97:3'
+    scripture: quran
+    name: Quran 97:3
+    chapter: 97
+    verse: 3
+    ordinal: 6128
+    text: The Night of Power is better than a thousand months.
+    translation: Pickthall
+    original: لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ
+    arabicPlain: ليلة القدر خير من ألف شهر
+    surahName: Al-Qadr
+    juz: 30
+    manzil: 7
+    ruku: 539
+    page: 598
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '97'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '97:4'
+    scripture: quran
+    name: Quran 97:4
+    chapter: 97
+    verse: 4
+    ordinal: 6129
+    text: The angels and the Spirit descend therein, by the permission of their Lord, with all decrees.
+    translation: Pickthall
+    original: تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ
+    arabicPlain: تنزل الملائكة والروح فيها بإذن ربهم من كل أمر
+    surahName: Al-Qadr
+    juz: 30
+    manzil: 7
+    ruku: 539
+    page: 598
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '97'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '97:5'
+    scripture: quran
+    name: Quran 97:5
+    chapter: 97
+    verse: 5
+    ordinal: 6130
+    text: (The night is) Peace until the rising of the dawn.
+    translation: Pickthall
+    original: سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ
+    arabicPlain: سلام هي حتى مطلع الفجر
+    surahName: Al-Qadr
+    juz: 30
+    manzil: 7
+    ruku: 539
+    page: 598
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '97'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

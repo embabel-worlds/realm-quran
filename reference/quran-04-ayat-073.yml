@@ -1,0 +1,583 @@
+# Every ayah of Surah Al-Muzzammil (The Enshrouded One): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '73:1'
+    scripture: quran
+    name: Quran 73:1
+    chapter: 73
+    verse: 1
+    ordinal: 5476
+    text: O thou wrapped up in thy raiment!
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ
+    arabicPlain: بسم الله الرحمن الرحيم يا أيها المزمل
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:2'
+    scripture: quran
+    name: Quran 73:2
+    chapter: 73
+    verse: 2
+    ordinal: 5477
+    text: Keep vigil the night long, save a little -
+    translation: Pickthall
+    original: قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا
+    arabicPlain: قم الليل إلا قليلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:3'
+    scripture: quran
+    name: Quran 73:3
+    chapter: 73
+    verse: 3
+    ordinal: 5478
+    text: A half thereof, or abate a little thereof
+    translation: Pickthall
+    original: نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا
+    arabicPlain: نصفه أو انقص منه قليلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:4'
+    scripture: quran
+    name: Quran 73:4
+    chapter: 73
+    verse: 4
+    ordinal: 5479
+    text: Or add (a little) thereto - and chant the Qur'an in measure,
+    translation: Pickthall
+    original: أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا
+    arabicPlain: أو زد عليه ورتل القرآن ترتيلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:5'
+    scripture: quran
+    name: Quran 73:5
+    chapter: 73
+    verse: 5
+    ordinal: 5480
+    text: For we shall charge thee with a word of weight.
+    translation: Pickthall
+    original: إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا
+    arabicPlain: إنا سنلقي عليك قولا ثقيلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:6'
+    scripture: quran
+    name: Quran 73:6
+    chapter: 73
+    verse: 6
+    ordinal: 5481
+    text: Lo! the vigil of the night is (a time) when impression is more keen and speech more certain.
+    translation: Pickthall
+    original: إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا
+    arabicPlain: إن ناشئة الليل هي أشد وطئا وأقوم قيلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:7'
+    scripture: quran
+    name: Quran 73:7
+    chapter: 73
+    verse: 7
+    ordinal: 5482
+    text: Lo! thou hast by day a chain of business.
+    translation: Pickthall
+    original: إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًا طَوِيلًا
+    arabicPlain: إن لك في النهار سبحا طويلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:8'
+    scripture: quran
+    name: Quran 73:8
+    chapter: 73
+    verse: 8
+    ordinal: 5483
+    text: So remember the name of thy Lord and devote thyself with a complete devotion -
+    translation: Pickthall
+    original: وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+    arabicPlain: واذكر اسم ربك وتبتل إليه تبتيلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:9'
+    scripture: quran
+    name: Quran 73:9
+    chapter: 73
+    verse: 9
+    ordinal: 5484
+    text: Lord of the East and the West; there is no Allah save Him; so choose thou Him alone for thy defender -
+    translation: Pickthall
+    original: رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا
+    arabicPlain: رب المشرق والمغرب لا إله إلا هو فاتخذه وكيلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:10'
+    scripture: quran
+    name: Quran 73:10
+    chapter: 73
+    verse: 10
+    ordinal: 5485
+    text: And bear with patience what they utter, and part from them with a fair leave-taking.
+    translation: Pickthall
+    original: وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا
+    arabicPlain: واصبر على ما يقولون واهجرهم هجرا جميلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:11'
+    scripture: quran
+    name: Quran 73:11
+    chapter: 73
+    verse: 11
+    ordinal: 5486
+    text: Leave Me to deal with the deniers, lords of ease and comfort (in this life); and do thou respite them awhile.
+    translation: Pickthall
+    original: وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا
+    arabicPlain: وذرني والمكذبين أولي النعمة ومهلهم قليلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:12'
+    scripture: quran
+    name: Quran 73:12
+    chapter: 73
+    verse: 12
+    ordinal: 5487
+    text: Lo! with Us are heavy fetters and a raging fire,
+    translation: Pickthall
+    original: إِنَّ لَدَيْنَآ أَنكَالًا وَجَحِيمًا
+    arabicPlain: إن لدينا أنكالا وجحيما
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:13'
+    scripture: quran
+    name: Quran 73:13
+    chapter: 73
+    verse: 13
+    ordinal: 5488
+    text: And food which choketh (the partaker), and a painful doom
+    translation: Pickthall
+    original: وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا
+    arabicPlain: وطعاما ذا غصة وعذابا أليما
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:14'
+    scripture: quran
+    name: Quran 73:14
+    chapter: 73
+    verse: 14
+    ordinal: 5489
+    text: On the day when the earth and the hills rock, and the hills become a heap of running sand.
+    translation: Pickthall
+    original: يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا
+    arabicPlain: يوم ترجف الأرض والجبال وكانت الجبال كثيبا مهيلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:15'
+    scripture: quran
+    name: Quran 73:15
+    chapter: 73
+    verse: 15
+    ordinal: 5490
+    text: Lo! We have sent unto you a messenger as witness against you, even as We sent unto Pharaoh a messenger.
+    translation: Pickthall
+    original: إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًا
+    arabicPlain: إنا أرسلنا إليكم رسولا شاهدا عليكم كما أرسلنا إلى فرعون رسولا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:16'
+    scripture: quran
+    name: Quran 73:16
+    chapter: 73
+    verse: 16
+    ordinal: 5491
+    text: But Pharaoh rebelled against the messenger, whereupon We seized him with no gentle grip.
+    translation: Pickthall
+    original: فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلًا
+    arabicPlain: فعصى فرعون الرسول فأخذناه أخذا وبيلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:17'
+    scripture: quran
+    name: Quran 73:17
+    chapter: 73
+    verse: 17
+    ordinal: 5492
+    text: Then how, if ye disbelieve, will ye protect yourselves upon the day which will turn children grey,
+    translation: Pickthall
+    original: فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا
+    arabicPlain: فكيف تتقون إن كفرتم يوما يجعل الولدان شيبا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:18'
+    scripture: quran
+    name: Quran 73:18
+    chapter: 73
+    verse: 18
+    ordinal: 5493
+    text: The very heaven being then rent asunder. His promise is to be fulfilled.
+    translation: Pickthall
+    original: ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا
+    arabicPlain: السماء منفطر به ۚ كان وعده مفعولا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:19'
+    scripture: quran
+    name: Quran 73:19
+    chapter: 73
+    verse: 19
+    ordinal: 5494
+    text: Lo! This is a Reminder. Let him who will, then, choose a way unto his Lord.
+    translation: Pickthall
+    original: إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا
+    arabicPlain: إن هذه تذكرة ۖ فمن شاء اتخذ إلى ربه سبيلا
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 508
+    page: 574
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '73:20'
+    scripture: quran
+    name: Quran 73:20
+    chapter: 73
+    verse: 20
+    ordinal: 5495
+    text: Lo! thy Lord knoweth how thou keepest vigil sometimes nearly two-thirds of the night, or (sometimes) half or a third thereof, as do a party of those with thee. Allah measureth the night and the day. He knoweth that ye count it not, and turneth unto you in mercy. Recite, then, of the Qur'an that which is easy for you. He knoweth that there are sick folk among you, while others travel in the land in search of Allah's bounty, and others (still) are fighting for the cause of Allah. So recite of it that which is easy (for you), and establish worship and pay the poor-due, and (so) lend unto Allah a goodly loan. Whatsoever good ye send before you for your souls, ye will find it with Allah, better and greater in the recompense. And seek forgiveness of Allah. Lo! Allah is Forgiving, Merciful.
+    translation: Pickthall
+    original: ۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ ۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ ۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ
+    arabicPlain: ۞ إن ربك يعلم أنك تقوم أدنى من ثلثي الليل ونصفه وثلثه وطائفة من الذين معك ۚ والله يقدر الليل والنهار ۚ علم أن لن تحصوه فتاب عليكم ۖ فاقرءوا ما تيسر من القرآن ۚ علم أن سيكون منكم مرضى ۙ وآخرون يضربون في الأرض يبتغون من فضل الله ۙ وآخرون يقاتلون في سبيل الله ۖ فاقرءوا ما تيسر منه ۚ وأقيموا الصلاة وآتوا الزكاة وأقرضوا الله قرضا حسنا ۚ وما تقدموا لأنفسكم من خير تجدوه عند الله هو خيرا وأعظم أجرا ۚ واستغفروا الله ۖ إن الله غفور رحيم
+    surahName: Al-Muzzammil
+    juz: 29
+    manzil: 7
+    ruku: 509
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '73'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29

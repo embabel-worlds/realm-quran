@@ -1,0 +1,349 @@
+# Every ayah of Surah Al-Munaafiqoon (The Hypocrites): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '63:1'
+    scripture: quran
+    name: Quran 63:1
+    chapter: 63
+    verse: 1
+    ordinal: 5189
+    text: 'When the hypocrites come unto thee (O Muhammad), they say: We bear witness that thou art indeed Allah''s messenger. And Allah knoweth that thou art indeed His messenger, and Allah beareth witness that the hypocrites indeed are speaking falsely.'
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ
+    arabicPlain: بسم الله الرحمن الرحيم إذا جاءك المنافقون قالوا نشهد إنك لرسول الله ۗ والله يعلم إنك لرسوله والله يشهد إن المنافقين لكاذبون
+    surahName: Al-Munaafiqoon
+    juz: 28
+    manzil: 7
+    ruku: 488
+    page: 554
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '63'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '63:2'
+    scripture: quran
+    name: Quran 63:2
+    chapter: 63
+    verse: 2
+    ordinal: 5190
+    text: They make their faith a pretext so that they may turn (men) from the way of Allah. Verily evil is that which they are wont to do,
+    translation: Pickthall
+    original: ٱتَّخَذُوٓا۟ أَيْمَـٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ
+    arabicPlain: اتخذوا أيمانهم جنة فصدوا عن سبيل الله ۚ إنهم ساء ما كانوا يعملون
+    surahName: Al-Munaafiqoon
+    juz: 28
+    manzil: 7
+    ruku: 488
+    page: 554
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '63'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '63:3'
+    scripture: quran
+    name: Quran 63:3
+    chapter: 63
+    verse: 3
+    ordinal: 5191
+    text: That is because they believed, then disbelieved, therefore their hearts are sealed so that they understand not.
+    translation: Pickthall
+    original: ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ
+    arabicPlain: ذلك بأنهم آمنوا ثم كفروا فطبع على قلوبهم فهم لا يفقهون
+    surahName: Al-Munaafiqoon
+    juz: 28
+    manzil: 7
+    ruku: 488
+    page: 554
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '63'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '63:4'
+    scripture: quran
+    name: Quran 63:4
+    chapter: 63
+    verse: 4
+    ordinal: 5192
+    text: And when thou seest them their figures please thee; and if they speak thou givest ear unto their speech. (They are) as though they were blocks of wood in striped cloaks. They deem every shout to be against them. They are the enemy, so beware of them. Allah confound them! How they are perverted!
+    translation: Pickthall
+    original: ۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ
+    arabicPlain: ۞ وإذا رأيتهم تعجبك أجسامهم ۖ وإن يقولوا تسمع لقولهم ۖ كأنهم خشب مسندة ۖ يحسبون كل صيحة عليهم ۚ هم العدو فاحذرهم ۚ قاتلهم الله ۖ أنى يؤفكون
+    surahName: Al-Munaafiqoon
+    juz: 28
+    manzil: 7
+    ruku: 488
+    page: 554
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '63'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '63:5'
+    scripture: quran
+    name: Quran 63:5
+    chapter: 63
+    verse: 5
+    ordinal: 5193
+    text: 'And when it is said unto them: Come! The messenger of Allah will ask forgiveness for you! they avert their faces and thou seest them turning away, disdainful.'
+    translation: Pickthall
+    original: وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ
+    arabicPlain: وإذا قيل لهم تعالوا يستغفر لكم رسول الله لووا رءوسهم ورأيتهم يصدون وهم مستكبرون
+    surahName: Al-Munaafiqoon
+    juz: 28
+    manzil: 7
+    ruku: 488
+    page: 555
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '63'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '63:6'
+    scripture: quran
+    name: Quran 63:6
+    chapter: 63
+    verse: 6
+    ordinal: 5194
+    text: Whether thou ask forgiveness for them or ask not forgiveness for them is all one for them; Allah will not forgive them. Lo! Allah guideth not the evil-living folk.
+    translation: Pickthall
+    original: سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ
+    arabicPlain: سواء عليهم أستغفرت لهم أم لم تستغفر لهم لن يغفر الله لهم ۚ إن الله لا يهدي القوم الفاسقين
+    surahName: Al-Munaafiqoon
+    juz: 28
+    manzil: 7
+    ruku: 488
+    page: 555
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '63'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '63:7'
+    scripture: quran
+    name: Quran 63:7
+    chapter: 63
+    verse: 7
+    ordinal: 5195
+    text: 'They it is who say: Spend not on behalf of those (who dwell) with Allah''s messenger that they may disperse (and go away from you); when Allah''s are the treasures of the heavens and the earth; but the hypocrites comprehend not.'
+    translation: Pickthall
+    original: هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَفْقَهُونَ
+    arabicPlain: هم الذين يقولون لا تنفقوا على من عند رسول الله حتى ينفضوا ۗ ولله خزائن السماوات والأرض ولكن المنافقين لا يفقهون
+    surahName: Al-Munaafiqoon
+    juz: 28
+    manzil: 7
+    ruku: 488
+    page: 555
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '63'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '63:8'
+    scripture: quran
+    name: Quran 63:8
+    chapter: 63
+    verse: 8
+    ordinal: 5196
+    text: 'They say: Surely, if we return to Al-Madinah the mightier will soon drive out the weaker; when might belongeth to Allah and to His messenger and to the believers; but the hypocrites know not.'
+    translation: Pickthall
+    original: يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ
+    arabicPlain: يقولون لئن رجعنا إلى المدينة ليخرجن الأعز منها الأذل ۚ ولله العزة ولرسوله وللمؤمنين ولكن المنافقين لا يعلمون
+    surahName: Al-Munaafiqoon
+    juz: 28
+    manzil: 7
+    ruku: 488
+    page: 555
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '63'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '63:9'
+    scripture: quran
+    name: Quran 63:9
+    chapter: 63
+    verse: 9
+    ordinal: 5197
+    text: O ye who believe! Let not your wealth nor your children distract you from remembrance of Allah. Those who do so, they are the losers.
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ
+    arabicPlain: يا أيها الذين آمنوا لا تلهكم أموالكم ولا أولادكم عن ذكر الله ۚ ومن يفعل ذلك فأولئك هم الخاسرون
+    surahName: Al-Munaafiqoon
+    juz: 28
+    manzil: 7
+    ruku: 489
+    page: 555
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '63'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '63:10'
+    scripture: quran
+    name: Quran 63:10
+    chapter: 63
+    verse: 10
+    ordinal: 5198
+    text: 'And spend of that wherewith We have provided you before death cometh unto one of you and he saith: My Lord! If only thou wouldst reprieve me for a little while, then I would give alms and be among the righteous.'
+    translation: Pickthall
+    original: وَأَنفِقُوا۟ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّـٰلِحِينَ
+    arabicPlain: وأنفقوا من ما رزقناكم من قبل أن يأتي أحدكم الموت فيقول رب لولا أخرتني إلى أجل قريب فأصدق وأكن من الصالحين
+    surahName: Al-Munaafiqoon
+    juz: 28
+    manzil: 7
+    ruku: 489
+    page: 555
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '63'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '63:11'
+    scripture: quran
+    name: Quran 63:11
+    chapter: 63
+    verse: 11
+    ordinal: 5199
+    text: But Allah reprieveth no soul when its term cometh, and Allah is Informed of what ye do.
+    translation: Pickthall
+    original: وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ
+    arabicPlain: ولن يؤخر الله نفسا إذا جاء أجلها ۚ والله خبير بما تعملون
+    surahName: Al-Munaafiqoon
+    juz: 28
+    manzil: 7
+    ruku: 489
+    page: 555
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '63'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28

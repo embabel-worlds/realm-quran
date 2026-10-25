@@ -1,0 +1,1493 @@
+# Every ayah of Surah Al-Qamar (The Moon): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '54:1'
+    scripture: quran
+    name: Quran 54:1
+    chapter: 54
+    verse: 1
+    ordinal: 4847
+    text: The hour drew nigh and the moon was rent in twain.
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ
+    arabicPlain: بسم الله الرحمن الرحيم اقتربت الساعة وانشق القمر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:2'
+    scripture: quran
+    name: Quran 54:2
+    chapter: 54
+    verse: 2
+    ordinal: 4848
+    text: 'And if they behold a portent they turn away and say: Prolonged illusion.'
+    translation: Pickthall
+    original: وَإِن يَرَوْا۟ ءَايَةً يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌ مُّسْتَمِرٌّ
+    arabicPlain: وإن يروا آية يعرضوا ويقولوا سحر مستمر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:3'
+    scripture: quran
+    name: Quran 54:3
+    chapter: 54
+    verse: 3
+    ordinal: 4849
+    text: They denied (the Truth) and followed their own lusts. Yet everything will come to a decision
+    translation: Pickthall
+    original: وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ
+    arabicPlain: وكذبوا واتبعوا أهواءهم ۚ وكل أمر مستقر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:4'
+    scripture: quran
+    name: Quran 54:4
+    chapter: 54
+    verse: 4
+    ordinal: 4850
+    text: And surely there hath come unto them news whereof the purport should deter,
+    translation: Pickthall
+    original: وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ
+    arabicPlain: ولقد جاءهم من الأنباء ما فيه مزدجر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:5'
+    scripture: quran
+    name: Quran 54:5
+    chapter: 54
+    verse: 5
+    ordinal: 4851
+    text: Effective wisdom; but warnings avail not.
+    translation: Pickthall
+    original: حِكْمَةٌۢ بَـٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ
+    arabicPlain: حكمة بالغة ۖ فما تغن النذر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:6'
+    scripture: quran
+    name: Quran 54:6
+    chapter: 54
+    verse: 6
+    ordinal: 4852
+    text: So withdraw from them (O Muhammad) on the day when the Summoner summoneth unto a painful thing.
+    translation: Pickthall
+    original: فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ
+    arabicPlain: فتول عنهم ۘ يوم يدع الداع إلى شيء نكر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:7'
+    scripture: quran
+    name: Quran 54:7
+    chapter: 54
+    verse: 7
+    ordinal: 4853
+    text: With downcast eyes, they come forth from the graves as they were locusts spread abroad,
+    translation: Pickthall
+    original: خُشَّعًا أَبْصَـٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ
+    arabicPlain: خشعا أبصارهم يخرجون من الأجداث كأنهم جراد منتشر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:8'
+    scripture: quran
+    name: Quran 54:8
+    chapter: 54
+    verse: 8
+    ordinal: 4854
+    text: 'Hastening toward the summoner; the disbelievers say: This is a hard day.'
+    translation: Pickthall
+    original: مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَـٰفِرُونَ هَـٰذَا يَوْمٌ عَسِرٌ
+    arabicPlain: مهطعين إلى الداع ۖ يقول الكافرون هذا يوم عسر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:9'
+    scripture: quran
+    name: Quran 54:9
+    chapter: 54
+    verse: 9
+    ordinal: 4855
+    text: 'The folk of Noah denied before them, yea, they denied Our slave and said: A madman; and he was repulsed.'
+    translation: Pickthall
+    original: ۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا۟ عَبْدَنَا وَقَالُوا۟ مَجْنُونٌ وَٱزْدُجِرَ
+    arabicPlain: ۞ كذبت قبلهم قوم نوح فكذبوا عبدنا وقالوا مجنون وازدجر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:10'
+    scripture: quran
+    name: Quran 54:10
+    chapter: 54
+    verse: 10
+    ordinal: 4856
+    text: 'So he cried unto his Lord, saying: I am vanquished, so give help.'
+    translation: Pickthall
+    original: فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌ فَٱنتَصِرْ
+    arabicPlain: فدعا ربه أني مغلوب فانتصر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:11'
+    scripture: quran
+    name: Quran 54:11
+    chapter: 54
+    verse: 11
+    ordinal: 4857
+    text: Then opened We the gates of heaven with pouring water
+    translation: Pickthall
+    original: فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ
+    arabicPlain: ففتحنا أبواب السماء بماء منهمر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:12'
+    scripture: quran
+    name: Quran 54:12
+    chapter: 54
+    verse: 12
+    ordinal: 4858
+    text: And caused the earth to gush forth springs, so that the waters met for a predestined purpose.
+    translation: Pickthall
+    original: وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ
+    arabicPlain: وفجرنا الأرض عيونا فالتقى الماء على أمر قد قدر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:13'
+    scripture: quran
+    name: Quran 54:13
+    chapter: 54
+    verse: 13
+    ordinal: 4859
+    text: And We carried him upon a thing of planks and nails,
+    translation: Pickthall
+    original: وَحَمَلْنَـٰهُ عَلَىٰ ذَاتِ أَلْوَٰحٍ وَدُسُرٍ
+    arabicPlain: وحملناه على ذات ألواح ودسر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:14'
+    scripture: quran
+    name: Quran 54:14
+    chapter: 54
+    verse: 14
+    ordinal: 4860
+    text: That ran (upon the waters) in Our sight, as a reward for him who was rejected.
+    translation: Pickthall
+    original: تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ
+    arabicPlain: تجري بأعيننا جزاء لمن كان كفر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:15'
+    scripture: quran
+    name: Quran 54:15
+    chapter: 54
+    verse: 15
+    ordinal: 4861
+    text: And verily We left it as a token; but is there any that remembereth?
+    translation: Pickthall
+    original: وَلَقَد تَّرَكْنَـٰهَآ ءَايَةً فَهَلْ مِن مُّدَّكِرٍ
+    arabicPlain: ولقد تركناها آية فهل من مدكر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:16'
+    scripture: quran
+    name: Quran 54:16
+    chapter: 54
+    verse: 16
+    ordinal: 4862
+    text: Then see how (dreadful) was My punishment after My warnings!
+    translation: Pickthall
+    original: فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ
+    arabicPlain: فكيف كان عذابي ونذر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:17'
+    scripture: quran
+    name: Quran 54:17
+    chapter: 54
+    verse: 17
+    ordinal: 4863
+    text: And in truth We have made the Qur'an easy to remember; but is there any that remembereth?
+    translation: Pickthall
+    original: وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
+    arabicPlain: ولقد يسرنا القرآن للذكر فهل من مدكر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:18'
+    scripture: quran
+    name: Quran 54:18
+    chapter: 54
+    verse: 18
+    ordinal: 4864
+    text: (The tribe of) A'ad rejected warnings. Then how (dreadful) was My punishment after My warnings.
+    translation: Pickthall
+    original: كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ
+    arabicPlain: كذبت عاد فكيف كان عذابي ونذر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:19'
+    scripture: quran
+    name: Quran 54:19
+    chapter: 54
+    verse: 19
+    ordinal: 4865
+    text: Lo! We let loose on them a raging wind on a day of constant calamity,
+    translation: Pickthall
+    original: إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِى يَوْمِ نَحْسٍ مُّسْتَمِرٍّ
+    arabicPlain: إنا أرسلنا عليهم ريحا صرصرا في يوم نحس مستمر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:20'
+    scripture: quran
+    name: Quran 54:20
+    chapter: 54
+    verse: 20
+    ordinal: 4866
+    text: Sweeping men away as though they were uprooted trunks of palm-trees.
+    translation: Pickthall
+    original: تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ
+    arabicPlain: تنزع الناس كأنهم أعجاز نخل منقعر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:21'
+    scripture: quran
+    name: Quran 54:21
+    chapter: 54
+    verse: 21
+    ordinal: 4867
+    text: Then see how (dreadful) was My punishment after My warnings!
+    translation: Pickthall
+    original: فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ
+    arabicPlain: فكيف كان عذابي ونذر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:22'
+    scripture: quran
+    name: Quran 54:22
+    chapter: 54
+    verse: 22
+    ordinal: 4868
+    text: And in truth We have made the Qur'an easy to remember; but is there any that remembereth?
+    translation: Pickthall
+    original: وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
+    arabicPlain: ولقد يسرنا القرآن للذكر فهل من مدكر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 463
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:23'
+    scripture: quran
+    name: Quran 54:23
+    chapter: 54
+    verse: 23
+    ordinal: 4869
+    text: (The tribe of) Thamud rejected warnings
+    translation: Pickthall
+    original: كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ
+    arabicPlain: كذبت ثمود بالنذر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:24'
+    scripture: quran
+    name: Quran 54:24
+    chapter: 54
+    verse: 24
+    ordinal: 4870
+    text: For they said; Is it a mortal man, alone among us, that we are to follow? Then indeed we should fall into error and madness.
+    translation: Pickthall
+    original: فَقَالُوٓا۟ أَبَشَرًا مِّنَّا وَٰحِدًا نَّتَّبِعُهُۥٓ إِنَّآ إِذًا لَّفِى ضَلَـٰلٍ وَسُعُرٍ
+    arabicPlain: فقالوا أبشرا منا واحدا نتبعه إنا إذا لفي ضلال وسعر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:25'
+    scripture: quran
+    name: Quran 54:25
+    chapter: 54
+    verse: 25
+    ordinal: 4871
+    text: Hath the remembrance been given unto him alone among us? Nay, but he is a rash liar.
+    translation: Pickthall
+    original: أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ
+    arabicPlain: أألقي الذكر عليه من بيننا بل هو كذاب أشر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:26'
+    scripture: quran
+    name: Quran 54:26
+    chapter: 54
+    verse: 26
+    ordinal: 4872
+    text: '(Unto their warner it was said): To-morrow they will know who is the rash liar.'
+    translation: Pickthall
+    original: سَيَعْلَمُونَ غَدًا مَّنِ ٱلْكَذَّابُ ٱلْأَشِرُ
+    arabicPlain: سيعلمون غدا من الكذاب الأشر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:27'
+    scripture: quran
+    name: Quran 54:27
+    chapter: 54
+    verse: 27
+    ordinal: 4873
+    text: Lo! We are sending the she-camel as a test for them; so watch them and have patience;
+    translation: Pickthall
+    original: إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ
+    arabicPlain: إنا مرسلو الناقة فتنة لهم فارتقبهم واصطبر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 529
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:28'
+    scripture: quran
+    name: Quran 54:28
+    chapter: 54
+    verse: 28
+    ordinal: 4874
+    text: And inform them that the water is to be shared between (her and) them. Every drinking will be witnessed.
+    translation: Pickthall
+    original: وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ
+    arabicPlain: ونبئهم أن الماء قسمة بينهم ۖ كل شرب محتضر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:29'
+    scripture: quran
+    name: Quran 54:29
+    chapter: 54
+    verse: 29
+    ordinal: 4875
+    text: But they call their comrade and he took and hamstrung (her).
+    translation: Pickthall
+    original: فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ
+    arabicPlain: فنادوا صاحبهم فتعاطى فعقر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:30'
+    scripture: quran
+    name: Quran 54:30
+    chapter: 54
+    verse: 30
+    ordinal: 4876
+    text: Then see how (dreadful) was My punishment after My warnings!
+    translation: Pickthall
+    original: فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ
+    arabicPlain: فكيف كان عذابي ونذر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:31'
+    scripture: quran
+    name: Quran 54:31
+    chapter: 54
+    verse: 31
+    ordinal: 4877
+    text: Lo! We sent upon them one Shout, and they became as the dry twigs (rejected by) the builder of a cattle-fold.
+    translation: Pickthall
+    original: إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَٰحِدَةً فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ
+    arabicPlain: إنا أرسلنا عليهم صيحة واحدة فكانوا كهشيم المحتظر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:32'
+    scripture: quran
+    name: Quran 54:32
+    chapter: 54
+    verse: 32
+    ordinal: 4878
+    text: And in truth We have made the Qur'an easy to remember; but is there any that remembereth?
+    translation: Pickthall
+    original: وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
+    arabicPlain: ولقد يسرنا القرآن للذكر فهل من مدكر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:33'
+    scripture: quran
+    name: Quran 54:33
+    chapter: 54
+    verse: 33
+    ordinal: 4879
+    text: The folk of Lot rejected warnings.
+    translation: Pickthall
+    original: كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ
+    arabicPlain: كذبت قوم لوط بالنذر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:34'
+    scripture: quran
+    name: Quran 54:34
+    chapter: 54
+    verse: 34
+    ordinal: 4880
+    text: Lo! We sent a storm of stones upon them (all) save the family of Lot, whom We rescued in the last watch of the night,
+    translation: Pickthall
+    original: إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ ۖ نَّجَّيْنَـٰهُم بِسَحَرٍ
+    arabicPlain: إنا أرسلنا عليهم حاصبا إلا آل لوط ۖ نجيناهم بسحر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:35'
+    scripture: quran
+    name: Quran 54:35
+    chapter: 54
+    verse: 35
+    ordinal: 4881
+    text: As grace from Us. Thus We reward him who giveth thanks.
+    translation: Pickthall
+    original: نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ
+    arabicPlain: نعمة من عندنا ۚ كذلك نجزي من شكر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:36'
+    scripture: quran
+    name: Quran 54:36
+    chapter: 54
+    verse: 36
+    ordinal: 4882
+    text: And he indeed had warned them of Our blow, but they did doubt the warnings.
+    translation: Pickthall
+    original: وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ
+    arabicPlain: ولقد أنذرهم بطشتنا فتماروا بالنذر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:37'
+    scripture: quran
+    name: Quran 54:37
+    chapter: 54
+    verse: 37
+    ordinal: 4883
+    text: 'They even asked of him his guests for an ill purpose. Then We blinded their eyes (and said): Taste now My punishment after My warnings!'
+    translation: Pickthall
+    original: وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ
+    arabicPlain: ولقد راودوه عن ضيفه فطمسنا أعينهم فذوقوا عذابي ونذر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:38'
+    scripture: quran
+    name: Quran 54:38
+    chapter: 54
+    verse: 38
+    ordinal: 4884
+    text: And in truth the punishment decreed befell them early in the morning.
+    translation: Pickthall
+    original: وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ
+    arabicPlain: ولقد صبحهم بكرة عذاب مستقر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:39'
+    scripture: quran
+    name: Quran 54:39
+    chapter: 54
+    verse: 39
+    ordinal: 4885
+    text: Now taste My punishment after My warnings!
+    translation: Pickthall
+    original: فَذُوقُوا۟ عَذَابِى وَنُذُرِ
+    arabicPlain: فذوقوا عذابي ونذر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:40'
+    scripture: quran
+    name: Quran 54:40
+    chapter: 54
+    verse: 40
+    ordinal: 4886
+    text: And in truth We have made the Qur'an easy to remember; but is there any that remembereth?
+    translation: Pickthall
+    original: وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
+    arabicPlain: ولقد يسرنا القرآن للذكر فهل من مدكر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 464
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:41'
+    scripture: quran
+    name: Quran 54:41
+    chapter: 54
+    verse: 41
+    ordinal: 4887
+    text: And warnings came in truth unto the house of Pharaoh
+    translation: Pickthall
+    original: وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ
+    arabicPlain: ولقد جاء آل فرعون النذر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:42'
+    scripture: quran
+    name: Quran 54:42
+    chapter: 54
+    verse: 42
+    ordinal: 4888
+    text: Who denied Our revelations, every one. Therefore We grasped them with the grasp of the Mighty, the Powerful.
+    translation: Pickthall
+    original: كَذَّبُوا۟ بِـَٔايَـٰتِنَا كُلِّهَا فَأَخَذْنَـٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ
+    arabicPlain: كذبوا بآياتنا كلها فأخذناهم أخذ عزيز مقتدر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:43'
+    scripture: quran
+    name: Quran 54:43
+    chapter: 54
+    verse: 43
+    ordinal: 4889
+    text: Are your disbelievers better than those, or have ye some immunity in the scriptures?
+    translation: Pickthall
+    original: أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُو۟لَـٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌ فِى ٱلزُّبُرِ
+    arabicPlain: أكفاركم خير من أولئكم أم لكم براءة في الزبر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:44'
+    scripture: quran
+    name: Quran 54:44
+    chapter: 54
+    verse: 44
+    ordinal: 4890
+    text: 'Or say they: We are a host victorious?'
+    translation: Pickthall
+    original: أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ
+    arabicPlain: أم يقولون نحن جميع منتصر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:45'
+    scripture: quran
+    name: Quran 54:45
+    chapter: 54
+    verse: 45
+    ordinal: 4891
+    text: The hosts will all be routed and will turn and flee.
+    translation: Pickthall
+    original: سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ
+    arabicPlain: سيهزم الجمع ويولون الدبر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:46'
+    scripture: quran
+    name: Quran 54:46
+    chapter: 54
+    verse: 46
+    ordinal: 4892
+    text: Nay, but the Hour (of doom) is their appointed tryst, and the Hour will be more wretched and more bitter (than their earthly failure).
+    translation: Pickthall
+    original: بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ
+    arabicPlain: بل الساعة موعدهم والساعة أدهى وأمر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:47'
+    scripture: quran
+    name: Quran 54:47
+    chapter: 54
+    verse: 47
+    ordinal: 4893
+    text: Lo! the guilty are in error and madness.
+    translation: Pickthall
+    original: إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَـٰلٍ وَسُعُرٍ
+    arabicPlain: إن المجرمين في ضلال وسعر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:48'
+    scripture: quran
+    name: Quran 54:48
+    chapter: 54
+    verse: 48
+    ordinal: 4894
+    text: 'On the day when they are dragged into the Fire upon their faces (it is said unto them): Feel the touch of hell.'
+    translation: Pickthall
+    original: يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ
+    arabicPlain: يوم يسحبون في النار على وجوههم ذوقوا مس سقر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:49'
+    scripture: quran
+    name: Quran 54:49
+    chapter: 54
+    verse: 49
+    ordinal: 4895
+    text: Lo! We have created every thing by measure.
+    translation: Pickthall
+    original: إِنَّا كُلَّ شَىْءٍ خَلَقْنَـٰهُ بِقَدَرٍ
+    arabicPlain: إنا كل شيء خلقناه بقدر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 530
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:50'
+    scripture: quran
+    name: Quran 54:50
+    chapter: 54
+    verse: 50
+    ordinal: 4896
+    text: And Our commandment is but one (commandment), as the twinkling of an eye.
+    translation: Pickthall
+    original: وَمَآ أَمْرُنَآ إِلَّا وَٰحِدَةٌ كَلَمْحٍۭ بِٱلْبَصَرِ
+    arabicPlain: وما أمرنا إلا واحدة كلمح بالبصر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:51'
+    scripture: quran
+    name: Quran 54:51
+    chapter: 54
+    verse: 51
+    ordinal: 4897
+    text: And verily We have destroyed your fellows; but is there any that remembereth?
+    translation: Pickthall
+    original: وَلَقَدْ أَهْلَكْنَآ أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ
+    arabicPlain: ولقد أهلكنا أشياعكم فهل من مدكر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:52'
+    scripture: quran
+    name: Quran 54:52
+    chapter: 54
+    verse: 52
+    ordinal: 4898
+    text: And every thing they did is in the scriptures,
+    translation: Pickthall
+    original: وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ
+    arabicPlain: وكل شيء فعلوه في الزبر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:53'
+    scripture: quran
+    name: Quran 54:53
+    chapter: 54
+    verse: 53
+    ordinal: 4899
+    text: And every small and great thing is recorded.
+    translation: Pickthall
+    original: وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ
+    arabicPlain: وكل صغير وكبير مستطر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:54'
+    scripture: quran
+    name: Quran 54:54
+    chapter: 54
+    verse: 54
+    ordinal: 4900
+    text: Lo! the righteous will dwell among gardens and rivers,
+    translation: Pickthall
+    original: إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَهَرٍ
+    arabicPlain: إن المتقين في جنات ونهر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '54:55'
+    scripture: quran
+    name: Quran 54:55
+    chapter: 54
+    verse: 55
+    ordinal: 4901
+    text: Firmly established in the favour of a Mighty King.
+    translation: Pickthall
+    original: فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍۭ
+    arabicPlain: في مقعد صدق عند مليك مقتدر
+    surahName: Al-Qamar
+    juz: 27
+    manzil: 7
+    ruku: 465
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '54'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27

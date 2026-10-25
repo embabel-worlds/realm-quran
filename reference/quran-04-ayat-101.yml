@@ -1,0 +1,349 @@
+# Every ayah of Surah Al-Qaari'a (The Calamity): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '101:1'
+    scripture: quran
+    name: Quran 101:1
+    chapter: 101
+    verse: 1
+    ordinal: 6158
+    text: The Calamity!
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ
+    arabicPlain: بسم الله الرحمن الرحيم القارعة
+    surahName: Al-Qaari'a
+    juz: 30
+    manzil: 7
+    ruku: 543
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '101'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '101:2'
+    scripture: quran
+    name: Quran 101:2
+    chapter: 101
+    verse: 2
+    ordinal: 6159
+    text: What is the Calamity?
+    translation: Pickthall
+    original: مَا ٱلْقَارِعَةُ
+    arabicPlain: ما القارعة
+    surahName: Al-Qaari'a
+    juz: 30
+    manzil: 7
+    ruku: 543
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '101'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '101:3'
+    scripture: quran
+    name: Quran 101:3
+    chapter: 101
+    verse: 3
+    ordinal: 6160
+    text: Ah, what will convey unto thee what the Calamity is!
+    translation: Pickthall
+    original: وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ
+    arabicPlain: وما أدراك ما القارعة
+    surahName: Al-Qaari'a
+    juz: 30
+    manzil: 7
+    ruku: 543
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '101'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '101:4'
+    scripture: quran
+    name: Quran 101:4
+    chapter: 101
+    verse: 4
+    ordinal: 6161
+    text: A day wherein mankind will be as thickly-scattered moths
+    translation: Pickthall
+    original: يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ
+    arabicPlain: يوم يكون الناس كالفراش المبثوث
+    surahName: Al-Qaari'a
+    juz: 30
+    manzil: 7
+    ruku: 543
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '101'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '101:5'
+    scripture: quran
+    name: Quran 101:5
+    chapter: 101
+    verse: 5
+    ordinal: 6162
+    text: And the mountains will become as carded wool.
+    translation: Pickthall
+    original: وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ
+    arabicPlain: وتكون الجبال كالعهن المنفوش
+    surahName: Al-Qaari'a
+    juz: 30
+    manzil: 7
+    ruku: 543
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '101'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '101:6'
+    scripture: quran
+    name: Quran 101:6
+    chapter: 101
+    verse: 6
+    ordinal: 6163
+    text: Then, as for him whose scales are heavy (with good works),
+    translation: Pickthall
+    original: فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ
+    arabicPlain: فأما من ثقلت موازينه
+    surahName: Al-Qaari'a
+    juz: 30
+    manzil: 7
+    ruku: 543
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '101'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '101:7'
+    scripture: quran
+    name: Quran 101:7
+    chapter: 101
+    verse: 7
+    ordinal: 6164
+    text: He will live a pleasant life.
+    translation: Pickthall
+    original: فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ
+    arabicPlain: فهو في عيشة راضية
+    surahName: Al-Qaari'a
+    juz: 30
+    manzil: 7
+    ruku: 543
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '101'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '101:8'
+    scripture: quran
+    name: Quran 101:8
+    chapter: 101
+    verse: 8
+    ordinal: 6165
+    text: But as for him whose scales are light,
+    translation: Pickthall
+    original: وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ
+    arabicPlain: وأما من خفت موازينه
+    surahName: Al-Qaari'a
+    juz: 30
+    manzil: 7
+    ruku: 543
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '101'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '101:9'
+    scripture: quran
+    name: Quran 101:9
+    chapter: 101
+    verse: 9
+    ordinal: 6166
+    text: A bereft and Hungry One will be his mother,
+    translation: Pickthall
+    original: فَأُمُّهُۥ هَاوِيَةٌ
+    arabicPlain: فأمه هاوية
+    surahName: Al-Qaari'a
+    juz: 30
+    manzil: 7
+    ruku: 543
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '101'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '101:10'
+    scripture: quran
+    name: Quran 101:10
+    chapter: 101
+    verse: 10
+    ordinal: 6167
+    text: Ah, what will convey unto thee what she is! -
+    translation: Pickthall
+    original: وَمَآ أَدْرَىٰكَ مَا هِيَهْ
+    arabicPlain: وما أدراك ما هيه
+    surahName: Al-Qaari'a
+    juz: 30
+    manzil: 7
+    ruku: 543
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '101'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '101:11'
+    scripture: quran
+    name: Quran 101:11
+    chapter: 101
+    verse: 11
+    ordinal: 6168
+    text: Raging Fire.
+    translation: Pickthall
+    original: نَارٌ حَامِيَةٌۢ
+    arabicPlain: نار حامية
+    surahName: Al-Qaari'a
+    juz: 30
+    manzil: 7
+    ruku: 543
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '101'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

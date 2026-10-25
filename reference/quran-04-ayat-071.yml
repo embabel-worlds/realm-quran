@@ -1,0 +1,791 @@
+# Every ayah of Surah Nooh (Noah): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '71:1'
+    scripture: quran
+    name: Quran 71:1
+    chapter: 71
+    verse: 1
+    ordinal: 5420
+    text: 'Lo! We sent Noah unto his people (saying): Warn thy people ere the painful doom come unto them.'
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ
+    arabicPlain: بسم الله الرحمن الرحيم إنا أرسلنا نوحا إلى قومه أن أنذر قومك من قبل أن يأتيهم عذاب أليم
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 570
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:2'
+    scripture: quran
+    name: Quran 71:2
+    chapter: 71
+    verse: 2
+    ordinal: 5421
+    text: 'He said: O my people! Lo! I am a plain warner unto you'
+    translation: Pickthall
+    original: قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ
+    arabicPlain: قال يا قوم إني لكم نذير مبين
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 570
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:3'
+    scripture: quran
+    name: Quran 71:3
+    chapter: 71
+    verse: 3
+    ordinal: 5422
+    text: '(Bidding you): Serve Allah and keep your duty unto Him and obey me,'
+    translation: Pickthall
+    original: أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ
+    arabicPlain: أن اعبدوا الله واتقوه وأطيعون
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 570
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:4'
+    scripture: quran
+    name: Quran 71:4
+    chapter: 71
+    verse: 4
+    ordinal: 5423
+    text: That He may forgive you somewhat of your sins and respite you to an appointed term. Lo! the term of Allah, when it cometh, cannot be delayed, if ye but knew.
+    translation: Pickthall
+    original: يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ
+    arabicPlain: يغفر لكم من ذنوبكم ويؤخركم إلى أجل مسمى ۚ إن أجل الله إذا جاء لا يؤخر ۖ لو كنتم تعلمون
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 570
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:5'
+    scripture: quran
+    name: Quran 71:5
+    chapter: 71
+    verse: 5
+    ordinal: 5424
+    text: 'He said: My Lord! Lo! I have called unto my people night and day'
+    translation: Pickthall
+    original: قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا
+    arabicPlain: قال رب إني دعوت قومي ليلا ونهارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 570
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:6'
+    scripture: quran
+    name: Quran 71:6
+    chapter: 71
+    verse: 6
+    ordinal: 5425
+    text: But all my calling doth but add to their repugnance;
+    translation: Pickthall
+    original: فَلَمْ يَزِدْهُمْ دُعَآءِىٓ إِلَّا فِرَارًا
+    arabicPlain: فلم يزدهم دعائي إلا فرارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 570
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:7'
+    scripture: quran
+    name: Quran 71:7
+    chapter: 71
+    verse: 7
+    ordinal: 5426
+    text: And lo! whenever I call unto them that Thou mayst pardon them they thrust their fingers in their ears and cover themselves with their garments and persist (in their refusal) and magnify themselves in pride.
+    translation: Pickthall
+    original: وَإِنِّى كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوٓا۟ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِمْ وَٱسْتَغْشَوْا۟ ثِيَابَهُمْ وَأَصَرُّوا۟ وَٱسْتَكْبَرُوا۟ ٱسْتِكْبَارًا
+    arabicPlain: وإني كلما دعوتهم لتغفر لهم جعلوا أصابعهم في آذانهم واستغشوا ثيابهم وأصروا واستكبروا استكبارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 570
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:8'
+    scripture: quran
+    name: Quran 71:8
+    chapter: 71
+    verse: 8
+    ordinal: 5427
+    text: And lo! I have called unto them aloud,
+    translation: Pickthall
+    original: ثُمَّ إِنِّى دَعَوْتُهُمْ جِهَارًا
+    arabicPlain: ثم إني دعوتهم جهارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 570
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:9'
+    scripture: quran
+    name: Quran 71:9
+    chapter: 71
+    verse: 9
+    ordinal: 5428
+    text: And lo! I have made public proclamation unto them, and I have appealed to them in private.
+    translation: Pickthall
+    original: ثُمَّ إِنِّىٓ أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا
+    arabicPlain: ثم إني أعلنت لهم وأسررت لهم إسرارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 570
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:10'
+    scripture: quran
+    name: Quran 71:10
+    chapter: 71
+    verse: 10
+    ordinal: 5429
+    text: 'And I have said: Seek pardon of your Lord. Lo! He was ever Forgiving.'
+    translation: Pickthall
+    original: فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا
+    arabicPlain: فقلت استغفروا ربكم إنه كان غفارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 570
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:11'
+    scripture: quran
+    name: Quran 71:11
+    chapter: 71
+    verse: 11
+    ordinal: 5430
+    text: He will let loose the sky for you in plenteous rain,
+    translation: Pickthall
+    original: يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا
+    arabicPlain: يرسل السماء عليكم مدرارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:12'
+    scripture: quran
+    name: Quran 71:12
+    chapter: 71
+    verse: 12
+    ordinal: 5431
+    text: And will help you with wealth and sons, and will assign unto you Gardens and will assign unto you rivers.
+    translation: Pickthall
+    original: وَيُمْدِدْكُم بِأَمْوَٰلٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍ وَيَجْعَل لَّكُمْ أَنْهَـٰرًا
+    arabicPlain: ويمددكم بأموال وبنين ويجعل لكم جنات ويجعل لكم أنهارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:13'
+    scripture: quran
+    name: Quran 71:13
+    chapter: 71
+    verse: 13
+    ordinal: 5432
+    text: What aileth you that ye hope not toward Allah for dignity
+    translation: Pickthall
+    original: مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا
+    arabicPlain: ما لكم لا ترجون لله وقارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:14'
+    scripture: quran
+    name: Quran 71:14
+    chapter: 71
+    verse: 14
+    ordinal: 5433
+    text: When He created you by (divers) stages?
+    translation: Pickthall
+    original: وَقَدْ خَلَقَكُمْ أَطْوَارًا
+    arabicPlain: وقد خلقكم أطوارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:15'
+    scripture: quran
+    name: Quran 71:15
+    chapter: 71
+    verse: 15
+    ordinal: 5434
+    text: See ye not how Allah hath created seven heavens in harmony,
+    translation: Pickthall
+    original: أَلَمْ تَرَوْا۟ كَيْفَ خَلَقَ ٱللَّهُ سَبْعَ سَمَـٰوَٰتٍ طِبَاقًا
+    arabicPlain: ألم تروا كيف خلق الله سبع سماوات طباقا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:16'
+    scripture: quran
+    name: Quran 71:16
+    chapter: 71
+    verse: 16
+    ordinal: 5435
+    text: And hath made the moon a light therein, and made the sun a lamp?
+    translation: Pickthall
+    original: وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ ٱلشَّمْسَ سِرَاجًا
+    arabicPlain: وجعل القمر فيهن نورا وجعل الشمس سراجا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:17'
+    scripture: quran
+    name: Quran 71:17
+    chapter: 71
+    verse: 17
+    ordinal: 5436
+    text: And Allah hath caused you to grow as a growth from the earth,
+    translation: Pickthall
+    original: وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا
+    arabicPlain: والله أنبتكم من الأرض نباتا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:18'
+    scripture: quran
+    name: Quran 71:18
+    chapter: 71
+    verse: 18
+    ordinal: 5437
+    text: And afterward He maketh you return thereto, and He will bring you forth again, a (new) forthbringing.
+    translation: Pickthall
+    original: ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
+    arabicPlain: ثم يعيدكم فيها ويخرجكم إخراجا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:19'
+    scripture: quran
+    name: Quran 71:19
+    chapter: 71
+    verse: 19
+    ordinal: 5438
+    text: And Allah hath made the earth a wide expanse for you
+    translation: Pickthall
+    original: وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًا
+    arabicPlain: والله جعل لكم الأرض بساطا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:20'
+    scripture: quran
+    name: Quran 71:20
+    chapter: 71
+    verse: 20
+    ordinal: 5439
+    text: That ye may thread the valley-ways thereof.
+    translation: Pickthall
+    original: لِّتَسْلُكُوا۟ مِنْهَا سُبُلًا فِجَاجًا
+    arabicPlain: لتسلكوا منها سبلا فجاجا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 504
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:21'
+    scripture: quran
+    name: Quran 71:21
+    chapter: 71
+    verse: 21
+    ordinal: 5440
+    text: 'Noah said: My Lord! Lo! they have disobeyed me and followed one whose wealth and children increase him in naught save ruin;'
+    translation: Pickthall
+    original: قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًا
+    arabicPlain: قال نوح رب إنهم عصوني واتبعوا من لم يزده ماله وولده إلا خسارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 505
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:22'
+    scripture: quran
+    name: Quran 71:22
+    chapter: 71
+    verse: 22
+    ordinal: 5441
+    text: And they have plotted a mighty plot,
+    translation: Pickthall
+    original: وَمَكَرُوا۟ مَكْرًا كُبَّارًا
+    arabicPlain: ومكروا مكرا كبارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 505
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:23'
+    scripture: quran
+    name: Quran 71:23
+    chapter: 71
+    verse: 23
+    ordinal: 5442
+    text: 'And they have said: Forsake not your gods. Forsake not Wadd, nor Suwa'', nor Yaghuth and Ya''uq and Nasr.'
+    translation: Pickthall
+    original: وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا
+    arabicPlain: وقالوا لا تذرن آلهتكم ولا تذرن ودا ولا سواعا ولا يغوث ويعوق ونسرا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 505
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:24'
+    scripture: quran
+    name: Quran 71:24
+    chapter: 71
+    verse: 24
+    ordinal: 5443
+    text: And they have led many astray, and Thou increasest the wrong-doers in naught save error.
+    translation: Pickthall
+    original: وَقَدْ أَضَلُّوا۟ كَثِيرًا ۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَـٰلًا
+    arabicPlain: وقد أضلوا كثيرا ۖ ولا تزد الظالمين إلا ضلالا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 505
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:25'
+    scripture: quran
+    name: Quran 71:25
+    chapter: 71
+    verse: 25
+    ordinal: 5444
+    text: Because of their sins they were drowned, then made to enter a Fire. And they found they had no helpers in place of Allah.
+    translation: Pickthall
+    original: مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًا
+    arabicPlain: مما خطيئاتهم أغرقوا فأدخلوا نارا فلم يجدوا لهم من دون الله أنصارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 505
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:26'
+    scripture: quran
+    name: Quran 71:26
+    chapter: 71
+    verse: 26
+    ordinal: 5445
+    text: 'And Noah said: My Lord! Leave not one of the disbelievers in the land.'
+    translation: Pickthall
+    original: وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَـٰفِرِينَ دَيَّارًا
+    arabicPlain: وقال نوح رب لا تذر على الأرض من الكافرين ديارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 505
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:27'
+    scripture: quran
+    name: Quran 71:27
+    chapter: 71
+    verse: 27
+    ordinal: 5446
+    text: If Thou shouldst leave them, they will mislead Thy slaves and will beget none save lewd ingrates.
+    translation: Pickthall
+    original: إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًا كَفَّارًا
+    arabicPlain: إنك إن تذرهم يضلوا عبادك ولا يلدوا إلا فاجرا كفارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 505
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '71:28'
+    scripture: quran
+    name: Quran 71:28
+    chapter: 71
+    verse: 28
+    ordinal: 5447
+    text: My Lord! Forgive me and my parents and him who entereth my house believing, and believing men and believing women, and increase not the wrong-doers in aught save ruin.
+    translation: Pickthall
+    original: رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارًۢا
+    arabicPlain: رب اغفر لي ولوالدي ولمن دخل بيتي مؤمنا وللمؤمنين والمؤمنات ولا تزد الظالمين إلا تبارا
+    surahName: Nooh
+    juz: 29
+    manzil: 7
+    ruku: 505
+    page: 571
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '71'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29

@@ -1,0 +1,1519 @@
+# Every ayah of Surah Al-Muddaththir (The Cloaked One): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '74:1'
+    scripture: quran
+    name: Quran 74:1
+    chapter: 74
+    verse: 1
+    ordinal: 5496
+    text: O thou enveloped in thy cloak,
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ
+    arabicPlain: بسم الله الرحمن الرحيم يا أيها المدثر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:2'
+    scripture: quran
+    name: Quran 74:2
+    chapter: 74
+    verse: 2
+    ordinal: 5497
+    text: Arise and warn!
+    translation: Pickthall
+    original: قُمْ فَأَنذِرْ
+    arabicPlain: قم فأنذر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:3'
+    scripture: quran
+    name: Quran 74:3
+    chapter: 74
+    verse: 3
+    ordinal: 5498
+    text: Thy Lord magnify,
+    translation: Pickthall
+    original: وَرَبَّكَ فَكَبِّرْ
+    arabicPlain: وربك فكبر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:4'
+    scripture: quran
+    name: Quran 74:4
+    chapter: 74
+    verse: 4
+    ordinal: 5499
+    text: Thy raiment purify,
+    translation: Pickthall
+    original: وَثِيَابَكَ فَطَهِّرْ
+    arabicPlain: وثيابك فطهر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:5'
+    scripture: quran
+    name: Quran 74:5
+    chapter: 74
+    verse: 5
+    ordinal: 5500
+    text: Pollution shun!
+    translation: Pickthall
+    original: وَٱلرُّجْزَ فَٱهْجُرْ
+    arabicPlain: والرجز فاهجر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:6'
+    scripture: quran
+    name: Quran 74:6
+    chapter: 74
+    verse: 6
+    ordinal: 5501
+    text: And show not favour, seeking wordly gain!
+    translation: Pickthall
+    original: وَلَا تَمْنُن تَسْتَكْثِرُ
+    arabicPlain: ولا تمنن تستكثر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:7'
+    scripture: quran
+    name: Quran 74:7
+    chapter: 74
+    verse: 7
+    ordinal: 5502
+    text: For the sake of thy Lord, be patient!
+    translation: Pickthall
+    original: وَلِرَبِّكَ فَٱصْبِرْ
+    arabicPlain: ولربك فاصبر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:8'
+    scripture: quran
+    name: Quran 74:8
+    chapter: 74
+    verse: 8
+    ordinal: 5503
+    text: For when the trumpet shall sound,
+    translation: Pickthall
+    original: فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ
+    arabicPlain: فإذا نقر في الناقور
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:9'
+    scripture: quran
+    name: Quran 74:9
+    chapter: 74
+    verse: 9
+    ordinal: 5504
+    text: Surely that day will be a day of anguish,
+    translation: Pickthall
+    original: فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ
+    arabicPlain: فذلك يومئذ يوم عسير
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:10'
+    scripture: quran
+    name: Quran 74:10
+    chapter: 74
+    verse: 10
+    ordinal: 5505
+    text: Not of ease, for disbelievers.
+    translation: Pickthall
+    original: عَلَى ٱلْكَـٰفِرِينَ غَيْرُ يَسِيرٍ
+    arabicPlain: على الكافرين غير يسير
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:11'
+    scripture: quran
+    name: Quran 74:11
+    chapter: 74
+    verse: 11
+    ordinal: 5506
+    text: Leave Me (to deal) with him whom I created lonely,
+    translation: Pickthall
+    original: ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًا
+    arabicPlain: ذرني ومن خلقت وحيدا
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:12'
+    scripture: quran
+    name: Quran 74:12
+    chapter: 74
+    verse: 12
+    ordinal: 5507
+    text: And then bestowed upon him ample means,
+    translation: Pickthall
+    original: وَجَعَلْتُ لَهُۥ مَالًا مَّمْدُودًا
+    arabicPlain: وجعلت له مالا ممدودا
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:13'
+    scripture: quran
+    name: Quran 74:13
+    chapter: 74
+    verse: 13
+    ordinal: 5508
+    text: And sons abiding in his presence
+    translation: Pickthall
+    original: وَبَنِينَ شُهُودًا
+    arabicPlain: وبنين شهودا
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:14'
+    scripture: quran
+    name: Quran 74:14
+    chapter: 74
+    verse: 14
+    ordinal: 5509
+    text: And made (life) smooth for him.
+    translation: Pickthall
+    original: وَمَهَّدتُّ لَهُۥ تَمْهِيدًا
+    arabicPlain: ومهدت له تمهيدا
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:15'
+    scripture: quran
+    name: Quran 74:15
+    chapter: 74
+    verse: 15
+    ordinal: 5510
+    text: Yet he desireth that I should give more.
+    translation: Pickthall
+    original: ثُمَّ يَطْمَعُ أَنْ أَزِيدَ
+    arabicPlain: ثم يطمع أن أزيد
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:16'
+    scripture: quran
+    name: Quran 74:16
+    chapter: 74
+    verse: 16
+    ordinal: 5511
+    text: Nay! For lo! he hath been stubborn to Our revelations.
+    translation: Pickthall
+    original: كَلَّآ ۖ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا
+    arabicPlain: كلا ۖ إنه كان لآياتنا عنيدا
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:17'
+    scripture: quran
+    name: Quran 74:17
+    chapter: 74
+    verse: 17
+    ordinal: 5512
+    text: On him I shall impose a fearful doom.
+    translation: Pickthall
+    original: سَأُرْهِقُهُۥ صَعُودًا
+    arabicPlain: سأرهقه صعودا
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 575
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:18'
+    scripture: quran
+    name: Quran 74:18
+    chapter: 74
+    verse: 18
+    ordinal: 5513
+    text: For lo! he did consider; then he planned -
+    translation: Pickthall
+    original: إِنَّهُۥ فَكَّرَ وَقَدَّرَ
+    arabicPlain: إنه فكر وقدر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:19'
+    scripture: quran
+    name: Quran 74:19
+    chapter: 74
+    verse: 19
+    ordinal: 5514
+    text: (Self-)destroyed is he, how he planned!
+    translation: Pickthall
+    original: فَقُتِلَ كَيْفَ قَدَّرَ
+    arabicPlain: فقتل كيف قدر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:20'
+    scripture: quran
+    name: Quran 74:20
+    chapter: 74
+    verse: 20
+    ordinal: 5515
+    text: Again (self-)destroyed is he, how he planned! -
+    translation: Pickthall
+    original: ثُمَّ قُتِلَ كَيْفَ قَدَّرَ
+    arabicPlain: ثم قتل كيف قدر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:21'
+    scripture: quran
+    name: Quran 74:21
+    chapter: 74
+    verse: 21
+    ordinal: 5516
+    text: Then looked he,
+    translation: Pickthall
+    original: ثُمَّ نَظَرَ
+    arabicPlain: ثم نظر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:22'
+    scripture: quran
+    name: Quran 74:22
+    chapter: 74
+    verse: 22
+    ordinal: 5517
+    text: Then frowned he and showed displeasure.
+    translation: Pickthall
+    original: ثُمَّ عَبَسَ وَبَسَرَ
+    arabicPlain: ثم عبس وبسر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:23'
+    scripture: quran
+    name: Quran 74:23
+    chapter: 74
+    verse: 23
+    ordinal: 5518
+    text: Then turned he away in pride
+    translation: Pickthall
+    original: ثُمَّ أَدْبَرَ وَٱسْتَكْبَرَ
+    arabicPlain: ثم أدبر واستكبر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:24'
+    scripture: quran
+    name: Quran 74:24
+    chapter: 74
+    verse: 24
+    ordinal: 5519
+    text: 'And said: This is naught else than magic from of old;'
+    translation: Pickthall
+    original: فَقَالَ إِنْ هَـٰذَآ إِلَّا سِحْرٌ يُؤْثَرُ
+    arabicPlain: فقال إن هذا إلا سحر يؤثر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:25'
+    scripture: quran
+    name: Quran 74:25
+    chapter: 74
+    verse: 25
+    ordinal: 5520
+    text: This is naught else than speech of mortal man.
+    translation: Pickthall
+    original: إِنْ هَـٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ
+    arabicPlain: إن هذا إلا قول البشر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:26'
+    scripture: quran
+    name: Quran 74:26
+    chapter: 74
+    verse: 26
+    ordinal: 5521
+    text: Him shall I fling unto the burning.
+    translation: Pickthall
+    original: سَأُصْلِيهِ سَقَرَ
+    arabicPlain: سأصليه سقر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:27'
+    scripture: quran
+    name: Quran 74:27
+    chapter: 74
+    verse: 27
+    ordinal: 5522
+    text: '- Ah, what will convey unto thee what that burning is! -'
+    translation: Pickthall
+    original: وَمَآ أَدْرَىٰكَ مَا سَقَرُ
+    arabicPlain: وما أدراك ما سقر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:28'
+    scripture: quran
+    name: Quran 74:28
+    chapter: 74
+    verse: 28
+    ordinal: 5523
+    text: It leaveth naught; it spareth naught
+    translation: Pickthall
+    original: لَا تُبْقِى وَلَا تَذَرُ
+    arabicPlain: لا تبقي ولا تذر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:29'
+    scripture: quran
+    name: Quran 74:29
+    chapter: 74
+    verse: 29
+    ordinal: 5524
+    text: It shrivelleth the man.
+    translation: Pickthall
+    original: لَوَّاحَةٌ لِّلْبَشَرِ
+    arabicPlain: لواحة للبشر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:30'
+    scripture: quran
+    name: Quran 74:30
+    chapter: 74
+    verse: 30
+    ordinal: 5525
+    text: Above it are nineteen.
+    translation: Pickthall
+    original: عَلَيْهَا تِسْعَةَ عَشَرَ
+    arabicPlain: عليها تسعة عشر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:31'
+    scripture: quran
+    name: Quran 74:31
+    chapter: 74
+    verse: 31
+    ordinal: 5526
+    text: 'We have appointed only angels to be wardens of the Fire, and their number have We made to be a stumbling-block for those who disbelieve; that those to whom the Scripture hath been given may have certainty, and that believers may increase in faith; and that those to whom the Scripture hath been given and believers may not doubt; and that those in whose hearts there is disease, and disbelievers, may say: What meaneth Allah by this similitude? Thus Allah sendeth astray whom He will, and whom He will He guideth. None knoweth the hosts of thy Lord save Him. This is naught else than a Reminder unto mortals.'
+    translation: Pickthall
+    original: وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
+    arabicPlain: وما جعلنا أصحاب النار إلا ملائكة ۙ وما جعلنا عدتهم إلا فتنة للذين كفروا ليستيقن الذين أوتوا الكتاب ويزداد الذين آمنوا إيمانا ۙ ولا يرتاب الذين أوتوا الكتاب والمؤمنون ۙ وليقول الذين في قلوبهم مرض والكافرون ماذا أراد الله بهذا مثلا ۚ كذلك يضل الله من يشاء ويهدي من يشاء ۚ وما يعلم جنود ربك إلا هو ۚ وما هي إلا ذكرى للبشر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 510
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:32'
+    scripture: quran
+    name: Quran 74:32
+    chapter: 74
+    verse: 32
+    ordinal: 5527
+    text: Nay, by the Moon
+    translation: Pickthall
+    original: كَلَّا وَٱلْقَمَرِ
+    arabicPlain: كلا والقمر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:33'
+    scripture: quran
+    name: Quran 74:33
+    chapter: 74
+    verse: 33
+    ordinal: 5528
+    text: And the night when it withdraweth
+    translation: Pickthall
+    original: وَٱلَّيْلِ إِذْ أَدْبَرَ
+    arabicPlain: والليل إذ أدبر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:34'
+    scripture: quran
+    name: Quran 74:34
+    chapter: 74
+    verse: 34
+    ordinal: 5529
+    text: And the dawn when it shineth forth,
+    translation: Pickthall
+    original: وَٱلصُّبْحِ إِذَآ أَسْفَرَ
+    arabicPlain: والصبح إذا أسفر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:35'
+    scripture: quran
+    name: Quran 74:35
+    chapter: 74
+    verse: 35
+    ordinal: 5530
+    text: Lo! this is one of the greatest (portents)
+    translation: Pickthall
+    original: إِنَّهَا لَإِحْدَى ٱلْكُبَرِ
+    arabicPlain: إنها لإحدى الكبر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:36'
+    scripture: quran
+    name: Quran 74:36
+    chapter: 74
+    verse: 36
+    ordinal: 5531
+    text: As a warning unto men,
+    translation: Pickthall
+    original: نَذِيرًا لِّلْبَشَرِ
+    arabicPlain: نذيرا للبشر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:37'
+    scripture: quran
+    name: Quran 74:37
+    chapter: 74
+    verse: 37
+    ordinal: 5532
+    text: Unto him of you who will advance or hang back.
+    translation: Pickthall
+    original: لِمَن شَآءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ
+    arabicPlain: لمن شاء منكم أن يتقدم أو يتأخر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:38'
+    scripture: quran
+    name: Quran 74:38
+    chapter: 74
+    verse: 38
+    ordinal: 5533
+    text: Every soul is a pledge for its own deeds;
+    translation: Pickthall
+    original: كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ
+    arabicPlain: كل نفس بما كسبت رهينة
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:39'
+    scripture: quran
+    name: Quran 74:39
+    chapter: 74
+    verse: 39
+    ordinal: 5534
+    text: Save those who will stand on the right hand.
+    translation: Pickthall
+    original: إِلَّآ أَصْحَـٰبَ ٱلْيَمِينِ
+    arabicPlain: إلا أصحاب اليمين
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:40'
+    scripture: quran
+    name: Quran 74:40
+    chapter: 74
+    verse: 40
+    ordinal: 5535
+    text: In gardens they will ask one another
+    translation: Pickthall
+    original: فِى جَنَّـٰتٍ يَتَسَآءَلُونَ
+    arabicPlain: في جنات يتساءلون
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:41'
+    scripture: quran
+    name: Quran 74:41
+    chapter: 74
+    verse: 41
+    ordinal: 5536
+    text: 'Concerning the guilty:'
+    translation: Pickthall
+    original: عَنِ ٱلْمُجْرِمِينَ
+    arabicPlain: عن المجرمين
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:42'
+    scripture: quran
+    name: Quran 74:42
+    chapter: 74
+    verse: 42
+    ordinal: 5537
+    text: What hath brought you to this burning?
+    translation: Pickthall
+    original: مَا سَلَكَكُمْ فِى سَقَرَ
+    arabicPlain: ما سلككم في سقر
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:43'
+    scripture: quran
+    name: Quran 74:43
+    chapter: 74
+    verse: 43
+    ordinal: 5538
+    text: 'They will answer: We were not of those who prayed'
+    translation: Pickthall
+    original: قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ
+    arabicPlain: قالوا لم نك من المصلين
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:44'
+    scripture: quran
+    name: Quran 74:44
+    chapter: 74
+    verse: 44
+    ordinal: 5539
+    text: Nor did we feed the wretched.
+    translation: Pickthall
+    original: وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ
+    arabicPlain: ولم نك نطعم المسكين
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:45'
+    scripture: quran
+    name: Quran 74:45
+    chapter: 74
+    verse: 45
+    ordinal: 5540
+    text: We used to wade (in vain dispute) with (all) waders,
+    translation: Pickthall
+    original: وَكُنَّا نَخُوضُ مَعَ ٱلْخَآئِضِينَ
+    arabicPlain: وكنا نخوض مع الخائضين
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:46'
+    scripture: quran
+    name: Quran 74:46
+    chapter: 74
+    verse: 46
+    ordinal: 5541
+    text: And we used to deny the Day of Judgment,
+    translation: Pickthall
+    original: وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ
+    arabicPlain: وكنا نكذب بيوم الدين
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:47'
+    scripture: quran
+    name: Quran 74:47
+    chapter: 74
+    verse: 47
+    ordinal: 5542
+    text: Till the Inevitable came unto us.
+    translation: Pickthall
+    original: حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ
+    arabicPlain: حتى أتانا اليقين
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 576
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:48'
+    scripture: quran
+    name: Quran 74:48
+    chapter: 74
+    verse: 48
+    ordinal: 5543
+    text: The mediation of no mediators will avail them then.
+    translation: Pickthall
+    original: فَمَا تَنفَعُهُمْ شَفَـٰعَةُ ٱلشَّـٰفِعِينَ
+    arabicPlain: فما تنفعهم شفاعة الشافعين
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 577
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:49'
+    scripture: quran
+    name: Quran 74:49
+    chapter: 74
+    verse: 49
+    ordinal: 5544
+    text: Why now turn they away from the Admonishment,
+    translation: Pickthall
+    original: فَمَا لَهُمْ عَنِ ٱلتَّذْكِرَةِ مُعْرِضِينَ
+    arabicPlain: فما لهم عن التذكرة معرضين
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 577
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:50'
+    scripture: quran
+    name: Quran 74:50
+    chapter: 74
+    verse: 50
+    ordinal: 5545
+    text: As they were frightened asses
+    translation: Pickthall
+    original: كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ
+    arabicPlain: كأنهم حمر مستنفرة
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 577
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:51'
+    scripture: quran
+    name: Quran 74:51
+    chapter: 74
+    verse: 51
+    ordinal: 5546
+    text: Fleeing from a lion?
+    translation: Pickthall
+    original: فَرَّتْ مِن قَسْوَرَةٍۭ
+    arabicPlain: فرت من قسورة
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 577
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:52'
+    scripture: quran
+    name: Quran 74:52
+    chapter: 74
+    verse: 52
+    ordinal: 5547
+    text: Nay, but everyone of them desireth that he should be given open pages (from Allah).
+    translation: Pickthall
+    original: بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً
+    arabicPlain: بل يريد كل امرئ منهم أن يؤتى صحفا منشرة
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 577
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:53'
+    scripture: quran
+    name: Quran 74:53
+    chapter: 74
+    verse: 53
+    ordinal: 5548
+    text: Nay, verily. They fear not the Hereafter.
+    translation: Pickthall
+    original: كَلَّا ۖ بَل لَّا يَخَافُونَ ٱلْـَٔاخِرَةَ
+    arabicPlain: كلا ۖ بل لا يخافون الآخرة
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 577
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:54'
+    scripture: quran
+    name: Quran 74:54
+    chapter: 74
+    verse: 54
+    ordinal: 5549
+    text: Nay, verily. Lo! this is an Admonishment.
+    translation: Pickthall
+    original: كَلَّآ إِنَّهُۥ تَذْكِرَةٌ
+    arabicPlain: كلا إنه تذكرة
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 577
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:55'
+    scripture: quran
+    name: Quran 74:55
+    chapter: 74
+    verse: 55
+    ordinal: 5550
+    text: So whosoever will may heed.
+    translation: Pickthall
+    original: فَمَن شَآءَ ذَكَرَهُۥ
+    arabicPlain: فمن شاء ذكره
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 577
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '74:56'
+    scripture: quran
+    name: Quran 74:56
+    chapter: 74
+    verse: 56
+    ordinal: 5551
+    text: And they will not heed unless Allah willeth (it). He is the fount of fear. He is the fount of Mercy.
+    translation: Pickthall
+    original: وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ
+    arabicPlain: وما يذكرون إلا أن يشاء الله ۚ هو أهل التقوى وأهل المغفرة
+    surahName: Al-Muddaththir
+    juz: 29
+    manzil: 7
+    ruku: 511
+    page: 577
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '74'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29

@@ -1,0 +1,843 @@
+# Every ayah of Surah Al-Fajr (The Dawn): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '89:1'
+    scripture: quran
+    name: Quran 89:1
+    chapter: 89
+    verse: 1
+    ordinal: 5994
+    text: By the Dawn
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ
+    arabicPlain: بسم الله الرحمن الرحيم والفجر
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:2'
+    scripture: quran
+    name: Quran 89:2
+    chapter: 89
+    verse: 2
+    ordinal: 5995
+    text: And ten nights,
+    translation: Pickthall
+    original: وَلَيَالٍ عَشْرٍ
+    arabicPlain: وليال عشر
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:3'
+    scripture: quran
+    name: Quran 89:3
+    chapter: 89
+    verse: 3
+    ordinal: 5996
+    text: And the Even and the Odd,
+    translation: Pickthall
+    original: وَٱلشَّفْعِ وَٱلْوَتْرِ
+    arabicPlain: والشفع والوتر
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:4'
+    scripture: quran
+    name: Quran 89:4
+    chapter: 89
+    verse: 4
+    ordinal: 5997
+    text: And the night when it departeth,
+    translation: Pickthall
+    original: وَٱلَّيْلِ إِذَا يَسْرِ
+    arabicPlain: والليل إذا يسر
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:5'
+    scripture: quran
+    name: Quran 89:5
+    chapter: 89
+    verse: 5
+    ordinal: 5998
+    text: There surely is an oath for thinking man.
+    translation: Pickthall
+    original: هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ
+    arabicPlain: هل في ذلك قسم لذي حجر
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:6'
+    scripture: quran
+    name: Quran 89:6
+    chapter: 89
+    verse: 6
+    ordinal: 5999
+    text: Dost thou not consider how thy Lord dealt with (the tribe of) A'ad,
+    translation: Pickthall
+    original: أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ
+    arabicPlain: ألم تر كيف فعل ربك بعاد
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:7'
+    scripture: quran
+    name: Quran 89:7
+    chapter: 89
+    verse: 7
+    ordinal: 6000
+    text: With many-columned Iram,
+    translation: Pickthall
+    original: إِرَمَ ذَاتِ ٱلْعِمَادِ
+    arabicPlain: إرم ذات العماد
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:8'
+    scripture: quran
+    name: Quran 89:8
+    chapter: 89
+    verse: 8
+    ordinal: 6001
+    text: The like of which was not created in the lands;
+    translation: Pickthall
+    original: ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ
+    arabicPlain: التي لم يخلق مثلها في البلاد
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:9'
+    scripture: quran
+    name: Quran 89:9
+    chapter: 89
+    verse: 9
+    ordinal: 6002
+    text: And with (the tribe of) Thamud, who clove the rocks in the valley;
+    translation: Pickthall
+    original: وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ
+    arabicPlain: وثمود الذين جابوا الصخر بالواد
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:10'
+    scripture: quran
+    name: Quran 89:10
+    chapter: 89
+    verse: 10
+    ordinal: 6003
+    text: And with Pharaoh, firm of might,
+    translation: Pickthall
+    original: وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ
+    arabicPlain: وفرعون ذي الأوتاد
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:11'
+    scripture: quran
+    name: Quran 89:11
+    chapter: 89
+    verse: 11
+    ordinal: 6004
+    text: Who (all) were rebellious (to Allah) in these lands,
+    translation: Pickthall
+    original: ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ
+    arabicPlain: الذين طغوا في البلاد
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:12'
+    scripture: quran
+    name: Quran 89:12
+    chapter: 89
+    verse: 12
+    ordinal: 6005
+    text: And multiplied iniquity therein?
+    translation: Pickthall
+    original: فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ
+    arabicPlain: فأكثروا فيها الفساد
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:13'
+    scripture: quran
+    name: Quran 89:13
+    chapter: 89
+    verse: 13
+    ordinal: 6006
+    text: Therefore thy Lord poured on them the disaster of His punishment.
+    translation: Pickthall
+    original: فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ
+    arabicPlain: فصب عليهم ربك سوط عذاب
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:14'
+    scripture: quran
+    name: Quran 89:14
+    chapter: 89
+    verse: 14
+    ordinal: 6007
+    text: Lo! thy Lord is ever watchful.
+    translation: Pickthall
+    original: إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ
+    arabicPlain: إن ربك لبالمرصاد
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:15'
+    scripture: quran
+    name: Quran 89:15
+    chapter: 89
+    verse: 15
+    ordinal: 6008
+    text: 'As for man, whenever his Lord trieth him by honouring him, and is gracious unto him, he saith: My Lord honoureth me.'
+    translation: Pickthall
+    original: فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ
+    arabicPlain: فأما الإنسان إذا ما ابتلاه ربه فأكرمه ونعمه فيقول ربي أكرمن
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:16'
+    scripture: quran
+    name: Quran 89:16
+    chapter: 89
+    verse: 16
+    ordinal: 6009
+    text: 'But whenever He trieth him by straitening his means of life, he saith: My Lord despiseth me.'
+    translation: Pickthall
+    original: وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ
+    arabicPlain: وأما إذا ما ابتلاه فقدر عليه رزقه فيقول ربي أهانن
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:17'
+    scripture: quran
+    name: Quran 89:17
+    chapter: 89
+    verse: 17
+    ordinal: 6010
+    text: Nay, but ye (for your part) honour not the orphan
+    translation: Pickthall
+    original: كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ
+    arabicPlain: كلا ۖ بل لا تكرمون اليتيم
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:18'
+    scripture: quran
+    name: Quran 89:18
+    chapter: 89
+    verse: 18
+    ordinal: 6011
+    text: And urge not on the feeding of the poor.
+    translation: Pickthall
+    original: وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
+    arabicPlain: ولا تحاضون على طعام المسكين
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:19'
+    scripture: quran
+    name: Quran 89:19
+    chapter: 89
+    verse: 19
+    ordinal: 6012
+    text: And ye devour heritages with devouring greed.
+    translation: Pickthall
+    original: وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا
+    arabicPlain: وتأكلون التراث أكلا لما
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:20'
+    scripture: quran
+    name: Quran 89:20
+    chapter: 89
+    verse: 20
+    ordinal: 6013
+    text: And love wealth with abounding love.
+    translation: Pickthall
+    original: وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا
+    arabicPlain: وتحبون المال حبا جما
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:21'
+    scripture: quran
+    name: Quran 89:21
+    chapter: 89
+    verse: 21
+    ordinal: 6014
+    text: Nay, but when the earth is ground to atoms, grinding, grinding,
+    translation: Pickthall
+    original: كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا
+    arabicPlain: كلا إذا دكت الأرض دكا دكا
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:22'
+    scripture: quran
+    name: Quran 89:22
+    chapter: 89
+    verse: 22
+    ordinal: 6015
+    text: And thy Lord shall come with angels, rank on rank,
+    translation: Pickthall
+    original: وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا
+    arabicPlain: وجاء ربك والملك صفا صفا
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:23'
+    scripture: quran
+    name: Quran 89:23
+    chapter: 89
+    verse: 23
+    ordinal: 6016
+    text: And hell is brought near that day; on that day man will remember, but how will the remembrance (then avail him)?
+    translation: Pickthall
+    original: وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ
+    arabicPlain: وجيء يومئذ بجهنم ۚ يومئذ يتذكر الإنسان وأنى له الذكرى
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 593
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:24'
+    scripture: quran
+    name: Quran 89:24
+    chapter: 89
+    verse: 24
+    ordinal: 6017
+    text: 'He will say: Ah, would that I had sent before me (some provision) for my life!'
+    translation: Pickthall
+    original: يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى
+    arabicPlain: يقول يا ليتني قدمت لحياتي
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:25'
+    scripture: quran
+    name: Quran 89:25
+    chapter: 89
+    verse: 25
+    ordinal: 6018
+    text: None punisheth as He will punish on that day!
+    translation: Pickthall
+    original: فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ
+    arabicPlain: فيومئذ لا يعذب عذابه أحد
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:26'
+    scripture: quran
+    name: Quran 89:26
+    chapter: 89
+    verse: 26
+    ordinal: 6019
+    text: None bindeth as He then will bind.
+    translation: Pickthall
+    original: وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ
+    arabicPlain: ولا يوثق وثاقه أحد
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:27'
+    scripture: quran
+    name: Quran 89:27
+    chapter: 89
+    verse: 27
+    ordinal: 6020
+    text: But ah! thou soul at peace!
+    translation: Pickthall
+    original: يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ
+    arabicPlain: يا أيتها النفس المطمئنة
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:28'
+    scripture: quran
+    name: Quran 89:28
+    chapter: 89
+    verse: 28
+    ordinal: 6021
+    text: Return unto thy Lord, content in His good pleasure!
+    translation: Pickthall
+    original: ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً
+    arabicPlain: ارجعي إلى ربك راضية مرضية
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:29'
+    scripture: quran
+    name: Quran 89:29
+    chapter: 89
+    verse: 29
+    ordinal: 6022
+    text: Enter thou among My bondmen!
+    translation: Pickthall
+    original: فَٱدْخُلِى فِى عِبَـٰدِى
+    arabicPlain: فادخلي في عبادي
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '89:30'
+    scripture: quran
+    name: Quran 89:30
+    chapter: 89
+    verse: 30
+    ordinal: 6023
+    text: Enter thou My Garden!
+    translation: Pickthall
+    original: وَٱدْخُلِى جَنَّتِى
+    arabicPlain: وادخلي جنتي
+    surahName: Al-Fajr
+    juz: 30
+    manzil: 7
+    ruku: 531
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '89'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

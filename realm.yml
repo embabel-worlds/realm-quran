@@ -1,0 +1,29 @@
+name: realm-quran
+description: |
+  The Quran as a graph you can query. Every ayah of the 114 surahs is stored with three texts:
+  the Arabic in Uthmani script (the Quran itself), the same Arabic without diacritics for
+  searching, and Pickthall's English (1930), a translation of the meaning. Read an ayah or a
+  surah, search in English or Arabic, list the surahs in the order of the mushaf or of
+  revelation, and see what each of the thirty ajza holds.
+
+  A child of the scripture vocabulary: an Ayah is a Verse, so a question asked of every
+  scripture — which verses speak of mercy — is answered here and in the Bible alike.
+
+  Keyless. Nothing to configure. Arabic text from the Tanzil Project (tanzil.net), CC BY 3.0,
+  verbatim.
+version: 0.1.0
+# Experimental: its types are children of realm-scripture-vocabulary, which is itself experimental,
+# and the contract between them has met two scriptures so far.
+maturity: experimental
+url: https://github.com/embabel-worlds/realm-quran
+author: Rod Johnson
+tags:
+  - quran
+  - scripture
+  - islam
+  - reference
+exports:
+  - Mushaf
+  - Surah
+  - Ayah
+  - Juz

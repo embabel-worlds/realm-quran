@@ -1,0 +1,141 @@
+# Every ayah of Surah An-Nasr (Divine Support): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '110:1'
+    scripture: quran
+    name: Quran 110:1
+    chapter: 110
+    verse: 1
+    ordinal: 6214
+    text: When Allah's succour and the triumph cometh
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ
+    arabicPlain: بسم الله الرحمن الرحيم إذا جاء نصر الله والفتح
+    surahName: An-Nasr
+    juz: 30
+    manzil: 7
+    ruku: 552
+    page: 603
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '110'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '110:2'
+    scripture: quran
+    name: Quran 110:2
+    chapter: 110
+    verse: 2
+    ordinal: 6215
+    text: And thou seest mankind entering the religion of Allah in troops,
+    translation: Pickthall
+    original: وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا
+    arabicPlain: ورأيت الناس يدخلون في دين الله أفواجا
+    surahName: An-Nasr
+    juz: 30
+    manzil: 7
+    ruku: 552
+    page: 603
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '110'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '110:3'
+    scripture: quran
+    name: Quran 110:3
+    chapter: 110
+    verse: 3
+    ordinal: 6216
+    text: Then hymn the praises of thy Lord, and seek forgiveness of Him. Lo! He is ever ready to show mercy.
+    translation: Pickthall
+    original: فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا
+    arabicPlain: فسبح بحمد ربك واستغفره ۚ إنه كان توابا
+    surahName: An-Nasr
+    juz: 30
+    manzil: 7
+    ruku: 552
+    page: 603
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '110'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

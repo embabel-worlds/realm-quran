@@ -1,0 +1,1233 @@
+# Every ayah of Surah Qaaf (The letter Qaaf): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '50:1'
+    scripture: quran
+    name: Quran 50:1
+    chapter: 50
+    verse: 1
+    ordinal: 4631
+    text: Qaf. By the Glorious Qur'an,
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قٓ ۚ وَٱلْقُرْءَانِ ٱلْمَجِيدِ
+    arabicPlain: بسم الله الرحمن الرحيم ق ۚ والقرآن المجيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:2'
+    scripture: quran
+    name: Quran 50:2
+    chapter: 50
+    verse: 2
+    ordinal: 4632
+    text: 'Nay, but they marvel that a warner of their own hath come unto them; and the disbelievers say: This is a strange thing:'
+    translation: Pickthall
+    original: بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ فَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا شَىْءٌ عَجِيبٌ
+    arabicPlain: بل عجبوا أن جاءهم منذر منهم فقال الكافرون هذا شيء عجيب
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:3'
+    scripture: quran
+    name: Quran 50:3
+    chapter: 50
+    verse: 3
+    ordinal: 4633
+    text: When we are dead and have become dust (shall we be brought back again)? That would be a far return!
+    translation: Pickthall
+    original: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌ
+    arabicPlain: أإذا متنا وكنا ترابا ۖ ذلك رجع بعيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:4'
+    scripture: quran
+    name: Quran 50:4
+    chapter: 50
+    verse: 4
+    ordinal: 4634
+    text: We know that which the earth taketh of them, and with Us is a recording Book.
+    translation: Pickthall
+    original: قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ ۖ وَعِندَنَا كِتَـٰبٌ حَفِيظٌۢ
+    arabicPlain: قد علمنا ما تنقص الأرض منهم ۖ وعندنا كتاب حفيظ
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:5'
+    scripture: quran
+    name: Quran 50:5
+    chapter: 50
+    verse: 5
+    ordinal: 4635
+    text: Nay, but they have denied the truth when it came unto them, therefor they are now in troubled case.
+    translation: Pickthall
+    original: بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍ مَّرِيجٍ
+    arabicPlain: بل كذبوا بالحق لما جاءهم فهم في أمر مريج
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:6'
+    scripture: quran
+    name: Quran 50:6
+    chapter: 50
+    verse: 6
+    ordinal: 4636
+    text: Have they not then observed the sky above them, how We have constructed it and beautified it, and how there are no rifts therein?
+    translation: Pickthall
+    original: أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَـٰهَا وَزَيَّنَّـٰهَا وَمَا لَهَا مِن فُرُوجٍ
+    arabicPlain: أفلم ينظروا إلى السماء فوقهم كيف بنيناها وزيناها وما لها من فروج
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:7'
+    scripture: quran
+    name: Quran 50:7
+    chapter: 50
+    verse: 7
+    ordinal: 4637
+    text: And the earth have We spread out, and have flung firm hills therein, and have caused of every lovely kind to grow thereon,
+    translation: Pickthall
+    original: وَٱلْأَرْضَ مَدَدْنَـٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍ
+    arabicPlain: والأرض مددناها وألقينا فيها رواسي وأنبتنا فيها من كل زوج بهيج
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:8'
+    scripture: quran
+    name: Quran 50:8
+    chapter: 50
+    verse: 8
+    ordinal: 4638
+    text: A vision and a reminder for every penitent slave.
+    translation: Pickthall
+    original: تَبْصِرَةً وَذِكْرَىٰ لِكُلِّ عَبْدٍ مُّنِيبٍ
+    arabicPlain: تبصرة وذكرى لكل عبد منيب
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:9'
+    scripture: quran
+    name: Quran 50:9
+    chapter: 50
+    verse: 9
+    ordinal: 4639
+    text: And We send down from the sky blessed water whereby We give growth unto gardens and the grain of crops,
+    translation: Pickthall
+    original: وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَـٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّـٰتٍ وَحَبَّ ٱلْحَصِيدِ
+    arabicPlain: ونزلنا من السماء ماء مباركا فأنبتنا به جنات وحب الحصيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:10'
+    scripture: quran
+    name: Quran 50:10
+    chapter: 50
+    verse: 10
+    ordinal: 4640
+    text: And lofty date-palms with ranged clusters,
+    translation: Pickthall
+    original: وَٱلنَّخْلَ بَاسِقَـٰتٍ لَّهَا طَلْعٌ نَّضِيدٌ
+    arabicPlain: والنخل باسقات لها طلع نضيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:11'
+    scripture: quran
+    name: Quran 50:11
+    chapter: 50
+    verse: 11
+    ordinal: 4641
+    text: Provision (made) for men; and therewith We quicken a dead land. Even so will be the resurrection of the dead.
+    translation: Pickthall
+    original: رِّزْقًا لِّلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا ۚ كَذَٰلِكَ ٱلْخُرُوجُ
+    arabicPlain: رزقا للعباد ۖ وأحيينا به بلدة ميتا ۚ كذلك الخروج
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:12'
+    scripture: quran
+    name: Quran 50:12
+    chapter: 50
+    verse: 12
+    ordinal: 4642
+    text: The folk of Noah denied (the truth) before them, and (so did) the dwellers at Ar-Rass and (the tribe of) Thamud,
+    translation: Pickthall
+    original: كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَـٰبُ ٱلرَّسِّ وَثَمُودُ
+    arabicPlain: كذبت قبلهم قوم نوح وأصحاب الرس وثمود
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:13'
+    scripture: quran
+    name: Quran 50:13
+    chapter: 50
+    verse: 13
+    ordinal: 4643
+    text: And (the tribe of) A'ad, and Pharaoh, and the brethren of Lot,
+    translation: Pickthall
+    original: وَعَادٌ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍ
+    arabicPlain: وعاد وفرعون وإخوان لوط
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:14'
+    scripture: quran
+    name: Quran 50:14
+    chapter: 50
+    verse: 14
+    ordinal: 4644
+    text: 'And the dwellers in the wood, and the folk of Tubb''a: every one denied their messengers, therefor My threat took effect.'
+    translation: Pickthall
+    original: وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍ ۚ كُلٌّ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ
+    arabicPlain: وأصحاب الأيكة وقوم تبع ۚ كل كذب الرسل فحق وعيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:15'
+    scripture: quran
+    name: Quran 50:15
+    chapter: 50
+    verse: 15
+    ordinal: 4645
+    text: Were We then worn out by the first creation? Yet they are in doubt about a new creation.
+    translation: Pickthall
+    original: أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ
+    arabicPlain: أفعيينا بالخلق الأول ۚ بل هم في لبس من خلق جديد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 452
+    page: 518
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:16'
+    scripture: quran
+    name: Quran 50:16
+    chapter: 50
+    verse: 16
+    ordinal: 4646
+    text: We verily created man and We know what his soul whispereth to him, and We are nearer to him than his jugular vein.
+    translation: Pickthall
+    original: وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ
+    arabicPlain: ولقد خلقنا الإنسان ونعلم ما توسوس به نفسه ۖ ونحن أقرب إليه من حبل الوريد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:17'
+    scripture: quran
+    name: Quran 50:17
+    chapter: 50
+    verse: 17
+    ordinal: 4647
+    text: When the two Receivers receive (him), seated on the right hand and on the left,
+    translation: Pickthall
+    original: إِذْ يَتَلَقَّى ٱلْمُتَلَقِّيَانِ عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٌ
+    arabicPlain: إذ يتلقى المتلقيان عن اليمين وعن الشمال قعيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:18'
+    scripture: quran
+    name: Quran 50:18
+    chapter: 50
+    verse: 18
+    ordinal: 4648
+    text: He uttereth no word but there is with him an observer ready.
+    translation: Pickthall
+    original: مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ
+    arabicPlain: ما يلفظ من قول إلا لديه رقيب عتيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:19'
+    scripture: quran
+    name: Quran 50:19
+    chapter: 50
+    verse: 19
+    ordinal: 4649
+    text: 'And the agony of death cometh in truth. (And it is said unto him): This is that which thou wast wont to shun.'
+    translation: Pickthall
+    original: وَجَآءَتْ سَكْرَةُ ٱلْمَوْتِ بِٱلْحَقِّ ۖ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ
+    arabicPlain: وجاءت سكرة الموت بالحق ۖ ذلك ما كنت منه تحيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:20'
+    scripture: quran
+    name: Quran 50:20
+    chapter: 50
+    verse: 20
+    ordinal: 4650
+    text: And the trumpet is blown. This is the threatened Day.
+    translation: Pickthall
+    original: وَنُفِخَ فِى ٱلصُّورِ ۚ ذَٰلِكَ يَوْمُ ٱلْوَعِيدِ
+    arabicPlain: ونفخ في الصور ۚ ذلك يوم الوعيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:21'
+    scripture: quran
+    name: Quran 50:21
+    chapter: 50
+    verse: 21
+    ordinal: 4651
+    text: And every soul cometh, along with it a driver and a witness.
+    translation: Pickthall
+    original: وَجَآءَتْ كُلُّ نَفْسٍ مَّعَهَا سَآئِقٌ وَشَهِيدٌ
+    arabicPlain: وجاءت كل نفس معها سائق وشهيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:22'
+    scripture: quran
+    name: Quran 50:22
+    chapter: 50
+    verse: 22
+    ordinal: 4652
+    text: '(And unto the evil-doer it is said): Thou wast in heedlessness of this. Now We have removed from thee thy covering, and piercing is thy sight this day.'
+    translation: Pickthall
+    original: لَّقَدْ كُنتَ فِى غَفْلَةٍ مِّنْ هَـٰذَا فَكَشَفْنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلْيَوْمَ حَدِيدٌ
+    arabicPlain: لقد كنت في غفلة من هذا فكشفنا عنك غطاءك فبصرك اليوم حديد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:23'
+    scripture: quran
+    name: Quran 50:23
+    chapter: 50
+    verse: 23
+    ordinal: 4653
+    text: 'And (unto the evil-doer) his comrade saith: This is that which I have ready (as testimony).'
+    translation: Pickthall
+    original: وَقَالَ قَرِينُهُۥ هَـٰذَا مَا لَدَىَّ عَتِيدٌ
+    arabicPlain: وقال قرينه هذا ما لدي عتيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:24'
+    scripture: quran
+    name: Quran 50:24
+    chapter: 50
+    verse: 24
+    ordinal: 4654
+    text: '(And it is said): Do ye twain hurl to hell each rebel ingrate,'
+    translation: Pickthall
+    original: أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ
+    arabicPlain: ألقيا في جهنم كل كفار عنيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:25'
+    scripture: quran
+    name: Quran 50:25
+    chapter: 50
+    verse: 25
+    ordinal: 4655
+    text: Hinderer of good, transgressor, doubter,
+    translation: Pickthall
+    original: مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ
+    arabicPlain: مناع للخير معتد مريب
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:26'
+    scripture: quran
+    name: Quran 50:26
+    chapter: 50
+    verse: 26
+    ordinal: 4656
+    text: Who setteth up another god along with Allah. Do ye twain hurl him to the dreadful doom.
+    translation: Pickthall
+    original: ٱلَّذِى جَعَلَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَأَلْقِيَاهُ فِى ٱلْعَذَابِ ٱلشَّدِيدِ
+    arabicPlain: الذي جعل مع الله إلها آخر فألقياه في العذاب الشديد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:27'
+    scripture: quran
+    name: Quran 50:27
+    chapter: 50
+    verse: 27
+    ordinal: 4657
+    text: 'His comrade saith: Our Lord! I did not cause him to rebel, but he was (himself) far gone in error.'
+    translation: Pickthall
+    original: ۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطْغَيْتُهُۥ وَلَـٰكِن كَانَ فِى ضَلَـٰلٍۭ بَعِيدٍ
+    arabicPlain: ۞ قال قرينه ربنا ما أطغيته ولكن كان في ضلال بعيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:28'
+    scripture: quran
+    name: Quran 50:28
+    chapter: 50
+    verse: 28
+    ordinal: 4658
+    text: 'He saith: Contend not in My presence, when I had already proffered unto you the warning.'
+    translation: Pickthall
+    original: قَالَ لَا تَخْتَصِمُوا۟ لَدَىَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِٱلْوَعِيدِ
+    arabicPlain: قال لا تختصموا لدي وقد قدمت إليكم بالوعيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:29'
+    scripture: quran
+    name: Quran 50:29
+    chapter: 50
+    verse: 29
+    ordinal: 4659
+    text: The sentence that cometh from Me cannot be changed, and I am in no wise a tyrant unto the slaves.
+    translation: Pickthall
+    original: مَا يُبَدَّلُ ٱلْقَوْلُ لَدَىَّ وَمَآ أَنَا۠ بِظَلَّـٰمٍ لِّلْعَبِيدِ
+    arabicPlain: ما يبدل القول لدي وما أنا بظلام للعبيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 453
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:30'
+    scripture: quran
+    name: Quran 50:30
+    chapter: 50
+    verse: 30
+    ordinal: 4660
+    text: 'On the day when We say unto hell: Art thou filled? and it saith: Can there be more to come?'
+    translation: Pickthall
+    original: يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ
+    arabicPlain: يوم نقول لجهنم هل امتلأت وتقول هل من مزيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:31'
+    scripture: quran
+    name: Quran 50:31
+    chapter: 50
+    verse: 31
+    ordinal: 4661
+    text: And the Garden is brought nigh for those who kept from evil, no longer distant.
+    translation: Pickthall
+    original: وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ
+    arabicPlain: وأزلفت الجنة للمتقين غير بعيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:32'
+    scripture: quran
+    name: Quran 50:32
+    chapter: 50
+    verse: 32
+    ordinal: 4662
+    text: '(And it is said): This is that which ye were promised. (It is) for every penitent and heedful one,'
+    translation: Pickthall
+    original: هَـٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ
+    arabicPlain: هذا ما توعدون لكل أواب حفيظ
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:33'
+    scripture: quran
+    name: Quran 50:33
+    chapter: 50
+    verse: 33
+    ordinal: 4663
+    text: Who feareth the Beneficent in secret and cometh with a contrite heart.
+    translation: Pickthall
+    original: مَّنْ خَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍ مُّنِيبٍ
+    arabicPlain: من خشي الرحمن بالغيب وجاء بقلب منيب
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:34'
+    scripture: quran
+    name: Quran 50:34
+    chapter: 50
+    verse: 34
+    ordinal: 4664
+    text: Enter it in peace. This is the day of immortality.
+    translation: Pickthall
+    original: ٱدْخُلُوهَا بِسَلَـٰمٍ ۖ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ
+    arabicPlain: ادخلوها بسلام ۖ ذلك يوم الخلود
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:35'
+    scripture: quran
+    name: Quran 50:35
+    chapter: 50
+    verse: 35
+    ordinal: 4665
+    text: There they have all that they desire, and there is more with Us.
+    translation: Pickthall
+    original: لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ
+    arabicPlain: لهم ما يشاءون فيها ولدينا مزيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 519
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:36'
+    scripture: quran
+    name: Quran 50:36
+    chapter: 50
+    verse: 36
+    ordinal: 4666
+    text: And how many a generation We destroyed before them, who were mightier than these in prowess so that they overran the lands! Had they any place of refuge (when the judgment came)?
+    translation: Pickthall
+    original: وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَشَدُّ مِنْهُم بَطْشًا فَنَقَّبُوا۟ فِى ٱلْبِلَـٰدِ هَلْ مِن مَّحِيصٍ
+    arabicPlain: وكم أهلكنا قبلهم من قرن هم أشد منهم بطشا فنقبوا في البلاد هل من محيص
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:37'
+    scripture: quran
+    name: Quran 50:37
+    chapter: 50
+    verse: 37
+    ordinal: 4667
+    text: Lo! therein verily is a reminder for him who hath a heart, or giveth ear with full intelligence.
+    translation: Pickthall
+    original: إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُۥ قَلْبٌ أَوْ أَلْقَى ٱلسَّمْعَ وَهُوَ شَهِيدٌ
+    arabicPlain: إن في ذلك لذكرى لمن كان له قلب أو ألقى السمع وهو شهيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:38'
+    scripture: quran
+    name: Quran 50:38
+    chapter: 50
+    verse: 38
+    ordinal: 4668
+    text: And verily We created the heavens and the earth, and all that is between them, in six Days, and naught of weariness touched Us.
+    translation: Pickthall
+    original: وَلَقَدْ خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِن لُّغُوبٍ
+    arabicPlain: ولقد خلقنا السماوات والأرض وما بينهما في ستة أيام وما مسنا من لغوب
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:39'
+    scripture: quran
+    name: Quran 50:39
+    chapter: 50
+    verse: 39
+    ordinal: 4669
+    text: Therefor (O Muhammad) bear with what they say, and hymn the praise of thy Lord before the rising and before the setting of the sun;
+    translation: Pickthall
+    original: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ
+    arabicPlain: فاصبر على ما يقولون وسبح بحمد ربك قبل طلوع الشمس وقبل الغروب
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:40'
+    scripture: quran
+    name: Quran 50:40
+    chapter: 50
+    verse: 40
+    ordinal: 4670
+    text: And in the night-time hymn His praise, and after the (prescribed) prostrations.
+    translation: Pickthall
+    original: وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَـٰرَ ٱلسُّجُودِ
+    arabicPlain: ومن الليل فسبحه وأدبار السجود
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:41'
+    scripture: quran
+    name: Quran 50:41
+    chapter: 50
+    verse: 41
+    ordinal: 4671
+    text: And listen on the day when the crier crieth from a near place,
+    translation: Pickthall
+    original: وَٱسْتَمِعْ يَوْمَ يُنَادِ ٱلْمُنَادِ مِن مَّكَانٍ قَرِيبٍ
+    arabicPlain: واستمع يوم يناد المناد من مكان قريب
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:42'
+    scripture: quran
+    name: Quran 50:42
+    chapter: 50
+    verse: 42
+    ordinal: 4672
+    text: The day when they will hear the (Awful) Cry in truth. That is the day of coming forth (from the graves).
+    translation: Pickthall
+    original: يَوْمَ يَسْمَعُونَ ٱلصَّيْحَةَ بِٱلْحَقِّ ۚ ذَٰلِكَ يَوْمُ ٱلْخُرُوجِ
+    arabicPlain: يوم يسمعون الصيحة بالحق ۚ ذلك يوم الخروج
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:43'
+    scripture: quran
+    name: Quran 50:43
+    chapter: 50
+    verse: 43
+    ordinal: 4673
+    text: Lo! We it is Who quicken and give death, and unto Us is the journeying.
+    translation: Pickthall
+    original: إِنَّا نَحْنُ نُحْىِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ
+    arabicPlain: إنا نحن نحيي ونميت وإلينا المصير
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:44'
+    scripture: quran
+    name: Quran 50:44
+    chapter: 50
+    verse: 44
+    ordinal: 4674
+    text: On the day when the earth splitteth asunder from them, hastening forth (they come). That is a gathering easy for Us (to make).
+    translation: Pickthall
+    original: يَوْمَ تَشَقَّقُ ٱلْأَرْضُ عَنْهُمْ سِرَاعًا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ
+    arabicPlain: يوم تشقق الأرض عنهم سراعا ۚ ذلك حشر علينا يسير
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '50:45'
+    scripture: quran
+    name: Quran 50:45
+    chapter: 50
+    verse: 45
+    ordinal: 4675
+    text: We are Best Aware of what they say, and thou (O Muhammad) art in no wise a compeller over them. But warn by the Qur'an him who feareth My threat.
+    translation: Pickthall
+    original: نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ ۖ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ ۖ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ
+    arabicPlain: نحن أعلم بما يقولون ۖ وما أنت عليهم بجبار ۖ فذكر بالقرآن من يخاف وعيد
+    surahName: Qaaf
+    juz: 26
+    manzil: 7
+    ruku: 454
+    page: 520
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '50'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26

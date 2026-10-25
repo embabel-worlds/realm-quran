@@ -1,0 +1,349 @@
+# Every ayah of Surah Al-Aadiyaat (The Chargers): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '100:1'
+    scripture: quran
+    name: Quran 100:1
+    chapter: 100
+    verse: 1
+    ordinal: 6147
+    text: By the snorting courses,
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْعَـٰدِيَـٰتِ ضَبْحًا
+    arabicPlain: بسم الله الرحمن الرحيم والعاديات ضبحا
+    surahName: Al-Aadiyaat
+    juz: 30
+    manzil: 7
+    ruku: 542
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '100'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '100:2'
+    scripture: quran
+    name: Quran 100:2
+    chapter: 100
+    verse: 2
+    ordinal: 6148
+    text: Striking sparks of fire
+    translation: Pickthall
+    original: فَٱلْمُورِيَـٰتِ قَدْحًا
+    arabicPlain: فالموريات قدحا
+    surahName: Al-Aadiyaat
+    juz: 30
+    manzil: 7
+    ruku: 542
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '100'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '100:3'
+    scripture: quran
+    name: Quran 100:3
+    chapter: 100
+    verse: 3
+    ordinal: 6149
+    text: And scouring to the raid at dawn,
+    translation: Pickthall
+    original: فَٱلْمُغِيرَٰتِ صُبْحًا
+    arabicPlain: فالمغيرات صبحا
+    surahName: Al-Aadiyaat
+    juz: 30
+    manzil: 7
+    ruku: 542
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '100'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '100:4'
+    scripture: quran
+    name: Quran 100:4
+    chapter: 100
+    verse: 4
+    ordinal: 6150
+    text: Then, therewith, with their trail of dust,
+    translation: Pickthall
+    original: فَأَثَرْنَ بِهِۦ نَقْعًا
+    arabicPlain: فأثرن به نقعا
+    surahName: Al-Aadiyaat
+    juz: 30
+    manzil: 7
+    ruku: 542
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '100'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '100:5'
+    scripture: quran
+    name: Quran 100:5
+    chapter: 100
+    verse: 5
+    ordinal: 6151
+    text: Cleaving, as one, the centre (of the foe),
+    translation: Pickthall
+    original: فَوَسَطْنَ بِهِۦ جَمْعًا
+    arabicPlain: فوسطن به جمعا
+    surahName: Al-Aadiyaat
+    juz: 30
+    manzil: 7
+    ruku: 542
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '100'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '100:6'
+    scripture: quran
+    name: Quran 100:6
+    chapter: 100
+    verse: 6
+    ordinal: 6152
+    text: Lo! man is an ingrate unto his Lord
+    translation: Pickthall
+    original: إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ
+    arabicPlain: إن الإنسان لربه لكنود
+    surahName: Al-Aadiyaat
+    juz: 30
+    manzil: 7
+    ruku: 542
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '100'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '100:7'
+    scripture: quran
+    name: Quran 100:7
+    chapter: 100
+    verse: 7
+    ordinal: 6153
+    text: And lo! he is a witness unto that;
+    translation: Pickthall
+    original: وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ
+    arabicPlain: وإنه على ذلك لشهيد
+    surahName: Al-Aadiyaat
+    juz: 30
+    manzil: 7
+    ruku: 542
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '100'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '100:8'
+    scripture: quran
+    name: Quran 100:8
+    chapter: 100
+    verse: 8
+    ordinal: 6154
+    text: And lo! in the love of wealth he is violent.
+    translation: Pickthall
+    original: وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ
+    arabicPlain: وإنه لحب الخير لشديد
+    surahName: Al-Aadiyaat
+    juz: 30
+    manzil: 7
+    ruku: 542
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '100'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '100:9'
+    scripture: quran
+    name: Quran 100:9
+    chapter: 100
+    verse: 9
+    ordinal: 6155
+    text: Knoweth he not that, when the contents of the graves are poured forth
+    translation: Pickthall
+    original: ۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ
+    arabicPlain: ۞ أفلا يعلم إذا بعثر ما في القبور
+    surahName: Al-Aadiyaat
+    juz: 30
+    manzil: 7
+    ruku: 542
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '100'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '100:10'
+    scripture: quran
+    name: Quran 100:10
+    chapter: 100
+    verse: 10
+    ordinal: 6156
+    text: And the secrets of the breasts are made known,
+    translation: Pickthall
+    original: وَحُصِّلَ مَا فِى ٱلصُّدُورِ
+    arabicPlain: وحصل ما في الصدور
+    surahName: Al-Aadiyaat
+    juz: 30
+    manzil: 7
+    ruku: 542
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '100'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '100:11'
+    scripture: quran
+    name: Quran 100:11
+    chapter: 100
+    verse: 11
+    ordinal: 6157
+    text: On that day will their Lord be perfectly informed concerning them.
+    translation: Pickthall
+    original: إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ
+    arabicPlain: إن ربهم بهم يومئذ لخبير
+    surahName: Al-Aadiyaat
+    juz: 30
+    manzil: 7
+    ruku: 542
+    page: 600
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '100'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

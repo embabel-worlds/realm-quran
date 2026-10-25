@@ -1,0 +1,2637 @@
+# Every ayah of Surah Al-Hijr (The Rock): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '15:1'
+    scripture: quran
+    name: Quran 15:1
+    chapter: 15
+    verse: 1
+    ordinal: 1803
+    text: Alif. Lam. Ra. These are verses of the Scripture and a plain Reading.
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ وَقُرْءَانٍ مُّبِينٍ
+    arabicPlain: بسم الله الرحمن الرحيم الر ۚ تلك آيات الكتاب وقرآن مبين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:2'
+    scripture: quran
+    name: Quran 15:2
+    chapter: 15
+    verse: 2
+    ordinal: 1804
+    text: It may be that those who disbelieve wish ardently that they were Muslims.
+    translation: Pickthall
+    original: رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ
+    arabicPlain: ربما يود الذين كفروا لو كانوا مسلمين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:3'
+    scripture: quran
+    name: Quran 15:3
+    chapter: 15
+    verse: 3
+    ordinal: 1805
+    text: Let them eat and enjoy life, and let (false) hope beguile them. They will come to know!
+    translation: Pickthall
+    original: ذَرْهُمْ يَأْكُلُوا۟ وَيَتَمَتَّعُوا۟ وَيُلْهِهِمُ ٱلْأَمَلُ ۖ فَسَوْفَ يَعْلَمُونَ
+    arabicPlain: ذرهم يأكلوا ويتمتعوا ويلههم الأمل ۖ فسوف يعلمون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:4'
+    scripture: quran
+    name: Quran 15:4
+    chapter: 15
+    verse: 4
+    ordinal: 1806
+    text: And We destroyed no township but there was a known decree for it.
+    translation: Pickthall
+    original: وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَّعْلُومٌ
+    arabicPlain: وما أهلكنا من قرية إلا ولها كتاب معلوم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:5'
+    scripture: quran
+    name: Quran 15:5
+    chapter: 15
+    verse: 5
+    ordinal: 1807
+    text: No nation can outstrip its term nor can they lag behind.
+    translation: Pickthall
+    original: مَّا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ
+    arabicPlain: ما تسبق من أمة أجلها وما يستأخرون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:6'
+    scripture: quran
+    name: Quran 15:6
+    chapter: 15
+    verse: 6
+    ordinal: 1808
+    text: 'And they say: O thou unto whom the Reminder is revealed, lo! thou art indeed a madman!'
+    translation: Pickthall
+    original: وَقَالُوا۟ يَـٰٓأَيُّهَا ٱلَّذِى نُزِّلَ عَلَيْهِ ٱلذِّكْرُ إِنَّكَ لَمَجْنُونٌ
+    arabicPlain: وقالوا يا أيها الذي نزل عليه الذكر إنك لمجنون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:7'
+    scripture: quran
+    name: Quran 15:7
+    chapter: 15
+    verse: 7
+    ordinal: 1809
+    text: Why bringest thou not angels unto us, if thou art of the truthful?
+    translation: Pickthall
+    original: لَّوْ مَا تَأْتِينَا بِٱلْمَلَـٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ
+    arabicPlain: لو ما تأتينا بالملائكة إن كنت من الصادقين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:8'
+    scripture: quran
+    name: Quran 15:8
+    chapter: 15
+    verse: 8
+    ordinal: 1810
+    text: We send not down the angels save with the Fact, and in that case (the disbelievers) would not be tolerated.
+    translation: Pickthall
+    original: مَا نُنَزِّلُ ٱلْمَلَـٰٓئِكَةَ إِلَّا بِٱلْحَقِّ وَمَا كَانُوٓا۟ إِذًا مُّنظَرِينَ
+    arabicPlain: ما ننزل الملائكة إلا بالحق وما كانوا إذا منظرين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:9'
+    scripture: quran
+    name: Quran 15:9
+    chapter: 15
+    verse: 9
+    ordinal: 1811
+    text: Lo! We, even We, reveal the Reminder, and lo! We verily are its Guardian.
+    translation: Pickthall
+    original: إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ
+    arabicPlain: إنا نحن نزلنا الذكر وإنا له لحافظون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:10'
+    scripture: quran
+    name: Quran 15:10
+    chapter: 15
+    verse: 10
+    ordinal: 1812
+    text: We verily sent (messengers) before thee among the factions of the men of old.
+    translation: Pickthall
+    original: وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ فِى شِيَعِ ٱلْأَوَّلِينَ
+    arabicPlain: ولقد أرسلنا من قبلك في شيع الأولين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:11'
+    scripture: quran
+    name: Quran 15:11
+    chapter: 15
+    verse: 11
+    ordinal: 1813
+    text: And never came there unto them a messenger but they did mock him.
+    translation: Pickthall
+    original: وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
+    arabicPlain: وما يأتيهم من رسول إلا كانوا به يستهزئون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:12'
+    scripture: quran
+    name: Quran 15:12
+    chapter: 15
+    verse: 12
+    ordinal: 1814
+    text: 'Thus do We make it traverse the hearts of the guilty:'
+    translation: Pickthall
+    original: كَذَٰلِكَ نَسْلُكُهُۥ فِى قُلُوبِ ٱلْمُجْرِمِينَ
+    arabicPlain: كذلك نسلكه في قلوب المجرمين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:13'
+    scripture: quran
+    name: Quran 15:13
+    chapter: 15
+    verse: 13
+    ordinal: 1815
+    text: They believe not therein, though the example of the men of old hath gone before.
+    translation: Pickthall
+    original: لَا يُؤْمِنُونَ بِهِۦ ۖ وَقَدْ خَلَتْ سُنَّةُ ٱلْأَوَّلِينَ
+    arabicPlain: لا يؤمنون به ۖ وقد خلت سنة الأولين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:14'
+    scripture: quran
+    name: Quran 15:14
+    chapter: 15
+    verse: 14
+    ordinal: 1816
+    text: And even if We opened unto them a gate of heaven and they kept mounting through it,
+    translation: Pickthall
+    original: وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ ٱلسَّمَآءِ فَظَلُّوا۟ فِيهِ يَعْرُجُونَ
+    arabicPlain: ولو فتحنا عليهم بابا من السماء فظلوا فيه يعرجون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:15'
+    scripture: quran
+    name: Quran 15:15
+    chapter: 15
+    verse: 15
+    ordinal: 1817
+    text: 'They would say: Our sight is wrong - nay, but we are folk bewitched.'
+    translation: Pickthall
+    original: لَقَالُوٓا۟ إِنَّمَا سُكِّرَتْ أَبْصَـٰرُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُورُونَ
+    arabicPlain: لقالوا إنما سكرت أبصارنا بل نحن قوم مسحورون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 218
+    page: 262
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:16'
+    scripture: quran
+    name: Quran 15:16
+    chapter: 15
+    verse: 16
+    ordinal: 1818
+    text: And verily in the heaven we have set mansions of the stars, and We have beautified it for beholders.
+    translation: Pickthall
+    original: وَلَقَدْ جَعَلْنَا فِى ٱلسَّمَآءِ بُرُوجًا وَزَيَّنَّـٰهَا لِلنَّـٰظِرِينَ
+    arabicPlain: ولقد جعلنا في السماء بروجا وزيناها للناظرين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 219
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:17'
+    scripture: quran
+    name: Quran 15:17
+    chapter: 15
+    verse: 17
+    ordinal: 1819
+    text: And We have guarded it from every outcast devil,
+    translation: Pickthall
+    original: وَحَفِظْنَـٰهَا مِن كُلِّ شَيْطَـٰنٍ رَّجِيمٍ
+    arabicPlain: وحفظناها من كل شيطان رجيم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 219
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:18'
+    scripture: quran
+    name: Quran 15:18
+    chapter: 15
+    verse: 18
+    ordinal: 1820
+    text: Save him who stealeth the hearing, and them doth a clear flame pursue.
+    translation: Pickthall
+    original: إِلَّا مَنِ ٱسْتَرَقَ ٱلسَّمْعَ فَأَتْبَعَهُۥ شِهَابٌ مُّبِينٌ
+    arabicPlain: إلا من استرق السمع فأتبعه شهاب مبين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 219
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:19'
+    scripture: quran
+    name: Quran 15:19
+    chapter: 15
+    verse: 19
+    ordinal: 1821
+    text: And the earth have We spread out, and placed therein firm hills, and caused each seemly thing to grow therein.
+    translation: Pickthall
+    original: وَٱلْأَرْضَ مَدَدْنَـٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ شَىْءٍ مَّوْزُونٍ
+    arabicPlain: والأرض مددناها وألقينا فيها رواسي وأنبتنا فيها من كل شيء موزون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 219
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:20'
+    scripture: quran
+    name: Quran 15:20
+    chapter: 15
+    verse: 20
+    ordinal: 1822
+    text: And we have given unto you livelihoods therein, and unto those for whom ye provide not.
+    translation: Pickthall
+    original: وَجَعَلْنَا لَكُمْ فِيهَا مَعَـٰيِشَ وَمَن لَّسْتُمْ لَهُۥ بِرَٰزِقِينَ
+    arabicPlain: وجعلنا لكم فيها معايش ومن لستم له برازقين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 219
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:21'
+    scripture: quran
+    name: Quran 15:21
+    chapter: 15
+    verse: 21
+    ordinal: 1823
+    text: And there is not a thing but with Us are the stores thereof. And we send it not down save in appointed measure.
+    translation: Pickthall
+    original: وَإِن مِّن شَىْءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٍ مَّعْلُومٍ
+    arabicPlain: وإن من شيء إلا عندنا خزائنه وما ننزله إلا بقدر معلوم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 219
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:22'
+    scripture: quran
+    name: Quran 15:22
+    chapter: 15
+    verse: 22
+    ordinal: 1824
+    text: And We send the winds fertilising, and cause water to descend from the sky, and give it you to drink. It is not ye who are the holders of the store thereof.
+    translation: Pickthall
+    original: وَأَرْسَلْنَا ٱلرِّيَـٰحَ لَوَٰقِحَ فَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَسْقَيْنَـٰكُمُوهُ وَمَآ أَنتُمْ لَهُۥ بِخَـٰزِنِينَ
+    arabicPlain: وأرسلنا الرياح لواقح فأنزلنا من السماء ماء فأسقيناكموه وما أنتم له بخازنين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 219
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:23'
+    scripture: quran
+    name: Quran 15:23
+    chapter: 15
+    verse: 23
+    ordinal: 1825
+    text: Lo! and it is We, even We, Who quicken and give death, and We are the Inheritor.
+    translation: Pickthall
+    original: وَإِنَّا لَنَحْنُ نُحْىِۦ وَنُمِيتُ وَنَحْنُ ٱلْوَٰرِثُونَ
+    arabicPlain: وإنا لنحن نحيي ونميت ونحن الوارثون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 219
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:24'
+    scripture: quran
+    name: Quran 15:24
+    chapter: 15
+    verse: 24
+    ordinal: 1826
+    text: And verily We know the eager among you and verily We know the laggards.
+    translation: Pickthall
+    original: وَلَقَدْ عَلِمْنَا ٱلْمُسْتَقْدِمِينَ مِنكُمْ وَلَقَدْ عَلِمْنَا ٱلْمُسْتَـْٔخِرِينَ
+    arabicPlain: ولقد علمنا المستقدمين منكم ولقد علمنا المستأخرين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 219
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:25'
+    scripture: quran
+    name: Quran 15:25
+    chapter: 15
+    verse: 25
+    ordinal: 1827
+    text: Lo! thy Lord will gather them together. Lo! He is Wise, Aware.
+    translation: Pickthall
+    original: وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌ
+    arabicPlain: وإن ربك هو يحشرهم ۚ إنه حكيم عليم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 219
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:26'
+    scripture: quran
+    name: Quran 15:26
+    chapter: 15
+    verse: 26
+    ordinal: 1828
+    text: Verily We created man of potter's clay of black mud altered,
+    translation: Pickthall
+    original: وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+    arabicPlain: ولقد خلقنا الإنسان من صلصال من حمإ مسنون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:27'
+    scripture: quran
+    name: Quran 15:27
+    chapter: 15
+    verse: 27
+    ordinal: 1829
+    text: And the jinn did We create aforetime of essential fire.
+    translation: Pickthall
+    original: وَٱلْجَآنَّ خَلَقْنَـٰهُ مِن قَبْلُ مِن نَّارِ ٱلسَّمُومِ
+    arabicPlain: والجان خلقناه من قبل من نار السموم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:28'
+    scripture: quran
+    name: Quran 15:28
+    chapter: 15
+    verse: 28
+    ordinal: 1830
+    text: 'And (remember) when thy Lord said unto the angels: Lo! I am creating a mortal out of potter''s clay of black mud altered,'
+    translation: Pickthall
+    original: وَإِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى خَـٰلِقٌۢ بَشَرًا مِّن صَلْصَـٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+    arabicPlain: وإذ قال ربك للملائكة إني خالق بشرا من صلصال من حمإ مسنون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:29'
+    scripture: quran
+    name: Quran 15:29
+    chapter: 15
+    verse: 29
+    ordinal: 1831
+    text: So, when I have made him and have breathed into him of My Spirit, do ye fall down, prostrating yourselves unto him.
+    translation: Pickthall
+    original: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَـٰجِدِينَ
+    arabicPlain: فإذا سويته ونفخت فيه من روحي فقعوا له ساجدين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:30'
+    scripture: quran
+    name: Quran 15:30
+    chapter: 15
+    verse: 30
+    ordinal: 1832
+    text: So the angels fell prostrate, all of them together
+    translation: Pickthall
+    original: فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ
+    arabicPlain: فسجد الملائكة كلهم أجمعون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:31'
+    scripture: quran
+    name: Quran 15:31
+    chapter: 15
+    verse: 31
+    ordinal: 1833
+    text: Save Iblis. He refused to be among the prostrate.
+    translation: Pickthall
+    original: إِلَّآ إِبْلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّـٰجِدِينَ
+    arabicPlain: إلا إبليس أبى أن يكون مع الساجدين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 263
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:32'
+    scripture: quran
+    name: Quran 15:32
+    chapter: 15
+    verse: 32
+    ordinal: 1834
+    text: 'He said: O Iblis! What aileth thee that thou art not among the prostrate?'
+    translation: Pickthall
+    original: قَالَ يَـٰٓإِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّـٰجِدِينَ
+    arabicPlain: قال يا إبليس ما لك ألا تكون مع الساجدين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:33'
+    scripture: quran
+    name: Quran 15:33
+    chapter: 15
+    verse: 33
+    ordinal: 1835
+    text: 'He said: I am not one to prostrate myself unto a mortal whom Thou hast created out of potter''s clay of black mud altered!'
+    translation: Pickthall
+    original: قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَـٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+    arabicPlain: قال لم أكن لأسجد لبشر خلقته من صلصال من حمإ مسنون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:34'
+    scripture: quran
+    name: Quran 15:34
+    chapter: 15
+    verse: 34
+    ordinal: 1836
+    text: 'He said: Then go thou forth from hence, for lo! thou art outcast.'
+    translation: Pickthall
+    original: قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
+    arabicPlain: قال فاخرج منها فإنك رجيم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:35'
+    scripture: quran
+    name: Quran 15:35
+    chapter: 15
+    verse: 35
+    ordinal: 1837
+    text: And lo! the curse shall be upon thee till the Day of Judgment.
+    translation: Pickthall
+    original: وَإِنَّ عَلَيْكَ ٱللَّعْنَةَ إِلَىٰ يَوْمِ ٱلدِّينِ
+    arabicPlain: وإن عليك اللعنة إلى يوم الدين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:36'
+    scripture: quran
+    name: Quran 15:36
+    chapter: 15
+    verse: 36
+    ordinal: 1838
+    text: 'He said: My Lord! Reprieve me till the day when they are raised.'
+    translation: Pickthall
+    original: قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+    arabicPlain: قال رب فأنظرني إلى يوم يبعثون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:37'
+    scripture: quran
+    name: Quran 15:37
+    chapter: 15
+    verse: 37
+    ordinal: 1839
+    text: 'He said: Then lo! thou art of those reprieved'
+    translation: Pickthall
+    original: قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ
+    arabicPlain: قال فإنك من المنظرين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:38'
+    scripture: quran
+    name: Quran 15:38
+    chapter: 15
+    verse: 38
+    ordinal: 1840
+    text: Till the Day of appointed time.
+    translation: Pickthall
+    original: إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ
+    arabicPlain: إلى يوم الوقت المعلوم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:39'
+    scripture: quran
+    name: Quran 15:39
+    chapter: 15
+    verse: 39
+    ordinal: 1841
+    text: 'He said: My Lord! Because Thou hast sent me astray, I verily shall adorn the path of error for them in the earth, and shall mislead them every one,'
+    translation: Pickthall
+    original: قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ
+    arabicPlain: قال رب بما أغويتني لأزينن لهم في الأرض ولأغوينهم أجمعين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:40'
+    scripture: quran
+    name: Quran 15:40
+    chapter: 15
+    verse: 40
+    ordinal: 1842
+    text: Save such of them as are Thy perfectly devoted slaves.
+    translation: Pickthall
+    original: إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ
+    arabicPlain: إلا عبادك منهم المخلصين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:41'
+    scripture: quran
+    name: Quran 15:41
+    chapter: 15
+    verse: 41
+    ordinal: 1843
+    text: 'He said: This is a right course incumbent upon Me:'
+    translation: Pickthall
+    original: قَالَ هَـٰذَا صِرَٰطٌ عَلَىَّ مُسْتَقِيمٌ
+    arabicPlain: قال هذا صراط علي مستقيم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:42'
+    scripture: quran
+    name: Quran 15:42
+    chapter: 15
+    verse: 42
+    ordinal: 1844
+    text: Lo! as for My slaves, thou hast no power over any of them save such of the froward as follow thee,
+    translation: Pickthall
+    original: إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَـٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلْغَاوِينَ
+    arabicPlain: إن عبادي ليس لك عليهم سلطان إلا من اتبعك من الغاوين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:43'
+    scripture: quran
+    name: Quran 15:43
+    chapter: 15
+    verse: 43
+    ordinal: 1845
+    text: And lo! for all such, hell will be the promised place.
+    translation: Pickthall
+    original: وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ
+    arabicPlain: وإن جهنم لموعدهم أجمعين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:44'
+    scripture: quran
+    name: Quran 15:44
+    chapter: 15
+    verse: 44
+    ordinal: 1846
+    text: It hath seven gates, and each gate hath an appointed portion.
+    translation: Pickthall
+    original: لَهَا سَبْعَةُ أَبْوَٰبٍ لِّكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُومٌ
+    arabicPlain: لها سبعة أبواب لكل باب منهم جزء مقسوم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 220
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:45'
+    scripture: quran
+    name: Quran 15:45
+    chapter: 15
+    verse: 45
+    ordinal: 1847
+    text: Lo! those who ward off (evil) are among gardens and watersprings.
+    translation: Pickthall
+    original: إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَعُيُونٍ
+    arabicPlain: إن المتقين في جنات وعيون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:46'
+    scripture: quran
+    name: Quran 15:46
+    chapter: 15
+    verse: 46
+    ordinal: 1848
+    text: '(And it is said unto them): Enter them in peace, secure.'
+    translation: Pickthall
+    original: ٱدْخُلُوهَا بِسَلَـٰمٍ ءَامِنِينَ
+    arabicPlain: ادخلوها بسلام آمنين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:47'
+    scripture: quran
+    name: Quran 15:47
+    chapter: 15
+    verse: 47
+    ordinal: 1849
+    text: And We remove whatever rancour may be in their breasts. As brethren, face to face, (they rest) on couches raised.
+    translation: Pickthall
+    original: وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ إِخْوَٰنًا عَلَىٰ سُرُرٍ مُّتَقَـٰبِلِينَ
+    arabicPlain: ونزعنا ما في صدورهم من غل إخوانا على سرر متقابلين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:48'
+    scripture: quran
+    name: Quran 15:48
+    chapter: 15
+    verse: 48
+    ordinal: 1850
+    text: Toil cometh not unto them there, nor will they be expelled from thence.
+    translation: Pickthall
+    original: لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مِّنْهَا بِمُخْرَجِينَ
+    arabicPlain: لا يمسهم فيها نصب وما هم منها بمخرجين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:49'
+    scripture: quran
+    name: Quran 15:49
+    chapter: 15
+    verse: 49
+    ordinal: 1851
+    text: Announce, (O Muhammad) unto My slaves that verily I am the Forgiving, the Merciful,
+    translation: Pickthall
+    original: ۞ نَبِّئْ عِبَادِىٓ أَنِّىٓ أَنَا ٱلْغَفُورُ ٱلرَّحِيمُ
+    arabicPlain: ۞ نبئ عبادي أني أنا الغفور الرحيم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:50'
+    scripture: quran
+    name: Quran 15:50
+    chapter: 15
+    verse: 50
+    ordinal: 1852
+    text: And that My doom is the dolorous doom.
+    translation: Pickthall
+    original: وَأَنَّ عَذَابِى هُوَ ٱلْعَذَابُ ٱلْأَلِيمُ
+    arabicPlain: وأن عذابي هو العذاب الأليم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:51'
+    scripture: quran
+    name: Quran 15:51
+    chapter: 15
+    verse: 51
+    ordinal: 1853
+    text: And tell them of Abraham's guests,
+    translation: Pickthall
+    original: وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ
+    arabicPlain: ونبئهم عن ضيف إبراهيم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 264
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:52'
+    scripture: quran
+    name: Quran 15:52
+    chapter: 15
+    verse: 52
+    ordinal: 1854
+    text: '(How) when they came in unto him, and said: Peace. He said: Lo! we are afraid of you.'
+    translation: Pickthall
+    original: إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَـٰمًا قَالَ إِنَّا مِنكُمْ وَجِلُونَ
+    arabicPlain: إذ دخلوا عليه فقالوا سلاما قال إنا منكم وجلون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:53'
+    scripture: quran
+    name: Quran 15:53
+    chapter: 15
+    verse: 53
+    ordinal: 1855
+    text: 'They said: Be not afraid! Lo! we bring thee good tidings of a boy possessing wisdom.'
+    translation: Pickthall
+    original: قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ عَلِيمٍ
+    arabicPlain: قالوا لا توجل إنا نبشرك بغلام عليم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:54'
+    scripture: quran
+    name: Quran 15:54
+    chapter: 15
+    verse: 54
+    ordinal: 1856
+    text: 'He said: Bring ye me good tidings (of a son) when old age hath overtaken me? Of what then can ye bring good tidings?'
+    translation: Pickthall
+    original: قَالَ أَبَشَّرْتُمُونِى عَلَىٰٓ أَن مَّسَّنِىَ ٱلْكِبَرُ فَبِمَ تُبَشِّرُونَ
+    arabicPlain: قال أبشرتموني على أن مسني الكبر فبم تبشرون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:55'
+    scripture: quran
+    name: Quran 15:55
+    chapter: 15
+    verse: 55
+    ordinal: 1857
+    text: 'They said: We bring thee good tidings in truth. So be not thou of the despairing.'
+    translation: Pickthall
+    original: قَالُوا۟ بَشَّرْنَـٰكَ بِٱلْحَقِّ فَلَا تَكُن مِّنَ ٱلْقَـٰنِطِينَ
+    arabicPlain: قالوا بشرناك بالحق فلا تكن من القانطين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:56'
+    scripture: quran
+    name: Quran 15:56
+    chapter: 15
+    verse: 56
+    ordinal: 1858
+    text: 'He said: And who despaireth of the mercy of his Lord save those who are astray?'
+    translation: Pickthall
+    original: قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ
+    arabicPlain: قال ومن يقنط من رحمة ربه إلا الضالون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:57'
+    scripture: quran
+    name: Quran 15:57
+    chapter: 15
+    verse: 57
+    ordinal: 1859
+    text: 'He said: And afterward what is your business, O ye messengers (of Allah)?'
+    translation: Pickthall
+    original: قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ
+    arabicPlain: قال فما خطبكم أيها المرسلون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:58'
+    scripture: quran
+    name: Quran 15:58
+    chapter: 15
+    verse: 58
+    ordinal: 1860
+    text: 'They said: We have been sent unto a guilty folk,'
+    translation: Pickthall
+    original: قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ
+    arabicPlain: قالوا إنا أرسلنا إلى قوم مجرمين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: '15:59'
+    scripture: quran
+    name: Quran 15:59
+    chapter: 15
+    verse: 59
+    ordinal: 1861
+    text: (All) save the family of Lot. Them we shall deliver every one,
+    translation: Pickthall
+    original: إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ
+    arabicPlain: إلا آل لوط إنا لمنجوهم أجمعين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:60
+    scripture: quran
+    name: Quran 15:60
+    chapter: 15
+    verse: 60
+    ordinal: 1862
+    text: Except his wife, of whom We had decreed that she should be of those who stay behind.
+    translation: Pickthall
+    original: إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ ۙ إِنَّهَا لَمِنَ ٱلْغَـٰبِرِينَ
+    arabicPlain: إلا امرأته قدرنا ۙ إنها لمن الغابرين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 221
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:61
+    scripture: quran
+    name: Quran 15:61
+    chapter: 15
+    verse: 61
+    ordinal: 1863
+    text: And when the messengers came unto the family of Lot,
+    translation: Pickthall
+    original: فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ
+    arabicPlain: فلما جاء آل لوط المرسلون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:62
+    scripture: quran
+    name: Quran 15:62
+    chapter: 15
+    verse: 62
+    ordinal: 1864
+    text: 'He said: Lo! ye are folk unknown (to me).'
+    translation: Pickthall
+    original: قَالَ إِنَّكُمْ قَوْمٌ مُّنكَرُونَ
+    arabicPlain: قال إنكم قوم منكرون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:63
+    scripture: quran
+    name: Quran 15:63
+    chapter: 15
+    verse: 63
+    ordinal: 1865
+    text: 'They said: Nay, but we bring thee that concerning which they keep disputing,'
+    translation: Pickthall
+    original: قَالُوا۟ بَلْ جِئْنَـٰكَ بِمَا كَانُوا۟ فِيهِ يَمْتَرُونَ
+    arabicPlain: قالوا بل جئناك بما كانوا فيه يمترون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:64
+    scripture: quran
+    name: Quran 15:64
+    chapter: 15
+    verse: 64
+    ordinal: 1866
+    text: And bring thee the Truth, and lo! we are truth-tellers.
+    translation: Pickthall
+    original: وَأَتَيْنَـٰكَ بِٱلْحَقِّ وَإِنَّا لَصَـٰدِقُونَ
+    arabicPlain: وأتيناك بالحق وإنا لصادقون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:65
+    scripture: quran
+    name: Quran 15:65
+    chapter: 15
+    verse: 65
+    ordinal: 1867
+    text: So travel with thy household in a portion of the night, and follow thou their backs. Let none of you turn round, but go whither ye are commanded.
+    translation: Pickthall
+    original: فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَـٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ
+    arabicPlain: فأسر بأهلك بقطع من الليل واتبع أدبارهم ولا يلتفت منكم أحد وامضوا حيث تؤمرون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:66
+    scripture: quran
+    name: Quran 15:66
+    chapter: 15
+    verse: 66
+    ordinal: 1868
+    text: And We made plain the case to him, that the root of them (who did wrong) was to be cut at early morn.
+    translation: Pickthall
+    original: وَقَضَيْنَآ إِلَيْهِ ذَٰلِكَ ٱلْأَمْرَ أَنَّ دَابِرَ هَـٰٓؤُلَآءِ مَقْطُوعٌ مُّصْبِحِينَ
+    arabicPlain: وقضينا إليه ذلك الأمر أن دابر هؤلاء مقطوع مصبحين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:67
+    scripture: quran
+    name: Quran 15:67
+    chapter: 15
+    verse: 67
+    ordinal: 1869
+    text: And the people of the city came, rejoicing at the news (of new arrivals).
+    translation: Pickthall
+    original: وَجَآءَ أَهْلُ ٱلْمَدِينَةِ يَسْتَبْشِرُونَ
+    arabicPlain: وجاء أهل المدينة يستبشرون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:68
+    scripture: quran
+    name: Quran 15:68
+    chapter: 15
+    verse: 68
+    ordinal: 1870
+    text: 'He said: Lo! they are my guests. Affront me not!'
+    translation: Pickthall
+    original: قَالَ إِنَّ هَـٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ
+    arabicPlain: قال إن هؤلاء ضيفي فلا تفضحون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:69
+    scripture: quran
+    name: Quran 15:69
+    chapter: 15
+    verse: 69
+    ordinal: 1871
+    text: And keep your duty to Allah, and shame me not!
+    translation: Pickthall
+    original: وَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ
+    arabicPlain: واتقوا الله ولا تخزون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:70
+    scripture: quran
+    name: Quran 15:70
+    chapter: 15
+    verse: 70
+    ordinal: 1872
+    text: They said; Have we not forbidden you from (entertaining) anyone?
+    translation: Pickthall
+    original: قَالُوٓا۟ أَوَلَمْ نَنْهَكَ عَنِ ٱلْعَـٰلَمِينَ
+    arabicPlain: قالوا أولم ننهك عن العالمين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 265
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:71
+    scripture: quran
+    name: Quran 15:71
+    chapter: 15
+    verse: 71
+    ordinal: 1873
+    text: 'He said: Here are my daughters, if ye must be doing (so).'
+    translation: Pickthall
+    original: قَالَ هَـٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَـٰعِلِينَ
+    arabicPlain: قال هؤلاء بناتي إن كنتم فاعلين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:72
+    scripture: quran
+    name: Quran 15:72
+    chapter: 15
+    verse: 72
+    ordinal: 1874
+    text: By thy life (O Muhammad) they moved blindly in the frenzy of approaching death.
+    translation: Pickthall
+    original: لَعَمْرُكَ إِنَّهُمْ لَفِى سَكْرَتِهِمْ يَعْمَهُونَ
+    arabicPlain: لعمرك إنهم لفي سكرتهم يعمهون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:73
+    scripture: quran
+    name: Quran 15:73
+    chapter: 15
+    verse: 73
+    ordinal: 1875
+    text: Then the (Awful) Cry overtook them at the sunrise.
+    translation: Pickthall
+    original: فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُشْرِقِينَ
+    arabicPlain: فأخذتهم الصيحة مشرقين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:74
+    scripture: quran
+    name: Quran 15:74
+    chapter: 15
+    verse: 74
+    ordinal: 1876
+    text: And We utterly confounded them, and We rained upon them stones of heated clay.
+    translation: Pickthall
+    original: فَجَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ
+    arabicPlain: فجعلنا عاليها سافلها وأمطرنا عليهم حجارة من سجيل
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:75
+    scripture: quran
+    name: Quran 15:75
+    chapter: 15
+    verse: 75
+    ordinal: 1877
+    text: Lo! therein verily are portents for those who read the signs.
+    translation: Pickthall
+    original: إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّلْمُتَوَسِّمِينَ
+    arabicPlain: إن في ذلك لآيات للمتوسمين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:76
+    scripture: quran
+    name: Quran 15:76
+    chapter: 15
+    verse: 76
+    ordinal: 1878
+    text: And lo! it is upon a road still uneffaced.
+    translation: Pickthall
+    original: وَإِنَّهَا لَبِسَبِيلٍ مُّقِيمٍ
+    arabicPlain: وإنها لبسبيل مقيم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:77
+    scripture: quran
+    name: Quran 15:77
+    chapter: 15
+    verse: 77
+    ordinal: 1879
+    text: Lo! therein is indeed a portent for believers.
+    translation: Pickthall
+    original: إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّلْمُؤْمِنِينَ
+    arabicPlain: إن في ذلك لآية للمؤمنين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:78
+    scripture: quran
+    name: Quran 15:78
+    chapter: 15
+    verse: 78
+    ordinal: 1880
+    text: And the dwellers in the wood indeed were evil-doers.
+    translation: Pickthall
+    original: وَإِن كَانَ أَصْحَـٰبُ ٱلْأَيْكَةِ لَظَـٰلِمِينَ
+    arabicPlain: وإن كان أصحاب الأيكة لظالمين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:79
+    scripture: quran
+    name: Quran 15:79
+    chapter: 15
+    verse: 79
+    ordinal: 1881
+    text: So we took vengeance on them; and lo! they both are on a high-road plain to see.
+    translation: Pickthall
+    original: فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُّبِينٍ
+    arabicPlain: فانتقمنا منهم وإنهما لبإمام مبين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 222
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:80
+    scripture: quran
+    name: Quran 15:80
+    chapter: 15
+    verse: 80
+    ordinal: 1882
+    text: And the dwellers in Al-Hijr denied (Our) messengers.
+    translation: Pickthall
+    original: وَلَقَدْ كَذَّبَ أَصْحَـٰبُ ٱلْحِجْرِ ٱلْمُرْسَلِينَ
+    arabicPlain: ولقد كذب أصحاب الحجر المرسلين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:81
+    scripture: quran
+    name: Quran 15:81
+    chapter: 15
+    verse: 81
+    ordinal: 1883
+    text: And we gave them Our revelations, but they were averse to them.
+    translation: Pickthall
+    original: وَءَاتَيْنَـٰهُمْ ءَايَـٰتِنَا فَكَانُوا۟ عَنْهَا مُعْرِضِينَ
+    arabicPlain: وآتيناهم آياتنا فكانوا عنها معرضين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:82
+    scripture: quran
+    name: Quran 15:82
+    chapter: 15
+    verse: 82
+    ordinal: 1884
+    text: And they used to hew out dwellings from the hills, (wherein they dwelt) secure.
+    translation: Pickthall
+    original: وَكَانُوا۟ يَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا ءَامِنِينَ
+    arabicPlain: وكانوا ينحتون من الجبال بيوتا آمنين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:83
+    scripture: quran
+    name: Quran 15:83
+    chapter: 15
+    verse: 83
+    ordinal: 1885
+    text: But the (Awful) Cry overtook them at the morning hour,
+    translation: Pickthall
+    original: فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُصْبِحِينَ
+    arabicPlain: فأخذتهم الصيحة مصبحين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:84
+    scripture: quran
+    name: Quran 15:84
+    chapter: 15
+    verse: 84
+    ordinal: 1886
+    text: And that which they were wont to count as gain availed them not.
+    translation: Pickthall
+    original: فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ
+    arabicPlain: فما أغنى عنهم ما كانوا يكسبون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:85
+    scripture: quran
+    name: Quran 15:85
+    chapter: 15
+    verse: 85
+    ordinal: 1887
+    text: We created not the heavens and the earth and all that is between them save with truth, and lo! the Hour is surely coming. So forgive, (O Muhammad), with a gracious forgiveness.
+    translation: Pickthall
+    original: وَمَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ ۗ وَإِنَّ ٱلسَّاعَةَ لَـَٔاتِيَةٌ ۖ فَٱصْفَحِ ٱلصَّفْحَ ٱلْجَمِيلَ
+    arabicPlain: وما خلقنا السماوات والأرض وما بينهما إلا بالحق ۗ وإن الساعة لآتية ۖ فاصفح الصفح الجميل
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:86
+    scripture: quran
+    name: Quran 15:86
+    chapter: 15
+    verse: 86
+    ordinal: 1888
+    text: Lo! Thy Lord! He is the All-Wise Creator.
+    translation: Pickthall
+    original: إِنَّ رَبَّكَ هُوَ ٱلْخَلَّـٰقُ ٱلْعَلِيمُ
+    arabicPlain: إن ربك هو الخلاق العليم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:87
+    scripture: quran
+    name: Quran 15:87
+    chapter: 15
+    verse: 87
+    ordinal: 1889
+    text: We have given thee seven of the oft-repeated (verses) and the great Qur'an.
+    translation: Pickthall
+    original: وَلَقَدْ ءَاتَيْنَـٰكَ سَبْعًا مِّنَ ٱلْمَثَانِى وَٱلْقُرْءَانَ ٱلْعَظِيمَ
+    arabicPlain: ولقد آتيناك سبعا من المثاني والقرآن العظيم
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:88
+    scripture: quran
+    name: Quran 15:88
+    chapter: 15
+    verse: 88
+    ordinal: 1890
+    text: Strain not thine eyes toward that which We cause some wedded pairs among them to enjoin, and be not grieved on their account, and lower thy wing (in tenderness) for the believers.
+    translation: Pickthall
+    original: لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَٱخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ
+    arabicPlain: لا تمدن عينيك إلى ما متعنا به أزواجا منهم ولا تحزن عليهم واخفض جناحك للمؤمنين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:89
+    scripture: quran
+    name: Quran 15:89
+    chapter: 15
+    verse: 89
+    ordinal: 1891
+    text: 'And say: Lo! I, even I, am a plain warner,'
+    translation: Pickthall
+    original: وَقُلْ إِنِّىٓ أَنَا ٱلنَّذِيرُ ٱلْمُبِينُ
+    arabicPlain: وقل إني أنا النذير المبين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:90
+    scripture: quran
+    name: Quran 15:90
+    chapter: 15
+    verse: 90
+    ordinal: 1892
+    text: Such as We send down for those who make division,
+    translation: Pickthall
+    original: كَمَآ أَنزَلْنَا عَلَى ٱلْمُقْتَسِمِينَ
+    arabicPlain: كما أنزلنا على المقتسمين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 266
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:91
+    scripture: quran
+    name: Quran 15:91
+    chapter: 15
+    verse: 91
+    ordinal: 1893
+    text: Those who break the Qur'an into parts.
+    translation: Pickthall
+    original: ٱلَّذِينَ جَعَلُوا۟ ٱلْقُرْءَانَ عِضِينَ
+    arabicPlain: الذين جعلوا القرآن عضين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 267
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:92
+    scripture: quran
+    name: Quran 15:92
+    chapter: 15
+    verse: 92
+    ordinal: 1894
+    text: Them, by thy Lord, We shall question, every one,
+    translation: Pickthall
+    original: فَوَرَبِّكَ لَنَسْـَٔلَنَّهُمْ أَجْمَعِينَ
+    arabicPlain: فوربك لنسألنهم أجمعين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 267
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:93
+    scripture: quran
+    name: Quran 15:93
+    chapter: 15
+    verse: 93
+    ordinal: 1895
+    text: Of what they used to do.
+    translation: Pickthall
+    original: عَمَّا كَانُوا۟ يَعْمَلُونَ
+    arabicPlain: عما كانوا يعملون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 267
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:94
+    scripture: quran
+    name: Quran 15:94
+    chapter: 15
+    verse: 94
+    ordinal: 1896
+    text: So proclaim that which thou art commanded, and withdraw from the idolaters.
+    translation: Pickthall
+    original: فَٱصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ ٱلْمُشْرِكِينَ
+    arabicPlain: فاصدع بما تؤمر وأعرض عن المشركين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 267
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:95
+    scripture: quran
+    name: Quran 15:95
+    chapter: 15
+    verse: 95
+    ordinal: 1897
+    text: Lo! We defend thee from the scoffers,
+    translation: Pickthall
+    original: إِنَّا كَفَيْنَـٰكَ ٱلْمُسْتَهْزِءِينَ
+    arabicPlain: إنا كفيناك المستهزئين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 267
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:96
+    scripture: quran
+    name: Quran 15:96
+    chapter: 15
+    verse: 96
+    ordinal: 1898
+    text: Who set some other god along with Allah. But they will come to know.
+    translation: Pickthall
+    original: ٱلَّذِينَ يَجْعَلُونَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ ۚ فَسَوْفَ يَعْلَمُونَ
+    arabicPlain: الذين يجعلون مع الله إلها آخر ۚ فسوف يعلمون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 267
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:97
+    scripture: quran
+    name: Quran 15:97
+    chapter: 15
+    verse: 97
+    ordinal: 1899
+    text: Well know We that thy bosom is oppressed by what they say,
+    translation: Pickthall
+    original: وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ
+    arabicPlain: ولقد نعلم أنك يضيق صدرك بما يقولون
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 267
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:98
+    scripture: quran
+    name: Quran 15:98
+    chapter: 15
+    verse: 98
+    ordinal: 1900
+    text: But hymn the praise of thy Lord, and be of those who make prostration (unto Him).
+    translation: Pickthall
+    original: فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ ٱلسَّـٰجِدِينَ
+    arabicPlain: فسبح بحمد ربك وكن من الساجدين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 267
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14
+- type: Ayah
+  data:
+    ref: 15:99
+    scripture: quran
+    name: Quran 15:99
+    chapter: 15
+    verse: 99
+    ordinal: 1901
+    text: And serve thy Lord till the Inevitable cometh unto thee.
+    translation: Pickthall
+    original: وَٱعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ ٱلْيَقِينُ
+    arabicPlain: واعبد ربك حتى يأتيك اليقين
+    surahName: Al-Hijr
+    juz: 14
+    manzil: 3
+    ruku: 223
+    page: 267
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '15'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-14

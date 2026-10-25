@@ -1,0 +1,219 @@
+# Every ayah of Surah An-Naas (Mankind): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '114:1'
+    scripture: quran
+    name: Quran 114:1
+    chapter: 114
+    verse: 1
+    ordinal: 6231
+    text: 'Say: I seek refuge in the Lord of mankind,'
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ
+    arabicPlain: بسم الله الرحمن الرحيم قل أعوذ برب الناس
+    surahName: An-Naas
+    juz: 30
+    manzil: 7
+    ruku: 556
+    page: 604
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '114'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '114:2'
+    scripture: quran
+    name: Quran 114:2
+    chapter: 114
+    verse: 2
+    ordinal: 6232
+    text: The King of mankind,
+    translation: Pickthall
+    original: مَلِكِ ٱلنَّاسِ
+    arabicPlain: ملك الناس
+    surahName: An-Naas
+    juz: 30
+    manzil: 7
+    ruku: 556
+    page: 604
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '114'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '114:3'
+    scripture: quran
+    name: Quran 114:3
+    chapter: 114
+    verse: 3
+    ordinal: 6233
+    text: The god of mankind,
+    translation: Pickthall
+    original: إِلَـٰهِ ٱلنَّاسِ
+    arabicPlain: إله الناس
+    surahName: An-Naas
+    juz: 30
+    manzil: 7
+    ruku: 556
+    page: 604
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '114'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '114:4'
+    scripture: quran
+    name: Quran 114:4
+    chapter: 114
+    verse: 4
+    ordinal: 6234
+    text: From the evil of the sneaking whisperer,
+    translation: Pickthall
+    original: مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ
+    arabicPlain: من شر الوسواس الخناس
+    surahName: An-Naas
+    juz: 30
+    manzil: 7
+    ruku: 556
+    page: 604
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '114'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '114:5'
+    scripture: quran
+    name: Quran 114:5
+    chapter: 114
+    verse: 5
+    ordinal: 6235
+    text: Who whispereth in the hearts of mankind,
+    translation: Pickthall
+    original: ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ
+    arabicPlain: الذي يوسوس في صدور الناس
+    surahName: An-Naas
+    juz: 30
+    manzil: 7
+    ruku: 556
+    page: 604
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '114'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '114:6'
+    scripture: quran
+    name: Quran 114:6
+    chapter: 114
+    verse: 6
+    ordinal: 6236
+    text: Of the jinn and of mankind.
+    translation: Pickthall
+    original: مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ
+    arabicPlain: من الجنة والناس
+    surahName: An-Naas
+    juz: 30
+    manzil: 7
+    ruku: 556
+    page: 604
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '114'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

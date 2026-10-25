@@ -1,0 +1,5263 @@
+# Every ayah of Surah Aal-i-Imraan (The Family of Imraan): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '3:1'
+    scripture: quran
+    name: Quran 3:1
+    chapter: 3
+    verse: 1
+    ordinal: 294
+    text: Alim. Lam. Mim.
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ الٓمٓ
+    arabicPlain: بسم الله الرحمن الرحيم الم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 42
+    page: 50
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:2'
+    scripture: quran
+    name: Quran 3:2
+    chapter: 3
+    verse: 2
+    ordinal: 295
+    text: Allah! There is no god save Him, the Alive, the Eternal.
+    translation: Pickthall
+    original: ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ
+    arabicPlain: الله لا إله إلا هو الحي القيوم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 42
+    page: 50
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:3'
+    scripture: quran
+    name: Quran 3:3
+    chapter: 3
+    verse: 3
+    ordinal: 296
+    text: He hath revealed unto thee (Muhammad) the Scripture with truth, confirming that which was (revealed) before it, even as He revealed the Torah and the Gospel.
+    translation: Pickthall
+    original: نَزَّلَ عَلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ
+    arabicPlain: نزل عليك الكتاب بالحق مصدقا لما بين يديه وأنزل التوراة والإنجيل
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 42
+    page: 50
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:4'
+    scripture: quran
+    name: Quran 3:4
+    chapter: 3
+    verse: 4
+    ordinal: 297
+    text: Aforetime, for a guidance to mankind; and hath revealed the Criterion (of right and wrong). Lo! those who disbelieve the revelations of Allah, theirs will be a heavy doom. Allah is Mighty, Able to Requite (the wrong).
+    translation: Pickthall
+    original: مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ ٱلْفُرْقَانَ ۗ إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ ۗ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ
+    arabicPlain: من قبل هدى للناس وأنزل الفرقان ۗ إن الذين كفروا بآيات الله لهم عذاب شديد ۗ والله عزيز ذو انتقام
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 42
+    page: 50
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:5'
+    scripture: quran
+    name: Quran 3:5
+    chapter: 3
+    verse: 5
+    ordinal: 298
+    text: Lo! nothing in the earth or in the heavens is hidden from Allah.
+    translation: Pickthall
+    original: إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ
+    arabicPlain: إن الله لا يخفى عليه شيء في الأرض ولا في السماء
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 42
+    page: 50
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:6'
+    scripture: quran
+    name: Quran 3:6
+    chapter: 3
+    verse: 6
+    ordinal: 299
+    text: He it is Who fashioneth you in the wombs as pleaseth Him. There is no Allah save Him, the Almighty, the Wise.
+    translation: Pickthall
+    original: هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+    arabicPlain: هو الذي يصوركم في الأرحام كيف يشاء ۚ لا إله إلا هو العزيز الحكيم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 42
+    page: 50
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:7'
+    scripture: quran
+    name: Quran 3:7
+    chapter: 3
+    verse: 7
+    ordinal: 300
+    text: 'He it is Who hath revealed unto thee (Muhammad) the Scripture wherein are clear revelations - they are the substance of the Book - and others (which are) allegorical. But those in whose hearts is doubt pursue, forsooth, that which is allegorical seeking (to cause) dissension by seeking to explain it. None knoweth its explanation save Allah. And those who are of sound instruction say: We believe therein; the whole is from our Lord; but only men of understanding really heed.'
+    translation: Pickthall
+    original: هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَـٰبَ مِنْهُ ءَايَـٰتٌ مُّحْكَمَـٰتٌ هُنَّ أُمُّ ٱلْكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتٌ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَـٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ
+    arabicPlain: هو الذي أنزل عليك الكتاب منه آيات محكمات هن أم الكتاب وأخر متشابهات ۖ فأما الذين في قلوبهم زيغ فيتبعون ما تشابه منه ابتغاء الفتنة وابتغاء تأويله ۗ وما يعلم تأويله إلا الله ۗ والراسخون في العلم يقولون آمنا به كل من عند ربنا ۗ وما يذكر إلا أولو الألباب
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 42
+    page: 50
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:8'
+    scripture: quran
+    name: Quran 3:8
+    chapter: 3
+    verse: 8
+    ordinal: 301
+    text: Our Lord! Cause not our hearts to stray after Thou hast guided us, and bestow upon us mercy from Thy Presence. Lo! Thou, only Thou, art the Bestower.
+    translation: Pickthall
+    original: رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ
+    arabicPlain: ربنا لا تزغ قلوبنا بعد إذ هديتنا وهب لنا من لدنك رحمة ۚ إنك أنت الوهاب
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 42
+    page: 50
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:9'
+    scripture: quran
+    name: Quran 3:9
+    chapter: 3
+    verse: 9
+    ordinal: 302
+    text: Our Lord! Lo! it is Thou Who gatherest mankind together to a Day of which there is no doubt. Lo! Allah faileth not to keep the tryst.
+    translation: Pickthall
+    original: رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
+    arabicPlain: ربنا إنك جامع الناس ليوم لا ريب فيه ۚ إن الله لا يخلف الميعاد
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 42
+    page: 50
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:10'
+    scripture: quran
+    name: Quran 3:10
+    chapter: 3
+    verse: 10
+    ordinal: 303
+    text: (On that Day) neither the riches nor the progeny of those who disbelieve will aught avail them with Allah. They will be fuel for Fire.
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا ۖ وَأُو۟لَـٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ
+    arabicPlain: إن الذين كفروا لن تغني عنهم أموالهم ولا أولادهم من الله شيئا ۖ وأولئك هم وقود النار
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 43
+    page: 51
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:11'
+    scripture: quran
+    name: Quran 3:11
+    chapter: 3
+    verse: 11
+    ordinal: 304
+    text: Like Pharaoh's folk and those who were before them, they disbelieved Our revelations and so Allah seized them for their sins. And Allah is severe in punishment.
+    translation: Pickthall
+    original: كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَـٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
+    arabicPlain: كدأب آل فرعون والذين من قبلهم ۚ كذبوا بآياتنا فأخذهم الله بذنوبهم ۗ والله شديد العقاب
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 43
+    page: 51
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:12'
+    scripture: quran
+    name: Quran 3:12
+    chapter: 3
+    verse: 12
+    ordinal: 305
+    text: 'Say (O Muhammad) unto those who disbelieve: Ye shall be overcome and gathered unto Hell, an evil resting-place.'
+    translation: Pickthall
+    original: قُل لِّلَّذِينَ كَفَرُوا۟ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ ٱلْمِهَادُ
+    arabicPlain: قل للذين كفروا ستغلبون وتحشرون إلى جهنم ۚ وبئس المهاد
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 43
+    page: 51
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:13'
+    scripture: quran
+    name: Quran 3:13
+    chapter: 3
+    verse: 13
+    ordinal: 306
+    text: 'There was a token for you in two hosts which met: one army fighting in the way of Allah, and another disbelieving, whom they saw as twice their number, clearly, with their very eyes. Thus Allah strengtheneth with His succour whom He will. Lo! herein verily is a lesson for those who have eyes.'
+    translation: Pickthall
+    original: قَدْ كَانَ لَكُمْ ءَايَةٌ فِى فِئَتَيْنِ ٱلْتَقَتَا ۖ فِئَةٌ تُقَـٰتِلُ فِى سَبِيلِ ٱللَّهِ وَأُخْرَىٰ كَافِرَةٌ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْىَ ٱلْعَيْنِ ۚ وَٱللَّهُ يُؤَيِّدُ بِنَصْرِهِۦ مَن يَشَآءُ ۗ إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَـٰرِ
+    arabicPlain: قد كان لكم آية في فئتين التقتا ۖ فئة تقاتل في سبيل الله وأخرى كافرة يرونهم مثليهم رأي العين ۚ والله يؤيد بنصره من يشاء ۗ إن في ذلك لعبرة لأولي الأبصار
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 43
+    page: 51
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:14'
+    scripture: quran
+    name: Quran 3:14
+    chapter: 3
+    verse: 14
+    ordinal: 307
+    text: Beautified for mankind is love of the joys (that come) from women and offspring; and stored-up heaps of gold and silver, and horses branded (with their mark), and cattle and land. That is comfort of the life of the world. Allah! With Him is a more excellent abode.
+    translation: Pickthall
+    original: زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلْبَنِينَ وَٱلْقَنَـٰطِيرِ ٱلْمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ وَٱلْأَنْعَـٰمِ وَٱلْحَرْثِ ۗ ذَٰلِكَ مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلْمَـَٔابِ
+    arabicPlain: زين للناس حب الشهوات من النساء والبنين والقناطير المقنطرة من الذهب والفضة والخيل المسومة والأنعام والحرث ۗ ذلك متاع الحياة الدنيا ۖ والله عنده حسن المآب
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 43
+    page: 51
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:15'
+    scripture: quran
+    name: Quran 3:15
+    chapter: 3
+    verse: 15
+    ordinal: 308
+    text: 'Say: Shall I inform you of something better than that? For those who keep from evil, with their Lord, are Gardens underneath which rivers flow wherein they will abide, and pure companions, and contentment from Allah. Allah is Seer of His bondmen,'
+    translation: Pickthall
+    original: ۞ قُلْ أَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذَٰلِكُمْ ۚ لِلَّذِينَ ٱتَّقَوْا۟ عِندَ رَبِّهِمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا وَأَزْوَٰجٌ مُّطَهَّرَةٌ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
+    arabicPlain: ۞ قل أؤنبئكم بخير من ذلكم ۚ للذين اتقوا عند ربهم جنات تجري من تحتها الأنهار خالدين فيها وأزواج مطهرة ورضوان من الله ۗ والله بصير بالعباد
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 43
+    page: 51
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:16'
+    scripture: quran
+    name: Quran 3:16
+    chapter: 3
+    verse: 16
+    ordinal: 309
+    text: 'Those who say: Our Lord! Lo! we believe. So forgive us our sins and guard us from the punishment of Fire;'
+    translation: Pickthall
+    original: ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ
+    arabicPlain: الذين يقولون ربنا إننا آمنا فاغفر لنا ذنوبنا وقنا عذاب النار
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 43
+    page: 52
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:17'
+    scripture: quran
+    name: Quran 3:17
+    chapter: 3
+    verse: 17
+    ordinal: 310
+    text: The steadfast, and the truthful, and the obedient, those who spend (and hoard not), those who pray for pardon in the watches of the night.
+    translation: Pickthall
+    original: ٱلصَّـٰبِرِينَ وَٱلصَّـٰدِقِينَ وَٱلْقَـٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ
+    arabicPlain: الصابرين والصادقين والقانتين والمنفقين والمستغفرين بالأسحار
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 43
+    page: 52
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:18'
+    scripture: quran
+    name: Quran 3:18
+    chapter: 3
+    verse: 18
+    ordinal: 311
+    text: Allah (Himself) is Witness that there is no Allah save Him. And the angels and the men of learning (too are witness). Maintaining His creation in justice, there is no Allah save Him the Almighty, the Wise.
+    translation: Pickthall
+    original: شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا هُوَ وَٱلْمَلَـٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+    arabicPlain: شهد الله أنه لا إله إلا هو والملائكة وأولو العلم قائما بالقسط ۚ لا إله إلا هو العزيز الحكيم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 43
+    page: 52
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:19'
+    scripture: quran
+    name: Quran 3:19
+    chapter: 3
+    verse: 19
+    ordinal: 312
+    text: Lo! religion with Allah (is) the Surrender (to His Will and Guidance). Those who (formerly) received the Scripture differed only after knowledge came unto them, through transgression among themselves. Whoso disbelieveth the revelations of Allah (will find that) lo! Allah is swift at reckoning.
+    translation: Pickthall
+    original: إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَـٰمُ ۗ وَمَا ٱخْتَلَفَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِـَٔايَـٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+    arabicPlain: إن الدين عند الله الإسلام ۗ وما اختلف الذين أوتوا الكتاب إلا من بعد ما جاءهم العلم بغيا بينهم ۗ ومن يكفر بآيات الله فإن الله سريع الحساب
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 43
+    page: 52
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:20'
+    scripture: quran
+    name: Quran 3:20
+    chapter: 3
+    verse: 20
+    ordinal: 313
+    text: 'And if they argue with thee, (O Muhammad), say: I have surrendered my purpose to Allah and (so have) those who follow me. And say unto those who have received the Scripture and those who read not: Have ye (too) surrendered? If they surrender, then truly they are rightly guided, and if they turn away, then it is thy duty only to convey the message (unto them). Allah is Seer of (His) bondmen.'
+    translation: Pickthall
+    original: فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْأُمِّيِّـۧنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَـٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
+    arabicPlain: فإن حاجوك فقل أسلمت وجهي لله ومن اتبعن ۗ وقل للذين أوتوا الكتاب والأميين أأسلمتم ۚ فإن أسلموا فقد اهتدوا ۖ وإن تولوا فإنما عليك البلاغ ۗ والله بصير بالعباد
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 43
+    page: 52
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:21'
+    scripture: quran
+    name: Quran 3:21
+    chapter: 3
+    verse: 21
+    ordinal: 314
+    text: 'Lo! those who disbelieve the revelations of Allah, and slay the prophets wrongfully, and slay those of mankind who enjoin equity: promise them a painful doom.'
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
+    arabicPlain: إن الذين يكفرون بآيات الله ويقتلون النبيين بغير حق ويقتلون الذين يأمرون بالقسط من الناس فبشرهم بعذاب أليم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 44
+    page: 52
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:22'
+    scripture: quran
+    name: Quran 3:22
+    chapter: 3
+    verse: 22
+    ordinal: 315
+    text: Those are they whose works have failed in the world and the Hereafter; and they have no helpers.
+    translation: Pickthall
+    original: أُو۟لَـٰٓئِكَ ٱلَّذِينَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ
+    arabicPlain: أولئك الذين حبطت أعمالهم في الدنيا والآخرة وما لهم من ناصرين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 44
+    page: 52
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:23'
+    scripture: quran
+    name: Quran 3:23
+    chapter: 3
+    verse: 23
+    ordinal: 316
+    text: Hast thou not seen how those who have received a portion of the Scripture invoke the Scripture of Allah (in their disputes) that it may judge between them; then a faction of them turn away, being opposed (to it)?
+    translation: Pickthall
+    original: أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَـٰبِ يُدْعَوْنَ إِلَىٰ كِتَـٰبِ ٱللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُمْ وَهُم مُّعْرِضُونَ
+    arabicPlain: ألم تر إلى الذين أوتوا نصيبا من الكتاب يدعون إلى كتاب الله ليحكم بينهم ثم يتولى فريق منهم وهم معرضون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 44
+    page: 53
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:24'
+    scripture: quran
+    name: Quran 3:24
+    chapter: 3
+    verse: 24
+    ordinal: 317
+    text: 'That is because they say: The Fire will not touch us save for a certain number of days. That which they used to invent hath deceived them regarding their religion.'
+    translation: Pickthall
+    original: ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَٰتٍ ۖ وَغَرَّهُمْ فِى دِينِهِم مَّا كَانُوا۟ يَفْتَرُونَ
+    arabicPlain: ذلك بأنهم قالوا لن تمسنا النار إلا أياما معدودات ۖ وغرهم في دينهم ما كانوا يفترون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 44
+    page: 53
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:25'
+    scripture: quran
+    name: Quran 3:25
+    chapter: 3
+    verse: 25
+    ordinal: 318
+    text: How (will it be with them) when We have brought them all together to a Day of which there is no doubt, when every soul will be paid in full what it hath earned, and they will not be wronged.
+    translation: Pickthall
+    original: فَكَيْفَ إِذَا جَمَعْنَـٰهُمْ لِيَوْمٍ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
+    arabicPlain: فكيف إذا جمعناهم ليوم لا ريب فيه ووفيت كل نفس ما كسبت وهم لا يظلمون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 44
+    page: 53
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:26'
+    scripture: quran
+    name: Quran 3:26
+    chapter: 3
+    verse: 26
+    ordinal: 319
+    text: 'Say: O Allah! Owner of Sovereignty! Thou givest sovereignty unto whom Thou wilt, and Thou withdrawest sovereignty from whom Thou wilt. Thou exaltest whom Thou wilt, and Thou abasest whom Thou wilt. In Thy hand is the good. Lo! Thou art Able to do all things.'
+    translation: Pickthall
+    original: قُلِ ٱللَّهُمَّ مَـٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+    arabicPlain: قل اللهم مالك الملك تؤتي الملك من تشاء وتنزع الملك ممن تشاء وتعز من تشاء وتذل من تشاء ۖ بيدك الخير ۖ إنك على كل شيء قدير
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 44
+    page: 53
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:27'
+    scripture: quran
+    name: Quran 3:27
+    chapter: 3
+    verse: 27
+    ordinal: 320
+    text: Thou causest the night to pass into the day, and Thou causest the day to pass into the night. And Thou bringest forth the living from the dead, and Thou bringest forth the dead from the living. And Thou givest sustenance to whom Thou choosest, without stint.
+    translation: Pickthall
+    original: تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۖ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ ۖ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍ
+    arabicPlain: تولج الليل في النهار وتولج النهار في الليل ۖ وتخرج الحي من الميت وتخرج الميت من الحي ۖ وترزق من تشاء بغير حساب
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 44
+    page: 53
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:28'
+    scripture: quran
+    name: Quran 3:28
+    chapter: 3
+    verse: 28
+    ordinal: 321
+    text: Let not the believers take disbelievers for their friends in preference to believers. Whoso doeth that hath no connection with Allah unless (it be) that ye but guard yourselves against them, taking (as it were) security. Allah biddeth you beware (only) of Himself. Unto Allah is the journeying.
+    translation: Pickthall
+    original: لَّا يَتَّخِذِ ٱلْمُؤْمِنُونَ ٱلْكَـٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۖ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ ٱللَّهِ فِى شَىْءٍ إِلَّآ أَن تَتَّقُوا۟ مِنْهُمْ تُقَىٰةً ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
+    arabicPlain: لا يتخذ المؤمنون الكافرين أولياء من دون المؤمنين ۖ ومن يفعل ذلك فليس من الله في شيء إلا أن تتقوا منهم تقاة ۗ ويحذركم الله نفسه ۗ وإلى الله المصير
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 44
+    page: 53
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:29'
+    scripture: quran
+    name: Quran 3:29
+    chapter: 3
+    verse: 29
+    ordinal: 322
+    text: 'Say, (O Muhammad): Whether ye hide that which is in your breasts or reveal it, Allah knoweth it. He knoweth that which is in the heavens and that which is in the earth, and Allah is Able to do all things.'
+    translation: Pickthall
+    original: قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ ۗ وَيَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+    arabicPlain: قل إن تخفوا ما في صدوركم أو تبدوه يعلمه الله ۗ ويعلم ما في السماوات وما في الأرض ۗ والله على كل شيء قدير
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 44
+    page: 53
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:30'
+    scripture: quran
+    name: Quran 3:30
+    chapter: 3
+    verse: 30
+    ordinal: 323
+    text: On the Day when every soul will find itself confronted with all that it hath done of good and all that it hath done of evil (every soul) will long that there might be a mighty space of distance between it and that (evil). Allah biddeth you beware of Him. And Allah is Full of Pity for (His) bondmen.
+    translation: Pickthall
+    original: يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوٓءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًا ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ
+    arabicPlain: يوم تجد كل نفس ما عملت من خير محضرا وما عملت من سوء تود لو أن بينها وبينه أمدا بعيدا ۗ ويحذركم الله نفسه ۗ والله رءوف بالعباد
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 44
+    page: 54
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:31'
+    scripture: quran
+    name: Quran 3:31
+    chapter: 3
+    verse: 31
+    ordinal: 324
+    text: 'Say, (O Muhammad, to mankind): If ye love Allah, follow me; Allah will love you and forgive you your sins. Allah is Forgiving, Merciful.'
+    translation: Pickthall
+    original: قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+    arabicPlain: قل إن كنتم تحبون الله فاتبعوني يحببكم الله ويغفر لكم ذنوبكم ۗ والله غفور رحيم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 45
+    page: 54
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:32'
+    scripture: quran
+    name: Quran 3:32
+    chapter: 3
+    verse: 32
+    ordinal: 325
+    text: 'Say: Obey Allah and the messenger. But if they turn away, lo! Allah loveth not the disbelievers (in His guidance).'
+    translation: Pickthall
+    original: قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَـٰفِرِينَ
+    arabicPlain: قل أطيعوا الله والرسول ۖ فإن تولوا فإن الله لا يحب الكافرين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 45
+    page: 54
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:33'
+    scripture: quran
+    name: Quran 3:33
+    chapter: 3
+    verse: 33
+    ordinal: 326
+    text: Lo! Allah preferred Adam and Noah and the Family of Abraham and the Family of 'Imran above (all His) creatures.
+    translation: Pickthall
+    original: ۞ إِنَّ ٱللَّهَ ٱصْطَفَىٰٓ ءَادَمَ وَنُوحًا وَءَالَ إِبْرَٰهِيمَ وَءَالَ عِمْرَٰنَ عَلَى ٱلْعَـٰلَمِينَ
+    arabicPlain: ۞ إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 45
+    page: 54
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:34'
+    scripture: quran
+    name: Quran 3:34
+    chapter: 3
+    verse: 34
+    ordinal: 327
+    text: They were descendants one of another. Allah is Hearer, Knower.
+    translation: Pickthall
+    original: ذُرِّيَّةًۢ بَعْضُهَا مِنۢ بَعْضٍ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
+    arabicPlain: ذرية بعضها من بعض ۗ والله سميع عليم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 45
+    page: 54
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:35'
+    scripture: quran
+    name: Quran 3:35
+    chapter: 3
+    verse: 35
+    ordinal: 328
+    text: '(Remember) when the wife of ''Imran said: My Lord! I have vowed unto Thee that which is in my belly as a consecrated (offering). Accept it from me. Lo! Thou, only Thou, art the Hearer, the Knower!'
+    translation: Pickthall
+    original: إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+    arabicPlain: إذ قالت امرأت عمران رب إني نذرت لك ما في بطني محررا فتقبل مني ۖ إنك أنت السميع العليم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 45
+    page: 54
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:36'
+    scripture: quran
+    name: Quran 3:36
+    chapter: 3
+    verse: 36
+    ordinal: 329
+    text: 'And when she was delivered she said: My Lord! Lo! I am delivered of a female - Allah knew best of what she was delivered - the male is not as the female; and lo! I have named her Mary, and lo! I crave Thy protection for her and for her offspring from Satan the outcast.'
+    translation: Pickthall
+    original: فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ
+    arabicPlain: فلما وضعتها قالت رب إني وضعتها أنثى والله أعلم بما وضعت وليس الذكر كالأنثى ۖ وإني سميتها مريم وإني أعيذها بك وذريتها من الشيطان الرجيم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 45
+    page: 54
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:37'
+    scripture: quran
+    name: Quran 3:37
+    chapter: 3
+    verse: 37
+    ordinal: 330
+    text: 'And her Lord accepted her with full acceptance and vouchsafed to her a goodly growth; and made Zachariah her guardian. Whenever Zachariah went into the sanctuary where she was, he found that she had food. He said: O Mary! Whence cometh unto thee this (food)? She answered: It is from Allah. Allah giveth without stint to whom He will.'
+    translation: Pickthall
+    original: فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
+    arabicPlain: فتقبلها ربها بقبول حسن وأنبتها نباتا حسنا وكفلها زكريا ۖ كلما دخل عليها زكريا المحراب وجد عندها رزقا ۖ قال يا مريم أنى لك هذا ۖ قالت هو من عند الله ۖ إن الله يرزق من يشاء بغير حساب
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 45
+    page: 54
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:38'
+    scripture: quran
+    name: Quran 3:38
+    chapter: 3
+    verse: 38
+    ordinal: 331
+    text: 'Then Zachariah prayed unto his Lord and said: My Lord! Bestow upon me of Thy bounty goodly offspring. Lo! Thou art the Hearer of Prayer.'
+    translation: Pickthall
+    original: هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ
+    arabicPlain: هنالك دعا زكريا ربه ۖ قال رب هب لي من لدنك ذرية طيبة ۖ إنك سميع الدعاء
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 45
+    page: 55
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:39'
+    scripture: quran
+    name: Quran 3:39
+    chapter: 3
+    verse: 39
+    ordinal: 332
+    text: 'And the angels called to him as he stood praying in the sanctuary: Allah giveth thee glad tidings of (a son whose name is) John, (who cometh) to confirm a word from Allah lordly, chaste, a prophet of the righteous.'
+    translation: Pickthall
+    original: فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ
+    arabicPlain: فنادته الملائكة وهو قائم يصلي في المحراب أن الله يبشرك بيحيى مصدقا بكلمة من الله وسيدا وحصورا ونبيا من الصالحين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 45
+    page: 55
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:40'
+    scripture: quran
+    name: Quran 3:40
+    chapter: 3
+    verse: 40
+    ordinal: 333
+    text: 'He said: My Lord! How can I have a son when age hath overtaken me already and my wife is barren? (The angel) answered: So (it will be). Allah doeth what He will.'
+    translation: Pickthall
+    original: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
+    arabicPlain: قال رب أنى يكون لي غلام وقد بلغني الكبر وامرأتي عاقر ۖ قال كذلك الله يفعل ما يشاء
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 45
+    page: 55
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:41'
+    scripture: quran
+    name: Quran 3:41
+    chapter: 3
+    verse: 41
+    ordinal: 334
+    text: 'He said: My Lord! Appoint a token for me. (The angel) said: The token unto thee (shall be) that thou shalt not speak unto mankind three days except by signs. Remember thy Lord much, and praise (Him) in the early hours of night and morning.'
+    translation: Pickthall
+    original: قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَةَ أَيَّامٍ إِلَّا رَمْزًا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ
+    arabicPlain: قال رب اجعل لي آية ۖ قال آيتك ألا تكلم الناس ثلاثة أيام إلا رمزا ۗ واذكر ربك كثيرا وسبح بالعشي والإبكار
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 45
+    page: 55
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:42'
+    scripture: quran
+    name: Quran 3:42
+    chapter: 3
+    verse: 42
+    ordinal: 335
+    text: 'And when the angels said: O Mary! Lo! Allah hath chosen thee and made thee pure, and hath preferred thee above (all) the women of creation.'
+    translation: Pickthall
+    original: وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ
+    arabicPlain: وإذ قالت الملائكة يا مريم إن الله اصطفاك وطهرك واصطفاك على نساء العالمين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 55
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:43'
+    scripture: quran
+    name: Quran 3:43
+    chapter: 3
+    verse: 43
+    ordinal: 336
+    text: O Mary! Be obedient to thy Lord, prostrate thyself and bow with those who bow (in worship).
+    translation: Pickthall
+    original: يَـٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ
+    arabicPlain: يا مريم اقنتي لربك واسجدي واركعي مع الراكعين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 55
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:44'
+    scripture: quran
+    name: Quran 3:44
+    chapter: 3
+    verse: 44
+    ordinal: 337
+    text: This is of the tidings of things hidden. We reveal it unto thee (Muhammad). Thou wast not present with them when they threw their pens (to know) which of them should be the guardian of Mary, nor wast thou present with them when they quarrelled (thereupon).
+    translation: Pickthall
+    original: ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَـٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ
+    arabicPlain: ذلك من أنباء الغيب نوحيه إليك ۚ وما كنت لديهم إذ يلقون أقلامهم أيهم يكفل مريم وما كنت لديهم إذ يختصمون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 55
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:45'
+    scripture: quran
+    name: Quran 3:45
+    chapter: 3
+    verse: 45
+    ordinal: 338
+    text: '(And remember) when the angels said: O Mary! Lo! Allah giveth thee glad tidings of a word from him, whose name is the Messiah, Jesus, son of Mary, illustrious in the world and the Hereafter, and one of those brought near (unto Allah).'
+    translation: Pickthall
+    original: إِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ
+    arabicPlain: إذ قالت الملائكة يا مريم إن الله يبشرك بكلمة منه اسمه المسيح عيسى ابن مريم وجيها في الدنيا والآخرة ومن المقربين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 55
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:46'
+    scripture: quran
+    name: Quran 3:46
+    chapter: 3
+    verse: 46
+    ordinal: 339
+    text: He will speak unto mankind in his cradle and in his manhood, and he is of the righteous.
+    translation: Pickthall
+    original: وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَمِنَ ٱلصَّـٰلِحِينَ
+    arabicPlain: ويكلم الناس في المهد وكهلا ومن الصالحين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 56
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:47'
+    scripture: quran
+    name: Quran 3:47
+    chapter: 3
+    verse: 47
+    ordinal: 340
+    text: 'She said: My Lord! How can I have a child when no mortal hath touched me? He said: So (it will be). Allah createth what He will. If He decreeth a thing, He saith unto it only: Be! and it is.'
+    translation: Pickthall
+    original: قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
+    arabicPlain: قالت رب أنى يكون لي ولد ولم يمسسني بشر ۖ قال كذلك الله يخلق ما يشاء ۚ إذا قضى أمرا فإنما يقول له كن فيكون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 56
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:48'
+    scripture: quran
+    name: Quran 3:48
+    chapter: 3
+    verse: 48
+    ordinal: 341
+    text: And He will teach him the Scripture and wisdom, and the Torah and the Gospel,
+    translation: Pickthall
+    original: وَيُعَلِّمُهُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ
+    arabicPlain: ويعلمه الكتاب والحكمة والتوراة والإنجيل
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 56
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:49'
+    scripture: quran
+    name: Quran 3:49
+    chapter: 3
+    verse: 49
+    ordinal: 342
+    text: 'And will make him a messenger unto the Children of Israel, (saying): Lo! I come unto you with a sign from your Lord. Lo! I fashion for you out of clay the likeness of a bird, and I breathe into it and it is a bird, by Allah''s leave. I heal him who was born blind, and the leper, and I raise the dead, by Allah''s leave. And I announce unto you what ye eat and what ye store up in your houses. Lo! herein verily is a portent for you, if ye are to be believers.'
+    translation: Pickthall
+    original: وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ ۖ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ ۖ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ ۖ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
+    arabicPlain: ورسولا إلى بني إسرائيل أني قد جئتكم بآية من ربكم ۖ أني أخلق لكم من الطين كهيئة الطير فأنفخ فيه فيكون طيرا بإذن الله ۖ وأبرئ الأكمه والأبرص وأحيي الموتى بإذن الله ۖ وأنبئكم بما تأكلون وما تدخرون في بيوتكم ۚ إن في ذلك لآية لكم إن كنتم مؤمنين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 56
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:50'
+    scripture: quran
+    name: Quran 3:50
+    chapter: 3
+    verse: 50
+    ordinal: 343
+    text: And (I come) confirming that which was before me of the Torah, and to make lawful some of that which was forbidden unto you. I come unto you with a sign from your Lord, so keep your duty to Allah and obey me.
+    translation: Pickthall
+    original: وَمُصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ ۚ وَجِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
+    arabicPlain: ومصدقا لما بين يدي من التوراة ولأحل لكم بعض الذي حرم عليكم ۚ وجئتكم بآية من ربكم فاتقوا الله وأطيعون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 56
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:51'
+    scripture: quran
+    name: Quran 3:51
+    chapter: 3
+    verse: 51
+    ordinal: 344
+    text: Lo! Allah is my Lord and your Lord, so worship Him. That is a straight path.
+    translation: Pickthall
+    original: إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ
+    arabicPlain: إن الله ربي وربكم فاعبدوه ۗ هذا صراط مستقيم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 56
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:52'
+    scripture: quran
+    name: Quran 3:52
+    chapter: 3
+    verse: 52
+    ordinal: 345
+    text: 'But when Jesus became conscious of their disbelief, he cried: Who will be my helpers in the cause of Allah? The disciples said: We will be Allah''s helpers. We believe in Allah, and bear thou witness that we have surrendered (unto Him).'
+    translation: Pickthall
+    original: ۞ فَلَمَّآ أَحَسَّ عِيسَىٰ مِنْهُمُ ٱلْكُفْرَ قَالَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ءَامَنَّا بِٱللَّهِ وَٱشْهَدْ بِأَنَّا مُسْلِمُونَ
+    arabicPlain: ۞ فلما أحس عيسى منهم الكفر قال من أنصاري إلى الله ۖ قال الحواريون نحن أنصار الله آمنا بالله واشهد بأنا مسلمون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 56
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:53'
+    scripture: quran
+    name: Quran 3:53
+    chapter: 3
+    verse: 53
+    ordinal: 346
+    text: Our Lord! We believe in that which Thou hast revealed and we follow him whom Thou hast sent. Enrol us among those who witness (to the truth).
+    translation: Pickthall
+    original: رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلْتَ وَٱتَّبَعْنَا ٱلرَّسُولَ فَٱكْتُبْنَا مَعَ ٱلشَّـٰهِدِينَ
+    arabicPlain: ربنا آمنا بما أنزلت واتبعنا الرسول فاكتبنا مع الشاهدين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 57
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:54'
+    scripture: quran
+    name: Quran 3:54
+    chapter: 3
+    verse: 54
+    ordinal: 347
+    text: 'And they (the disbelievers) schemed, and Allah schemed (against them): and Allah is the best of schemers.'
+    translation: Pickthall
+    original: وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَـٰكِرِينَ
+    arabicPlain: ومكروا ومكر الله ۖ والله خير الماكرين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 46
+    page: 57
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:55'
+    scripture: quran
+    name: Quran 3:55
+    chapter: 3
+    verse: 55
+    ordinal: 348
+    text: '(And remember) when Allah said: O Jesus! Lo! I am gathering thee and causing thee to ascend unto Me, and am cleansing thee of those who disbelieve and am setting those who follow thee above those who disbelieve until the Day of Resurrection. Then unto Me ye will (all) return, and I shall judge between you as to that wherein ye used to differ.'
+    translation: Pickthall
+    original: إِذْ قَالَ ٱللَّهُ يَـٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۖ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
+    arabicPlain: إذ قال الله يا عيسى إني متوفيك ورافعك إلي ومطهرك من الذين كفروا وجاعل الذين اتبعوك فوق الذين كفروا إلى يوم القيامة ۖ ثم إلي مرجعكم فأحكم بينكم فيما كنتم فيه تختلفون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 47
+    page: 57
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:56'
+    scripture: quran
+    name: Quran 3:56
+    chapter: 3
+    verse: 56
+    ordinal: 349
+    text: As for those who disbelieve I shall chastise them with a heavy chastisement in the world and the Hereafter; and they will have no helpers.
+    translation: Pickthall
+    original: فَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَأُعَذِّبُهُمْ عَذَابًا شَدِيدًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ
+    arabicPlain: فأما الذين كفروا فأعذبهم عذابا شديدا في الدنيا والآخرة وما لهم من ناصرين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 47
+    page: 57
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:57'
+    scripture: quran
+    name: Quran 3:57
+    chapter: 3
+    verse: 57
+    ordinal: 350
+    text: And as for those who believe and do good works, He will pay them their wages in full. Allah loveth not wrong-doers.
+    translation: Pickthall
+    original: وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ
+    arabicPlain: وأما الذين آمنوا وعملوا الصالحات فيوفيهم أجورهم ۗ والله لا يحب الظالمين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 47
+    page: 57
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:58'
+    scripture: quran
+    name: Quran 3:58
+    chapter: 3
+    verse: 58
+    ordinal: 351
+    text: This (which) We recite unto thee is a revelation and a wise reminder.
+    translation: Pickthall
+    original: ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْـَٔايَـٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ
+    arabicPlain: ذلك نتلوه عليك من الآيات والذكر الحكيم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 47
+    page: 57
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: '3:59'
+    scripture: quran
+    name: Quran 3:59
+    chapter: 3
+    verse: 59
+    ordinal: 352
+    text: 'Lo! the likeness of Jesus with Allah is as the likeness of Adam. He created him of dust, then He said unto him: Be! and he is.'
+    translation: Pickthall
+    original: إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ
+    arabicPlain: إن مثل عيسى عند الله كمثل آدم ۖ خلقه من تراب ثم قال له كن فيكون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 47
+    page: 57
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:60
+    scripture: quran
+    name: Quran 3:60
+    chapter: 3
+    verse: 60
+    ordinal: 353
+    text: (This is) the truth from thy Lord (O Muhammad), so be not thou of those who waver.
+    translation: Pickthall
+    original: ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ
+    arabicPlain: الحق من ربك فلا تكن من الممترين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 47
+    page: 57
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:61
+    scripture: quran
+    name: Quran 3:61
+    chapter: 3
+    verse: 61
+    ordinal: 354
+    text: 'And whoso disputeth with thee concerning him, after the knowledge which hath come unto thee, say (unto him): Come! We will summon our sons and your sons, and our women and your women, and ourselves and yourselves, then we will pray humbly (to our Lord) and (solemnly) invoke the curse of Allah upon those who lie.'
+    translation: Pickthall
+    original: فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَـٰذِبِينَ
+    arabicPlain: فمن حاجك فيه من بعد ما جاءك من العلم فقل تعالوا ندع أبناءنا وأبناءكم ونساءنا ونساءكم وأنفسنا وأنفسكم ثم نبتهل فنجعل لعنت الله على الكاذبين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 47
+    page: 57
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:62
+    scripture: quran
+    name: Quran 3:62
+    chapter: 3
+    verse: 62
+    ordinal: 355
+    text: Lo! This verily is the true narrative. There is no Allah save Allah, and lo! Allah, He verily is, is the Mighty, the Wise.
+    translation: Pickthall
+    original: إِنَّ هَـٰذَا لَهُوَ ٱلْقَصَصُ ٱلْحَقُّ ۚ وَمَا مِنْ إِلَـٰهٍ إِلَّا ٱللَّهُ ۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+    arabicPlain: إن هذا لهو القصص الحق ۚ وما من إله إلا الله ۚ وإن الله لهو العزيز الحكيم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 47
+    page: 58
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:63
+    scripture: quran
+    name: Quran 3:63
+    chapter: 3
+    verse: 63
+    ordinal: 356
+    text: And if they turn away, then lo! Allah is Aware of (who are) the corrupters.
+    translation: Pickthall
+    original: فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ عَلِيمٌۢ بِٱلْمُفْسِدِينَ
+    arabicPlain: فإن تولوا فإن الله عليم بالمفسدين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 47
+    page: 58
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:64
+    scripture: quran
+    name: Quran 3:64
+    chapter: 3
+    verse: 64
+    ordinal: 357
+    text: 'Say: O People of the Scripture! Come to an agreement between us and you: that we shall worship none but Allah, and that we shall ascribe no partner unto Him, and that none of us shall take others for lords beside Allah. And if they turn away, then say: Bear witness that we are they who have surrendered (unto Him).'
+    translation: Pickthall
+    original: قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ
+    arabicPlain: قل يا أهل الكتاب تعالوا إلى كلمة سواء بيننا وبينكم ألا نعبد إلا الله ولا نشرك به شيئا ولا يتخذ بعضنا بعضا أربابا من دون الله ۚ فإن تولوا فقولوا اشهدوا بأنا مسلمون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 48
+    page: 58
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:65
+    scripture: quran
+    name: Quran 3:65
+    chapter: 3
+    verse: 65
+    ordinal: 358
+    text: O People of the Scripture! Why will ye argue about Abraham, when the Torah and the Gospel were not revealed till after him? Have ye then no sense?
+    translation: Pickthall
+    original: يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تُحَآجُّونَ فِىٓ إِبْرَٰهِيمَ وَمَآ أُنزِلَتِ ٱلتَّوْرَىٰةُ وَٱلْإِنجِيلُ إِلَّا مِنۢ بَعْدِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ
+    arabicPlain: يا أهل الكتاب لم تحاجون في إبراهيم وما أنزلت التوراة والإنجيل إلا من بعده ۚ أفلا تعقلون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 48
+    page: 58
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:66
+    scripture: quran
+    name: Quran 3:66
+    chapter: 3
+    verse: 66
+    ordinal: 359
+    text: 'Lo! ye are those who argue about that whereof ye have some knowledge: Why then argue ye concerning that whereof ye have no knowledge? Allah knoweth. Ye know not.'
+    translation: Pickthall
+    original: هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ حَـٰجَجْتُمْ فِيمَا لَكُم بِهِۦ عِلْمٌ فَلِمَ تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِۦ عِلْمٌ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
+    arabicPlain: ها أنتم هؤلاء حاججتم فيما لكم به علم فلم تحاجون فيما ليس لكم به علم ۚ والله يعلم وأنتم لا تعلمون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 48
+    page: 58
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:67
+    scripture: quran
+    name: Quran 3:67
+    chapter: 3
+    verse: 67
+    ordinal: 360
+    text: Abraham was not a Jew, nor yet a Christian; but he was an upright man who had surrendered (to Allah), and he was not of the idolaters.
+    translation: Pickthall
+    original: مَا كَانَ إِبْرَٰهِيمُ يَهُودِيًّا وَلَا نَصْرَانِيًّا وَلَـٰكِن كَانَ حَنِيفًا مُّسْلِمًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
+    arabicPlain: ما كان إبراهيم يهوديا ولا نصرانيا ولكن كان حنيفا مسلما وما كان من المشركين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 48
+    page: 58
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:68
+    scripture: quran
+    name: Quran 3:68
+    chapter: 3
+    verse: 68
+    ordinal: 361
+    text: Lo! those of mankind who have the best claim to Abraham are those who followed him, and this Prophet and those who believe (with him); and Allah is the Protecting Guardian of the believers.
+    translation: Pickthall
+    original: إِنَّ أَوْلَى ٱلنَّاسِ بِإِبْرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَـٰذَا ٱلنَّبِىُّ وَٱلَّذِينَ ءَامَنُوا۟ ۗ وَٱللَّهُ وَلِىُّ ٱلْمُؤْمِنِينَ
+    arabicPlain: إن أولى الناس بإبراهيم للذين اتبعوه وهذا النبي والذين آمنوا ۗ والله ولي المؤمنين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 48
+    page: 58
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:69
+    scripture: quran
+    name: Quran 3:69
+    chapter: 3
+    verse: 69
+    ordinal: 362
+    text: A party of the People of the Scripture long to make you go astray; and they make none to go astray except themselves, but they perceive not.
+    translation: Pickthall
+    original: وَدَّت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ لَوْ يُضِلُّونَكُمْ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
+    arabicPlain: ودت طائفة من أهل الكتاب لو يضلونكم وما يضلون إلا أنفسهم وما يشعرون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 48
+    page: 58
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:70
+    scripture: quran
+    name: Quran 3:70
+    chapter: 3
+    verse: 70
+    ordinal: 363
+    text: O People of the Scripture! Why disbelieve ye in the revelations of Allah, when ye (yourselves) bear witness (to their truth)?
+    translation: Pickthall
+    original: يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَأَنتُمْ تَشْهَدُونَ
+    arabicPlain: يا أهل الكتاب لم تكفرون بآيات الله وأنتم تشهدون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 48
+    page: 58
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:71
+    scripture: quran
+    name: Quran 3:71
+    chapter: 3
+    verse: 71
+    ordinal: 364
+    text: O People of the Scripture! Why confound ye truth with falsehood and knowingly conceal the truth?
+    translation: Pickthall
+    original: يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
+    arabicPlain: يا أهل الكتاب لم تلبسون الحق بالباطل وتكتمون الحق وأنتم تعلمون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 48
+    page: 59
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:72
+    scripture: quran
+    name: Quran 3:72
+    chapter: 3
+    verse: 72
+    ordinal: 365
+    text: 'And a party of the People of the Scripture say: Believe in that which hath been revealed unto those who believe at the opening of the day, and disbelieve at the end thereof, in order that they may return;'
+    translation: Pickthall
+    original: وَقَالَت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ
+    arabicPlain: وقالت طائفة من أهل الكتاب آمنوا بالذي أنزل على الذين آمنوا وجه النهار واكفروا آخره لعلهم يرجعون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 49
+    page: 59
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:73
+    scripture: quran
+    name: Quran 3:73
+    chapter: 3
+    verse: 73
+    ordinal: 366
+    text: 'And believe not save in one who followeth your religion - Say (O Muhammad): Lo! the guidance is Allah''s Guidance - that anyone is given the like of that which was given unto you or that they may argue with you in the presence of their Lord. Say (O Muhammad): Lo! the bounty is in Allah''s hand. He bestoweth it on whom He will. Allah is All-Embracing, All-Knowing.'
+    translation: Pickthall
+    original: وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+    arabicPlain: ولا تؤمنوا إلا لمن تبع دينكم قل إن الهدى هدى الله أن يؤتى أحد مثل ما أوتيتم أو يحاجوكم عند ربكم ۗ قل إن الفضل بيد الله يؤتيه من يشاء ۗ والله واسع عليم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 49
+    page: 59
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:74
+    scripture: quran
+    name: Quran 3:74
+    chapter: 3
+    verse: 74
+    ordinal: 367
+    text: He selecteth for His mercy whom He will. Allah is of Infinite Bounty.
+    translation: Pickthall
+    original: يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+    arabicPlain: يختص برحمته من يشاء ۗ والله ذو الفضل العظيم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 49
+    page: 59
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:75
+    scripture: quran
+    name: Quran 3:75
+    chapter: 3
+    verse: 75
+    ordinal: 368
+    text: 'Among the People of the Scripture there is he who, if thou trust him with a weight of treasure, will return it to thee. And among them there is he who, if thou trust him with a piece of gold, will not return it to thee unless thou keep standing over him. That is because they say: We have no duty to the Gentiles. They speak a lie concerning Allah knowingly.'
+    translation: Pickthall
+    original: ۞ وَمِنْ أَهْلِ ٱلْكِتَـٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًا ۗ ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّـۧنَ سَبِيلٌ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
+    arabicPlain: ۞ ومن أهل الكتاب من إن تأمنه بقنطار يؤده إليك ومنهم من إن تأمنه بدينار لا يؤده إليك إلا ما دمت عليه قائما ۗ ذلك بأنهم قالوا ليس علينا في الأميين سبيل ويقولون على الله الكذب وهم يعلمون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 49
+    page: 59
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:76
+    scripture: quran
+    name: Quran 3:76
+    chapter: 3
+    verse: 76
+    ordinal: 369
+    text: Nay, but (the chosen of Allah is) he who fulfilleth his pledge and wardeth off (evil); for lo! Allah loveth those who ward off (evil).
+    translation: Pickthall
+    original: بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ
+    arabicPlain: بلى من أوفى بعهده واتقى فإن الله يحب المتقين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 49
+    page: 59
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:77
+    scripture: quran
+    name: Quran 3:77
+    chapter: 3
+    verse: 77
+    ordinal: 370
+    text: Lo! those who purchase a small gain at the cost of Allah's covenant and their oaths, they have no portion in the Hereafter. Allah will neither speak to them nor look upon them on the Day of Resurrection, nor will He make them grow. Theirs will be a painful doom.
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلًا أُو۟لَـٰٓئِكَ لَا خَلَـٰقَ لَهُمْ فِى ٱلْـَٔاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَـٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+    arabicPlain: إن الذين يشترون بعهد الله وأيمانهم ثمنا قليلا أولئك لا خلاق لهم في الآخرة ولا يكلمهم الله ولا ينظر إليهم يوم القيامة ولا يزكيهم ولهم عذاب أليم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 49
+    page: 59
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:78
+    scripture: quran
+    name: Quran 3:78
+    chapter: 3
+    verse: 78
+    ordinal: 371
+    text: 'And lo! there is a party of them who distort the Scripture with their tongues, that ye may think that what they say is from the Scripture, when it is not from the Scripture. And they say: It is from Allah, when it is not from Allah; and they speak a lie concerning Allah knowingly.'
+    translation: Pickthall
+    original: وَإِنَّ مِنْهُمْ لَفَرِيقًا يَلْوُۥنَ أَلْسِنَتَهُم بِٱلْكِتَـٰبِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَـٰبِ وَمَا هُوَ مِنَ ٱلْكِتَـٰبِ وَيَقُولُونَ هُوَ مِنْ عِندِ ٱللَّهِ وَمَا هُوَ مِنْ عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
+    arabicPlain: وإن منهم لفريقا يلوون ألسنتهم بالكتاب لتحسبوه من الكتاب وما هو من الكتاب ويقولون هو من عند الله وما هو من عند الله ويقولون على الله الكذب وهم يعلمون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 49
+    page: 60
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:79
+    scripture: quran
+    name: Quran 3:79
+    chapter: 3
+    verse: 79
+    ordinal: 372
+    text: 'It is not (possible) for any human being unto whom Allah had given the Scripture and wisdom and the prophethood that he should afterwards have said unto mankind: Be slaves of me instead of Allah; but (what he said was): Be ye faithful servants of the Lord by virtue of your constant teaching of the Scripture and of your constant study thereof.'
+    translation: Pickthall
+    original: مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًا لِّى مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُوا۟ رَبَّـٰنِيِّـۧنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَـٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ
+    arabicPlain: ما كان لبشر أن يؤتيه الله الكتاب والحكم والنبوة ثم يقول للناس كونوا عبادا لي من دون الله ولكن كونوا ربانيين بما كنتم تعلمون الكتاب وبما كنتم تدرسون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 49
+    page: 60
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:80
+    scripture: quran
+    name: Quran 3:80
+    chapter: 3
+    verse: 80
+    ordinal: 373
+    text: And he commanded you not that ye should take the angels and the prophets for lords. Would he command you to disbelieve after ye had surrendered (to Allah)?
+    translation: Pickthall
+    original: وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَـٰٓئِكَةَ وَٱلنَّبِيِّـۧنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ
+    arabicPlain: ولا يأمركم أن تتخذوا الملائكة والنبيين أربابا ۗ أيأمركم بالكفر بعد إذ أنتم مسلمون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 49
+    page: 60
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:81
+    scripture: quran
+    name: Quran 3:81
+    chapter: 3
+    verse: 81
+    ordinal: 374
+    text: 'When Allah made (His) covenant with the prophets, (He said): Behold that which I have given you of the Scripture and knowledge. And afterward there will come unto you a messenger, confirming that which ye possess. Ye shall believe in him and ye shall help him. He said: Do ye agree, and will ye take up My burden (which I lay upon you) in this (matter)? They answered: We agree. He said: Then bear ye witness. I will be a witness with you.'
+    translation: Pickthall
+    original: وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلنَّبِيِّـۧنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَـٰبٍ وَحِكْمَةٍ ثُمَّ جَآءَكُمْ رَسُولٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ ۚ قَالَ ءَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى ۖ قَالُوٓا۟ أَقْرَرْنَا ۚ قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّـٰهِدِينَ
+    arabicPlain: وإذ أخذ الله ميثاق النبيين لما آتيتكم من كتاب وحكمة ثم جاءكم رسول مصدق لما معكم لتؤمنن به ولتنصرنه ۚ قال أأقررتم وأخذتم على ذلكم إصري ۖ قالوا أقررنا ۚ قال فاشهدوا وأنا معكم من الشاهدين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 50
+    page: 60
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:82
+    scripture: quran
+    name: Quran 3:82
+    chapter: 3
+    verse: 82
+    ordinal: 375
+    text: 'Then whosoever after this shall turn away: they will be miscreants.'
+    translation: Pickthall
+    original: فَمَن تَوَلَّىٰ بَعْدَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ
+    arabicPlain: فمن تولى بعد ذلك فأولئك هم الفاسقون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 50
+    page: 60
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:83
+    scripture: quran
+    name: Quran 3:83
+    chapter: 3
+    verse: 83
+    ordinal: 376
+    text: Seek they other than the religion of Allah, when unto Him submitteth whosoever is in the heavens and the earth, willingly or unwillingly, and unto Him they will be returned.
+    translation: Pickthall
+    original: أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ
+    arabicPlain: أفغير دين الله يبغون وله أسلم من في السماوات والأرض طوعا وكرها وإليه يرجعون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 50
+    page: 60
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:84
+    scripture: quran
+    name: Quran 3:84
+    chapter: 3
+    verse: 84
+    ordinal: 377
+    text: 'Say (O Muhammad): We believe in Allah and that which is revealed unto us and that which was revealed unto Abraham and Ishmael and Isaac and Jacob and the tribes, and that which was vouchsafed unto Moses and Jesus and the prophets from their Lord. We make no distinction between any of them, and unto Him we have surrendered.'
+    translation: Pickthall
+    original: قُلْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ عَلَيْنَا وَمَآ أُنزِلَ عَلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ
+    arabicPlain: قل آمنا بالله وما أنزل علينا وما أنزل على إبراهيم وإسماعيل وإسحاق ويعقوب والأسباط وما أوتي موسى وعيسى والنبيون من ربهم لا نفرق بين أحد منهم ونحن له مسلمون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 50
+    page: 61
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:85
+    scripture: quran
+    name: Quran 3:85
+    chapter: 3
+    verse: 85
+    ordinal: 378
+    text: And whoso seeketh as religion other than the Surrender (to Allah) it will not be accepted from him, and he will be a loser in the Hereafter.
+    translation: Pickthall
+    original: وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَـٰمِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ
+    arabicPlain: ومن يبتغ غير الإسلام دينا فلن يقبل منه وهو في الآخرة من الخاسرين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 50
+    page: 61
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:86
+    scripture: quran
+    name: Quran 3:86
+    chapter: 3
+    verse: 86
+    ordinal: 379
+    text: How shall Allah guide a people who disbelieved after their belief and (after) they bore witness that the messenger is true and after clear proofs (of Allah's Sovereignty) had come unto them. And Allah guideth not wrongdoing folk.
+    translation: Pickthall
+    original: كَيْفَ يَهْدِى ٱللَّهُ قَوْمًا كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ وَشَهِدُوٓا۟ أَنَّ ٱلرَّسُولَ حَقٌّ وَجَآءَهُمُ ٱلْبَيِّنَـٰتُ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ
+    arabicPlain: كيف يهدي الله قوما كفروا بعد إيمانهم وشهدوا أن الرسول حق وجاءهم البينات ۚ والله لا يهدي القوم الظالمين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 50
+    page: 61
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:87
+    scripture: quran
+    name: Quran 3:87
+    chapter: 3
+    verse: 87
+    ordinal: 380
+    text: As for such, their guerdon is that on them rests the curse of Allah and of angels and of men combined.
+    translation: Pickthall
+    original: أُو۟لَـٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ
+    arabicPlain: أولئك جزاؤهم أن عليهم لعنة الله والملائكة والناس أجمعين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 50
+    page: 61
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:88
+    scripture: quran
+    name: Quran 3:88
+    chapter: 3
+    verse: 88
+    ordinal: 381
+    text: They will abide therein. Their doom will not be lightened, neither will they be reprieved;
+    translation: Pickthall
+    original: خَـٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ
+    arabicPlain: خالدين فيها لا يخفف عنهم العذاب ولا هم ينظرون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 50
+    page: 61
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:89
+    scripture: quran
+    name: Quran 3:89
+    chapter: 3
+    verse: 89
+    ordinal: 382
+    text: Save those who afterward repent and do right. Lo! Allah is Forgiving, Merciful.
+    translation: Pickthall
+    original: إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+    arabicPlain: إلا الذين تابوا من بعد ذلك وأصلحوا فإن الله غفور رحيم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 50
+    page: 61
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:90
+    scripture: quran
+    name: Quran 3:90
+    chapter: 3
+    verse: 90
+    ordinal: 383
+    text: 'Lo! those who disbelieve after their (profession of) belief, and afterward grow violent in disbelief: their repentance will not be accepted. And such are those who are astray.'
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَـٰٓئِكَ هُمُ ٱلضَّآلُّونَ
+    arabicPlain: إن الذين كفروا بعد إيمانهم ثم ازدادوا كفرا لن تقبل توبتهم وأولئك هم الضالون
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 50
+    page: 61
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:91
+    scripture: quran
+    name: Quran 3:91
+    chapter: 3
+    verse: 91
+    ordinal: 384
+    text: Lo! those who disbelieve, and die in disbelief, the (whole) earth full of gold would not be accepted from such an one if it were offered as a ransom (for his soul). Theirs will be a painful doom and they will have no helpers.
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ ذَهَبًا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ ۗ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن نَّـٰصِرِينَ
+    arabicPlain: إن الذين كفروا وماتوا وهم كفار فلن يقبل من أحدهم ملء الأرض ذهبا ولو افتدى به ۗ أولئك لهم عذاب أليم وما لهم من ناصرين
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 50
+    page: 61
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:92
+    scripture: quran
+    name: Quran 3:92
+    chapter: 3
+    verse: 92
+    ordinal: 385
+    text: Ye will not attain unto piety until ye spend of that which ye love. And whatsoever ye spend, Allah is Aware thereof.
+    translation: Pickthall
+    original: لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ
+    arabicPlain: لن تنالوا البر حتى تنفقوا مما تحبون ۚ وما تنفقوا من شيء فإن الله به عليم
+    surahName: Aal-i-Imraan
+    juz: 3
+    manzil: 1
+    ruku: 51
+    page: 62
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-3
+- type: Ayah
+  data:
+    ref: 3:93
+    scripture: quran
+    name: Quran 3:93
+    chapter: 3
+    verse: 93
+    ordinal: 386
+    text: 'All food was lawful unto the Children of Israel, save that which Israel forbade himself, (in days) before the Torah was revealed. Say: Produce the Torah and read it (unto us) if ye are truthful.'
+    translation: Pickthall
+    original: ۞ كُلُّ ٱلطَّعَامِ كَانَ حِلًّا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ ۗ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ صَـٰدِقِينَ
+    arabicPlain: ۞ كل الطعام كان حلا لبني إسرائيل إلا ما حرم إسرائيل على نفسه من قبل أن تنزل التوراة ۗ قل فأتوا بالتوراة فاتلوها إن كنتم صادقين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 51
+    page: 62
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:94
+    scripture: quran
+    name: Quran 3:94
+    chapter: 3
+    verse: 94
+    ordinal: 387
+    text: And whoever shall invent a falsehood after that concerning Allah, such will be wrong-doers.
+    translation: Pickthall
+    original: فَمَنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ مِنۢ بَعْدِ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ
+    arabicPlain: فمن افترى على الله الكذب من بعد ذلك فأولئك هم الظالمون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 51
+    page: 62
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:95
+    scripture: quran
+    name: Quran 3:95
+    chapter: 3
+    verse: 95
+    ordinal: 388
+    text: 'Say: Allah speaketh truth. So follow the religion of Abraham, the upright. He was not of the idolaters.'
+    translation: Pickthall
+    original: قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
+    arabicPlain: قل صدق الله ۗ فاتبعوا ملة إبراهيم حنيفا وما كان من المشركين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 51
+    page: 62
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:96
+    scripture: quran
+    name: Quran 3:96
+    chapter: 3
+    verse: 96
+    ordinal: 389
+    text: Lo! the first Sanctuary appointed for mankind was that at Becca, a blessed place, a guidance to the peoples;
+    translation: Pickthall
+    original: إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَـٰلَمِينَ
+    arabicPlain: إن أول بيت وضع للناس للذي ببكة مباركا وهدى للعالمين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 51
+    page: 62
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:97
+    scripture: quran
+    name: Quran 3:97
+    chapter: 3
+    verse: 97
+    ordinal: 390
+    text: Wherein are plain memorials (of Allah's guidance); the place where Abraham stood up to pray; and whosoever entereth it is safe. And pilgrimage to the House is a duty unto Allah for mankind, for him who can find a way thither. As for him who disbelieveth, (let him know that) lo! Allah is Independent of (all) creatures.
+    translation: Pickthall
+    original: فِيهِ ءَايَـٰتٌۢ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ
+    arabicPlain: فيه آيات بينات مقام إبراهيم ۖ ومن دخله كان آمنا ۗ ولله على الناس حج البيت من استطاع إليه سبيلا ۚ ومن كفر فإن الله غني عن العالمين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 51
+    page: 62
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:98
+    scripture: quran
+    name: Quran 3:98
+    chapter: 3
+    verse: 98
+    ordinal: 391
+    text: 'Say: O People of the Scripture! Why disbelieve ye in the revelations of Allah, when Allah (Himself) is Witness of what ye do?'
+    translation: Pickthall
+    original: قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ
+    arabicPlain: قل يا أهل الكتاب لم تكفرون بآيات الله والله شهيد على ما تعملون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 51
+    page: 62
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:99
+    scripture: quran
+    name: Quran 3:99
+    chapter: 3
+    verse: 99
+    ordinal: 392
+    text: 'Say: O People of the Scripture! Why drive ye back believers from the way of Allah, seeking to make it crooked, when ye are witnesses (to Allah''s guidance)? Allah is not unaware of what ye do.'
+    translation: Pickthall
+    original: قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًا وَأَنتُمْ شُهَدَآءُ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ
+    arabicPlain: قل يا أهل الكتاب لم تصدون عن سبيل الله من آمن تبغونها عوجا وأنتم شهداء ۗ وما الله بغافل عما تعملون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 51
+    page: 62
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:100
+    scripture: quran
+    name: Quran 3:100
+    chapter: 3
+    verse: 100
+    ordinal: 393
+    text: O ye who believe! If ye obey a party of those who have received the Scripture they will make you disbelievers after your belief.
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ فَرِيقًا مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ يَرُدُّوكُم بَعْدَ إِيمَـٰنِكُمْ كَـٰفِرِينَ
+    arabicPlain: يا أيها الذين آمنوا إن تطيعوا فريقا من الذين أوتوا الكتاب يردوكم بعد إيمانكم كافرين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 51
+    page: 62
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:101
+    scripture: quran
+    name: Quran 3:101
+    chapter: 3
+    verse: 101
+    ordinal: 394
+    text: How can ye disbelieve, when it is ye unto whom Allah's revelations are recited, and His messenger is in your midst? He who holdeth fast to Allah, he indeed is guided unto a right path.
+    translation: Pickthall
+    original: وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَـٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+    arabicPlain: وكيف تكفرون وأنتم تتلى عليكم آيات الله وفيكم رسوله ۗ ومن يعتصم بالله فقد هدي إلى صراط مستقيم
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 51
+    page: 63
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:102
+    scripture: quran
+    name: Quran 3:102
+    chapter: 3
+    verse: 102
+    ordinal: 395
+    text: O ye who believe! Observe your duty to Allah with right observance, and die not save as those who have surrendered (unto Him)
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ حَقَّ تُقَاتِهِۦ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
+    arabicPlain: يا أيها الذين آمنوا اتقوا الله حق تقاته ولا تموتن إلا وأنتم مسلمون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 52
+    page: 63
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:103
+    scripture: quran
+    name: Quran 3:103
+    chapter: 3
+    verse: 103
+    ordinal: 396
+    text: 'And hold fast, all of you together, to the cable of Allah, and do not separate. And remember Allah''s favour unto you: How ye were enemies and He made friendship between your hearts so that ye became as brothers by His grace; and (how) ye were upon the brink of an abyss of fire, and He did save you from it. Thus Allah maketh clear His revelations unto you, that haply ye may be guided,'
+    translation: Pickthall
+    original: وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ
+    arabicPlain: واعتصموا بحبل الله جميعا ولا تفرقوا ۚ واذكروا نعمت الله عليكم إذ كنتم أعداء فألف بين قلوبكم فأصبحتم بنعمته إخوانا وكنتم على شفا حفرة من النار فأنقذكم منها ۗ كذلك يبين الله لكم آياته لعلكم تهتدون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 52
+    page: 63
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:104
+    scripture: quran
+    name: Quran 3:104
+    chapter: 3
+    verse: 104
+    ordinal: 397
+    text: And there may spring from you a nation who invite to goodness, and enjoin right conduct and forbid indecency. Such are they who are successful.
+    translation: Pickthall
+    original: وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى ٱلْخَيْرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+    arabicPlain: ولتكن منكم أمة يدعون إلى الخير ويأمرون بالمعروف وينهون عن المنكر ۚ وأولئك هم المفلحون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 52
+    page: 63
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:105
+    scripture: quran
+    name: Quran 3:105
+    chapter: 3
+    verse: 105
+    ordinal: 398
+    text: And be ye not as those who separated and disputed after the clear proofs had come unto them. For such there is an awful doom,
+    translation: Pickthall
+    original: وَلَا تَكُونُوا۟ كَٱلَّذِينَ تَفَرَّقُوا۟ وَٱخْتَلَفُوا۟ مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْبَيِّنَـٰتُ ۚ وَأُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ عَظِيمٌ
+    arabicPlain: ولا تكونوا كالذين تفرقوا واختلفوا من بعد ما جاءهم البينات ۚ وأولئك لهم عذاب عظيم
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 52
+    page: 63
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:106
+    scripture: quran
+    name: Quran 3:106
+    chapter: 3
+    verse: 106
+    ordinal: 399
+    text: 'On the Day when (some) faces will be whitened and (some) faces will be blackened; and as for those whose faces have been blackened, it will be said unto them: Disbelieved ye after your (profession of) belief? Then taste the punishment for that ye disbelieved.'
+    translation: Pickthall
+    original: يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ ۚ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَـٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
+    arabicPlain: يوم تبيض وجوه وتسود وجوه ۚ فأما الذين اسودت وجوههم أكفرتم بعد إيمانكم فذوقوا العذاب بما كنتم تكفرون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 52
+    page: 63
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:107
+    scripture: quran
+    name: Quran 3:107
+    chapter: 3
+    verse: 107
+    ordinal: 400
+    text: And as for those whose faces have been whitened, in the mercy of Allah they dwell for ever.
+    translation: Pickthall
+    original: وَأَمَّا ٱلَّذِينَ ٱبْيَضَّتْ وُجُوهُهُمْ فَفِى رَحْمَةِ ٱللَّهِ هُمْ فِيهَا خَـٰلِدُونَ
+    arabicPlain: وأما الذين ابيضت وجوههم ففي رحمة الله هم فيها خالدون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 52
+    page: 63
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:108
+    scripture: quran
+    name: Quran 3:108
+    chapter: 3
+    verse: 108
+    ordinal: 401
+    text: These are revelations of Allah. We recite them unto thee in truth. Allah willeth no injustice to (His) creatures.
+    translation: Pickthall
+    original: تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۗ وَمَا ٱللَّهُ يُرِيدُ ظُلْمًا لِّلْعَـٰلَمِينَ
+    arabicPlain: تلك آيات الله نتلوها عليك بالحق ۗ وما الله يريد ظلما للعالمين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 52
+    page: 63
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:109
+    scripture: quran
+    name: Quran 3:109
+    chapter: 3
+    verse: 109
+    ordinal: 402
+    text: Unto Allah belongeth whatsoever is in the heavens and whatsoever is in the earth; and unto Allah all things are returned.
+    translation: Pickthall
+    original: وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
+    arabicPlain: ولله ما في السماوات وما في الأرض ۚ وإلى الله ترجع الأمور
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 52
+    page: 64
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:110
+    scripture: quran
+    name: Quran 3:110
+    chapter: 3
+    verse: 110
+    ordinal: 403
+    text: Ye are the best community that hath been raised up for mankind. Ye enjoin right conduct and forbid indecency; and ye believe in Allah. And if the People of the Scripture had believed it had been better for them. Some of them are believers; but most of them are evil-livers.
+    translation: Pickthall
+    original: كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِٱلْمَعْرُوفِ وَتَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَتُؤْمِنُونَ بِٱللَّهِ ۗ وَلَوْ ءَامَنَ أَهْلُ ٱلْكِتَـٰبِ لَكَانَ خَيْرًا لَّهُم ۚ مِّنْهُمُ ٱلْمُؤْمِنُونَ وَأَكْثَرُهُمُ ٱلْفَـٰسِقُونَ
+    arabicPlain: كنتم خير أمة أخرجت للناس تأمرون بالمعروف وتنهون عن المنكر وتؤمنون بالله ۗ ولو آمن أهل الكتاب لكان خيرا لهم ۚ منهم المؤمنون وأكثرهم الفاسقون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 53
+    page: 64
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:111
+    scripture: quran
+    name: Quran 3:111
+    chapter: 3
+    verse: 111
+    ordinal: 404
+    text: They will not harm you save a trifling hurt, and if they fight against you they will turn and flee. And afterward they will not be helped.
+    translation: Pickthall
+    original: لَن يَضُرُّوكُمْ إِلَّآ أَذًى ۖ وَإِن يُقَـٰتِلُوكُمْ يُوَلُّوكُمُ ٱلْأَدْبَارَ ثُمَّ لَا يُنصَرُونَ
+    arabicPlain: لن يضروكم إلا أذى ۖ وإن يقاتلوكم يولوكم الأدبار ثم لا ينصرون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 53
+    page: 64
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:112
+    scripture: quran
+    name: Quran 3:112
+    chapter: 3
+    verse: 112
+    ordinal: 405
+    text: Ignominy shall be their portion wheresoever they are found save (where they grasp) a rope from Allah and a rope from men. They have incurred anger from their Lord, and wretchedness is laid upon them. That is because they used to disbelieve the revelations of Allah, and slew the prophets wrongfully. That is because they were rebellious and used to transgress.
+    translation: Pickthall
+    original: ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ۚ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ ۚ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
+    arabicPlain: ضربت عليهم الذلة أين ما ثقفوا إلا بحبل من الله وحبل من الناس وباءوا بغضب من الله وضربت عليهم المسكنة ۚ ذلك بأنهم كانوا يكفرون بآيات الله ويقتلون الأنبياء بغير حق ۚ ذلك بما عصوا وكانوا يعتدون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 53
+    page: 64
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:113
+    scripture: quran
+    name: Quran 3:113
+    chapter: 3
+    verse: 113
+    ordinal: 406
+    text: They are not all alike. Of the People of the Scripture there is a staunch community who recite the revelations of Allah in the night season, falling prostrate (before Him).
+    translation: Pickthall
+    original: ۞ لَيْسُوا۟ سَوَآءً ۗ مِّنْ أَهْلِ ٱلْكِتَـٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَـٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ
+    arabicPlain: ۞ ليسوا سواء ۗ من أهل الكتاب أمة قائمة يتلون آيات الله آناء الليل وهم يسجدون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 53
+    page: 64
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:114
+    scripture: quran
+    name: Quran 3:114
+    chapter: 3
+    verse: 114
+    ordinal: 407
+    text: They believe in Allah and the Last Day, and enjoin right conduct and forbid indecency, and vie one with another in good works. These are of the righteous.
+    translation: Pickthall
+    original: يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَأُو۟لَـٰٓئِكَ مِنَ ٱلصَّـٰلِحِينَ
+    arabicPlain: يؤمنون بالله واليوم الآخر ويأمرون بالمعروف وينهون عن المنكر ويسارعون في الخيرات وأولئك من الصالحين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 53
+    page: 64
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:115
+    scripture: quran
+    name: Quran 3:115
+    chapter: 3
+    verse: 115
+    ordinal: 408
+    text: And whatever good they do, they will not be denied the meed thereof. Allah is Aware of those who ward off (evil).
+    translation: Pickthall
+    original: وَمَا يَفْعَلُوا۟ مِنْ خَيْرٍ فَلَن يُكْفَرُوهُ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ
+    arabicPlain: وما يفعلوا من خير فلن يكفروه ۗ والله عليم بالمتقين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 53
+    page: 64
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:116
+    scripture: quran
+    name: Quran 3:116
+    chapter: 3
+    verse: 116
+    ordinal: 409
+    text: Lo! the riches and the progeny of those who disbelieve will not avail them aught against Allah; and such are rightful owners of the Fire. They will abide therein.
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا ۖ وَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۚ هُمْ فِيهَا خَـٰلِدُونَ
+    arabicPlain: إن الذين كفروا لن تغني عنهم أموالهم ولا أولادهم من الله شيئا ۖ وأولئك أصحاب النار ۚ هم فيها خالدون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 53
+    page: 65
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:117
+    scripture: quran
+    name: Quran 3:117
+    chapter: 3
+    verse: 117
+    ordinal: 410
+    text: The likeness of that which they spend in this life of the world is as the likeness of a biting, icy wind which smiteth the harvest of a people who have wronged themselves, and devastateth it. Allah wronged them not, but they do wrong themselves.
+    translation: Pickthall
+    original: مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوٓا۟ أَنفُسَهُمْ فَأَهْلَكَتْهُ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِنْ أَنفُسَهُمْ يَظْلِمُونَ
+    arabicPlain: مثل ما ينفقون في هذه الحياة الدنيا كمثل ريح فيها صر أصابت حرث قوم ظلموا أنفسهم فأهلكته ۚ وما ظلمهم الله ولكن أنفسهم يظلمون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 53
+    page: 65
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:118
+    scripture: quran
+    name: Quran 3:118
+    chapter: 3
+    verse: 118
+    ordinal: 411
+    text: O ye who believe! Take not for intimates others than your own folk, who would spare no pains to ruin you; they love to hamper you. Hatred is revealed by (the utterance of) their mouths, but that which their breasts hide is greater. We have made plain for you the revelations if ye will understand.
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ بِطَانَةً مِّن دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالًا وَدُّوا۟ مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَٰهِهِمْ وَمَا تُخْفِى صُدُورُهُمْ أَكْبَرُ ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَـٰتِ ۖ إِن كُنتُمْ تَعْقِلُونَ
+    arabicPlain: يا أيها الذين آمنوا لا تتخذوا بطانة من دونكم لا يألونكم خبالا ودوا ما عنتم قد بدت البغضاء من أفواههم وما تخفي صدورهم أكبر ۚ قد بينا لكم الآيات ۖ إن كنتم تعقلون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 53
+    page: 65
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:119
+    scripture: quran
+    name: Quran 3:119
+    chapter: 3
+    verse: 119
+    ordinal: 412
+    text: 'Lo! ye are those who love them though they love you not, and ye believe in all the Scripture. When they fall in with you they say: We believe; but when they go apart they bite their finger-tips at you, for rage. Say: Perish in your rage! Lo! Allah is Aware of what is hidden in (your) breasts.'
+    translation: Pickthall
+    original: هَـٰٓأَنتُمْ أُو۟لَآءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ بِٱلْكِتَـٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمْ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ عَضُّوا۟ عَلَيْكُمُ ٱلْأَنَامِلَ مِنَ ٱلْغَيْظِ ۚ قُلْ مُوتُوا۟ بِغَيْظِكُمْ ۗ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+    arabicPlain: ها أنتم أولاء تحبونهم ولا يحبونكم وتؤمنون بالكتاب كله وإذا لقوكم قالوا آمنا وإذا خلوا عضوا عليكم الأنامل من الغيظ ۚ قل موتوا بغيظكم ۗ إن الله عليم بذات الصدور
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 53
+    page: 65
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:120
+    scripture: quran
+    name: Quran 3:120
+    chapter: 3
+    verse: 120
+    ordinal: 413
+    text: If a lucky chance befall you, it is evil unto them, and if disaster strike you they rejoice thereat. But if ye persevere and keep from evil their guile will never harm you. Lo! Allah is Surrounding what they do.
+    translation: Pickthall
+    original: إِن تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْ وَإِن تُصِبْكُمْ سَيِّئَةٌ يَفْرَحُوا۟ بِهَا ۖ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔا ۗ إِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌ
+    arabicPlain: إن تمسسكم حسنة تسؤهم وإن تصبكم سيئة يفرحوا بها ۖ وإن تصبروا وتتقوا لا يضركم كيدهم شيئا ۗ إن الله بما يعملون محيط
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 53
+    page: 65
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:121
+    scripture: quran
+    name: Quran 3:121
+    chapter: 3
+    verse: 121
+    ordinal: 414
+    text: And when thou settedst forth at daybreak from thy housefolk to assign to the believers their positions for the battle, Allah was Hearer, Knower.
+    translation: Pickthall
+    original: وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ ٱلْمُؤْمِنِينَ مَقَـٰعِدَ لِلْقِتَالِ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
+    arabicPlain: وإذ غدوت من أهلك تبوئ المؤمنين مقاعد للقتال ۗ والله سميع عليم
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 54
+    page: 65
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:122
+    scripture: quran
+    name: Quran 3:122
+    chapter: 3
+    verse: 122
+    ordinal: 415
+    text: When two parties of you almost fell away, and Allah was their Protecting Friend. In Allah let believers put their trust.
+    translation: Pickthall
+    original: إِذْ هَمَّت طَّآئِفَتَانِ مِنكُمْ أَن تَفْشَلَا وَٱللَّهُ وَلِيُّهُمَا ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
+    arabicPlain: إذ همت طائفتان منكم أن تفشلا والله وليهما ۗ وعلى الله فليتوكل المؤمنون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 54
+    page: 66
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:123
+    scripture: quran
+    name: Quran 3:123
+    chapter: 3
+    verse: 123
+    ordinal: 416
+    text: Allah had already given you the victory at Badr, when ye were contemptible. So observe your duty to Allah in order that ye may be thankful.
+    translation: Pickthall
+    original: وَلَقَدْ نَصَرَكُمُ ٱللَّهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ ۖ فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تَشْكُرُونَ
+    arabicPlain: ولقد نصركم الله ببدر وأنتم أذلة ۖ فاتقوا الله لعلكم تشكرون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 54
+    page: 66
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:124
+    scripture: quran
+    name: Quran 3:124
+    chapter: 3
+    verse: 124
+    ordinal: 417
+    text: 'When thou didst say unto the believers: Is it not sufficient for you that your Lord should support you with three thousand angels sent down (to your help)?'
+    translation: Pickthall
+    original: إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَـٰثَةِ ءَالَـٰفٍ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُنزَلِينَ
+    arabicPlain: إذ تقول للمؤمنين ألن يكفيكم أن يمدكم ربكم بثلاثة آلاف من الملائكة منزلين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 54
+    page: 66
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:125
+    scripture: quran
+    name: Quran 3:125
+    chapter: 3
+    verse: 125
+    ordinal: 418
+    text: Nay, but if ye persevere, and keep from evil, and (the enemy) attack you suddenly, your Lord will help you with five thousand angels sweeping on.
+    translation: Pickthall
+    original: بَلَىٰٓ ۚ إِن تَصْبِرُوا۟ وَتَتَّقُوا۟ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَـٰذَا يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ ءَالَـٰفٍ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُسَوِّمِينَ
+    arabicPlain: بلى ۚ إن تصبروا وتتقوا ويأتوكم من فورهم هذا يمددكم ربكم بخمسة آلاف من الملائكة مسومين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 54
+    page: 66
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:126
+    scripture: quran
+    name: Quran 3:126
+    chapter: 3
+    verse: 126
+    ordinal: 419
+    text: Allah ordained this only as a message of good cheer for you, and that thereby your hearts might be at rest - Victory cometh only from Allah, the Mighty, the Wise -
+    translation: Pickthall
+    original: وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم بِهِۦ ۗ وَمَا ٱلنَّصْرُ إِلَّا مِنْ عِندِ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ
+    arabicPlain: وما جعله الله إلا بشرى لكم ولتطمئن قلوبكم به ۗ وما النصر إلا من عند الله العزيز الحكيم
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 54
+    page: 66
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:127
+    scripture: quran
+    name: Quran 3:127
+    chapter: 3
+    verse: 127
+    ordinal: 420
+    text: That He may cut off a part of those who disbelieve, or overwhelm them so that they retire, frustrated.
+    translation: Pickthall
+    original: لِيَقْطَعَ طَرَفًا مِّنَ ٱلَّذِينَ كَفَرُوٓا۟ أَوْ يَكْبِتَهُمْ فَيَنقَلِبُوا۟ خَآئِبِينَ
+    arabicPlain: ليقطع طرفا من الذين كفروا أو يكبتهم فينقلبوا خائبين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 54
+    page: 66
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:128
+    scripture: quran
+    name: Quran 3:128
+    chapter: 3
+    verse: 128
+    ordinal: 421
+    text: It is no concern at all of thee (Muhammad) whether He relent toward them or punish them; for they are evil-doers.
+    translation: Pickthall
+    original: لَيْسَ لَكَ مِنَ ٱلْأَمْرِ شَىْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَـٰلِمُونَ
+    arabicPlain: ليس لك من الأمر شيء أو يتوب عليهم أو يعذبهم فإنهم ظالمون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 54
+    page: 66
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:129
+    scripture: quran
+    name: Quran 3:129
+    chapter: 3
+    verse: 129
+    ordinal: 422
+    text: Unto Allah belongeth whatsoever is in the heavens and whatsoever is in the earth. He forgiveth whom He will, and punisheth whom He will. Allah is Forgiving, Merciful.
+    translation: Pickthall
+    original: وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+    arabicPlain: ولله ما في السماوات وما في الأرض ۚ يغفر لمن يشاء ويعذب من يشاء ۚ والله غفور رحيم
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 54
+    page: 66
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:130
+    scripture: quran
+    name: Quran 3:130
+    chapter: 3
+    verse: 130
+    ordinal: 423
+    text: O ye who believe! Devour not usury, doubling and quadrupling (the sum lent). Observe your duty to Allah, that ye may be successful.
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوا۟ ٱلرِّبَوٰٓا۟ أَضْعَـٰفًا مُّضَـٰعَفَةً ۖ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
+    arabicPlain: يا أيها الذين آمنوا لا تأكلوا الربا أضعافا مضاعفة ۖ واتقوا الله لعلكم تفلحون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 66
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:131
+    scripture: quran
+    name: Quran 3:131
+    chapter: 3
+    verse: 131
+    ordinal: 424
+    text: And ward off (from yourselves) the Fire prepared for disbelievers.
+    translation: Pickthall
+    original: وَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِىٓ أُعِدَّتْ لِلْكَـٰفِرِينَ
+    arabicPlain: واتقوا النار التي أعدت للكافرين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 66
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:132
+    scripture: quran
+    name: Quran 3:132
+    chapter: 3
+    verse: 132
+    ordinal: 425
+    text: And obey Allah and the messenger, that ye may find mercy.
+    translation: Pickthall
+    original: وَأَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ
+    arabicPlain: وأطيعوا الله والرسول لعلكم ترحمون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 66
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:133
+    scripture: quran
+    name: Quran 3:133
+    chapter: 3
+    verse: 133
+    ordinal: 426
+    text: And vie one with another for forgiveness from your Lord, and for a paradise as wide as are the heavens and the earth, prepared for those who ward off (evil);
+    translation: Pickthall
+    original: ۞ وَسَارِعُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ
+    arabicPlain: ۞ وسارعوا إلى مغفرة من ربكم وجنة عرضها السماوات والأرض أعدت للمتقين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 67
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:134
+    scripture: quran
+    name: Quran 3:134
+    chapter: 3
+    verse: 134
+    ordinal: 427
+    text: Those who spend (of that which Allah hath given them) in ease and in adversity, those who control their wrath and are forgiving toward mankind; Allah loveth the good;
+    translation: Pickthall
+    original: ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ
+    arabicPlain: الذين ينفقون في السراء والضراء والكاظمين الغيظ والعافين عن الناس ۗ والله يحب المحسنين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 67
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:135
+    scripture: quran
+    name: Quran 3:135
+    chapter: 3
+    verse: 135
+    ordinal: 428
+    text: And those who, when they do an evil thing or wrong themselves, remember Allah and implore forgiveness for their sins - Who forgiveth sins save Allah only? - and will not knowingly repeat (the wrong) they did.
+    translation: Pickthall
+    original: وَٱلَّذِينَ إِذَا فَعَلُوا۟ فَـٰحِشَةً أَوْ ظَلَمُوٓا۟ أَنفُسَهُمْ ذَكَرُوا۟ ٱللَّهَ فَٱسْتَغْفَرُوا۟ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمْ يُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمْ يَعْلَمُونَ
+    arabicPlain: والذين إذا فعلوا فاحشة أو ظلموا أنفسهم ذكروا الله فاستغفروا لذنوبهم ومن يغفر الذنوب إلا الله ولم يصروا على ما فعلوا وهم يعلمون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 67
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:136
+    scripture: quran
+    name: Quran 3:136
+    chapter: 3
+    verse: 136
+    ordinal: 429
+    text: The reward of such will be forgiveness from their Lord, and Gardens underneath which rivers flow, wherein they will abide for ever - a bountiful reward for workers!
+    translation: Pickthall
+    original: أُو۟لَـٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَنِعْمَ أَجْرُ ٱلْعَـٰمِلِينَ
+    arabicPlain: أولئك جزاؤهم مغفرة من ربهم وجنات تجري من تحتها الأنهار خالدين فيها ۚ ونعم أجر العاملين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 67
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:137
+    scripture: quran
+    name: Quran 3:137
+    chapter: 3
+    verse: 137
+    ordinal: 430
+    text: Systems have passed away before you. Do but travel in the land and see the nature of the consequence for those who did deny (the messengers).
+    translation: Pickthall
+    original: قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ
+    arabicPlain: قد خلت من قبلكم سنن فسيروا في الأرض فانظروا كيف كان عاقبة المكذبين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 67
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:138
+    scripture: quran
+    name: Quran 3:138
+    chapter: 3
+    verse: 138
+    ordinal: 431
+    text: This is a declaration for mankind, a guidance and an admonition unto those who ward off (evil)
+    translation: Pickthall
+    original: هَـٰذَا بَيَانٌ لِّلنَّاسِ وَهُدًى وَمَوْعِظَةٌ لِّلْمُتَّقِينَ
+    arabicPlain: هذا بيان للناس وهدى وموعظة للمتقين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 67
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:139
+    scripture: quran
+    name: Quran 3:139
+    chapter: 3
+    verse: 139
+    ordinal: 432
+    text: Faint not nor grieve, for ye will overcome them if ye are (indeed) believers.
+    translation: Pickthall
+    original: وَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟ وَأَنتُمُ ٱلْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ
+    arabicPlain: ولا تهنوا ولا تحزنوا وأنتم الأعلون إن كنتم مؤمنين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 67
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:140
+    scripture: quran
+    name: Quran 3:140
+    chapter: 3
+    verse: 140
+    ordinal: 433
+    text: If ye have received a blow, the (disbelieving) people have received a blow the like thereof. These are (only) the vicissitudes which We cause to follow one another for mankind, to the end that Allah may know those who believe and may choose witnesses from among you; and Allah loveth not wrong-doers.
+    translation: Pickthall
+    original: إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ ٱلْقَوْمَ قَرْحٌ مِّثْلُهُۥ ۚ وَتِلْكَ ٱلْأَيَّامُ نُدَاوِلُهَا بَيْنَ ٱلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَتَّخِذَ مِنكُمْ شُهَدَآءَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ
+    arabicPlain: إن يمسسكم قرح فقد مس القوم قرح مثله ۚ وتلك الأيام نداولها بين الناس وليعلم الله الذين آمنوا ويتخذ منكم شهداء ۗ والله لا يحب الظالمين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 67
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:141
+    scripture: quran
+    name: Quran 3:141
+    chapter: 3
+    verse: 141
+    ordinal: 434
+    text: And that Allah may prove those who believe, and may blight the disbelievers.
+    translation: Pickthall
+    original: وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَمْحَقَ ٱلْكَـٰفِرِينَ
+    arabicPlain: وليمحص الله الذين آمنوا ويمحق الكافرين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 68
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:142
+    scripture: quran
+    name: Quran 3:142
+    chapter: 3
+    verse: 142
+    ordinal: 435
+    text: Or deemed ye that ye would enter paradise while yet Allah knoweth not those of you who really strive, nor knoweth those (of you) who are steadfast?
+    translation: Pickthall
+    original: أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَـٰهَدُوا۟ مِنكُمْ وَيَعْلَمَ ٱلصَّـٰبِرِينَ
+    arabicPlain: أم حسبتم أن تدخلوا الجنة ولما يعلم الله الذين جاهدوا منكم ويعلم الصابرين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 68
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:143
+    scripture: quran
+    name: Quran 3:143
+    chapter: 3
+    verse: 143
+    ordinal: 436
+    text: And verily ye used to wish for death before ye met it (in the field). Now ye have seen it with your eyes!
+    translation: Pickthall
+    original: وَلَقَدْ كُنتُمْ تَمَنَّوْنَ ٱلْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ
+    arabicPlain: ولقد كنتم تمنون الموت من قبل أن تلقوه فقد رأيتموه وأنتم تنظرون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 55
+    page: 68
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:144
+    scripture: quran
+    name: Quran 3:144
+    chapter: 3
+    verse: 144
+    ordinal: 437
+    text: Muhammad is but a messenger, messengers (the like of whom) have passed away before him. Will it be that, when he dieth or is slain, ye will turn back on your heels? He who turneth back on his heels doth no hurt to Allah, and Allah will reward the thankful.
+    translation: Pickthall
+    original: وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ ۚ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ ۚ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًٔا ۗ وَسَيَجْزِى ٱللَّهُ ٱلشَّـٰكِرِينَ
+    arabicPlain: وما محمد إلا رسول قد خلت من قبله الرسل ۚ أفإن مات أو قتل انقلبتم على أعقابكم ۚ ومن ينقلب على عقبيه فلن يضر الله شيئا ۗ وسيجزي الله الشاكرين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 56
+    page: 68
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:145
+    scripture: quran
+    name: Quran 3:145
+    chapter: 3
+    verse: 145
+    ordinal: 438
+    text: No soul can ever die except by Allah's leave and at a term appointed. Whoso desireth the reward of the world, We bestow on him thereof; and whoso desireth the reward of the Hereafter, We bestow on him thereof. We shall reward the thankful.
+    translation: Pickthall
+    original: وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَـٰبًا مُّؤَجَّلًا ۗ وَمَن يُرِدْ ثَوَابَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَن يُرِدْ ثَوَابَ ٱلْـَٔاخِرَةِ نُؤْتِهِۦ مِنْهَا ۚ وَسَنَجْزِى ٱلشَّـٰكِرِينَ
+    arabicPlain: وما كان لنفس أن تموت إلا بإذن الله كتابا مؤجلا ۗ ومن يرد ثواب الدنيا نؤته منها ومن يرد ثواب الآخرة نؤته منها ۚ وسنجزي الشاكرين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 56
+    page: 68
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:146
+    scripture: quran
+    name: Quran 3:146
+    chapter: 3
+    verse: 146
+    ordinal: 439
+    text: And with how many a prophet have there been a number of devoted men who fought (beside him). They quailed not for aught that befell them in the way of Allah, nor did they weaken, nor were they brought low. Allah loveth the steadfast.
+    translation: Pickthall
+    original: وَكَأَيِّن مِّن نَّبِىٍّ قَـٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّـٰبِرِينَ
+    arabicPlain: وكأين من نبي قاتل معه ربيون كثير فما وهنوا لما أصابهم في سبيل الله وما ضعفوا وما استكانوا ۗ والله يحب الصابرين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 56
+    page: 68
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:147
+    scripture: quran
+    name: Quran 3:147
+    chapter: 3
+    verse: 147
+    ordinal: 440
+    text: 'Their cry was only that they said: Our Lord! forgive us for our sins and wasted efforts, make our foothold sure, and give us victory over the disbelieving folk.'
+    translation: Pickthall
+    original: وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ
+    arabicPlain: وما كان قولهم إلا أن قالوا ربنا اغفر لنا ذنوبنا وإسرافنا في أمرنا وثبت أقدامنا وانصرنا على القوم الكافرين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 56
+    page: 68
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:148
+    scripture: quran
+    name: Quran 3:148
+    chapter: 3
+    verse: 148
+    ordinal: 441
+    text: So Allah gave them the reward of the world and the good reward of the Hereafter. Allah loveth those whose deeds are good.
+    translation: Pickthall
+    original: فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنْيَا وَحُسْنَ ثَوَابِ ٱلْـَٔاخِرَةِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ
+    arabicPlain: فآتاهم الله ثواب الدنيا وحسن ثواب الآخرة ۗ والله يحب المحسنين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 56
+    page: 68
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:149
+    scripture: quran
+    name: Quran 3:149
+    chapter: 3
+    verse: 149
+    ordinal: 442
+    text: O ye who believe! if ye obey those who disbelieve, they will make you turn back on your heels, and ye turn back as losers.
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ ٱلَّذِينَ كَفَرُوا۟ يَرُدُّوكُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ
+    arabicPlain: يا أيها الذين آمنوا إن تطيعوا الذين كفروا يردوكم على أعقابكم فتنقلبوا خاسرين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 57
+    page: 69
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:150
+    scripture: quran
+    name: Quran 3:150
+    chapter: 3
+    verse: 150
+    ordinal: 443
+    text: But Allah is your Protector, and He is the Best of Helpers.
+    translation: Pickthall
+    original: بَلِ ٱللَّهُ مَوْلَىٰكُمْ ۖ وَهُوَ خَيْرُ ٱلنَّـٰصِرِينَ
+    arabicPlain: بل الله مولاكم ۖ وهو خير الناصرين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 57
+    page: 69
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:151
+    scripture: quran
+    name: Quran 3:151
+    chapter: 3
+    verse: 151
+    ordinal: 444
+    text: We shall cast terror into the hearts of those who disbelieve because they ascribe unto Allah partners, for which no warrant hath been revealed. Their habitation is the Fire, and hapless the abode of the wrong-doers.
+    translation: Pickthall
+    original: سَنُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ بِمَآ أَشْرَكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًا ۖ وَمَأْوَىٰهُمُ ٱلنَّارُ ۚ وَبِئْسَ مَثْوَى ٱلظَّـٰلِمِينَ
+    arabicPlain: سنلقي في قلوب الذين كفروا الرعب بما أشركوا بالله ما لم ينزل به سلطانا ۖ ومأواهم النار ۚ وبئس مثوى الظالمين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 57
+    page: 69
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:152
+    scripture: quran
+    name: Quran 3:152
+    chapter: 3
+    verse: 152
+    ordinal: 445
+    text: Allah verily made good His promise unto you when ye routed them by His leave, until (the moment) when your courage failed you, and ye disagreed about the order and ye disobeyed, after He had shown you that for which ye long. Some of you desired the world, and some of you desired the Hereafter. Therefore He made you flee from them, that He might try you. Yet now He hath forgiven you. Allah is a Lord of Kindness to believers.
+    translation: Pickthall
+    original: وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ ۖ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَـٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ ۚ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْـَٔاخِرَةَ ۚ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ وَلَقَدْ عَفَا عَنكُمْ ۗ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ
+    arabicPlain: ولقد صدقكم الله وعده إذ تحسونهم بإذنه ۖ حتى إذا فشلتم وتنازعتم في الأمر وعصيتم من بعد ما أراكم ما تحبون ۚ منكم من يريد الدنيا ومنكم من يريد الآخرة ۚ ثم صرفكم عنهم ليبتليكم ۖ ولقد عفا عنكم ۗ والله ذو فضل على المؤمنين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 57
+    page: 69
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:153
+    scripture: quran
+    name: Quran 3:153
+    chapter: 3
+    verse: 153
+    ordinal: 446
+    text: When ye climbed (the hill) and paid no heed to anyone, while the messenger, in your rear, was calling you (to fight). Therefor He rewarded you grief for (his) grief, that (He might teach) you not to sorrow either for that which ye missed or for that which befell you. Allah is Informed of what ye do.
+    translation: Pickthall
+    original: ۞ إِذْ تُصْعِدُونَ وَلَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍ وَٱلرَّسُولُ يَدْعُوكُمْ فِىٓ أُخْرَىٰكُمْ فَأَثَـٰبَكُمْ غَمًّۢا بِغَمٍّ لِّكَيْلَا تَحْزَنُوا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا مَآ أَصَـٰبَكُمْ ۗ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ
+    arabicPlain: ۞ إذ تصعدون ولا تلوون على أحد والرسول يدعوكم في أخراكم فأثابكم غما بغم لكيلا تحزنوا على ما فاتكم ولا ما أصابكم ۗ والله خبير بما تعملون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 57
+    page: 69
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:154
+    scripture: quran
+    name: Quran 3:154
+    chapter: 3
+    verse: 154
+    ordinal: 447
+    text: 'Then, after grief, He sent down security for you. As slumber did it overcome a party of you, while (the other) party, who were anxious on their own account, thought wrongly of Allah, the thought of ignorance. They said: Have we any part in the cause? Say (O Muhammad): The cause belongeth wholly to Allah. They hide within themselves (a thought) which they reveal not unto thee, saying: Had we had any part in the cause we should not have been slain here. Say: Even though ye had been in your houses, those appointed to be slain would have gone forth to the places where they were to lie. (All this hath been) in order that Allah might try what is in your breasts and prove what is in your hearts. Allah is Aware of what is hidden in the breasts (of men).'
+    translation: Pickthall
+    original: ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةً نُّعَاسًا يَغْشَىٰ طَآئِفَةً مِّنكُمْ ۖ وَطَآئِفَةٌ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَـٰهِلِيَّةِ ۖ يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍ ۗ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ ۗ يُخْفُونَ فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ ۖ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌ مَّا قُتِلْنَا هَـٰهُنَا ۗ قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ ۖ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+    arabicPlain: ثم أنزل عليكم من بعد الغم أمنة نعاسا يغشى طائفة منكم ۖ وطائفة قد أهمتهم أنفسهم يظنون بالله غير الحق ظن الجاهلية ۖ يقولون هل لنا من الأمر من شيء ۗ قل إن الأمر كله لله ۗ يخفون في أنفسهم ما لا يبدون لك ۖ يقولون لو كان لنا من الأمر شيء ما قتلنا هاهنا ۗ قل لو كنتم في بيوتكم لبرز الذين كتب عليهم القتل إلى مضاجعهم ۖ وليبتلي الله ما في صدوركم وليمحص ما في قلوبكم ۗ والله عليم بذات الصدور
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 57
+    page: 70
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:155
+    scripture: quran
+    name: Quran 3:155
+    chapter: 3
+    verse: 155
+    ordinal: 448
+    text: Lo! those of you who turned back on the day when the two hosts met, Satan alone it was who caused them to backslide, because of some of that which they have earned. Now Allah hath forgiven them. Lo! Allah is Forgiving, Clement.
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ تَوَلَّوْا۟ مِنكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ إِنَّمَا ٱسْتَزَلَّهُمُ ٱلشَّيْطَـٰنُ بِبَعْضِ مَا كَسَبُوا۟ ۖ وَلَقَدْ عَفَا ٱللَّهُ عَنْهُمْ ۗ إِنَّ ٱللَّهَ غَفُورٌ حَلِيمٌ
+    arabicPlain: إن الذين تولوا منكم يوم التقى الجمعان إنما استزلهم الشيطان ببعض ما كسبوا ۖ ولقد عفا الله عنهم ۗ إن الله غفور حليم
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 57
+    page: 70
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:156
+    scripture: quran
+    name: Quran 3:156
+    chapter: 3
+    verse: 156
+    ordinal: 449
+    text: 'O ye who believe! Be not as those who disbelieved and said of their brethren who went abroad in the land or were fighting in the field: If they had been (here) with us they would not have died or been killed: that Allah may make it anguish in their hearts. Allah giveth life and causeth death; and Allah is Seer of what ye do.'
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةً فِى قُلُوبِهِمْ ۗ وَٱللَّهُ يُحْىِۦ وَيُمِيتُ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+    arabicPlain: يا أيها الذين آمنوا لا تكونوا كالذين كفروا وقالوا لإخوانهم إذا ضربوا في الأرض أو كانوا غزى لو كانوا عندنا ما ماتوا وما قتلوا ليجعل الله ذلك حسرة في قلوبهم ۗ والله يحيي ويميت ۗ والله بما تعملون بصير
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 70
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:157
+    scripture: quran
+    name: Quran 3:157
+    chapter: 3
+    verse: 157
+    ordinal: 450
+    text: And what though ye be slain in Allah's way or die therein? Surely pardon from Allah and mercy are better than all that they amass.
+    translation: Pickthall
+    original: وَلَئِن قُتِلْتُمْ فِى سَبِيلِ ٱللَّهِ أَوْ مُتُّمْ لَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرَحْمَةٌ خَيْرٌ مِّمَّا يَجْمَعُونَ
+    arabicPlain: ولئن قتلتم في سبيل الله أو متم لمغفرة من الله ورحمة خير مما يجمعون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 70
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:158
+    scripture: quran
+    name: Quran 3:158
+    chapter: 3
+    verse: 158
+    ordinal: 451
+    text: What though ye be slain or die, when unto Allah ye are gathered?
+    translation: Pickthall
+    original: وَلَئِن مُّتُّمْ أَوْ قُتِلْتُمْ لَإِلَى ٱللَّهِ تُحْشَرُونَ
+    arabicPlain: ولئن متم أو قتلتم لإلى الله تحشرون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 71
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:159
+    scripture: quran
+    name: Quran 3:159
+    chapter: 3
+    verse: 159
+    ordinal: 452
+    text: It was by the mercy of Allah that thou wast lenient with them (O Muhammad), for if thou hadst been stern and fierce of heart they would have dispersed from round about thee. So pardon them and ask forgiveness for them and consult with them upon the conduct of affairs. And when thou art resolved, then put thy trust in Allah. Lo! Allah loveth those who put their trust (in Him).
+    translation: Pickthall
+    original: فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ
+    arabicPlain: فبما رحمة من الله لنت لهم ۖ ولو كنت فظا غليظ القلب لانفضوا من حولك ۖ فاعف عنهم واستغفر لهم وشاورهم في الأمر ۖ فإذا عزمت فتوكل على الله ۚ إن الله يحب المتوكلين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 71
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:160
+    scripture: quran
+    name: Quran 3:160
+    chapter: 3
+    verse: 160
+    ordinal: 453
+    text: If Allah is your helper none can overcome you, and if He withdraw His help from you, who is there who can help you after Him? In Allah let believers put their trust.
+    translation: Pickthall
+    original: إِن يَنصُرْكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِن يَخْذُلْكُمْ فَمَن ذَا ٱلَّذِى يَنصُرُكُم مِّنۢ بَعْدِهِۦ ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
+    arabicPlain: إن ينصركم الله فلا غالب لكم ۖ وإن يخذلكم فمن ذا الذي ينصركم من بعده ۗ وعلى الله فليتوكل المؤمنون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 71
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:161
+    scripture: quran
+    name: Quran 3:161
+    chapter: 3
+    verse: 161
+    ordinal: 454
+    text: It is not for any prophet to embezzle. Whoso embezzleth will bring what he embezzled with him on the Day of Resurrection. Then every soul will be paid in full what it hath earned; and they will not be wronged.
+    translation: Pickthall
+    original: وَمَا كَانَ لِنَبِىٍّ أَن يَغُلَّ ۚ وَمَن يَغْلُلْ يَأْتِ بِمَا غَلَّ يَوْمَ ٱلْقِيَـٰمَةِ ۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
+    arabicPlain: وما كان لنبي أن يغل ۚ ومن يغلل يأت بما غل يوم القيامة ۚ ثم توفى كل نفس ما كسبت وهم لا يظلمون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 71
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:162
+    scripture: quran
+    name: Quran 3:162
+    chapter: 3
+    verse: 162
+    ordinal: 455
+    text: Is one who followeth the pleasure of Allah as one who hath earned condemnation from Allah, whose habitation is the Fire, a hapless journey's end?
+    translation: Pickthall
+    original: أَفَمَنِ ٱتَّبَعَ رِضْوَٰنَ ٱللَّهِ كَمَنۢ بَآءَ بِسَخَطٍ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمَصِيرُ
+    arabicPlain: أفمن اتبع رضوان الله كمن باء بسخط من الله ومأواه جهنم ۚ وبئس المصير
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 71
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:163
+    scripture: quran
+    name: Quran 3:163
+    chapter: 3
+    verse: 163
+    ordinal: 456
+    text: There are degrees (of grace and reprobation) with Allah, and Allah is Seer of what they do.
+    translation: Pickthall
+    original: هُمْ دَرَجَـٰتٌ عِندَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
+    arabicPlain: هم درجات عند الله ۗ والله بصير بما يعملون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 71
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:164
+    scripture: quran
+    name: Quran 3:164
+    chapter: 3
+    verse: 164
+    ordinal: 457
+    text: Allah verily hath shown grace to the believers by sending unto them a messenger of their own who reciteth unto them His revelations, and causeth them to grow, and teacheth them the Scripture and wisdom; although before (he came to them) they were in flagrant error.
+    translation: Pickthall
+    original: لَقَدْ مَنَّ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا مِّنْ أَنفُسِهِمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍ مُّبِينٍ
+    arabicPlain: لقد من الله على المؤمنين إذ بعث فيهم رسولا من أنفسهم يتلو عليهم آياته ويزكيهم ويعلمهم الكتاب والحكمة وإن كانوا من قبل لفي ضلال مبين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 71
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:165
+    scripture: quran
+    name: Quran 3:165
+    chapter: 3
+    verse: 165
+    ordinal: 458
+    text: 'And was it so, when a disaster smote you, though ye had smitten (them with a disaster) twice (as great), that ye said: How is this? Say (unto them, O Muhammad): It is from yourselves. Lo! Allah is Able to do all things.'
+    translation: Pickthall
+    original: أَوَلَمَّآ أَصَـٰبَتْكُم مُّصِيبَةٌ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَـٰذَا ۖ قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+    arabicPlain: أولما أصابتكم مصيبة قد أصبتم مثليها قلتم أنى هذا ۖ قل هو من عند أنفسكم ۗ إن الله على كل شيء قدير
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 71
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:166
+    scripture: quran
+    name: Quran 3:166
+    chapter: 3
+    verse: 166
+    ordinal: 459
+    text: That which befell you, on the day when the two armies met, was by permission of Allah; that He might know the true believers;
+    translation: Pickthall
+    original: وَمَآ أَصَـٰبَكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ فَبِإِذْنِ ٱللَّهِ وَلِيَعْلَمَ ٱلْمُؤْمِنِينَ
+    arabicPlain: وما أصابكم يوم التقى الجمعان فبإذن الله وليعلم المؤمنين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 72
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:167
+    scripture: quran
+    name: Quran 3:167
+    chapter: 3
+    verse: 167
+    ordinal: 460
+    text: 'And that He might know the hypocrites, unto whom it was said: Come, fight in the way of Allah, or defend yourselves. They answered: If we knew aught of fighting we would follow you. On that day they were nearer disbelief than faith. They utter with their mouths a thing which is not in their hearts. Allah is Best Aware of what they hide.'
+    translation: Pickthall
+    original: وَلِيَعْلَمَ ٱلَّذِينَ نَافَقُوا۟ ۚ وَقِيلَ لَهُمْ تَعَالَوْا۟ قَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَوِ ٱدْفَعُوا۟ ۖ قَالُوا۟ لَوْ نَعْلَمُ قِتَالًا لَّٱتَّبَعْنَـٰكُمْ ۗ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَـٰنِ ۚ يَقُولُونَ بِأَفْوَٰهِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ أَعْلَمُ بِمَا يَكْتُمُونَ
+    arabicPlain: وليعلم الذين نافقوا ۚ وقيل لهم تعالوا قاتلوا في سبيل الله أو ادفعوا ۖ قالوا لو نعلم قتالا لاتبعناكم ۗ هم للكفر يومئذ أقرب منهم للإيمان ۚ يقولون بأفواههم ما ليس في قلوبهم ۗ والله أعلم بما يكتمون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 72
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:168
+    scripture: quran
+    name: Quran 3:168
+    chapter: 3
+    verse: 168
+    ordinal: 461
+    text: 'Those who, while they sat at home, said of their brethren (who were fighting for the cause of Allah): If they had been guided by us they would not have been slain. Say (unto them, O Muhammad): Then avert death from yourselves if ye are truthful.'
+    translation: Pickthall
+    original: ٱلَّذِينَ قَالُوا۟ لِإِخْوَٰنِهِمْ وَقَعَدُوا۟ لَوْ أَطَاعُونَا مَا قُتِلُوا۟ ۗ قُلْ فَٱدْرَءُوا۟ عَنْ أَنفُسِكُمُ ٱلْمَوْتَ إِن كُنتُمْ صَـٰدِقِينَ
+    arabicPlain: الذين قالوا لإخوانهم وقعدوا لو أطاعونا ما قتلوا ۗ قل فادرءوا عن أنفسكم الموت إن كنتم صادقين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 72
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:169
+    scripture: quran
+    name: Quran 3:169
+    chapter: 3
+    verse: 169
+    ordinal: 462
+    text: Think not of those, who are slain in the way of Allah, as dead. Nay, they are living. With their Lord they have provision.
+    translation: Pickthall
+    original: وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا ۚ بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ
+    arabicPlain: ولا تحسبن الذين قتلوا في سبيل الله أمواتا ۚ بل أحياء عند ربهم يرزقون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 72
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:170
+    scripture: quran
+    name: Quran 3:170
+    chapter: 3
+    verse: 170
+    ordinal: 463
+    text: 'Jubilant (are they) because of that which Allah hath bestowed upon them of His bounty, rejoicing for the sake of those who have not joined them but are left behind: That there shall no fear come upon them neither shall they grieve.'
+    translation: Pickthall
+    original: فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+    arabicPlain: فرحين بما آتاهم الله من فضله ويستبشرون بالذين لم يلحقوا بهم من خلفهم ألا خوف عليهم ولا هم يحزنون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 72
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:171
+    scripture: quran
+    name: Quran 3:171
+    chapter: 3
+    verse: 171
+    ordinal: 464
+    text: They rejoice because of favour from Allah and kindness, and that Allah wasteth not the wage of the believers.
+    translation: Pickthall
+    original: ۞ يَسْتَبْشِرُونَ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ وَأَنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ
+    arabicPlain: ۞ يستبشرون بنعمة من الله وفضل وأن الله لا يضيع أجر المؤمنين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 58
+    page: 72
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:172
+    scripture: quran
+    name: Quran 3:172
+    chapter: 3
+    verse: 172
+    ordinal: 465
+    text: As for those who heard the call of Allah and His messenger after the harm befell them (in the fight); for such of them as do right and ward off (evil), there is great reward.
+    translation: Pickthall
+    original: ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ
+    arabicPlain: الذين استجابوا لله والرسول من بعد ما أصابهم القرح ۚ للذين أحسنوا منهم واتقوا أجر عظيم
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 59
+    page: 72
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:173
+    scripture: quran
+    name: Quran 3:173
+    chapter: 3
+    verse: 173
+    ordinal: 466
+    text: 'Those unto whom men said: Lo! the people have gathered against you, therefor fear them. (The threat of danger) but increased the faith of them and they cried: Allah is Sufficient for us! Most Excellent is He in Whom we trust!'
+    translation: Pickthall
+    original: ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ
+    arabicPlain: الذين قال لهم الناس إن الناس قد جمعوا لكم فاخشوهم فزادهم إيمانا وقالوا حسبنا الله ونعم الوكيل
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 59
+    page: 72
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:174
+    scripture: quran
+    name: Quran 3:174
+    chapter: 3
+    verse: 174
+    ordinal: 467
+    text: So they returned with grace and favour from Allah, and no harm touched them. They followed the good pleasure of Allah, and Allah is of Infinite Bounty.
+    translation: Pickthall
+    original: فَٱنقَلَبُوا۟ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوٓءٌ وَٱتَّبَعُوا۟ رِضْوَٰنَ ٱللَّهِ ۗ وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ
+    arabicPlain: فانقلبوا بنعمة من الله وفضل لم يمسسهم سوء واتبعوا رضوان الله ۗ والله ذو فضل عظيم
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 59
+    page: 73
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:175
+    scripture: quran
+    name: Quran 3:175
+    chapter: 3
+    verse: 175
+    ordinal: 468
+    text: It is only the devil who would make (men) fear his partisans. Fear them not; fear Me, if ye are true believers.
+    translation: Pickthall
+    original: إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَـٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ
+    arabicPlain: إنما ذلكم الشيطان يخوف أولياءه فلا تخافوهم وخافون إن كنتم مؤمنين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 59
+    page: 73
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:176
+    scripture: quran
+    name: Quran 3:176
+    chapter: 3
+    verse: 176
+    ordinal: 469
+    text: Let not their conduct grieve thee, who run easily to disbelief, for lo! they injure Allah not at all. It is Allah's Will to assign them no portion in the Hereafter, and theirs will be an awful doom.
+    translation: Pickthall
+    original: وَلَا يَحْزُنكَ ٱلَّذِينَ يُسَـٰرِعُونَ فِى ٱلْكُفْرِ ۚ إِنَّهُمْ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا ۗ يُرِيدُ ٱللَّهُ أَلَّا يَجْعَلَ لَهُمْ حَظًّا فِى ٱلْـَٔاخِرَةِ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ
+    arabicPlain: ولا يحزنك الذين يسارعون في الكفر ۚ إنهم لن يضروا الله شيئا ۗ يريد الله ألا يجعل لهم حظا في الآخرة ۖ ولهم عذاب عظيم
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 59
+    page: 73
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:177
+    scripture: quran
+    name: Quran 3:177
+    chapter: 3
+    verse: 177
+    ordinal: 470
+    text: Those who purchase disbelief at the price of faith harm Allah not at all, but theirs will be a painful doom.
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْكُفْرَ بِٱلْإِيمَـٰنِ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا وَلَهُمْ عَذَابٌ أَلِيمٌ
+    arabicPlain: إن الذين اشتروا الكفر بالإيمان لن يضروا الله شيئا ولهم عذاب أليم
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 59
+    page: 73
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:178
+    scripture: quran
+    name: Quran 3:178
+    chapter: 3
+    verse: 178
+    ordinal: 471
+    text: And let not those who disbelieve imagine that the rein We give them bodeth good unto their souls. We only give them rein that they may grow in sinfulness. And theirs will be a shameful doom.
+    translation: Pickthall
+    original: وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّمَا نُمْلِى لَهُمْ خَيْرٌ لِّأَنفُسِهِمْ ۚ إِنَّمَا نُمْلِى لَهُمْ لِيَزْدَادُوٓا۟ إِثْمًا ۚ وَلَهُمْ عَذَابٌ مُّهِينٌ
+    arabicPlain: ولا يحسبن الذين كفروا أنما نملي لهم خير لأنفسهم ۚ إنما نملي لهم ليزدادوا إثما ۚ ولهم عذاب مهين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 59
+    page: 73
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:179
+    scripture: quran
+    name: Quran 3:179
+    chapter: 3
+    verse: 179
+    ordinal: 472
+    text: It is not (the purpose) of Allah to leave you in your present state till He shall separate the wicked from the good. And it is not (the purpose of) Allah to let you know the Unseen. But Allah chooseth of His messengers whom He will, (to receive knowledge thereof). So believe in Allah and His messengers. If ye believe and ward off (evil), yours will be a vast reward.
+    translation: Pickthall
+    original: مَّا كَانَ ٱللَّهُ لِيَذَرَ ٱلْمُؤْمِنِينَ عَلَىٰ مَآ أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ ٱلْخَبِيثَ مِنَ ٱلطَّيِّبِ ۗ وَمَا كَانَ ٱللَّهُ لِيُطْلِعَكُمْ عَلَى ٱلْغَيْبِ وَلَـٰكِنَّ ٱللَّهَ يَجْتَبِى مِن رُّسُلِهِۦ مَن يَشَآءُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ فَلَكُمْ أَجْرٌ عَظِيمٌ
+    arabicPlain: ما كان الله ليذر المؤمنين على ما أنتم عليه حتى يميز الخبيث من الطيب ۗ وما كان الله ليطلعكم على الغيب ولكن الله يجتبي من رسله من يشاء ۖ فآمنوا بالله ورسله ۚ وإن تؤمنوا وتتقوا فلكم أجر عظيم
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 59
+    page: 73
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:180
+    scripture: quran
+    name: Quran 3:180
+    chapter: 3
+    verse: 180
+    ordinal: 473
+    text: And let not those who hoard up that which Allah hath bestowed upon them of His bounty think that it is better for them. Nay, it is worse for them. That which they hoard will be their collar on the Day of Resurrection. Allah's is the heritage of the heavens and the earth, and Allah is Informed of what ye do.
+    translation: Pickthall
+    original: وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًا لَّهُم ۖ بَلْ هُوَ شَرٌّ لَّهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+    arabicPlain: ولا يحسبن الذين يبخلون بما آتاهم الله من فضله هو خيرا لهم ۖ بل هو شر لهم ۖ سيطوقون ما بخلوا به يوم القيامة ۗ ولله ميراث السماوات والأرض ۗ والله بما تعملون خبير
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 59
+    page: 73
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:181
+    scripture: quran
+    name: Quran 3:181
+    chapter: 3
+    verse: 181
+    ordinal: 474
+    text: 'Verily Allah heard the saying of those who said, (when asked for contributions to the war): "Allah, forsooth, is poor, and we are rich!" We shall record their saying with their slaying of the prophets wrongfully and We shall say: Taste ye the punishment of burning!'
+    translation: Pickthall
+    original: لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
+    arabicPlain: لقد سمع الله قول الذين قالوا إن الله فقير ونحن أغنياء ۘ سنكتب ما قالوا وقتلهم الأنبياء بغير حق ونقول ذوقوا عذاب الحريق
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 60
+    page: 74
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:182
+    scripture: quran
+    name: Quran 3:182
+    chapter: 3
+    verse: 182
+    ordinal: 475
+    text: This is on account of that which your own hands have sent before (you to the judgment). Allah is no oppressor of (His) bondmen.
+    translation: Pickthall
+    original: ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ
+    arabicPlain: ذلك بما قدمت أيديكم وأن الله ليس بظلام للعبيد
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 60
+    page: 74
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:183
+    scripture: quran
+    name: Quran 3:183
+    chapter: 3
+    verse: 183
+    ordinal: 476
+    text: '(The same are) those who say: Lo! Allah hath charged us that we believe not in any messenger until he bring us an offering which fire (from heaven) shall devour. Say (unto them, O Muhammad): Messengers came unto you before me with miracles, and with that (very miracle) which ye describe. Why then did ye slay them? (Answer that) if ye are truthful!'
+    translation: Pickthall
+    original: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ ۗ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَـٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَـٰدِقِينَ
+    arabicPlain: الذين قالوا إن الله عهد إلينا ألا نؤمن لرسول حتى يأتينا بقربان تأكله النار ۗ قل قد جاءكم رسل من قبلي بالبينات وبالذي قلتم فلم قتلتموهم إن كنتم صادقين
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 60
+    page: 74
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:184
+    scripture: quran
+    name: Quran 3:184
+    chapter: 3
+    verse: 184
+    ordinal: 477
+    text: And if they deny thee, even so did they deny messengers who were before thee, who came with miracles and with the Psalms and with the Scripture giving light.
+    translation: Pickthall
+    original: فَإِن كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌ مِّن قَبْلِكَ جَآءُو بِٱلْبَيِّنَـٰتِ وَٱلزُّبُرِ وَٱلْكِتَـٰبِ ٱلْمُنِيرِ
+    arabicPlain: فإن كذبوك فقد كذب رسل من قبلك جاءوا بالبينات والزبر والكتاب المنير
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 60
+    page: 74
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:185
+    scripture: quran
+    name: Quran 3:185
+    chapter: 3
+    verse: 185
+    ordinal: 478
+    text: Every soul will taste of death. And ye will be paid on the Day of Resurrection only that which ye have fairly earned. Whoso is removed from the Fire and is made to enter paradise, he indeed is triumphant. The life of this world is but comfort of illusion.
+    translation: Pickthall
+    original: كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ
+    arabicPlain: كل نفس ذائقة الموت ۗ وإنما توفون أجوركم يوم القيامة ۖ فمن زحزح عن النار وأدخل الجنة فقد فاز ۗ وما الحياة الدنيا إلا متاع الغرور
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 60
+    page: 74
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:186
+    scripture: quran
+    name: Quran 3:186
+    chapter: 3
+    verse: 186
+    ordinal: 479
+    text: Assuredly ye will be tried in your property and in your persons, and ye will hear much wrong from those who were given the Scripture before you, and from the idolaters. But if ye persevere and ward off (evil), then that is of the steadfast heart of things.
+    translation: Pickthall
+    original: ۞ لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًى كَثِيرًا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ
+    arabicPlain: ۞ لتبلون في أموالكم وأنفسكم ولتسمعن من الذين أوتوا الكتاب من قبلكم ومن الذين أشركوا أذى كثيرا ۚ وإن تصبروا وتتقوا فإن ذلك من عزم الأمور
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 60
+    page: 74
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:187
+    scripture: quran
+    name: Quran 3:187
+    chapter: 3
+    verse: 187
+    ordinal: 480
+    text: 'And (remember) when Allah laid a charge on those who had received the Scripture (He said): Ye are to expound it to mankind and not to hide it. But they flung it behind their backs and bought thereby a little gain. Verily evil is that which they have gained thereby.'
+    translation: Pickthall
+    original: وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ
+    arabicPlain: وإذ أخذ الله ميثاق الذين أوتوا الكتاب لتبيننه للناس ولا تكتمونه فنبذوه وراء ظهورهم واشتروا به ثمنا قليلا ۖ فبئس ما يشترون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 60
+    page: 75
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:188
+    scripture: quran
+    name: Quran 3:188
+    chapter: 3
+    verse: 188
+    ordinal: 481
+    text: Think not that those who exult in what they have given, and love to be praised for what they have not done - Think not, they are in safety from the doom. A painful doom is theirs.
+    translation: Pickthall
+    original: لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ أَتَوا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍ مِّنَ ٱلْعَذَابِ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ
+    arabicPlain: لا تحسبن الذين يفرحون بما أتوا ويحبون أن يحمدوا بما لم يفعلوا فلا تحسبنهم بمفازة من العذاب ۖ ولهم عذاب أليم
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 60
+    page: 75
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:189
+    scripture: quran
+    name: Quran 3:189
+    chapter: 3
+    verse: 189
+    ordinal: 482
+    text: Unto Allah belongeth the Sovereignty of the heavens and the earth. Allah is Able to do all things.
+    translation: Pickthall
+    original: وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+    arabicPlain: ولله ملك السماوات والأرض ۗ والله على كل شيء قدير
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 60
+    page: 75
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:190
+    scripture: quran
+    name: Quran 3:190
+    chapter: 3
+    verse: 190
+    ordinal: 483
+    text: Lo! In the creation of the heavens and the earth and (in) the difference of night and day are tokens (of His Sovereignty) for men of understanding,
+    translation: Pickthall
+    original: إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلْأَلْبَـٰبِ
+    arabicPlain: إن في خلق السماوات والأرض واختلاف الليل والنهار لآيات لأولي الألباب
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 61
+    page: 75
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:191
+    scripture: quran
+    name: Quran 3:191
+    chapter: 3
+    verse: 191
+    ordinal: 484
+    text: 'Such as remember Allah, standing, sitting, and reclining, and consider the creation of the heavens and the earth, (and say): Our Lord! Thou createdst not this in vain. Glory be to Thee! Preserve us from the doom of Fire.'
+    translation: Pickthall
+    original: ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَـٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَـٰطِلًا سُبْحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
+    arabicPlain: الذين يذكرون الله قياما وقعودا وعلى جنوبهم ويتفكرون في خلق السماوات والأرض ربنا ما خلقت هذا باطلا سبحانك فقنا عذاب النار
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 61
+    page: 75
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:192
+    scripture: quran
+    name: Quran 3:192
+    chapter: 3
+    verse: 192
+    ordinal: 485
+    text: 'Our Lord! Whom Thou causest to enter the Fire: him indeed Thou hast confounded. For evil-doers there will be no helpers.'
+    translation: Pickthall
+    original: رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍ
+    arabicPlain: ربنا إنك من تدخل النار فقد أخزيته ۖ وما للظالمين من أنصار
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 61
+    page: 75
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:193
+    scripture: quran
+    name: Quran 3:193
+    chapter: 3
+    verse: 193
+    ordinal: 486
+    text: 'Our Lord! Lo! we have heard a crier calling unto Faith: "Believe ye in your Lord!" So we believed. Our Lord! Therefor forgive us our sins, and remit from us our evil deeds, and make us die the death of the righteous.'
+    translation: Pickthall
+    original: رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ
+    arabicPlain: ربنا إننا سمعنا مناديا ينادي للإيمان أن آمنوا بربكم فآمنا ۚ ربنا فاغفر لنا ذنوبنا وكفر عنا سيئاتنا وتوفنا مع الأبرار
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 61
+    page: 75
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:194
+    scripture: quran
+    name: Quran 3:194
+    chapter: 3
+    verse: 194
+    ordinal: 487
+    text: Our Lord! And give us that which Thou hast promised to us by Thy messengers. Confound us not upon the Day of Resurrection. Lo! Thou breakest not the tryst.
+    translation: Pickthall
+    original: رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ
+    arabicPlain: ربنا وآتنا ما وعدتنا على رسلك ولا تخزنا يوم القيامة ۗ إنك لا تخلف الميعاد
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 61
+    page: 75
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:195
+    scripture: quran
+    name: Quran 3:195
+    chapter: 3
+    verse: 195
+    ordinal: 488
+    text: 'And their Lord hath heard them (and He saith): Lo! I suffer not the work of any worker, male or female, to be lost. Ye proceed one from another. So those who fled and were driven forth from their homes and suffered damage for My cause, and fought and were slain, verily I shall remit their evil deeds from them and verily I shall bring them into Gardens underneath which rivers flow - A reward from Allah. And with Allah is the fairest of rewards.'
+    translation: Pickthall
+    original: فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ
+    arabicPlain: فاستجاب لهم ربهم أني لا أضيع عمل عامل منكم من ذكر أو أنثى ۖ بعضكم من بعض ۖ فالذين هاجروا وأخرجوا من ديارهم وأوذوا في سبيلي وقاتلوا وقتلوا لأكفرن عنهم سيئاتهم ولأدخلنهم جنات تجري من تحتها الأنهار ثوابا من عند الله ۗ والله عنده حسن الثواب
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 61
+    page: 76
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:196
+    scripture: quran
+    name: Quran 3:196
+    chapter: 3
+    verse: 196
+    ordinal: 489
+    text: Let not the vicissitude (of the success) of those who disbelieve, in the land, deceive thee (O Muhammad).
+    translation: Pickthall
+    original: لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُوا۟ فِى ٱلْبِلَـٰدِ
+    arabicPlain: لا يغرنك تقلب الذين كفروا في البلاد
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 61
+    page: 76
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:197
+    scripture: quran
+    name: Quran 3:197
+    chapter: 3
+    verse: 197
+    ordinal: 490
+    text: It is but a brief comfort. And afterward their habitation will be hell, an ill abode.
+    translation: Pickthall
+    original: مَتَـٰعٌ قَلِيلٌ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمِهَادُ
+    arabicPlain: متاع قليل ثم مأواهم جهنم ۚ وبئس المهاد
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 61
+    page: 76
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:198
+    scripture: quran
+    name: Quran 3:198
+    chapter: 3
+    verse: 198
+    ordinal: 491
+    text: But those who keep their duty to their Lord, for them are Gardens underneath which rivers flow, wherein they will be safe for ever. A gift of welcome from their Lord. That which Allah hath in store is better for the righteous.
+    translation: Pickthall
+    original: لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ
+    arabicPlain: لكن الذين اتقوا ربهم لهم جنات تجري من تحتها الأنهار خالدين فيها نزلا من عند الله ۗ وما عند الله خير للأبرار
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 61
+    page: 76
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:199
+    scripture: quran
+    name: Quran 3:199
+    chapter: 3
+    verse: 199
+    ordinal: 492
+    text: And lo! of the People of the Scripture there are some who believe in Allah and that which is revealed unto you and that which was revealed unto them, humbling themselves before Allah. They purchase not a trifling gain at the price of the revelations of Allah. Verily their reward is with their Lord. Lo! Allah is swift to take account.
+    translation: Pickthall
+    original: وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا ۗ أُو۟لَـٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+    arabicPlain: وإن من أهل الكتاب لمن يؤمن بالله وما أنزل إليكم وما أنزل إليهم خاشعين لله لا يشترون بآيات الله ثمنا قليلا ۗ أولئك لهم أجرهم عند ربهم ۗ إن الله سريع الحساب
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 61
+    page: 76
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4
+- type: Ayah
+  data:
+    ref: 3:200
+    scripture: quran
+    name: Quran 3:200
+    chapter: 3
+    verse: 200
+    ordinal: 493
+    text: O ye who believe! Endure, outdo all others in endurance, be ready, and observe your duty to Allah, in order that ye may succeed.
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
+    arabicPlain: يا أيها الذين آمنوا اصبروا وصابروا ورابطوا واتقوا الله لعلكم تفلحون
+    surahName: Aal-i-Imraan
+    juz: 4
+    manzil: 1
+    ruku: 61
+    page: 76
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '3'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-4

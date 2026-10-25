@@ -1,0 +1,85 @@
+# The Quran as a graph: four STORED types, children of the scripture vocabulary.
+#
+#   Mushaf ◀─IN─ Surah ◀─IN─ Ayah ─IN_PORTION─▶ Juz
+#   (HolyBook)   (ScriptureChapter)  (Verse)       (ReadingPortion)
+#
+# Seeded from reference/, which scripts/build_reference.py builds; it never changes. The Quran has no
+# books, so a surah is IN the holy book directly — the vocabulary allows a scripture to skip the
+# ScriptureBook level, and `(v:Verse)-[:IN*1..3]->(h:HolyBook)` still reaches it.
+#
+# Every ayah carries the Arabic twice and the English once, all stored because all must be searchable:
+# `original` (Uthmani, as printed and recited), `arabicPlain` (the same without diacritics — what a
+# person types), and `text` (Pickthall's English). The vocabulary promises `text` is English so the
+# Quran can be searched beside the Bible; it is a translation of the MEANING — Pickthall's own title
+# was "The Meaning of the Glorious Koran" — and `original` is the Quran.
+#
+# No type is called `Quran`: that is this realm's provenance label (realm-quran → Quran), and a type
+# that shares it is refused at load. The holy book is the Mushaf, the written Quran as one volume.
+
+- name: Mushaf
+  parents: [HolyBook]
+  userAnchor: false
+  description: "The Quran as one holy book — a single node, `scripture: 'quran'`. Its 114 surahs are IN it."
+  properties:
+    scripture:
+      identity: true
+      description: "Always `quran`. Identity."
+    textSource: "Where the Arabic comes from: Tanzil Project (tanzil.net), Uthmani and Simple Clean, version 1.1."
+
+- name: Surah
+  parents: [ScriptureChapter]
+  userAnchor: false
+  description: "One of the 114 surahs, in the order of the mushaf. `chapter` is its number; `name` its transliterated name, e.g. `Al-Baqara`. Meccan or Medinan, and its place in the traditional order of revelation. IN the Mushaf; its ayat are IN it."
+  properties:
+    ref:
+      identity: true
+      description: "The surah's number as text, e.g. `2`. Identity."
+    arabicName: "The surah's name in Arabic, e.g. `البقرة`."
+    meaning: "The name in English, e.g. `The Cow`."
+    revelation: "`Meccan` or `Medinan` — where it was revealed, by the traditional attribution."
+    revelationOrder:
+      type: int
+      description: "Its place, 1–114, in the traditional (Egyptian standard) chronological order of revelation. Al-Alaq is 1; Al-Fatiha is 5."
+    rukus:
+      type: int
+      description: "How many ruku (thematic sections) the surah is divided into."
+
+- name: Ayah
+  parents: [Verse]
+  userAnchor: false
+  description: >-
+    One ayah (verse) of the Quran. `text` is Pickthall's English (1930) — a translation of the meaning;
+    `original` is the Arabic in Uthmani script, the Quran itself; `arabicPlain` is the same Arabic
+    without diacritics, for searching. `name` is the reference, e.g. `Quran 2:255`; `ref` is `2:255`.
+    Search English with toLower(a.text) CONTAINS 'mercy', Arabic with a.arabicPlain CONTAINS 'رحمة'.
+    Tanzil prints the basmala at the head of the first ayah of every surah but Al-Fatiha (where it is
+    the ayah) and At-Tawba (which has none); Pickthall does not, so `text` and `original` of those
+    ayat differ by it. IN its Surah; IN_PORTION its Juz.
+  properties:
+    ref:
+      identity: true
+      description: "`<surah>:<ayah>`, e.g. `2:255`. Identity."
+    arabicPlain: "The ayah in Arabic without diacritics (Tanzil Simple Clean), for search. Keeps Tanzil's pause marks, so a phrase that spans one does not match."
+    surahName: "The surah's transliterated name, e.g. `Al-Baqara`, so a reference can be shown without a walk."
+    juz:
+      type: int
+      description: "The juz (one of thirty) the ayah falls in."
+    manzil:
+      type: int
+      description: "The manzil (one of seven, a week's reading) the ayah falls in."
+    ruku:
+      type: int
+      description: "The ruku (thematic section), numbered across the whole Quran."
+    page:
+      type: int
+      description: "The page of the standard Medina mushaf the ayah is printed on."
+    sajda: "`recommended` or `obligatory` on the fifteen ayat of prostration; absent on every other."
+
+- name: Juz
+  parents: [ReadingPortion]
+  userAnchor: false
+  description: "One of the thirty ajza (parts) the Quran is divided into for reading — one a night through Ramadan. Each ayah is IN_PORTION its juz; a juz cuts across surahs."
+  properties:
+    key:
+      identity: true
+      description: "`juz-<number>`, e.g. `juz-30`. Identity."

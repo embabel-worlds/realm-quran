@@ -1,0 +1,635 @@
+# Every ayah of Surah Al-Burooj (The Constellations): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '85:1'
+    scripture: quran
+    name: Quran 85:1
+    chapter: 85
+    verse: 1
+    ordinal: 5910
+    text: By the heaven, holding mansions of the stars,
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ
+    arabicPlain: بسم الله الرحمن الرحيم والسماء ذات البروج
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:2'
+    scripture: quran
+    name: Quran 85:2
+    chapter: 85
+    verse: 2
+    ordinal: 5911
+    text: And by the Promised Day.
+    translation: Pickthall
+    original: وَٱلْيَوْمِ ٱلْمَوْعُودِ
+    arabicPlain: واليوم الموعود
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:3'
+    scripture: quran
+    name: Quran 85:3
+    chapter: 85
+    verse: 3
+    ordinal: 5912
+    text: And by the witness and that whereunto he beareth testimony,
+    translation: Pickthall
+    original: وَشَاهِدٍ وَمَشْهُودٍ
+    arabicPlain: وشاهد ومشهود
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:4'
+    scripture: quran
+    name: Quran 85:4
+    chapter: 85
+    verse: 4
+    ordinal: 5913
+    text: (Self-)destroyed were the owners of the ditch
+    translation: Pickthall
+    original: قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ
+    arabicPlain: قتل أصحاب الأخدود
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:5'
+    scripture: quran
+    name: Quran 85:5
+    chapter: 85
+    verse: 5
+    ordinal: 5914
+    text: Of the fuel-fed fire,
+    translation: Pickthall
+    original: ٱلنَّارِ ذَاتِ ٱلْوَقُودِ
+    arabicPlain: النار ذات الوقود
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:6'
+    scripture: quran
+    name: Quran 85:6
+    chapter: 85
+    verse: 6
+    ordinal: 5915
+    text: When they sat by it,
+    translation: Pickthall
+    original: إِذْ هُمْ عَلَيْهَا قُعُودٌ
+    arabicPlain: إذ هم عليها قعود
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:7'
+    scripture: quran
+    name: Quran 85:7
+    chapter: 85
+    verse: 7
+    ordinal: 5916
+    text: And were themselves the witnesses of what they did to the believers.
+    translation: Pickthall
+    original: وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ
+    arabicPlain: وهم على ما يفعلون بالمؤمنين شهود
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:8'
+    scripture: quran
+    name: Quran 85:8
+    chapter: 85
+    verse: 8
+    ordinal: 5917
+    text: They had naught against them save that they believed in Allah, the Mighty, the Owner of Praise,
+    translation: Pickthall
+    original: وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ
+    arabicPlain: وما نقموا منهم إلا أن يؤمنوا بالله العزيز الحميد
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:9'
+    scripture: quran
+    name: Quran 85:9
+    chapter: 85
+    verse: 9
+    ordinal: 5918
+    text: Him unto Whom belongeth the Sovereignty of the heavens and the earth; and Allah is of all things the Witness.
+    translation: Pickthall
+    original: ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
+    arabicPlain: الذي له ملك السماوات والأرض ۚ والله على كل شيء شهيد
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:10'
+    scripture: quran
+    name: Quran 85:10
+    chapter: 85
+    verse: 10
+    ordinal: 5919
+    text: Lo! they who persecute believing men and believing women and repent not, theirs verily will be the doom of hell, and theirs the doom of burning.
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ
+    arabicPlain: إن الذين فتنوا المؤمنين والمؤمنات ثم لم يتوبوا فلهم عذاب جهنم ولهم عذاب الحريق
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:11'
+    scripture: quran
+    name: Quran 85:11
+    chapter: 85
+    verse: 11
+    ordinal: 5920
+    text: Lo! those who believe and do good works, theirs will be Gardens underneath which rivers flow. That is the Great Success.
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ
+    arabicPlain: إن الذين آمنوا وعملوا الصالحات لهم جنات تجري من تحتها الأنهار ۚ ذلك الفوز الكبير
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:12'
+    scripture: quran
+    name: Quran 85:12
+    chapter: 85
+    verse: 12
+    ordinal: 5921
+    text: Lo! the punishment of thy Lord is stern.
+    translation: Pickthall
+    original: إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ
+    arabicPlain: إن بطش ربك لشديد
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:13'
+    scripture: quran
+    name: Quran 85:13
+    chapter: 85
+    verse: 13
+    ordinal: 5922
+    text: Lo! He it is Who produceth, then reproduceth,
+    translation: Pickthall
+    original: إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ
+    arabicPlain: إنه هو يبدئ ويعيد
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:14'
+    scripture: quran
+    name: Quran 85:14
+    chapter: 85
+    verse: 14
+    ordinal: 5923
+    text: And He is the Forgiving, the Loving,
+    translation: Pickthall
+    original: وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ
+    arabicPlain: وهو الغفور الودود
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:15'
+    scripture: quran
+    name: Quran 85:15
+    chapter: 85
+    verse: 15
+    ordinal: 5924
+    text: Lord of the Throne of Glory,
+    translation: Pickthall
+    original: ذُو ٱلْعَرْشِ ٱلْمَجِيدُ
+    arabicPlain: ذو العرش المجيد
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:16'
+    scripture: quran
+    name: Quran 85:16
+    chapter: 85
+    verse: 16
+    ordinal: 5925
+    text: Doer of what He will.
+    translation: Pickthall
+    original: فَعَّالٌ لِّمَا يُرِيدُ
+    arabicPlain: فعال لما يريد
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:17'
+    scripture: quran
+    name: Quran 85:17
+    chapter: 85
+    verse: 17
+    ordinal: 5926
+    text: Hath there come unto thee the story of the hosts
+    translation: Pickthall
+    original: هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ
+    arabicPlain: هل أتاك حديث الجنود
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:18'
+    scripture: quran
+    name: Quran 85:18
+    chapter: 85
+    verse: 18
+    ordinal: 5927
+    text: Of Pharaoh and (the tribe of) Thamud?
+    translation: Pickthall
+    original: فِرْعَوْنَ وَثَمُودَ
+    arabicPlain: فرعون وثمود
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:19'
+    scripture: quran
+    name: Quran 85:19
+    chapter: 85
+    verse: 19
+    ordinal: 5928
+    text: Nay, but those who disbelieve live in denial
+    translation: Pickthall
+    original: بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ
+    arabicPlain: بل الذين كفروا في تكذيب
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:20'
+    scripture: quran
+    name: Quran 85:20
+    chapter: 85
+    verse: 20
+    ordinal: 5929
+    text: And Allah, all unseen, surroundeth them.
+    translation: Pickthall
+    original: وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ
+    arabicPlain: والله من ورائهم محيط
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:21'
+    scripture: quran
+    name: Quran 85:21
+    chapter: 85
+    verse: 21
+    ordinal: 5930
+    text: Nay, but it is a glorious Qur'an.
+    translation: Pickthall
+    original: بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ
+    arabicPlain: بل هو قرآن مجيد
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '85:22'
+    scripture: quran
+    name: Quran 85:22
+    chapter: 85
+    verse: 22
+    ordinal: 5931
+    text: On a guarded tablet.
+    translation: Pickthall
+    original: فِى لَوْحٍ مَّحْفُوظٍۭ
+    arabicPlain: في لوح محفوظ
+    surahName: Al-Burooj
+    juz: 30
+    manzil: 7
+    ruku: 527
+    page: 590
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '85'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

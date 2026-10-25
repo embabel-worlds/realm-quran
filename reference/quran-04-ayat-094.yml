@@ -1,0 +1,271 @@
+# Every ayah of Surah Ash-Sharh (The Consolation): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '94:1'
+    scripture: quran
+    name: Quran 94:1
+    chapter: 94
+    verse: 1
+    ordinal: 6091
+    text: Have We not caused thy bosom to dilate,
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ
+    arabicPlain: بسم الله الرحمن الرحيم ألم نشرح لك صدرك
+    surahName: Ash-Sharh
+    juz: 30
+    manzil: 7
+    ruku: 536
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '94'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '94:2'
+    scripture: quran
+    name: Quran 94:2
+    chapter: 94
+    verse: 2
+    ordinal: 6092
+    text: And eased thee of the burden
+    translation: Pickthall
+    original: وَوَضَعْنَا عَنكَ وِزْرَكَ
+    arabicPlain: ووضعنا عنك وزرك
+    surahName: Ash-Sharh
+    juz: 30
+    manzil: 7
+    ruku: 536
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '94'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '94:3'
+    scripture: quran
+    name: Quran 94:3
+    chapter: 94
+    verse: 3
+    ordinal: 6093
+    text: Which weighed down thy back;
+    translation: Pickthall
+    original: ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ
+    arabicPlain: الذي أنقض ظهرك
+    surahName: Ash-Sharh
+    juz: 30
+    manzil: 7
+    ruku: 536
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '94'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '94:4'
+    scripture: quran
+    name: Quran 94:4
+    chapter: 94
+    verse: 4
+    ordinal: 6094
+    text: And exalted thy fame?
+    translation: Pickthall
+    original: وَرَفَعْنَا لَكَ ذِكْرَكَ
+    arabicPlain: ورفعنا لك ذكرك
+    surahName: Ash-Sharh
+    juz: 30
+    manzil: 7
+    ruku: 536
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '94'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '94:5'
+    scripture: quran
+    name: Quran 94:5
+    chapter: 94
+    verse: 5
+    ordinal: 6095
+    text: But lo! with hardship goeth ease,
+    translation: Pickthall
+    original: فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا
+    arabicPlain: فإن مع العسر يسرا
+    surahName: Ash-Sharh
+    juz: 30
+    manzil: 7
+    ruku: 536
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '94'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '94:6'
+    scripture: quran
+    name: Quran 94:6
+    chapter: 94
+    verse: 6
+    ordinal: 6096
+    text: Lo! with hardship goeth ease;
+    translation: Pickthall
+    original: إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا
+    arabicPlain: إن مع العسر يسرا
+    surahName: Ash-Sharh
+    juz: 30
+    manzil: 7
+    ruku: 536
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '94'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '94:7'
+    scripture: quran
+    name: Quran 94:7
+    chapter: 94
+    verse: 7
+    ordinal: 6097
+    text: So when thou art relieved, still toil
+    translation: Pickthall
+    original: فَإِذَا فَرَغْتَ فَٱنصَبْ
+    arabicPlain: فإذا فرغت فانصب
+    surahName: Ash-Sharh
+    juz: 30
+    manzil: 7
+    ruku: 536
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '94'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '94:8'
+    scripture: quran
+    name: Quran 94:8
+    chapter: 94
+    verse: 8
+    ordinal: 6098
+    text: And strive to please thy Lord.
+    translation: Pickthall
+    original: وَإِلَىٰ رَبِّكَ فَٱرْغَب
+    arabicPlain: وإلى ربك فارغب
+    surahName: Ash-Sharh
+    juz: 30
+    manzil: 7
+    ruku: 536
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '94'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

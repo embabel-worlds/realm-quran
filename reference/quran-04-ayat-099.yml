@@ -1,0 +1,271 @@
+# Every ayah of Surah Az-Zalzala (The Earthquake): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '99:1'
+    scripture: quran
+    name: Quran 99:1
+    chapter: 99
+    verse: 1
+    ordinal: 6139
+    text: When Earth is shaken with her (final) earthquake
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا
+    arabicPlain: بسم الله الرحمن الرحيم إذا زلزلت الأرض زلزالها
+    surahName: Az-Zalzala
+    juz: 30
+    manzil: 7
+    ruku: 541
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '99'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '99:2'
+    scripture: quran
+    name: Quran 99:2
+    chapter: 99
+    verse: 2
+    ordinal: 6140
+    text: And Earth yieldeth up her burdens,
+    translation: Pickthall
+    original: وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا
+    arabicPlain: وأخرجت الأرض أثقالها
+    surahName: Az-Zalzala
+    juz: 30
+    manzil: 7
+    ruku: 541
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '99'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '99:3'
+    scripture: quran
+    name: Quran 99:3
+    chapter: 99
+    verse: 3
+    ordinal: 6141
+    text: 'And man saith: What aileth her?'
+    translation: Pickthall
+    original: وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا
+    arabicPlain: وقال الإنسان ما لها
+    surahName: Az-Zalzala
+    juz: 30
+    manzil: 7
+    ruku: 541
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '99'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '99:4'
+    scripture: quran
+    name: Quran 99:4
+    chapter: 99
+    verse: 4
+    ordinal: 6142
+    text: That day she will relate her chronicles,
+    translation: Pickthall
+    original: يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
+    arabicPlain: يومئذ تحدث أخبارها
+    surahName: Az-Zalzala
+    juz: 30
+    manzil: 7
+    ruku: 541
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '99'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '99:5'
+    scripture: quran
+    name: Quran 99:5
+    chapter: 99
+    verse: 5
+    ordinal: 6143
+    text: Because thy Lord inspireth her.
+    translation: Pickthall
+    original: بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا
+    arabicPlain: بأن ربك أوحى لها
+    surahName: Az-Zalzala
+    juz: 30
+    manzil: 7
+    ruku: 541
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '99'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '99:6'
+    scripture: quran
+    name: Quran 99:6
+    chapter: 99
+    verse: 6
+    ordinal: 6144
+    text: That day mankind will issue forth in scattered groups to be shown their deeds.
+    translation: Pickthall
+    original: يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ
+    arabicPlain: يومئذ يصدر الناس أشتاتا ليروا أعمالهم
+    surahName: Az-Zalzala
+    juz: 30
+    manzil: 7
+    ruku: 541
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '99'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '99:7'
+    scripture: quran
+    name: Quran 99:7
+    chapter: 99
+    verse: 7
+    ordinal: 6145
+    text: And whoso doeth good an atom's weight will see it then,
+    translation: Pickthall
+    original: فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ
+    arabicPlain: فمن يعمل مثقال ذرة خيرا يره
+    surahName: Az-Zalzala
+    juz: 30
+    manzil: 7
+    ruku: 541
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '99'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '99:8'
+    scripture: quran
+    name: Quran 99:8
+    chapter: 99
+    verse: 8
+    ordinal: 6146
+    text: And whoso doeth ill an atom's weight will see it then.
+    translation: Pickthall
+    original: وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ
+    arabicPlain: ومن يعمل مثقال ذرة شرا يره
+    surahName: Az-Zalzala
+    juz: 30
+    manzil: 7
+    ruku: 541
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '99'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

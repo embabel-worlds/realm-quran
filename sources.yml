@@ -1,0 +1,33 @@
+# The Quran as searchable DOCUMENTS, beside the graph (realm spec: sources.yml, `lane: documents`).
+#
+# The graph answers "which ayat contain the word patience"; documents answer "which surahs are ABOUT
+# patience in hardship" — chunked, embedded, and reachable by document search and RELEVANT_TO. Both
+# are built from the same stored ayat, so a document's uri (`quran://pickthall/2`) is its surah's
+# `documentUri`.
+#
+# One document per SURAH, in English, because an embedding model is asked questions in English; the
+# Arabic is a walk away from any hit. Ayah numbers stay in the text, so a hit can be traced to its ayah.
+sources:
+  - name: quran-pickthall
+    lane: documents
+    from:
+      cypher: |
+        MATCH (s:Surah)<-[:IN]-(a:Ayah)
+        WITH s, a ORDER BY a.verse
+        WITH s, collect({n: a.verse, text: a.text}) AS ayat
+        RETURN s.documentUri AS uri, s.name AS name, s.meaning AS meaning, s.chapter AS number, ayat
+    document:
+      uri: "{{ uri }}"
+      title: "Surah {{ number }}, {{ name }} ({{ meaning }}) — Pickthall"
+      content: |
+        # Surah {{ number }}: {{ name }} ({{ meaning }})
+
+        {% for a in ayat %}{{ number }}:{{ a.n }} {{ a.text }}
+        {% endfor %}
+      sourceKind: quran
+      # `scripture` puts these surahs in the vocabulary's meaning search beside every other
+      # scripture's; a Surah's `documentUri` is this uri, which is how a hit walks back.
+      tags: [scripture, quran, pickthall]
+    sync:
+      trigger: on-install
+      prune: true

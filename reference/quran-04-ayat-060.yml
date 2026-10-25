@@ -1,0 +1,401 @@
+# Every ayah of Surah Al-Mumtahana (She that is to be examined): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '60:1'
+    scripture: quran
+    name: Quran 60:1
+    chapter: 60
+    verse: 1
+    ordinal: 5151
+    text: O ye who believe! Choose not My enemy and your enemy for allies. Do ye give them friendship when they disbelieve in that truth which hath come unto you, driving out the messenger and you because ye believe in Allah, your Lord? If ye have come forth to strive in My way and seeking My good pleasure, (show them not friendship). Do ye show friendship unto them in secret, when I am Best Aware of what ye hide and what ye proclaim? And whosoever doeth it among you, he verily hath strayed from the right way.
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ ٱلْحَقِّ يُخْرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا۟ بِٱللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَـٰدًا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى ۚ تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ ۚ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
+    arabicPlain: بسم الله الرحمن الرحيم يا أيها الذين آمنوا لا تتخذوا عدوي وعدوكم أولياء تلقون إليهم بالمودة وقد كفروا بما جاءكم من الحق يخرجون الرسول وإياكم ۙ أن تؤمنوا بالله ربكم إن كنتم خرجتم جهادا في سبيلي وابتغاء مرضاتي ۚ تسرون إليهم بالمودة وأنا أعلم بما أخفيتم وما أعلنتم ۚ ومن يفعله منكم فقد ضل سواء السبيل
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 482
+    page: 549
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '60:2'
+    scripture: quran
+    name: Quran 60:2
+    chapter: 60
+    verse: 2
+    ordinal: 5152
+    text: If they have the upper hand of you, they will be your foes, and will stretch out their hands and their tongues toward you with evil (intent), and they long for you to disbelieve.
+    translation: Pickthall
+    original: إِن يَثْقَفُوكُمْ يَكُونُوا۟ لَكُمْ أَعْدَآءً وَيَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّوا۟ لَوْ تَكْفُرُونَ
+    arabicPlain: إن يثقفوكم يكونوا لكم أعداء ويبسطوا إليكم أيديهم وألسنتهم بالسوء وودوا لو تكفرون
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 482
+    page: 549
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '60:3'
+    scripture: quran
+    name: Quran 60:3
+    chapter: 60
+    verse: 3
+    ordinal: 5153
+    text: Your ties of kindred and your children will avail you naught upon the Day of Resurrection. He will part you. Allah is Seer of what ye do.
+    translation: Pickthall
+    original: لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَـٰدُكُمْ ۚ يَوْمَ ٱلْقِيَـٰمَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+    arabicPlain: لن تنفعكم أرحامكم ولا أولادكم ۚ يوم القيامة يفصل بينكم ۚ والله بما تعملون بصير
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 482
+    page: 549
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '60:4'
+    scripture: quran
+    name: Quran 60:4
+    chapter: 60
+    verse: 4
+    ordinal: 5154
+    text: 'There is a goodly pattern for you in Abraham and those with him, when they told their folk: Lo! we are guiltless of you and all that ye worship beside Allah. We have done with you. And there hath arisen between us and you hostility and hate for ever until ye believe in Allah only - save that which Abraham promised his father (when he said): I will ask forgiveness for thee, though I own nothing for thee from Allah - Our Lord! In Thee we put our trust, and unto Thee we turn repentant, and unto Thee is the journeying.'
+    translation: Pickthall
+    original: قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍ ۖ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ
+    arabicPlain: قد كانت لكم أسوة حسنة في إبراهيم والذين معه إذ قالوا لقومهم إنا برآء منكم ومما تعبدون من دون الله كفرنا بكم وبدا بيننا وبينكم العداوة والبغضاء أبدا حتى تؤمنوا بالله وحده إلا قول إبراهيم لأبيه لأستغفرن لك وما أملك لك من الله من شيء ۖ ربنا عليك توكلنا وإليك أنبنا وإليك المصير
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 482
+    page: 549
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '60:5'
+    scripture: quran
+    name: Quran 60:5
+    chapter: 60
+    verse: 5
+    ordinal: 5155
+    text: Our Lord! Make us not a prey for those who disbelieve, and forgive us, our Lord! Lo! Thou, only Thou, are the Mighty, the Wise.
+    translation: Pickthall
+    original: رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ وَٱغْفِرْ لَنَا رَبَّنَآ ۖ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+    arabicPlain: ربنا لا تجعلنا فتنة للذين كفروا واغفر لنا ربنا ۖ إنك أنت العزيز الحكيم
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 482
+    page: 549
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '60:6'
+    scripture: quran
+    name: Quran 60:6
+    chapter: 60
+    verse: 6
+    ordinal: 5156
+    text: Verily ye have in them a goodly pattern for everyone who looketh to Allah and the Last Day. And whosoever may turn away, lo! still Allah, He is the Absolute, the Owner of Praise.
+    translation: Pickthall
+    original: لَقَدْ كَانَ لَكُمْ فِيهِمْ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ ۚ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
+    arabicPlain: لقد كان لكم فيهم أسوة حسنة لمن كان يرجو الله واليوم الآخر ۚ ومن يتول فإن الله هو الغني الحميد
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 482
+    page: 550
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '60:7'
+    scripture: quran
+    name: Quran 60:7
+    chapter: 60
+    verse: 7
+    ordinal: 5157
+    text: It may be that Allah will ordain love between you and those of them with whom ye are at enmity. Allah is Mighty, and Allah is Forgiving, Merciful.
+    translation: Pickthall
+    original: ۞ عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً ۚ وَٱللَّهُ قَدِيرٌ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+    arabicPlain: ۞ عسى الله أن يجعل بينكم وبين الذين عاديتم منهم مودة ۚ والله قدير ۚ والله غفور رحيم
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 483
+    page: 550
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '60:8'
+    scripture: quran
+    name: Quran 60:8
+    chapter: 60
+    verse: 8
+    ordinal: 5158
+    text: Allah forbiddeth you not those who warred not against you on account of religion and drove you not out from your homes, that ye should show them kindness and deal justly with them. Lo! Allah loveth the just dealers.
+    translation: Pickthall
+    original: لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَـٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَـٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ
+    arabicPlain: لا ينهاكم الله عن الذين لم يقاتلوكم في الدين ولم يخرجوكم من دياركم أن تبروهم وتقسطوا إليهم ۚ إن الله يحب المقسطين
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 483
+    page: 550
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '60:9'
+    scripture: quran
+    name: Quran 60:9
+    chapter: 60
+    verse: 9
+    ordinal: 5159
+    text: Allah forbiddeth you only those who warred against you on account of religion and have driven you out from your homes and helped to drive you out, that ye make friends of them. Whosoever maketh friends of them - (All) such are wrong-doers.
+    translation: Pickthall
+    original: إِنَّمَا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ قَـٰتَلُوكُمْ فِى ٱلدِّينِ وَأَخْرَجُوكُم مِّن دِيَـٰرِكُمْ وَظَـٰهَرُوا۟ عَلَىٰٓ إِخْرَاجِكُمْ أَن تَوَلَّوْهُمْ ۚ وَمَن يَتَوَلَّهُمْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ
+    arabicPlain: إنما ينهاكم الله عن الذين قاتلوكم في الدين وأخرجوكم من دياركم وظاهروا على إخراجكم أن تولوهم ۚ ومن يتولهم فأولئك هم الظالمون
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 483
+    page: 550
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '60:10'
+    scripture: quran
+    name: Quran 60:10
+    chapter: 60
+    verse: 10
+    ordinal: 5160
+    text: O ye who believe! When believing women come unto you as fugitives, examine them. Allah is Best Aware of their faith. Then, if ye know them for true believers, send them not back unto the disbelievers. They are not lawful for them (the disbelievers), nor are they (the disbelievers) lawful for them. And give them (the disbelievers) that which they have spent (upon them). And it is no sin for you to marry such women when ye have given them their dues. And hold not to the ties of disbelieving women; and ask for (the return of) that which ye have spent; and let them (the disbelievers) ask for that which they have spent. That is the judgment of Allah. He judgeth between you. Allah is Knower, Wise.
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا جَآءَكُمُ ٱلْمُؤْمِنَـٰتُ مُهَـٰجِرَٰتٍ فَٱمْتَحِنُوهُنَّ ۖ ٱللَّهُ أَعْلَمُ بِإِيمَـٰنِهِنَّ ۖ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَـٰتٍ فَلَا تَرْجِعُوهُنَّ إِلَى ٱلْكُفَّارِ ۖ لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ ۖ وَءَاتُوهُم مَّآ أَنفَقُوا۟ ۚ وَلَا جُنَاحَ عَلَيْكُمْ أَن تَنكِحُوهُنَّ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ ۚ وَلَا تُمْسِكُوا۟ بِعِصَمِ ٱلْكَوَافِرِ وَسْـَٔلُوا۟ مَآ أَنفَقْتُمْ وَلْيَسْـَٔلُوا۟ مَآ أَنفَقُوا۟ ۚ ذَٰلِكُمْ حُكْمُ ٱللَّهِ ۖ يَحْكُمُ بَيْنَكُمْ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+    arabicPlain: يا أيها الذين آمنوا إذا جاءكم المؤمنات مهاجرات فامتحنوهن ۖ الله أعلم بإيمانهن ۖ فإن علمتموهن مؤمنات فلا ترجعوهن إلى الكفار ۖ لا هن حل لهم ولا هم يحلون لهن ۖ وآتوهم ما أنفقوا ۚ ولا جناح عليكم أن تنكحوهن إذا آتيتموهن أجورهن ۚ ولا تمسكوا بعصم الكوافر واسألوا ما أنفقتم وليسألوا ما أنفقوا ۚ ذلكم حكم الله ۖ يحكم بينكم ۚ والله عليم حكيم
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 483
+    page: 550
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '60:11'
+    scripture: quran
+    name: Quran 60:11
+    chapter: 60
+    verse: 11
+    ordinal: 5161
+    text: And if any of your wives have gone from you unto the disbelievers and afterward ye have your turn (of triumph), then give unto those whose wives have gone the like of that which they have spent, and keep your duty to Allah in Whom ye are believers.
+    translation: Pickthall
+    original: وَإِن فَاتَكُمْ شَىْءٌ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ
+    arabicPlain: وإن فاتكم شيء من أزواجكم إلى الكفار فعاقبتم فآتوا الذين ذهبت أزواجهم مثل ما أنفقوا ۚ واتقوا الله الذي أنتم به مؤمنون
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 483
+    page: 550
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '60:12'
+    scripture: quran
+    name: Quran 60:12
+    chapter: 60
+    verse: 12
+    ordinal: 5162
+    text: O Prophet! If believing women come unto thee, taking oath of allegiance unto thee that they will ascribe no thing as partner unto Allah, and will neither steal nor commit adultery nor kill their children, nor produce any lie that they have devised between their hands and feet, nor disobey thee in what is right, then accept their allegiance and ask Allah to forgive them. Lo! Allah is Forgiving, Merciful.
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+    arabicPlain: يا أيها النبي إذا جاءك المؤمنات يبايعنك على أن لا يشركن بالله شيئا ولا يسرقن ولا يزنين ولا يقتلن أولادهن ولا يأتين ببهتان يفترينه بين أيديهن وأرجلهن ولا يعصينك في معروف ۙ فبايعهن واستغفر لهن الله ۖ إن الله غفور رحيم
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 483
+    page: 551
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '60:13'
+    scripture: quran
+    name: Quran 60:13
+    chapter: 60
+    verse: 13
+    ordinal: 5163
+    text: O ye who believe! Be not friendly with a folk with whom Allah is wroth, (a folk) who have despaired of the Hereafter as the disbelievers despair of those who are in the graves.
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا۟ مِنَ ٱلْـَٔاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَـٰبِ ٱلْقُبُورِ
+    arabicPlain: يا أيها الذين آمنوا لا تتولوا قوما غضب الله عليهم قد يئسوا من الآخرة كما يئس الكفار من أصحاب القبور
+    surahName: Al-Mumtahana
+    juz: 28
+    manzil: 7
+    ruku: 483
+    page: 551
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '60'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28

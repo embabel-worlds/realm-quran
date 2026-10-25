@@ -1,0 +1,245 @@
+# Every ayah of Surah Al-Faatiha (The Opening): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '1:1'
+    scripture: quran
+    name: Quran 1:1
+    chapter: 1
+    verse: 1
+    ordinal: 1
+    text: In the name of Allah, the Beneficent, the Merciful.
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
+    arabicPlain: بسم الله الرحمن الرحيم
+    surahName: Al-Faatiha
+    juz: 1
+    manzil: 1
+    ruku: 1
+    page: 1
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '1'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-1
+- type: Ayah
+  data:
+    ref: '1:2'
+    scripture: quran
+    name: Quran 1:2
+    chapter: 1
+    verse: 2
+    ordinal: 2
+    text: Praise be to Allah, Lord of the Worlds,
+    translation: Pickthall
+    original: ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ
+    arabicPlain: الحمد لله رب العالمين
+    surahName: Al-Faatiha
+    juz: 1
+    manzil: 1
+    ruku: 1
+    page: 1
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '1'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-1
+- type: Ayah
+  data:
+    ref: '1:3'
+    scripture: quran
+    name: Quran 1:3
+    chapter: 1
+    verse: 3
+    ordinal: 3
+    text: The Beneficent, the Merciful.
+    translation: Pickthall
+    original: ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
+    arabicPlain: الرحمن الرحيم
+    surahName: Al-Faatiha
+    juz: 1
+    manzil: 1
+    ruku: 1
+    page: 1
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '1'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-1
+- type: Ayah
+  data:
+    ref: '1:4'
+    scripture: quran
+    name: Quran 1:4
+    chapter: 1
+    verse: 4
+    ordinal: 4
+    text: Master of the Day of Judgment,
+    translation: Pickthall
+    original: مَـٰلِكِ يَوْمِ ٱلدِّينِ
+    arabicPlain: مالك يوم الدين
+    surahName: Al-Faatiha
+    juz: 1
+    manzil: 1
+    ruku: 1
+    page: 1
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '1'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-1
+- type: Ayah
+  data:
+    ref: '1:5'
+    scripture: quran
+    name: Quran 1:5
+    chapter: 1
+    verse: 5
+    ordinal: 5
+    text: Thee (alone) we worship; Thee (alone) we ask for help.
+    translation: Pickthall
+    original: إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+    arabicPlain: إياك نعبد وإياك نستعين
+    surahName: Al-Faatiha
+    juz: 1
+    manzil: 1
+    ruku: 1
+    page: 1
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '1'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-1
+- type: Ayah
+  data:
+    ref: '1:6'
+    scripture: quran
+    name: Quran 1:6
+    chapter: 1
+    verse: 6
+    ordinal: 6
+    text: Show us the straight path,
+    translation: Pickthall
+    original: ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
+    arabicPlain: اهدنا الصراط المستقيم
+    surahName: Al-Faatiha
+    juz: 1
+    manzil: 1
+    ruku: 1
+    page: 1
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '1'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-1
+- type: Ayah
+  data:
+    ref: '1:7'
+    scripture: quran
+    name: Quran 1:7
+    chapter: 1
+    verse: 7
+    ordinal: 7
+    text: The path of those whom Thou hast favoured; Not the (path) of those who earn Thine anger nor of those who go astray.
+    translation: Pickthall
+    original: صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ
+    arabicPlain: صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين
+    surahName: Al-Faatiha
+    juz: 1
+    manzil: 1
+    ruku: 1
+    page: 1
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '1'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-1

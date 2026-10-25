@@ -1,0 +1,427 @@
+# Every ayah of Surah As-Saff (The Ranks): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '61:1'
+    scripture: quran
+    name: Quran 61:1
+    chapter: 61
+    verse: 1
+    ordinal: 5164
+    text: All that is in the heavens and all that is in the earth glorifieth Allah, and He is the Mighty, the Wise.
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+    arabicPlain: بسم الله الرحمن الرحيم سبح لله ما في السماوات وما في الأرض ۖ وهو العزيز الحكيم
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 484
+    page: 551
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:2'
+    scripture: quran
+    name: Quran 61:2
+    chapter: 61
+    verse: 2
+    ordinal: 5165
+    text: O ye who believe! Why say ye that which ye do not?
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ
+    arabicPlain: يا أيها الذين آمنوا لم تقولون ما لا تفعلون
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 484
+    page: 551
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:3'
+    scripture: quran
+    name: Quran 61:3
+    chapter: 61
+    verse: 3
+    ordinal: 5166
+    text: It is most hateful in the sight of Allah that ye say that which ye do not.
+    translation: Pickthall
+    original: كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ
+    arabicPlain: كبر مقتا عند الله أن تقولوا ما لا تفعلون
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 484
+    page: 551
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:4'
+    scripture: quran
+    name: Quran 61:4
+    chapter: 61
+    verse: 4
+    ordinal: 5167
+    text: Lo! Allah loveth them who battle for His cause in ranks, as if they were a solid structure.
+    translation: Pickthall
+    original: إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَـٰنٌ مَّرْصُوصٌ
+    arabicPlain: إن الله يحب الذين يقاتلون في سبيله صفا كأنهم بنيان مرصوص
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 484
+    page: 551
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:5'
+    scripture: quran
+    name: Quran 61:5
+    chapter: 61
+    verse: 5
+    ordinal: 5168
+    text: 'And (remember) when Moses said unto his people: O my people! Why persecute ye me, when ye well know that I am Allah''s messenger unto you? So when they went astray Allah sent their hearts astray. And Allah guideth not the evil-living folk.'
+    translation: Pickthall
+    original: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ
+    arabicPlain: وإذ قال موسى لقومه يا قوم لم تؤذونني وقد تعلمون أني رسول الله إليكم ۖ فلما زاغوا أزاغ الله قلوبهم ۚ والله لا يهدي القوم الفاسقين
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 484
+    page: 551
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:6'
+    scripture: quran
+    name: Quran 61:6
+    chapter: 61
+    verse: 6
+    ordinal: 5169
+    text: 'And when Jesus son of Mary said: O Children of Israel! Lo! I am the messenger of Allah unto you, confirming that which was (revealed) before me in the Torah, and bringing good tidings of a messenger who cometh after me, whose name is the Praised One. Yet when he hath come unto them with clear proofs, they say: This is mere magic.'
+    translation: Pickthall
+    original: وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌ مُّبِينٌ
+    arabicPlain: وإذ قال عيسى ابن مريم يا بني إسرائيل إني رسول الله إليكم مصدقا لما بين يدي من التوراة ومبشرا برسول يأتي من بعدي اسمه أحمد ۖ فلما جاءهم بالبينات قالوا هذا سحر مبين
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 484
+    page: 552
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:7'
+    scripture: quran
+    name: Quran 61:7
+    chapter: 61
+    verse: 7
+    ordinal: 5170
+    text: And who doeth greater wrong than he who inventeth a lie against Allah when he is summoned unto Al-Islam? And Allah guideth not wrongdoing folk.
+    translation: Pickthall
+    original: وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُوَ يُدْعَىٰٓ إِلَى ٱلْإِسْلَـٰمِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ
+    arabicPlain: ومن أظلم ممن افترى على الله الكذب وهو يدعى إلى الإسلام ۚ والله لا يهدي القوم الظالمين
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 484
+    page: 552
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:8'
+    scripture: quran
+    name: Quran 61:8
+    chapter: 61
+    verse: 8
+    ordinal: 5171
+    text: Fain would they put out the light of Allah with their mouths, but Allah will perfect His light however much the disbelievers are averse.
+    translation: Pickthall
+    original: يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ
+    arabicPlain: يريدون ليطفئوا نور الله بأفواههم والله متم نوره ولو كره الكافرون
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 484
+    page: 552
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:9'
+    scripture: quran
+    name: Quran 61:9
+    chapter: 61
+    verse: 9
+    ordinal: 5172
+    text: He it is Who hath sent His messenger with the guidance and the religion of truth, that He may make it conqueror of all religion however much idolaters may be averse.
+    translation: Pickthall
+    original: هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ
+    arabicPlain: هو الذي أرسل رسوله بالهدى ودين الحق ليظهره على الدين كله ولو كره المشركون
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 484
+    page: 552
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:10'
+    scripture: quran
+    name: Quran 61:10
+    chapter: 61
+    verse: 10
+    ordinal: 5173
+    text: O ye who believe! Shall I show you a commerce that will save you from a painful doom?
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ هَلْ أَدُلُّكُمْ عَلَىٰ تِجَـٰرَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ
+    arabicPlain: يا أيها الذين آمنوا هل أدلكم على تجارة تنجيكم من عذاب أليم
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 485
+    page: 552
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:11'
+    scripture: quran
+    name: Quran 61:11
+    chapter: 61
+    verse: 11
+    ordinal: 5174
+    text: Ye should believe in Allah and His messenger, and should strive for the cause of Allah with your wealth and your lives. That is better for you, if ye did but know.
+    translation: Pickthall
+    original: تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
+    arabicPlain: تؤمنون بالله ورسوله وتجاهدون في سبيل الله بأموالكم وأنفسكم ۚ ذلكم خير لكم إن كنتم تعلمون
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 485
+    page: 552
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:12'
+    scripture: quran
+    name: Quran 61:12
+    chapter: 61
+    verse: 12
+    ordinal: 5175
+    text: He will forgive you your sins and bring you into Gardens underneath which rivers flow, and pleasant dwellings in Gardens of Eden. That is the supreme triumph.
+    translation: Pickthall
+    original: يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَمَسَـٰكِنَ طَيِّبَةً فِى جَنَّـٰتِ عَدْنٍ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ
+    arabicPlain: يغفر لكم ذنوبكم ويدخلكم جنات تجري من تحتها الأنهار ومساكن طيبة في جنات عدن ۚ ذلك الفوز العظيم
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 485
+    page: 552
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:13'
+    scripture: quran
+    name: Quran 61:13
+    chapter: 61
+    verse: 13
+    ordinal: 5176
+    text: 'And (He will give you) another (blessing) which ye love: help from Allah and present victory. Give good tidings (O Muhammad) to believers.'
+    translation: Pickthall
+    original: وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌ مِّنَ ٱللَّهِ وَفَتْحٌ قَرِيبٌ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
+    arabicPlain: وأخرى تحبونها ۖ نصر من الله وفتح قريب ۗ وبشر المؤمنين
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 485
+    page: 552
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28
+- type: Ayah
+  data:
+    ref: '61:14'
+    scripture: quran
+    name: Quran 61:14
+    chapter: 61
+    verse: 14
+    ordinal: 5177
+    text: 'O ye who believe! Be Allah''s helpers, even as Jesus son of Mary said unto the disciples: Who are my helpers for Allah? They said: We are Allah''s helpers. And a party of the Children of Israel believed, while a party disbelieved. Then We strengthened those who believed against their foe, and they became the uppermost.'
+    translation: Pickthall
+    original: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ
+    arabicPlain: يا أيها الذين آمنوا كونوا أنصار الله كما قال عيسى ابن مريم للحواريين من أنصاري إلى الله ۖ قال الحواريون نحن أنصار الله ۖ فآمنت طائفة من بني إسرائيل وكفرت طائفة ۖ فأيدنا الذين آمنوا على عدوهم فأصبحوا ظاهرين
+    surahName: As-Saff
+    juz: 28
+    manzil: 7
+    ruku: 485
+    page: 552
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '61'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-28

@@ -1,0 +1,2091 @@
+# Every ayah of Surah Ar-Rahmaan (The Beneficent): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '55:1'
+    scripture: quran
+    name: Quran 55:1
+    chapter: 55
+    verse: 1
+    ordinal: 4902
+    text: The Beneficent
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلرَّحْمَـٰنُ
+    arabicPlain: بسم الله الرحمن الرحيم الرحمن
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:2'
+    scripture: quran
+    name: Quran 55:2
+    chapter: 55
+    verse: 2
+    ordinal: 4903
+    text: Hath made known the Qur'an.
+    translation: Pickthall
+    original: عَلَّمَ ٱلْقُرْءَانَ
+    arabicPlain: علم القرآن
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:3'
+    scripture: quran
+    name: Quran 55:3
+    chapter: 55
+    verse: 3
+    ordinal: 4904
+    text: He hath created man.
+    translation: Pickthall
+    original: خَلَقَ ٱلْإِنسَـٰنَ
+    arabicPlain: خلق الإنسان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:4'
+    scripture: quran
+    name: Quran 55:4
+    chapter: 55
+    verse: 4
+    ordinal: 4905
+    text: He hath taught him utterance.
+    translation: Pickthall
+    original: عَلَّمَهُ ٱلْبَيَانَ
+    arabicPlain: علمه البيان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:5'
+    scripture: quran
+    name: Quran 55:5
+    chapter: 55
+    verse: 5
+    ordinal: 4906
+    text: The sun and the moon are made punctual.
+    translation: Pickthall
+    original: ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ
+    arabicPlain: الشمس والقمر بحسبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:6'
+    scripture: quran
+    name: Quran 55:6
+    chapter: 55
+    verse: 6
+    ordinal: 4907
+    text: The stars and the trees prostrate.
+    translation: Pickthall
+    original: وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
+    arabicPlain: والنجم والشجر يسجدان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:7'
+    scripture: quran
+    name: Quran 55:7
+    chapter: 55
+    verse: 7
+    ordinal: 4908
+    text: And the sky He hath uplifted; and He hath set the measure,
+    translation: Pickthall
+    original: وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ
+    arabicPlain: والسماء رفعها ووضع الميزان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:8'
+    scripture: quran
+    name: Quran 55:8
+    chapter: 55
+    verse: 8
+    ordinal: 4909
+    text: That ye exceed not the measure,
+    translation: Pickthall
+    original: أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ
+    arabicPlain: ألا تطغوا في الميزان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:9'
+    scripture: quran
+    name: Quran 55:9
+    chapter: 55
+    verse: 9
+    ordinal: 4910
+    text: But observe the measure strictly, nor fall short thereof.
+    translation: Pickthall
+    original: وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
+    arabicPlain: وأقيموا الوزن بالقسط ولا تخسروا الميزان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:10'
+    scripture: quran
+    name: Quran 55:10
+    chapter: 55
+    verse: 10
+    ordinal: 4911
+    text: And the earth hath He appointed for (His) creatures,
+    translation: Pickthall
+    original: وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ
+    arabicPlain: والأرض وضعها للأنام
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:11'
+    scripture: quran
+    name: Quran 55:11
+    chapter: 55
+    verse: 11
+    ordinal: 4912
+    text: Wherein are fruit and sheathed palm-trees,
+    translation: Pickthall
+    original: فِيهَا فَـٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ
+    arabicPlain: فيها فاكهة والنخل ذات الأكمام
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:12'
+    scripture: quran
+    name: Quran 55:12
+    chapter: 55
+    verse: 12
+    ordinal: 4913
+    text: Husked grain and scented herb.
+    translation: Pickthall
+    original: وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ
+    arabicPlain: والحب ذو العصف والريحان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:13'
+    scripture: quran
+    name: Quran 55:13
+    chapter: 55
+    verse: 13
+    ordinal: 4914
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:14'
+    scripture: quran
+    name: Quran 55:14
+    chapter: 55
+    verse: 14
+    ordinal: 4915
+    text: He created man of clay like the potter's,
+    translation: Pickthall
+    original: خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ
+    arabicPlain: خلق الإنسان من صلصال كالفخار
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:15'
+    scripture: quran
+    name: Quran 55:15
+    chapter: 55
+    verse: 15
+    ordinal: 4916
+    text: And the jinn did He create of smokeless fire.
+    translation: Pickthall
+    original: وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ
+    arabicPlain: وخلق الجان من مارج من نار
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:16'
+    scripture: quran
+    name: Quran 55:16
+    chapter: 55
+    verse: 16
+    ordinal: 4917
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 531
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:17'
+    scripture: quran
+    name: Quran 55:17
+    chapter: 55
+    verse: 17
+    ordinal: 4918
+    text: Lord of the two Easts, and Lord of the two Wests!
+    translation: Pickthall
+    original: رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ
+    arabicPlain: رب المشرقين ورب المغربين
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:18'
+    scripture: quran
+    name: Quran 55:18
+    chapter: 55
+    verse: 18
+    ordinal: 4919
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:19'
+    scripture: quran
+    name: Quran 55:19
+    chapter: 55
+    verse: 19
+    ordinal: 4920
+    text: He hath loosed the two seas. They meet.
+    translation: Pickthall
+    original: مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ
+    arabicPlain: مرج البحرين يلتقيان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:20'
+    scripture: quran
+    name: Quran 55:20
+    chapter: 55
+    verse: 20
+    ordinal: 4921
+    text: There is a barrier between them. They encroach not (one upon the other).
+    translation: Pickthall
+    original: بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ
+    arabicPlain: بينهما برزخ لا يبغيان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:21'
+    scripture: quran
+    name: Quran 55:21
+    chapter: 55
+    verse: 21
+    ordinal: 4922
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:22'
+    scripture: quran
+    name: Quran 55:22
+    chapter: 55
+    verse: 22
+    ordinal: 4923
+    text: There cometh forth from both of them the pearl and coral-stone.
+    translation: Pickthall
+    original: يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ
+    arabicPlain: يخرج منهما اللؤلؤ والمرجان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:23'
+    scripture: quran
+    name: Quran 55:23
+    chapter: 55
+    verse: 23
+    ordinal: 4924
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:24'
+    scripture: quran
+    name: Quran 55:24
+    chapter: 55
+    verse: 24
+    ordinal: 4925
+    text: His are the ships displayed upon the sea, like banners.
+    translation: Pickthall
+    original: وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ
+    arabicPlain: وله الجوار المنشآت في البحر كالأعلام
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:25'
+    scripture: quran
+    name: Quran 55:25
+    chapter: 55
+    verse: 25
+    ordinal: 4926
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 466
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:26'
+    scripture: quran
+    name: Quran 55:26
+    chapter: 55
+    verse: 26
+    ordinal: 4927
+    text: Everyone that is thereon will pass away;
+    translation: Pickthall
+    original: كُلُّ مَنْ عَلَيْهَا فَانٍ
+    arabicPlain: كل من عليها فان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:27'
+    scripture: quran
+    name: Quran 55:27
+    chapter: 55
+    verse: 27
+    ordinal: 4928
+    text: There remaineth but the Countenance of thy Lord of Might and Glory.
+    translation: Pickthall
+    original: وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ
+    arabicPlain: ويبقى وجه ربك ذو الجلال والإكرام
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:28'
+    scripture: quran
+    name: Quran 55:28
+    chapter: 55
+    verse: 28
+    ordinal: 4929
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:29'
+    scripture: quran
+    name: Quran 55:29
+    chapter: 55
+    verse: 29
+    ordinal: 4930
+    text: All that are in the heavens and the earth entreat Him. Every day He exerciseth (universal) power.
+    translation: Pickthall
+    original: يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ
+    arabicPlain: يسأله من في السماوات والأرض ۚ كل يوم هو في شأن
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:30'
+    scripture: quran
+    name: Quran 55:30
+    chapter: 55
+    verse: 30
+    ordinal: 4931
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:31'
+    scripture: quran
+    name: Quran 55:31
+    chapter: 55
+    verse: 31
+    ordinal: 4932
+    text: We shall dispose of you, O ye two dependents (man and jinn).
+    translation: Pickthall
+    original: سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ
+    arabicPlain: سنفرغ لكم أيه الثقلان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:32'
+    scripture: quran
+    name: Quran 55:32
+    chapter: 55
+    verse: 32
+    ordinal: 4933
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:33'
+    scripture: quran
+    name: Quran 55:33
+    chapter: 55
+    verse: 33
+    ordinal: 4934
+    text: O company of jinn and men, if ye have power to penetrate (all) regions of the heavens and the earth, then penetrate (them)! Ye will never penetrate them save with (Our) sanction.
+    translation: Pickthall
+    original: يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍ
+    arabicPlain: يا معشر الجن والإنس إن استطعتم أن تنفذوا من أقطار السماوات والأرض فانفذوا ۚ لا تنفذون إلا بسلطان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:34'
+    scripture: quran
+    name: Quran 55:34
+    chapter: 55
+    verse: 34
+    ordinal: 4935
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:35'
+    scripture: quran
+    name: Quran 55:35
+    chapter: 55
+    verse: 35
+    ordinal: 4936
+    text: There will be sent, against you both, heat of fire and flash of brass, and ye will not escape.
+    translation: Pickthall
+    original: يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ
+    arabicPlain: يرسل عليكما شواظ من نار ونحاس فلا تنتصران
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:36'
+    scripture: quran
+    name: Quran 55:36
+    chapter: 55
+    verse: 36
+    ordinal: 4937
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:37'
+    scripture: quran
+    name: Quran 55:37
+    chapter: 55
+    verse: 37
+    ordinal: 4938
+    text: And when the heaven splitteth asunder and becometh rosy like red hide -
+    translation: Pickthall
+    original: فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ
+    arabicPlain: فإذا انشقت السماء فكانت وردة كالدهان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:38'
+    scripture: quran
+    name: Quran 55:38
+    chapter: 55
+    verse: 38
+    ordinal: 4939
+    text: Which is it, of the favours of your Lord, that ye deny? -
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:39'
+    scripture: quran
+    name: Quran 55:39
+    chapter: 55
+    verse: 39
+    ordinal: 4940
+    text: On that day neither man nor jinni will be questioned of his sin.
+    translation: Pickthall
+    original: فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ
+    arabicPlain: فيومئذ لا يسأل عن ذنبه إنس ولا جان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:40'
+    scripture: quran
+    name: Quran 55:40
+    chapter: 55
+    verse: 40
+    ordinal: 4941
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 532
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:41'
+    scripture: quran
+    name: Quran 55:41
+    chapter: 55
+    verse: 41
+    ordinal: 4942
+    text: The guilty will be known by their marks, and will be taken by the forelocks and the feet.
+    translation: Pickthall
+    original: يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ
+    arabicPlain: يعرف المجرمون بسيماهم فيؤخذ بالنواصي والأقدام
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:42'
+    scripture: quran
+    name: Quran 55:42
+    chapter: 55
+    verse: 42
+    ordinal: 4943
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:43'
+    scripture: quran
+    name: Quran 55:43
+    chapter: 55
+    verse: 43
+    ordinal: 4944
+    text: This is hell which the guilty deny.
+    translation: Pickthall
+    original: هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ
+    arabicPlain: هذه جهنم التي يكذب بها المجرمون
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:44'
+    scripture: quran
+    name: Quran 55:44
+    chapter: 55
+    verse: 44
+    ordinal: 4945
+    text: They go circling round between it and fierce, boiling water.
+    translation: Pickthall
+    original: يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ
+    arabicPlain: يطوفون بينها وبين حميم آن
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:45'
+    scripture: quran
+    name: Quran 55:45
+    chapter: 55
+    verse: 45
+    ordinal: 4946
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 467
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:46'
+    scripture: quran
+    name: Quran 55:46
+    chapter: 55
+    verse: 46
+    ordinal: 4947
+    text: But for him who feareth the standing before his Lord there are two gardens.
+    translation: Pickthall
+    original: وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ
+    arabicPlain: ولمن خاف مقام ربه جنتان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:47'
+    scripture: quran
+    name: Quran 55:47
+    chapter: 55
+    verse: 47
+    ordinal: 4948
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:48'
+    scripture: quran
+    name: Quran 55:48
+    chapter: 55
+    verse: 48
+    ordinal: 4949
+    text: Of spreading branches.
+    translation: Pickthall
+    original: ذَوَاتَآ أَفْنَانٍ
+    arabicPlain: ذواتا أفنان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:49'
+    scripture: quran
+    name: Quran 55:49
+    chapter: 55
+    verse: 49
+    ordinal: 4950
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:50'
+    scripture: quran
+    name: Quran 55:50
+    chapter: 55
+    verse: 50
+    ordinal: 4951
+    text: Wherein are two fountains flowing.
+    translation: Pickthall
+    original: فِيهِمَا عَيْنَانِ تَجْرِيَانِ
+    arabicPlain: فيهما عينان تجريان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:51'
+    scripture: quran
+    name: Quran 55:51
+    chapter: 55
+    verse: 51
+    ordinal: 4952
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:52'
+    scripture: quran
+    name: Quran 55:52
+    chapter: 55
+    verse: 52
+    ordinal: 4953
+    text: Wherein is every kind of fruit in pairs.
+    translation: Pickthall
+    original: فِيهِمَا مِن كُلِّ فَـٰكِهَةٍ زَوْجَانِ
+    arabicPlain: فيهما من كل فاكهة زوجان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:53'
+    scripture: quran
+    name: Quran 55:53
+    chapter: 55
+    verse: 53
+    ordinal: 4954
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:54'
+    scripture: quran
+    name: Quran 55:54
+    chapter: 55
+    verse: 54
+    ordinal: 4955
+    text: Reclining upon couches lined with silk brocade, the fruit of both the gardens near to hand.
+    translation: Pickthall
+    original: مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ
+    arabicPlain: متكئين على فرش بطائنها من إستبرق ۚ وجنى الجنتين دان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:55'
+    scripture: quran
+    name: Quran 55:55
+    chapter: 55
+    verse: 55
+    ordinal: 4956
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:56'
+    scripture: quran
+    name: Quran 55:56
+    chapter: 55
+    verse: 56
+    ordinal: 4957
+    text: Therein are those of modest gaze, whom neither man nor jinni will have touched before them.
+    translation: Pickthall
+    original: فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ
+    arabicPlain: فيهن قاصرات الطرف لم يطمثهن إنس قبلهم ولا جان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:57'
+    scripture: quran
+    name: Quran 55:57
+    chapter: 55
+    verse: 57
+    ordinal: 4958
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:58'
+    scripture: quran
+    name: Quran 55:58
+    chapter: 55
+    verse: 58
+    ordinal: 4959
+    text: (In beauty) like the jacynth and the coral-stone.
+    translation: Pickthall
+    original: كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ
+    arabicPlain: كأنهن الياقوت والمرجان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '55:59'
+    scripture: quran
+    name: Quran 55:59
+    chapter: 55
+    verse: 59
+    ordinal: 4960
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:60
+    scripture: quran
+    name: Quran 55:60
+    chapter: 55
+    verse: 60
+    ordinal: 4961
+    text: Is the reward of goodness aught save goodness?
+    translation: Pickthall
+    original: هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ
+    arabicPlain: هل جزاء الإحسان إلا الإحسان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:61
+    scripture: quran
+    name: Quran 55:61
+    chapter: 55
+    verse: 61
+    ordinal: 4962
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:62
+    scripture: quran
+    name: Quran 55:62
+    chapter: 55
+    verse: 62
+    ordinal: 4963
+    text: And beside them are two other gardens,
+    translation: Pickthall
+    original: وَمِن دُونِهِمَا جَنَّتَانِ
+    arabicPlain: ومن دونهما جنتان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:63
+    scripture: quran
+    name: Quran 55:63
+    chapter: 55
+    verse: 63
+    ordinal: 4964
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:64
+    scripture: quran
+    name: Quran 55:64
+    chapter: 55
+    verse: 64
+    ordinal: 4965
+    text: Dark green with foliage.
+    translation: Pickthall
+    original: مُدْهَآمَّتَانِ
+    arabicPlain: مدهامتان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:65
+    scripture: quran
+    name: Quran 55:65
+    chapter: 55
+    verse: 65
+    ordinal: 4966
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:66
+    scripture: quran
+    name: Quran 55:66
+    chapter: 55
+    verse: 66
+    ordinal: 4967
+    text: Wherein are two abundant springs.
+    translation: Pickthall
+    original: فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ
+    arabicPlain: فيهما عينان نضاختان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:67
+    scripture: quran
+    name: Quran 55:67
+    chapter: 55
+    verse: 67
+    ordinal: 4968
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 533
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:68
+    scripture: quran
+    name: Quran 55:68
+    chapter: 55
+    verse: 68
+    ordinal: 4969
+    text: Wherein is fruit, the date-palm and pomegranate.
+    translation: Pickthall
+    original: فِيهِمَا فَـٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ
+    arabicPlain: فيهما فاكهة ونخل ورمان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:69
+    scripture: quran
+    name: Quran 55:69
+    chapter: 55
+    verse: 69
+    ordinal: 4970
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:70
+    scripture: quran
+    name: Quran 55:70
+    chapter: 55
+    verse: 70
+    ordinal: 4971
+    text: Wherein (are found) the good and beautiful -
+    translation: Pickthall
+    original: فِيهِنَّ خَيْرَٰتٌ حِسَانٌ
+    arabicPlain: فيهن خيرات حسان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:71
+    scripture: quran
+    name: Quran 55:71
+    chapter: 55
+    verse: 71
+    ordinal: 4972
+    text: Which is it, of the favours of your Lord, that ye deny? -
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:72
+    scripture: quran
+    name: Quran 55:72
+    chapter: 55
+    verse: 72
+    ordinal: 4973
+    text: Fair ones, close-guarded in pavilions -
+    translation: Pickthall
+    original: حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ
+    arabicPlain: حور مقصورات في الخيام
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:73
+    scripture: quran
+    name: Quran 55:73
+    chapter: 55
+    verse: 73
+    ordinal: 4974
+    text: Which is it, of the favours of your Lord, that ye deny? -
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:74
+    scripture: quran
+    name: Quran 55:74
+    chapter: 55
+    verse: 74
+    ordinal: 4975
+    text: Whom neither man nor jinni will have touched before them -
+    translation: Pickthall
+    original: لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ
+    arabicPlain: لم يطمثهن إنس قبلهم ولا جان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:75
+    scripture: quran
+    name: Quran 55:75
+    chapter: 55
+    verse: 75
+    ordinal: 4976
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:76
+    scripture: quran
+    name: Quran 55:76
+    chapter: 55
+    verse: 76
+    ordinal: 4977
+    text: Reclining on green cushions and fair carpets.
+    translation: Pickthall
+    original: مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ
+    arabicPlain: متكئين على رفرف خضر وعبقري حسان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:77
+    scripture: quran
+    name: Quran 55:77
+    chapter: 55
+    verse: 77
+    ordinal: 4978
+    text: Which is it, of the favours of your Lord, that ye deny?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    arabicPlain: فبأي آلاء ربكما تكذبان
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 55:78
+    scripture: quran
+    name: Quran 55:78
+    chapter: 55
+    verse: 78
+    ordinal: 4979
+    text: Blessed be the name of thy Lord, Mighty and glorious!
+    translation: Pickthall
+    original: تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ
+    arabicPlain: تبارك اسم ربك ذي الجلال والإكرام
+    surahName: Ar-Rahmaan
+    juz: 27
+    manzil: 7
+    ruku: 468
+    page: 534
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '55'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27

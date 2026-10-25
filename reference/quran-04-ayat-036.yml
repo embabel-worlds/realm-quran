@@ -1,0 +1,2221 @@
+# Every ayah of Surah Yaseen (Yaseen): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '36:1'
+    scripture: quran
+    name: Quran 36:1
+    chapter: 36
+    verse: 1
+    ordinal: 3706
+    text: Ya Sin.
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يسٓ
+    arabicPlain: بسم الله الرحمن الرحيم يس
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 381
+    page: 440
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:2'
+    scripture: quran
+    name: Quran 36:2
+    chapter: 36
+    verse: 2
+    ordinal: 3707
+    text: By the wise Qur'an,
+    translation: Pickthall
+    original: وَٱلْقُرْءَانِ ٱلْحَكِيمِ
+    arabicPlain: والقرآن الحكيم
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 381
+    page: 440
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:3'
+    scripture: quran
+    name: Quran 36:3
+    chapter: 36
+    verse: 3
+    ordinal: 3708
+    text: Lo! thou art of those sent
+    translation: Pickthall
+    original: إِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ
+    arabicPlain: إنك لمن المرسلين
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 381
+    page: 440
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:4'
+    scripture: quran
+    name: Quran 36:4
+    chapter: 36
+    verse: 4
+    ordinal: 3709
+    text: On a straight path,
+    translation: Pickthall
+    original: عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+    arabicPlain: على صراط مستقيم
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 381
+    page: 440
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:5'
+    scripture: quran
+    name: Quran 36:5
+    chapter: 36
+    verse: 5
+    ordinal: 3710
+    text: A revelation of the Mighty, the Merciful,
+    translation: Pickthall
+    original: تَنزِيلَ ٱلْعَزِيزِ ٱلرَّحِيمِ
+    arabicPlain: تنزيل العزيز الرحيم
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 381
+    page: 440
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:6'
+    scripture: quran
+    name: Quran 36:6
+    chapter: 36
+    verse: 6
+    ordinal: 3711
+    text: That thou mayst warn a folk whose fathers were not warned, so they are heedless.
+    translation: Pickthall
+    original: لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَـٰفِلُونَ
+    arabicPlain: لتنذر قوما ما أنذر آباؤهم فهم غافلون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 381
+    page: 440
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:7'
+    scripture: quran
+    name: Quran 36:7
+    chapter: 36
+    verse: 7
+    ordinal: 3712
+    text: Already hath the judgment, (for their infidelity) proved true of most of them, for they believe not.
+    translation: Pickthall
+    original: لَقَدْ حَقَّ ٱلْقَوْلُ عَلَىٰٓ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ
+    arabicPlain: لقد حق القول على أكثرهم فهم لا يؤمنون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 381
+    page: 440
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:8'
+    scripture: quran
+    name: Quran 36:8
+    chapter: 36
+    verse: 8
+    ordinal: 3713
+    text: Lo! We have put on their necks carcans reaching unto the chins, so that they are made stiff-necked.
+    translation: Pickthall
+    original: إِنَّا جَعَلْنَا فِىٓ أَعْنَـٰقِهِمْ أَغْلَـٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ
+    arabicPlain: إنا جعلنا في أعناقهم أغلالا فهي إلى الأذقان فهم مقمحون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 381
+    page: 440
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:9'
+    scripture: quran
+    name: Quran 36:9
+    chapter: 36
+    verse: 9
+    ordinal: 3714
+    text: And We have set a bar before them and a bar behind them, and (thus) have covered them so that they see not.
+    translation: Pickthall
+    original: وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ
+    arabicPlain: وجعلنا من بين أيديهم سدا ومن خلفهم سدا فأغشيناهم فهم لا يبصرون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 381
+    page: 440
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:10'
+    scripture: quran
+    name: Quran 36:10
+    chapter: 36
+    verse: 10
+    ordinal: 3715
+    text: Whether thou warn them or thou warn them not, it is alike for them, for they believe not.
+    translation: Pickthall
+    original: وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
+    arabicPlain: وسواء عليهم أأنذرتهم أم لم تنذرهم لا يؤمنون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 381
+    page: 440
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:11'
+    scripture: quran
+    name: Quran 36:11
+    chapter: 36
+    verse: 11
+    ordinal: 3716
+    text: Thou warnest only him who followeth the Reminder and feareth the Beneficent in secret. To him bear tidings of forgiveness and a rich reward.
+    translation: Pickthall
+    original: إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ
+    arabicPlain: إنما تنذر من اتبع الذكر وخشي الرحمن بالغيب ۖ فبشره بمغفرة وأجر كريم
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 381
+    page: 440
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:12'
+    scripture: quran
+    name: Quran 36:12
+    chapter: 36
+    verse: 12
+    ordinal: 3717
+    text: Lo! We it is Who bring the dead to life. We record that which they send before (them, and their footprints. And all things We have kept in a clear Register.
+    translation: Pickthall
+    original: إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَـٰرَهُمْ ۚ وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ فِىٓ إِمَامٍ مُّبِينٍ
+    arabicPlain: إنا نحن نحيي الموتى ونكتب ما قدموا وآثارهم ۚ وكل شيء أحصيناه في إمام مبين
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 381
+    page: 440
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:13'
+    scripture: quran
+    name: Quran 36:13
+    chapter: 36
+    verse: 13
+    ordinal: 3718
+    text: 'Coin for them a similitude: The people of the city when those sent (from Allah) came unto them;'
+    translation: Pickthall
+    original: وَٱضْرِبْ لَهُم مَّثَلًا أَصْحَـٰبَ ٱلْقَرْيَةِ إِذْ جَآءَهَا ٱلْمُرْسَلُونَ
+    arabicPlain: واضرب لهم مثلا أصحاب القرية إذ جاءها المرسلون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:14'
+    scripture: quran
+    name: Quran 36:14
+    chapter: 36
+    verse: 14
+    ordinal: 3719
+    text: 'When We sent unto them twain, and they denied them both, so We reinforced them with a third, and they said: Lo! we have been sent unto you.'
+    translation: Pickthall
+    original: إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ
+    arabicPlain: إذ أرسلنا إليهم اثنين فكذبوهما فعززنا بثالث فقالوا إنا إليكم مرسلون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:15'
+    scripture: quran
+    name: Quran 36:15
+    chapter: 36
+    verse: 15
+    ordinal: 3720
+    text: 'They said: Ye are but mortals like unto us. The Beneficent hath naught revealed. Ye do but lie!'
+    translation: Pickthall
+    original: قَالُوا۟ مَآ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا وَمَآ أَنزَلَ ٱلرَّحْمَـٰنُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا تَكْذِبُونَ
+    arabicPlain: قالوا ما أنتم إلا بشر مثلنا وما أنزل الرحمن من شيء إن أنتم إلا تكذبون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:16'
+    scripture: quran
+    name: Quran 36:16
+    chapter: 36
+    verse: 16
+    ordinal: 3721
+    text: 'They answered: Our Lord knoweth that we are indeed sent unto you,'
+    translation: Pickthall
+    original: قَالُوا۟ رَبُّنَا يَعْلَمُ إِنَّآ إِلَيْكُمْ لَمُرْسَلُونَ
+    arabicPlain: قالوا ربنا يعلم إنا إليكم لمرسلون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:17'
+    scripture: quran
+    name: Quran 36:17
+    chapter: 36
+    verse: 17
+    ordinal: 3722
+    text: And our duty is but plain conveyance (of the message).
+    translation: Pickthall
+    original: وَمَا عَلَيْنَآ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ
+    arabicPlain: وما علينا إلا البلاغ المبين
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:18'
+    scripture: quran
+    name: Quran 36:18
+    chapter: 36
+    verse: 18
+    ordinal: 3723
+    text: '(The people of the city) said: We augur ill of you. If ye desist not, we shall surely stone you, and grievous torture will befall you at our hands.'
+    translation: Pickthall
+    original: قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ ۖ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم مِّنَّا عَذَابٌ أَلِيمٌ
+    arabicPlain: قالوا إنا تطيرنا بكم ۖ لئن لم تنتهوا لنرجمنكم وليمسنكم منا عذاب أليم
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:19'
+    scripture: quran
+    name: Quran 36:19
+    chapter: 36
+    verse: 19
+    ordinal: 3724
+    text: 'They said: Your evil augury be with you! Is it because ye are reminded (of the truth)? Nay, but ye are froward folk!'
+    translation: Pickthall
+    original: قَالُوا۟ طَـٰٓئِرُكُم مَّعَكُمْ ۚ أَئِن ذُكِّرْتُم ۚ بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ
+    arabicPlain: قالوا طائركم معكم ۚ أئن ذكرتم ۚ بل أنتم قوم مسرفون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:20'
+    scripture: quran
+    name: Quran 36:20
+    chapter: 36
+    verse: 20
+    ordinal: 3725
+    text: 'And there came from the uttermost part of the city a man running. He cried: O my people! Follow those who have been sent!'
+    translation: Pickthall
+    original: وَجَآءَ مِنْ أَقْصَا ٱلْمَدِينَةِ رَجُلٌ يَسْعَىٰ قَالَ يَـٰقَوْمِ ٱتَّبِعُوا۟ ٱلْمُرْسَلِينَ
+    arabicPlain: وجاء من أقصى المدينة رجل يسعى قال يا قوم اتبعوا المرسلين
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:21'
+    scripture: quran
+    name: Quran 36:21
+    chapter: 36
+    verse: 21
+    ordinal: 3726
+    text: Follow those who ask of you no fee, and who are rightly guided.
+    translation: Pickthall
+    original: ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًا وَهُم مُّهْتَدُونَ
+    arabicPlain: اتبعوا من لا يسألكم أجرا وهم مهتدون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:22'
+    scripture: quran
+    name: Quran 36:22
+    chapter: 36
+    verse: 22
+    ordinal: 3727
+    text: For what cause should I not serve Him Who hath created me, and unto Whom ye will be brought back?
+    translation: Pickthall
+    original: وَمَا لِىَ لَآ أَعْبُدُ ٱلَّذِى فَطَرَنِى وَإِلَيْهِ تُرْجَعُونَ
+    arabicPlain: وما لي لا أعبد الذي فطرني وإليه ترجعون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:23'
+    scripture: quran
+    name: Quran 36:23
+    chapter: 36
+    verse: 23
+    ordinal: 3728
+    text: Shall I take (other) gods in place of Him when, if the Beneficent should wish me any harm, their intercession will avail me naught, nor can they save?
+    translation: Pickthall
+    original: ءَأَتَّخِذُ مِن دُونِهِۦٓ ءَالِهَةً إِن يُرِدْنِ ٱلرَّحْمَـٰنُ بِضُرٍّ لَّا تُغْنِ عَنِّى شَفَـٰعَتُهُمْ شَيْـًٔا وَلَا يُنقِذُونِ
+    arabicPlain: أأتخذ من دونه آلهة إن يردن الرحمن بضر لا تغن عني شفاعتهم شيئا ولا ينقذون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:24'
+    scripture: quran
+    name: Quran 36:24
+    chapter: 36
+    verse: 24
+    ordinal: 3729
+    text: Then truly I should be in error manifest.
+    translation: Pickthall
+    original: إِنِّىٓ إِذًا لَّفِى ضَلَـٰلٍ مُّبِينٍ
+    arabicPlain: إني إذا لفي ضلال مبين
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:25'
+    scripture: quran
+    name: Quran 36:25
+    chapter: 36
+    verse: 25
+    ordinal: 3730
+    text: Lo! I have believed in your Lord, so hear me!
+    translation: Pickthall
+    original: إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ فَٱسْمَعُونِ
+    arabicPlain: إني آمنت بربكم فاسمعون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:26'
+    scripture: quran
+    name: Quran 36:26
+    chapter: 36
+    verse: 26
+    ordinal: 3731
+    text: 'It was said (unto him): Enter paradise. He said: Would that my people knew'
+    translation: Pickthall
+    original: قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ
+    arabicPlain: قيل ادخل الجنة ۖ قال يا ليت قومي يعلمون
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:27'
+    scripture: quran
+    name: Quran 36:27
+    chapter: 36
+    verse: 27
+    ordinal: 3732
+    text: With what (munificence) my Lord hath pardoned me and made me of the honoured ones!
+    translation: Pickthall
+    original: بِمَا غَفَرَ لِى رَبِّى وَجَعَلَنِى مِنَ ٱلْمُكْرَمِينَ
+    arabicPlain: بما غفر لي ربي وجعلني من المكرمين
+    surahName: Yaseen
+    juz: 22
+    manzil: 5
+    ruku: 382
+    page: 441
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-22
+- type: Ayah
+  data:
+    ref: '36:28'
+    scripture: quran
+    name: Quran 36:28
+    chapter: 36
+    verse: 28
+    ordinal: 3733
+    text: We sent not down against his people after him a host from heaven, nor do We ever send.
+    translation: Pickthall
+    original: ۞ وَمَآ أَنزَلْنَا عَلَىٰ قَوْمِهِۦ مِنۢ بَعْدِهِۦ مِن جُندٍ مِّنَ ٱلسَّمَآءِ وَمَا كُنَّا مُنزِلِينَ
+    arabicPlain: ۞ وما أنزلنا على قومه من بعده من جند من السماء وما كنا منزلين
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 382
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:29'
+    scripture: quran
+    name: Quran 36:29
+    chapter: 36
+    verse: 29
+    ordinal: 3734
+    text: It was but one Shout, and lo! they were extinct.
+    translation: Pickthall
+    original: إِن كَانَتْ إِلَّا صَيْحَةً وَٰحِدَةً فَإِذَا هُمْ خَـٰمِدُونَ
+    arabicPlain: إن كانت إلا صيحة واحدة فإذا هم خامدون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 382
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:30'
+    scripture: quran
+    name: Quran 36:30
+    chapter: 36
+    verse: 30
+    ordinal: 3735
+    text: Ah, the anguish for the bondmen! Never came there unto them a messenger but they did mock him!
+    translation: Pickthall
+    original: يَـٰحَسْرَةً عَلَى ٱلْعِبَادِ ۚ مَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
+    arabicPlain: يا حسرة على العباد ۚ ما يأتيهم من رسول إلا كانوا به يستهزئون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 382
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:31'
+    scripture: quran
+    name: Quran 36:31
+    chapter: 36
+    verse: 31
+    ordinal: 3736
+    text: Have they not seen how many generations We destroyed before them, which indeed returned not unto them;
+    translation: Pickthall
+    original: أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا قَبْلَهُم مِّنَ ٱلْقُرُونِ أَنَّهُمْ إِلَيْهِمْ لَا يَرْجِعُونَ
+    arabicPlain: ألم يروا كم أهلكنا قبلهم من القرون أنهم إليهم لا يرجعون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 382
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:32'
+    scripture: quran
+    name: Quran 36:32
+    chapter: 36
+    verse: 32
+    ordinal: 3737
+    text: But all, without exception, will be brought before Us.
+    translation: Pickthall
+    original: وَإِن كُلٌّ لَّمَّا جَمِيعٌ لَّدَيْنَا مُحْضَرُونَ
+    arabicPlain: وإن كل لما جميع لدينا محضرون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 382
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:33'
+    scripture: quran
+    name: Quran 36:33
+    chapter: 36
+    verse: 33
+    ordinal: 3738
+    text: A token unto them is the dead earth. We revive it, and We bring forth from it grain so that they eat thereof;
+    translation: Pickthall
+    original: وَءَايَةٌ لَّهُمُ ٱلْأَرْضُ ٱلْمَيْتَةُ أَحْيَيْنَـٰهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ
+    arabicPlain: وآية لهم الأرض الميتة أحييناها وأخرجنا منها حبا فمنه يأكلون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:34'
+    scripture: quran
+    name: Quran 36:34
+    chapter: 36
+    verse: 34
+    ordinal: 3739
+    text: And We have placed therein gardens of the date-palm and grapes, and We have caused springs of water to gush forth therein,
+    translation: Pickthall
+    original: وَجَعَلْنَا فِيهَا جَنَّـٰتٍ مِّن نَّخِيلٍ وَأَعْنَـٰبٍ وَفَجَّرْنَا فِيهَا مِنَ ٱلْعُيُونِ
+    arabicPlain: وجعلنا فيها جنات من نخيل وأعناب وفجرنا فيها من العيون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:35'
+    scripture: quran
+    name: Quran 36:35
+    chapter: 36
+    verse: 35
+    ordinal: 3740
+    text: That they may eat of the fruit thereof, and their hands made it not. Will they not, then, give thanks?
+    translation: Pickthall
+    original: لِيَأْكُلُوا۟ مِن ثَمَرِهِۦ وَمَا عَمِلَتْهُ أَيْدِيهِمْ ۖ أَفَلَا يَشْكُرُونَ
+    arabicPlain: ليأكلوا من ثمره وما عملته أيديهم ۖ أفلا يشكرون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:36'
+    scripture: quran
+    name: Quran 36:36
+    chapter: 36
+    verse: 36
+    ordinal: 3741
+    text: Glory be to Him Who created all the sexual pairs, of that which the earth groweth, and of themselves, and of that which they know not!
+    translation: Pickthall
+    original: سُبْحَـٰنَ ٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ
+    arabicPlain: سبحان الذي خلق الأزواج كلها مما تنبت الأرض ومن أنفسهم ومما لا يعلمون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:37'
+    scripture: quran
+    name: Quran 36:37
+    chapter: 36
+    verse: 37
+    ordinal: 3742
+    text: A token unto them is night. We strip it of the day, and lo! they are in darkness.
+    translation: Pickthall
+    original: وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ
+    arabicPlain: وآية لهم الليل نسلخ منه النهار فإذا هم مظلمون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:38'
+    scripture: quran
+    name: Quran 36:38
+    chapter: 36
+    verse: 38
+    ordinal: 3743
+    text: And the sun runneth on unto a resting-place for him. That is the measuring of the Mighty, the Wise.
+    translation: Pickthall
+    original: وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّ لَّهَا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
+    arabicPlain: والشمس تجري لمستقر لها ۚ ذلك تقدير العزيز العليم
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:39'
+    scripture: quran
+    name: Quran 36:39
+    chapter: 36
+    verse: 39
+    ordinal: 3744
+    text: And for the moon We have appointed mansions till she return like an old shrivelled palm-leaf.
+    translation: Pickthall
+    original: وَٱلْقَمَرَ قَدَّرْنَـٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ
+    arabicPlain: والقمر قدرناه منازل حتى عاد كالعرجون القديم
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:40'
+    scripture: quran
+    name: Quran 36:40
+    chapter: 36
+    verse: 40
+    ordinal: 3745
+    text: It is not for the sun to overtake the moon, nor doth the night outstrip the day. They float each in an orbit.
+    translation: Pickthall
+    original: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ
+    arabicPlain: لا الشمس ينبغي لها أن تدرك القمر ولا الليل سابق النهار ۚ وكل في فلك يسبحون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 442
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:41'
+    scripture: quran
+    name: Quran 36:41
+    chapter: 36
+    verse: 41
+    ordinal: 3746
+    text: And a token unto them is that We bear their offspring in the laden ship,
+    translation: Pickthall
+    original: وَءَايَةٌ لَّهُمْ أَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ
+    arabicPlain: وآية لهم أنا حملنا ذريتهم في الفلك المشحون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:42'
+    scripture: quran
+    name: Quran 36:42
+    chapter: 36
+    verse: 42
+    ordinal: 3747
+    text: And have created for them of the like thereof whereon they ride.
+    translation: Pickthall
+    original: وَخَلَقْنَا لَهُم مِّن مِّثْلِهِۦ مَا يَرْكَبُونَ
+    arabicPlain: وخلقنا لهم من مثله ما يركبون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:43'
+    scripture: quran
+    name: Quran 36:43
+    chapter: 36
+    verse: 43
+    ordinal: 3748
+    text: And if We will, We drown them, and there is no help for them, neither can they be saved;
+    translation: Pickthall
+    original: وَإِن نَّشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنقَذُونَ
+    arabicPlain: وإن نشأ نغرقهم فلا صريخ لهم ولا هم ينقذون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:44'
+    scripture: quran
+    name: Quran 36:44
+    chapter: 36
+    verse: 44
+    ordinal: 3749
+    text: Unless by mercy from Us and as comfort for a while.
+    translation: Pickthall
+    original: إِلَّا رَحْمَةً مِّنَّا وَمَتَـٰعًا إِلَىٰ حِينٍ
+    arabicPlain: إلا رحمة منا ومتاعا إلى حين
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:45'
+    scripture: quran
+    name: Quran 36:45
+    chapter: 36
+    verse: 45
+    ordinal: 3750
+    text: 'When it is said unto them: Beware of that which is before you and that which is behind you, that haply ye may find mercy (they are heedless).'
+    translation: Pickthall
+    original: وَإِذَا قِيلَ لَهُمُ ٱتَّقُوا۟ مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ
+    arabicPlain: وإذا قيل لهم اتقوا ما بين أيديكم وما خلفكم لعلكم ترحمون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:46'
+    scripture: quran
+    name: Quran 36:46
+    chapter: 36
+    verse: 46
+    ordinal: 3751
+    text: Never came a token of the tokens of their Lord to them, but they did turn away from it!
+    translation: Pickthall
+    original: وَمَا تَأْتِيهِم مِّنْ ءَايَةٍ مِّنْ ءَايَـٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ
+    arabicPlain: وما تأتيهم من آية من آيات ربهم إلا كانوا عنها معرضين
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:47'
+    scripture: quran
+    name: Quran 36:47
+    chapter: 36
+    verse: 47
+    ordinal: 3752
+    text: 'And when it is said unto them: Spend of that wherewith Allah hath provided you, those who disbelieve say unto those who believe: Shall we feed those whom Allah, if He willed, would feed? Ye are in naught else than error manifest.'
+    translation: Pickthall
+    original: وَإِذَا قِيلَ لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا فِى ضَلَـٰلٍ مُّبِينٍ
+    arabicPlain: وإذا قيل لهم أنفقوا مما رزقكم الله قال الذين كفروا للذين آمنوا أنطعم من لو يشاء الله أطعمه إن أنتم إلا في ضلال مبين
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:48'
+    scripture: quran
+    name: Quran 36:48
+    chapter: 36
+    verse: 48
+    ordinal: 3753
+    text: 'And they say: When will this promise be fulfilled, if ye are truthful?'
+    translation: Pickthall
+    original: وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ
+    arabicPlain: ويقولون متى هذا الوعد إن كنتم صادقين
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:49'
+    scripture: quran
+    name: Quran 36:49
+    chapter: 36
+    verse: 49
+    ordinal: 3754
+    text: They await but one Shout, which will surprise them while they are disputing.
+    translation: Pickthall
+    original: مَا يَنظُرُونَ إِلَّا صَيْحَةً وَٰحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ
+    arabicPlain: ما ينظرون إلا صيحة واحدة تأخذهم وهم يخصمون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:50'
+    scripture: quran
+    name: Quran 36:50
+    chapter: 36
+    verse: 50
+    ordinal: 3755
+    text: Then they cannot make bequest, nor can they return to their own folk.
+    translation: Pickthall
+    original: فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَآ إِلَىٰٓ أَهْلِهِمْ يَرْجِعُونَ
+    arabicPlain: فلا يستطيعون توصية ولا إلى أهلهم يرجعون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 383
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:51'
+    scripture: quran
+    name: Quran 36:51
+    chapter: 36
+    verse: 51
+    ordinal: 3756
+    text: And the trumpet is blown and lo! from the graves they hie unto their Lord,
+    translation: Pickthall
+    original: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
+    arabicPlain: ونفخ في الصور فإذا هم من الأجداث إلى ربهم ينسلون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:52'
+    scripture: quran
+    name: Quran 36:52
+    chapter: 36
+    verse: 52
+    ordinal: 3757
+    text: 'Crying: Woe upon us! Who hath raised us from our place of sleep? This is that which the Beneficent did promise, and the messengers spoke truth.'
+    translation: Pickthall
+    original: قَالُوا۟ يَـٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا ۜ ۗ هَـٰذَا مَا وَعَدَ ٱلرَّحْمَـٰنُ وَصَدَقَ ٱلْمُرْسَلُونَ
+    arabicPlain: قالوا يا ويلنا من بعثنا من مرقدنا ۜ ۗ هذا ما وعد الرحمن وصدق المرسلون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:53'
+    scripture: quran
+    name: Quran 36:53
+    chapter: 36
+    verse: 53
+    ordinal: 3758
+    text: It is but one Shout, and behold them brought together before Us!
+    translation: Pickthall
+    original: إِن كَانَتْ إِلَّا صَيْحَةً وَٰحِدَةً فَإِذَا هُمْ جَمِيعٌ لَّدَيْنَا مُحْضَرُونَ
+    arabicPlain: إن كانت إلا صيحة واحدة فإذا هم جميع لدينا محضرون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:54'
+    scripture: quran
+    name: Quran 36:54
+    chapter: 36
+    verse: 54
+    ordinal: 3759
+    text: This day no soul is wronged in aught; nor are ye requited aught save what ye used to do.
+    translation: Pickthall
+    original: فَٱلْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَلَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ
+    arabicPlain: فاليوم لا تظلم نفس شيئا ولا تجزون إلا ما كنتم تعملون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 443
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:55'
+    scripture: quran
+    name: Quran 36:55
+    chapter: 36
+    verse: 55
+    ordinal: 3760
+    text: Lo! those who merit paradise this day are happily employed,
+    translation: Pickthall
+    original: إِنَّ أَصْحَـٰبَ ٱلْجَنَّةِ ٱلْيَوْمَ فِى شُغُلٍ فَـٰكِهُونَ
+    arabicPlain: إن أصحاب الجنة اليوم في شغل فاكهون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:56'
+    scripture: quran
+    name: Quran 36:56
+    chapter: 36
+    verse: 56
+    ordinal: 3761
+    text: They and their wives, in pleasant shade, on thrones reclining;
+    translation: Pickthall
+    original: هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَـٰلٍ عَلَى ٱلْأَرَآئِكِ مُتَّكِـُٔونَ
+    arabicPlain: هم وأزواجهم في ظلال على الأرائك متكئون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:57'
+    scripture: quran
+    name: Quran 36:57
+    chapter: 36
+    verse: 57
+    ordinal: 3762
+    text: Theirs the fruit (of their good deeds) and theirs (all) that they ask;
+    translation: Pickthall
+    original: لَهُمْ فِيهَا فَـٰكِهَةٌ وَلَهُم مَّا يَدَّعُونَ
+    arabicPlain: لهم فيها فاكهة ولهم ما يدعون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:58'
+    scripture: quran
+    name: Quran 36:58
+    chapter: 36
+    verse: 58
+    ordinal: 3763
+    text: 'The word from a Merciful Lord (for them) is: Peace!'
+    translation: Pickthall
+    original: سَلَـٰمٌ قَوْلًا مِّن رَّبٍّ رَّحِيمٍ
+    arabicPlain: سلام قولا من رب رحيم
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '36:59'
+    scripture: quran
+    name: Quran 36:59
+    chapter: 36
+    verse: 59
+    ordinal: 3764
+    text: But avaunt ye, O ye guilty, this day!
+    translation: Pickthall
+    original: وَٱمْتَـٰزُوا۟ ٱلْيَوْمَ أَيُّهَا ٱلْمُجْرِمُونَ
+    arabicPlain: وامتازوا اليوم أيها المجرمون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:60
+    scripture: quran
+    name: Quran 36:60
+    chapter: 36
+    verse: 60
+    ordinal: 3765
+    text: Did I not charge you, O ye sons of Adam, that ye worship not the devil - Lo! he is your open foe! -
+    translation: Pickthall
+    original: ۞ أَلَمْ أَعْهَدْ إِلَيْكُمْ يَـٰبَنِىٓ ءَادَمَ أَن لَّا تَعْبُدُوا۟ ٱلشَّيْطَـٰنَ ۖ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ
+    arabicPlain: ۞ ألم أعهد إليكم يا بني آدم أن لا تعبدوا الشيطان ۖ إنه لكم عدو مبين
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:61
+    scripture: quran
+    name: Quran 36:61
+    chapter: 36
+    verse: 61
+    ordinal: 3766
+    text: But that ye worship Me? That was the right path.
+    translation: Pickthall
+    original: وَأَنِ ٱعْبُدُونِى ۚ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ
+    arabicPlain: وأن اعبدوني ۚ هذا صراط مستقيم
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:62
+    scripture: quran
+    name: Quran 36:62
+    chapter: 36
+    verse: 62
+    ordinal: 3767
+    text: Yet he hath led astray of you a great multitude. Had ye then no sense?
+    translation: Pickthall
+    original: وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلًّا كَثِيرًا ۖ أَفَلَمْ تَكُونُوا۟ تَعْقِلُونَ
+    arabicPlain: ولقد أضل منكم جبلا كثيرا ۖ أفلم تكونوا تعقلون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:63
+    scripture: quran
+    name: Quran 36:63
+    chapter: 36
+    verse: 63
+    ordinal: 3768
+    text: This is hell which ye were promised (if ye followed him).
+    translation: Pickthall
+    original: هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى كُنتُمْ تُوعَدُونَ
+    arabicPlain: هذه جهنم التي كنتم توعدون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:64
+    scripture: quran
+    name: Quran 36:64
+    chapter: 36
+    verse: 64
+    ordinal: 3769
+    text: Burn therein this day for that ye disbelieved.
+    translation: Pickthall
+    original: ٱصْلَوْهَا ٱلْيَوْمَ بِمَا كُنتُمْ تَكْفُرُونَ
+    arabicPlain: اصلوها اليوم بما كنتم تكفرون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:65
+    scripture: quran
+    name: Quran 36:65
+    chapter: 36
+    verse: 65
+    ordinal: 3770
+    text: This day We seal up their mouths, and their hands speak out to Us and their feet bear witness as to what they used to earn.
+    translation: Pickthall
+    original: ٱلْيَوْمَ نَخْتِمُ عَلَىٰٓ أَفْوَٰهِهِمْ وَتُكَلِّمُنَآ أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُم بِمَا كَانُوا۟ يَكْسِبُونَ
+    arabicPlain: اليوم نختم على أفواههم وتكلمنا أيديهم وتشهد أرجلهم بما كانوا يكسبون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:66
+    scripture: quran
+    name: Quran 36:66
+    chapter: 36
+    verse: 66
+    ordinal: 3771
+    text: And had We willed, We verily could have quenched their eyesight so that they should struggle for the way. Then how could they have seen?
+    translation: Pickthall
+    original: وَلَوْ نَشَآءُ لَطَمَسْنَا عَلَىٰٓ أَعْيُنِهِمْ فَٱسْتَبَقُوا۟ ٱلصِّرَٰطَ فَأَنَّىٰ يُبْصِرُونَ
+    arabicPlain: ولو نشاء لطمسنا على أعينهم فاستبقوا الصراط فأنى يبصرون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:67
+    scripture: quran
+    name: Quran 36:67
+    chapter: 36
+    verse: 67
+    ordinal: 3772
+    text: And had We willed, We verily could have fixed them in their place, making them powerless to go forward or turn back.
+    translation: Pickthall
+    original: وَلَوْ نَشَآءُ لَمَسَخْنَـٰهُمْ عَلَىٰ مَكَانَتِهِمْ فَمَا ٱسْتَطَـٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ
+    arabicPlain: ولو نشاء لمسخناهم على مكانتهم فما استطاعوا مضيا ولا يرجعون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 384
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:68
+    scripture: quran
+    name: Quran 36:68
+    chapter: 36
+    verse: 68
+    ordinal: 3773
+    text: He whom we bring unto old age, We reverse him in creation (making him go back to weakness after strength). Have ye then no sense?
+    translation: Pickthall
+    original: وَمَن نُّعَمِّرْهُ نُنَكِّسْهُ فِى ٱلْخَلْقِ ۖ أَفَلَا يَعْقِلُونَ
+    arabicPlain: ومن نعمره ننكسه في الخلق ۖ أفلا يعقلون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:69
+    scripture: quran
+    name: Quran 36:69
+    chapter: 36
+    verse: 69
+    ordinal: 3774
+    text: And We have not taught him (Muhammad) poetry, nor is it meet for him. This is naught else than a Reminder and a Lecture making plain,
+    translation: Pickthall
+    original: وَمَا عَلَّمْنَـٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ
+    arabicPlain: وما علمناه الشعر وما ينبغي له ۚ إن هو إلا ذكر وقرآن مبين
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:70
+    scripture: quran
+    name: Quran 36:70
+    chapter: 36
+    verse: 70
+    ordinal: 3775
+    text: To warn whosoever liveth, and that the word may be fulfilled against the disbelievers.
+    translation: Pickthall
+    original: لِّيُنذِرَ مَن كَانَ حَيًّا وَيَحِقَّ ٱلْقَوْلُ عَلَى ٱلْكَـٰفِرِينَ
+    arabicPlain: لينذر من كان حيا ويحق القول على الكافرين
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 444
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:71
+    scripture: quran
+    name: Quran 36:71
+    chapter: 36
+    verse: 71
+    ordinal: 3776
+    text: Have they not seen how We have created for them of Our handiwork the cattle, so that they are their owners,
+    translation: Pickthall
+    original: أَوَلَمْ يَرَوْا۟ أَنَّا خَلَقْنَا لَهُم مِّمَّا عَمِلَتْ أَيْدِينَآ أَنْعَـٰمًا فَهُمْ لَهَا مَـٰلِكُونَ
+    arabicPlain: أولم يروا أنا خلقنا لهم مما عملت أيدينا أنعاما فهم لها مالكون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:72
+    scripture: quran
+    name: Quran 36:72
+    chapter: 36
+    verse: 72
+    ordinal: 3777
+    text: And have subdued them unto them, so that some of them they have for riding, some for food?
+    translation: Pickthall
+    original: وَذَلَّلْنَـٰهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ
+    arabicPlain: وذللناها لهم فمنها ركوبهم ومنها يأكلون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:73
+    scripture: quran
+    name: Quran 36:73
+    chapter: 36
+    verse: 73
+    ordinal: 3778
+    text: Benefits and (divers) drinks have they from them. Will they not then give thanks?
+    translation: Pickthall
+    original: وَلَهُمْ فِيهَا مَنَـٰفِعُ وَمَشَارِبُ ۖ أَفَلَا يَشْكُرُونَ
+    arabicPlain: ولهم فيها منافع ومشارب ۖ أفلا يشكرون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:74
+    scripture: quran
+    name: Quran 36:74
+    chapter: 36
+    verse: 74
+    ordinal: 3779
+    text: And they have taken (other) gods beside Allah, in order that they may be helped.
+    translation: Pickthall
+    original: وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةً لَّعَلَّهُمْ يُنصَرُونَ
+    arabicPlain: واتخذوا من دون الله آلهة لعلهم ينصرون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:75
+    scripture: quran
+    name: Quran 36:75
+    chapter: 36
+    verse: 75
+    ordinal: 3780
+    text: It is not in their power to help them; but they (the worshippers) are unto them a host in arms.
+    translation: Pickthall
+    original: لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُندٌ مُّحْضَرُونَ
+    arabicPlain: لا يستطيعون نصرهم وهم لهم جند محضرون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:76
+    scripture: quran
+    name: Quran 36:76
+    chapter: 36
+    verse: 76
+    ordinal: 3781
+    text: So let not their speech grieve thee (O Muhammad). Lo! We know what they conceal and what proclaim.
+    translation: Pickthall
+    original: فَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
+    arabicPlain: فلا يحزنك قولهم ۘ إنا نعلم ما يسرون وما يعلنون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:77
+    scripture: quran
+    name: Quran 36:77
+    chapter: 36
+    verse: 77
+    ordinal: 3782
+    text: Hath not man seen that We have created him from a drop of seed? Yet lo! he is an open opponent.
+    translation: Pickthall
+    original: أَوَلَمْ يَرَ ٱلْإِنسَـٰنُ أَنَّا خَلَقْنَـٰهُ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ
+    arabicPlain: أولم ير الإنسان أنا خلقناه من نطفة فإذا هو خصيم مبين
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:78
+    scripture: quran
+    name: Quran 36:78
+    chapter: 36
+    verse: 78
+    ordinal: 3783
+    text: 'And he hath coined for Us a similitude, and hath forgotten the fact of his creation, saying: Who will revive these bones when they have rotted away?'
+    translation: Pickthall
+    original: وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَـٰمَ وَهِىَ رَمِيمٌ
+    arabicPlain: وضرب لنا مثلا ونسي خلقه ۖ قال من يحيي العظام وهي رميم
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:79
+    scripture: quran
+    name: Quran 36:79
+    chapter: 36
+    verse: 79
+    ordinal: 3784
+    text: 'Say: He will revive them Who produced them at the first, for He is Knower of every creation,'
+    translation: Pickthall
+    original: قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
+    arabicPlain: قل يحييها الذي أنشأها أول مرة ۖ وهو بكل خلق عليم
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:80
+    scripture: quran
+    name: Quran 36:80
+    chapter: 36
+    verse: 80
+    ordinal: 3785
+    text: Who hath appointed for you fire from the green tree, and behold! ye kindle from it.
+    translation: Pickthall
+    original: ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ أَنتُم مِّنْهُ تُوقِدُونَ
+    arabicPlain: الذي جعل لكم من الشجر الأخضر نارا فإذا أنتم منه توقدون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:81
+    scripture: quran
+    name: Quran 36:81
+    chapter: 36
+    verse: 81
+    ordinal: 3786
+    text: Is not He Who created the heavens and the earth Able to create the like of them? Aye, that He is! for He is the All-Wise Creator,
+    translation: Pickthall
+    original: أَوَلَيْسَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِقَـٰدِرٍ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ ٱلْخَلَّـٰقُ ٱلْعَلِيمُ
+    arabicPlain: أوليس الذي خلق السماوات والأرض بقادر على أن يخلق مثلهم ۚ بلى وهو الخلاق العليم
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:82
+    scripture: quran
+    name: Quran 36:82
+    chapter: 36
+    verse: 82
+    ordinal: 3787
+    text: 'But His command, when He intendeth a thing, is only that He saith unto it: Be! and it is.'
+    translation: Pickthall
+    original: إِنَّمَآ أَمْرُهُۥٓ إِذَآ أَرَادَ شَيْـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ
+    arabicPlain: إنما أمره إذا أراد شيئا أن يقول له كن فيكون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 36:83
+    scripture: quran
+    name: Quran 36:83
+    chapter: 36
+    verse: 83
+    ordinal: 3788
+    text: Therefor Glory be to Him in Whose hand is the dominion over all things! Unto Him ye will be brought back.
+    translation: Pickthall
+    original: فَسُبْحَـٰنَ ٱلَّذِى بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَإِلَيْهِ تُرْجَعُونَ
+    arabicPlain: فسبحان الذي بيده ملكوت كل شيء وإليه ترجعون
+    surahName: Yaseen
+    juz: 23
+    manzil: 5
+    ruku: 385
+    page: 445
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '36'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23

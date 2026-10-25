@@ -1,0 +1,583 @@
+# Every ayah of Surah Al-Balad (The City): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '90:1'
+    scripture: quran
+    name: Quran 90:1
+    chapter: 90
+    verse: 1
+    ordinal: 6024
+    text: Nay, I swear by this city -
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ
+    arabicPlain: بسم الله الرحمن الرحيم لا أقسم بهذا البلد
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:2'
+    scripture: quran
+    name: Quran 90:2
+    chapter: 90
+    verse: 2
+    ordinal: 6025
+    text: And thou art an indweller of this city -
+    translation: Pickthall
+    original: وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ
+    arabicPlain: وأنت حل بهذا البلد
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:3'
+    scripture: quran
+    name: Quran 90:3
+    chapter: 90
+    verse: 3
+    ordinal: 6026
+    text: And the begetter and that which he begat,
+    translation: Pickthall
+    original: وَوَالِدٍ وَمَا وَلَدَ
+    arabicPlain: ووالد وما ولد
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:4'
+    scripture: quran
+    name: Quran 90:4
+    chapter: 90
+    verse: 4
+    ordinal: 6027
+    text: 'We verily have created man in an atmosphere:'
+    translation: Pickthall
+    original: لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ
+    arabicPlain: لقد خلقنا الإنسان في كبد
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:5'
+    scripture: quran
+    name: Quran 90:5
+    chapter: 90
+    verse: 5
+    ordinal: 6028
+    text: Thinketh he that none hath power over him?
+    translation: Pickthall
+    original: أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ
+    arabicPlain: أيحسب أن لن يقدر عليه أحد
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:6'
+    scripture: quran
+    name: Quran 90:6
+    chapter: 90
+    verse: 6
+    ordinal: 6029
+    text: 'And he saith: I have destroyed vast wealth:'
+    translation: Pickthall
+    original: يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا
+    arabicPlain: يقول أهلكت مالا لبدا
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:7'
+    scripture: quran
+    name: Quran 90:7
+    chapter: 90
+    verse: 7
+    ordinal: 6030
+    text: Thinketh he that none beholdeth him?
+    translation: Pickthall
+    original: أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ
+    arabicPlain: أيحسب أن لم يره أحد
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:8'
+    scripture: quran
+    name: Quran 90:8
+    chapter: 90
+    verse: 8
+    ordinal: 6031
+    text: Did We not assign unto him two eyes
+    translation: Pickthall
+    original: أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ
+    arabicPlain: ألم نجعل له عينين
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:9'
+    scripture: quran
+    name: Quran 90:9
+    chapter: 90
+    verse: 9
+    ordinal: 6032
+    text: And a tongue and two lips,
+    translation: Pickthall
+    original: وَلِسَانًا وَشَفَتَيْنِ
+    arabicPlain: ولسانا وشفتين
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:10'
+    scripture: quran
+    name: Quran 90:10
+    chapter: 90
+    verse: 10
+    ordinal: 6033
+    text: And guide him to the parting of the mountain ways?
+    translation: Pickthall
+    original: وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ
+    arabicPlain: وهديناه النجدين
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:11'
+    scripture: quran
+    name: Quran 90:11
+    chapter: 90
+    verse: 11
+    ordinal: 6034
+    text: But he hath not attempted the Ascent -
+    translation: Pickthall
+    original: فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ
+    arabicPlain: فلا اقتحم العقبة
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:12'
+    scripture: quran
+    name: Quran 90:12
+    chapter: 90
+    verse: 12
+    ordinal: 6035
+    text: Ah, what will convey unto thee what the Ascent is! -
+    translation: Pickthall
+    original: وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ
+    arabicPlain: وما أدراك ما العقبة
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:13'
+    scripture: quran
+    name: Quran 90:13
+    chapter: 90
+    verse: 13
+    ordinal: 6036
+    text: (It is) to free a slave,
+    translation: Pickthall
+    original: فَكُّ رَقَبَةٍ
+    arabicPlain: فك رقبة
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:14'
+    scripture: quran
+    name: Quran 90:14
+    chapter: 90
+    verse: 14
+    ordinal: 6037
+    text: And to feed in the day of hunger.
+    translation: Pickthall
+    original: أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ
+    arabicPlain: أو إطعام في يوم ذي مسغبة
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:15'
+    scripture: quran
+    name: Quran 90:15
+    chapter: 90
+    verse: 15
+    ordinal: 6038
+    text: An orphan near of kin,
+    translation: Pickthall
+    original: يَتِيمًا ذَا مَقْرَبَةٍ
+    arabicPlain: يتيما ذا مقربة
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:16'
+    scripture: quran
+    name: Quran 90:16
+    chapter: 90
+    verse: 16
+    ordinal: 6039
+    text: Or some poor wretch in misery,
+    translation: Pickthall
+    original: أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
+    arabicPlain: أو مسكينا ذا متربة
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:17'
+    scripture: quran
+    name: Quran 90:17
+    chapter: 90
+    verse: 17
+    ordinal: 6040
+    text: And to be of those who believe and exhort one another to perseverance and exhort one another to pity.
+    translation: Pickthall
+    original: ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ
+    arabicPlain: ثم كان من الذين آمنوا وتواصوا بالصبر وتواصوا بالمرحمة
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:18'
+    scripture: quran
+    name: Quran 90:18
+    chapter: 90
+    verse: 18
+    ordinal: 6041
+    text: Their place will be on the right hand.
+    translation: Pickthall
+    original: أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ
+    arabicPlain: أولئك أصحاب الميمنة
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:19'
+    scripture: quran
+    name: Quran 90:19
+    chapter: 90
+    verse: 19
+    ordinal: 6042
+    text: But those who disbelieve Our revelations, their place will be on the left hand.
+    translation: Pickthall
+    original: وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ
+    arabicPlain: والذين كفروا بآياتنا هم أصحاب المشأمة
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '90:20'
+    scripture: quran
+    name: Quran 90:20
+    chapter: 90
+    verse: 20
+    ordinal: 6043
+    text: Fire will be an awning over them.
+    translation: Pickthall
+    original: عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ
+    arabicPlain: عليهم نار مؤصدة
+    surahName: Al-Balad
+    juz: 30
+    manzil: 7
+    ruku: 532
+    page: 594
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '90'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

@@ -1,0 +1,973 @@
+# Every ayah of Surah Al-Ahqaf (The Dunes): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '46:1'
+    scripture: quran
+    name: Quran 46:1
+    chapter: 46
+    verse: 1
+    ordinal: 4511
+    text: Ha. Mim.
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ حمٓ
+    arabicPlain: بسم الله الرحمن الرحيم حم
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 438
+    page: 502
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:2'
+    scripture: quran
+    name: Quran 46:2
+    chapter: 46
+    verse: 2
+    ordinal: 4512
+    text: The revelation of the Scripture is from Allah the Mighty, the Wise.
+    translation: Pickthall
+    original: تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ
+    arabicPlain: تنزيل الكتاب من الله العزيز الحكيم
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 438
+    page: 502
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:3'
+    scripture: quran
+    name: Quran 46:3
+    chapter: 46
+    verse: 3
+    ordinal: 4513
+    text: We created not the heavens and the earth and all that is between them save with truth, and for a term appointed. But those who disbelieve turn away from that whereof they are warned.
+    translation: Pickthall
+    original: مَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍ مُّسَمًّى ۚ وَٱلَّذِينَ كَفَرُوا۟ عَمَّآ أُنذِرُوا۟ مُعْرِضُونَ
+    arabicPlain: ما خلقنا السماوات والأرض وما بينهما إلا بالحق وأجل مسمى ۚ والذين كفروا عما أنذروا معرضون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 438
+    page: 502
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:4'
+    scripture: quran
+    name: Quran 46:4
+    chapter: 46
+    verse: 4
+    ordinal: 4514
+    text: 'Say (unto them, O Muhammad): Have ye thought on all that ye invoke beside Allah? Show me what they have created of the earth. Or have they any portion in the heavens? Bring me a scripture before this (Scripture), or some vestige of knowledge (in support of what ye say), if ye are truthful.'
+    translation: Pickthall
+    original: قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَـٰوَٰتِ ۖ ٱئْتُونِى بِكِتَـٰبٍ مِّن قَبْلِ هَـٰذَآ أَوْ أَثَـٰرَةٍ مِّنْ عِلْمٍ إِن كُنتُمْ صَـٰدِقِينَ
+    arabicPlain: قل أرأيتم ما تدعون من دون الله أروني ماذا خلقوا من الأرض أم لهم شرك في السماوات ۖ ائتوني بكتاب من قبل هذا أو أثارة من علم إن كنتم صادقين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 438
+    page: 502
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:5'
+    scripture: quran
+    name: Quran 46:5
+    chapter: 46
+    verse: 5
+    ordinal: 4515
+    text: And who is further astray than those who, instead of Allah, pray unto such as hear not their prayer until the Day of Resurrection, and are unconscious of their prayer,
+    translation: Pickthall
+    original: وَمَنْ أَضَلُّ مِمَّن يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَـٰفِلُونَ
+    arabicPlain: ومن أضل ممن يدعو من دون الله من لا يستجيب له إلى يوم القيامة وهم عن دعائهم غافلون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 438
+    page: 502
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:6'
+    scripture: quran
+    name: Quran 46:6
+    chapter: 46
+    verse: 6
+    ordinal: 4516
+    text: And when mankind are gathered (to the Judgment) will become enemies for them, and will become deniers of having been worshipped.
+    translation: Pickthall
+    original: وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءً وَكَانُوا۟ بِعِبَادَتِهِمْ كَـٰفِرِينَ
+    arabicPlain: وإذا حشر الناس كانوا لهم أعداء وكانوا بعبادتهم كافرين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 438
+    page: 503
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:7'
+    scripture: quran
+    name: Quran 46:7
+    chapter: 46
+    verse: 7
+    ordinal: 4517
+    text: 'And when Our clear revelations are recited unto them, those who disbelieve say of the Truth when it reacheth them: This is mere magic.'
+    translation: Pickthall
+    original: وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ هَـٰذَا سِحْرٌ مُّبِينٌ
+    arabicPlain: وإذا تتلى عليهم آياتنا بينات قال الذين كفروا للحق لما جاءهم هذا سحر مبين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 438
+    page: 503
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:8'
+    scripture: quran
+    name: Quran 46:8
+    chapter: 46
+    verse: 8
+    ordinal: 4518
+    text: 'Or say they: He hath invented it? Say (O Muhammad): If I have invented it, still ye have no power to support me against Allah. He is Best Aware of what ye say among yourselves concerning it. He sufficeth for a witness between me and you. And He is the Forgiving, the Merciful.'
+    translation: Pickthall
+    original: أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+    arabicPlain: أم يقولون افتراه ۖ قل إن افتريته فلا تملكون لي من الله شيئا ۖ هو أعلم بما تفيضون فيه ۖ كفى به شهيدا بيني وبينكم ۖ وهو الغفور الرحيم
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 438
+    page: 503
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:9'
+    scripture: quran
+    name: Quran 46:9
+    chapter: 46
+    verse: 9
+    ordinal: 4519
+    text: 'Say: I am no new thing among the messengers (of Allah), nor know I what will be done with me or with you. I do but follow that which is inspired in me, and I am but a plain warner.'
+    translation: Pickthall
+    original: قُلْ مَا كُنتُ بِدْعًا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ
+    arabicPlain: قل ما كنت بدعا من الرسل وما أدري ما يفعل بي ولا بكم ۖ إن أتبع إلا ما يوحى إلي وما أنا إلا نذير مبين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 438
+    page: 503
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:10'
+    scripture: quran
+    name: Quran 46:10
+    chapter: 46
+    verse: 10
+    ordinal: 4520
+    text: 'Bethink you: If it is from Allah and ye disbelieve therein, and a witness of the Children of Israel hath already testified to the like thereof and hath believed, and ye are too proud (what plight is yours)? Lo! Allah guideth not wrong-doing folk.'
+    translation: Pickthall
+    original: قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ
+    arabicPlain: قل أرأيتم إن كان من عند الله وكفرتم به وشهد شاهد من بني إسرائيل على مثله فآمن واستكبرتم ۖ إن الله لا يهدي القوم الظالمين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 438
+    page: 503
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:11'
+    scripture: quran
+    name: Quran 46:11
+    chapter: 46
+    verse: 11
+    ordinal: 4521
+    text: 'And those who disbelieve say of those who believe: If it had been (any) good, they would not have been before us in attaining it. And since they will not be guided by it, they say: This is an ancient lie;'
+    translation: Pickthall
+    original: وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَـٰذَآ إِفْكٌ قَدِيمٌ
+    arabicPlain: وقال الذين كفروا للذين آمنوا لو كان خيرا ما سبقونا إليه ۚ وإذ لم يهتدوا به فسيقولون هذا إفك قديم
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 439
+    page: 503
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:12'
+    scripture: quran
+    name: Quran 46:12
+    chapter: 46
+    verse: 12
+    ordinal: 4522
+    text: When before it there was the Scripture of Moses, an example and a mercy; and this is a confirming Scripture in the Arabic language, that it may warn those who do wrong and bring good tidings for the righteous.
+    translation: Pickthall
+    original: وَمِن قَبْلِهِۦ كِتَـٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً ۚ وَهَـٰذَا كِتَـٰبٌ مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ
+    arabicPlain: ومن قبله كتاب موسى إماما ورحمة ۚ وهذا كتاب مصدق لسانا عربيا لينذر الذين ظلموا وبشرى للمحسنين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 439
+    page: 503
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:13'
+    scripture: quran
+    name: Quran 46:13
+    chapter: 46
+    verse: 13
+    ordinal: 4523
+    text: 'Lo! those who say: Our Lord is Allah, and thereafter walk aright, there shall no fear come upon them neither shall they grieve.'
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+    arabicPlain: إن الذين قالوا ربنا الله ثم استقاموا فلا خوف عليهم ولا هم يحزنون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 439
+    page: 503
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:14'
+    scripture: quran
+    name: Quran 46:14
+    chapter: 46
+    verse: 14
+    ordinal: 4524
+    text: Such are rightful owners of the Garden, immortal therein, as a reward for what they used to do.
+    translation: Pickthall
+    original: أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ خَـٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ
+    arabicPlain: أولئك أصحاب الجنة خالدين فيها جزاء بما كانوا يعملون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 439
+    page: 503
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:15'
+    scripture: quran
+    name: Quran 46:15
+    chapter: 46
+    verse: 15
+    ordinal: 4525
+    text: 'And We have commended unto man kindness toward parents. His mother beareth him with reluctance, and bringeth him forth with reluctance, and the bearing of him and the weaning of him is thirty months, till, when he attaineth full strength and reacheth forty years, he saith: My Lord! Arouse me that I may give thanks for the favour wherewith Thou hast favoured me and my parents, and that I may do right acceptable unto Thee. And be gracious unto me in the matter of my seed. Lo! I have turned unto Thee repentant, and lo! I am of those who surrender (unto Thee).'
+    translation: Pickthall
+    original: وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ إِحْسَـٰنًا ۖ حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا ۖ وَحَمْلُهُۥ وَفِصَـٰلُهُۥ ثَلَـٰثُونَ شَهْرًا ۚ حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَـٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ ۖ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ
+    arabicPlain: ووصينا الإنسان بوالديه إحسانا ۖ حملته أمه كرها ووضعته كرها ۖ وحمله وفصاله ثلاثون شهرا ۚ حتى إذا بلغ أشده وبلغ أربعين سنة قال رب أوزعني أن أشكر نعمتك التي أنعمت علي وعلى والدي وأن أعمل صالحا ترضاه وأصلح لي في ذريتي ۖ إني تبت إليك وإني من المسلمين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 439
+    page: 504
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:16'
+    scripture: quran
+    name: Quran 46:16
+    chapter: 46
+    verse: 16
+    ordinal: 4526
+    text: Those are they from whom We accept the best of what they do, and overlook their evil deeds. (They are) among the owners of the Garden. This is the true promise which they were promised (in the world).
+    translation: Pickthall
+    original: أُو۟لَـٰٓئِكَ ٱلَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا۟ وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ فِىٓ أَصْحَـٰبِ ٱلْجَنَّةِ ۖ وَعْدَ ٱلصِّدْقِ ٱلَّذِى كَانُوا۟ يُوعَدُونَ
+    arabicPlain: أولئك الذين نتقبل عنهم أحسن ما عملوا ونتجاوز عن سيئاتهم في أصحاب الجنة ۖ وعد الصدق الذي كانوا يوعدون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 439
+    page: 504
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:17'
+    scripture: quran
+    name: Quran 46:17
+    chapter: 46
+    verse: 17
+    ordinal: 4527
+    text: 'And whoso saith unto his parents: Fie upon you both! Do ye threaten me that I shall be brought forth (again) when generations before me have passed away? And they twain cry unto Allah for help (and say): Woe unto thee! Believe! Lo! the promise of Allah is true. But he saith: This is naught save fables of the men of old:'
+    translation: Pickthall
+    original: وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَيَقُولُ مَا هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ
+    arabicPlain: والذي قال لوالديه أف لكما أتعدانني أن أخرج وقد خلت القرون من قبلي وهما يستغيثان الله ويلك آمن إن وعد الله حق فيقول ما هذا إلا أساطير الأولين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 439
+    page: 504
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:18'
+    scripture: quran
+    name: Quran 46:18
+    chapter: 46
+    verse: 18
+    ordinal: 4528
+    text: Such are those on whom the Word concerning nations of the jinn and mankind which have passed away before them hath effect. Lo! they are the losers.
+    translation: Pickthall
+    original: أُو۟لَـٰٓئِكَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَـٰسِرِينَ
+    arabicPlain: أولئك الذين حق عليهم القول في أمم قد خلت من قبلهم من الجن والإنس ۖ إنهم كانوا خاسرين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 439
+    page: 504
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:19'
+    scripture: quran
+    name: Quran 46:19
+    chapter: 46
+    verse: 19
+    ordinal: 4529
+    text: And for all there will be ranks from what they do, that He may pay them for their deeds; and they will not be wronged.
+    translation: Pickthall
+    original: وَلِكُلٍّ دَرَجَـٰتٌ مِّمَّا عَمِلُوا۟ ۖ وَلِيُوَفِّيَهُمْ أَعْمَـٰلَهُمْ وَهُمْ لَا يُظْلَمُونَ
+    arabicPlain: ولكل درجات مما عملوا ۖ وليوفيهم أعمالهم وهم لا يظلمون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 439
+    page: 504
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:20'
+    scripture: quran
+    name: Quran 46:20
+    chapter: 46
+    verse: 20
+    ordinal: 4530
+    text: 'And on the day when those who disbelieve are exposed to the Fire (it will be said): Ye squandered your good things in the life of the world and sought comfort therein. Now this day ye are rewarded with the doom of ignominy because ye were disdainful in the land without a right, and because ye used to transgress.'
+    translation: Pickthall
+    original: وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَـٰتِكُمْ فِى حَيَاتِكُمُ ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ
+    arabicPlain: ويوم يعرض الذين كفروا على النار أذهبتم طيباتكم في حياتكم الدنيا واستمتعتم بها فاليوم تجزون عذاب الهون بما كنتم تستكبرون في الأرض بغير الحق وبما كنتم تفسقون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 439
+    page: 504
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:21'
+    scripture: quran
+    name: Quran 46:21
+    chapter: 46
+    verse: 21
+    ordinal: 4531
+    text: 'And make mention (O Muhammad) of the brother of A''ad when he warned his folk among the wind-curved sandhills - and verily warners came and went before and after him - saying: Serve none but Allah. Lo! I fear for you the doom of a tremendous Day.'
+    translation: Pickthall
+    original: ۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ
+    arabicPlain: ۞ واذكر أخا عاد إذ أنذر قومه بالأحقاف وقد خلت النذر من بين يديه ومن خلفه ألا تعبدوا إلا الله إني أخاف عليكم عذاب يوم عظيم
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 440
+    page: 505
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:22'
+    scripture: quran
+    name: Quran 46:22
+    chapter: 46
+    verse: 22
+    ordinal: 4532
+    text: 'They said: Hast come to turn us away from our gods? Then bring upon us that wherewith thou threatenest us, if thou art of the truthful.'
+    translation: Pickthall
+    original: قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ
+    arabicPlain: قالوا أجئتنا لتأفكنا عن آلهتنا فأتنا بما تعدنا إن كنت من الصادقين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 440
+    page: 505
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:23'
+    scripture: quran
+    name: Quran 46:23
+    chapter: 46
+    verse: 23
+    ordinal: 4533
+    text: 'He said: The knowledge is with Allah only. I convey unto you that wherewith I have been sent, but I see you are a folk that know not.'
+    translation: Pickthall
+    original: قَالَ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَأُبَلِّغُكُم مَّآ أُرْسِلْتُ بِهِۦ وَلَـٰكِنِّىٓ أَرَىٰكُمْ قَوْمًا تَجْهَلُونَ
+    arabicPlain: قال إنما العلم عند الله وأبلغكم ما أرسلت به ولكني أراكم قوما تجهلون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 440
+    page: 505
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:24'
+    scripture: quran
+    name: Quran 46:24
+    chapter: 46
+    verse: 24
+    ordinal: 4534
+    text: 'Then, when they beheld it as a dense cloud coming toward their valleys, they said: Here is a cloud bringing us rain. Nay, but it is that which ye did seek to hasten, a wind wherein is painful torment,'
+    translation: Pickthall
+    original: فَلَمَّا رَأَوْهُ عَارِضًا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَـٰذَا عَارِضٌ مُّمْطِرُنَا ۚ بَلْ هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ ۖ رِيحٌ فِيهَا عَذَابٌ أَلِيمٌ
+    arabicPlain: فلما رأوه عارضا مستقبل أوديتهم قالوا هذا عارض ممطرنا ۚ بل هو ما استعجلتم به ۖ ريح فيها عذاب أليم
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 440
+    page: 505
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:25'
+    scripture: quran
+    name: Quran 46:25
+    chapter: 46
+    verse: 25
+    ordinal: 4535
+    text: Destroying all things by commandment of its Lord. And morning found them so that naught could be seen save their dwellings. Thus do We reward the guilty folk.
+    translation: Pickthall
+    original: تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ
+    arabicPlain: تدمر كل شيء بأمر ربها فأصبحوا لا يرى إلا مساكنهم ۚ كذلك نجزي القوم المجرمين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 440
+    page: 505
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:26'
+    scripture: quran
+    name: Quran 46:26
+    chapter: 46
+    verse: 26
+    ordinal: 4536
+    text: And verily We had empowered them with that wherewith We have not empowered you, and had assigned them ears and eyes and hearts; but their ears and eyes and hearts availed them naught since they denied the revelations of Allah; and what they used to mock befell them.
+    translation: Pickthall
+    original: وَلَقَدْ مَكَّنَّـٰهُمْ فِيمَآ إِن مَّكَّنَّـٰكُمْ فِيهِ وَجَعَلْنَا لَهُمْ سَمْعًا وَأَبْصَـٰرًا وَأَفْـِٔدَةً فَمَآ أَغْنَىٰ عَنْهُمْ سَمْعُهُمْ وَلَآ أَبْصَـٰرُهُمْ وَلَآ أَفْـِٔدَتُهُم مِّن شَىْءٍ إِذْ كَانُوا۟ يَجْحَدُونَ بِـَٔايَـٰتِ ٱللَّهِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
+    arabicPlain: ولقد مكناهم فيما إن مكناكم فيه وجعلنا لهم سمعا وأبصارا وأفئدة فما أغنى عنهم سمعهم ولا أبصارهم ولا أفئدتهم من شيء إذ كانوا يجحدون بآيات الله وحاق بهم ما كانوا به يستهزئون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 440
+    page: 505
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:27'
+    scripture: quran
+    name: Quran 46:27
+    chapter: 46
+    verse: 27
+    ordinal: 4537
+    text: And verily We have destroyed townships round about you, and displayed (for them) Our revelation, that haply they might return.
+    translation: Pickthall
+    original: وَلَقَدْ أَهْلَكْنَا مَا حَوْلَكُم مِّنَ ٱلْقُرَىٰ وَصَرَّفْنَا ٱلْـَٔايَـٰتِ لَعَلَّهُمْ يَرْجِعُونَ
+    arabicPlain: ولقد أهلكنا ما حولكم من القرى وصرفنا الآيات لعلهم يرجعون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 441
+    page: 505
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:28'
+    scripture: quran
+    name: Quran 46:28
+    chapter: 46
+    verse: 28
+    ordinal: 4538
+    text: Then why did those whom they had chosen for gods as a way of approach (unto Allah) not help them? Nay, but they did fail them utterly. And (all) that was their lie, and what they used to invent.
+    translation: Pickthall
+    original: فَلَوْلَا نَصَرَهُمُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّوا۟ عَنْهُمْ ۚ وَذَٰلِكَ إِفْكُهُمْ وَمَا كَانُوا۟ يَفْتَرُونَ
+    arabicPlain: فلولا نصرهم الذين اتخذوا من دون الله قربانا آلهة ۖ بل ضلوا عنهم ۚ وذلك إفكهم وما كانوا يفترون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 441
+    page: 505
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:29'
+    scripture: quran
+    name: Quran 46:29
+    chapter: 46
+    verse: 29
+    ordinal: 4539
+    text: 'And when We inclined toward thee (Muhammad) certain of the jinn, who wished to hear the Qur''an and, when they were in its presence, said: Give ear! and, when it was finished, turned back to their people, warning.'
+    translation: Pickthall
+    original: وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ ۖ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ
+    arabicPlain: وإذ صرفنا إليك نفرا من الجن يستمعون القرآن فلما حضروه قالوا أنصتوا ۖ فلما قضي ولوا إلى قومهم منذرين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 441
+    page: 506
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:30'
+    scripture: quran
+    name: Quran 46:30
+    chapter: 46
+    verse: 30
+    ordinal: 4540
+    text: 'They said: O our people! Lo! we have heard a scripture which hath been revealed after Moses, confirming that which was before it, guiding unto the truth and a right road.'
+    translation: Pickthall
+    original: قَالُوا۟ يَـٰقَوْمَنَآ إِنَّا سَمِعْنَا كِتَـٰبًا أُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ إِلَى ٱلْحَقِّ وَإِلَىٰ طَرِيقٍ مُّسْتَقِيمٍ
+    arabicPlain: قالوا يا قومنا إنا سمعنا كتابا أنزل من بعد موسى مصدقا لما بين يديه يهدي إلى الحق وإلى طريق مستقيم
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 441
+    page: 506
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:31'
+    scripture: quran
+    name: Quran 46:31
+    chapter: 46
+    verse: 31
+    ordinal: 4541
+    text: O our people! respond to Allah's summoner and believe in Him. He will forgive you some of your sins and guard you from a painful doom.
+    translation: Pickthall
+    original: يَـٰقَوْمَنَآ أَجِيبُوا۟ دَاعِىَ ٱللَّهِ وَءَامِنُوا۟ بِهِۦ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍ
+    arabicPlain: يا قومنا أجيبوا داعي الله وآمنوا به يغفر لكم من ذنوبكم ويجركم من عذاب أليم
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 441
+    page: 506
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:32'
+    scripture: quran
+    name: Quran 46:32
+    chapter: 46
+    verse: 32
+    ordinal: 4542
+    text: And whoso respondeth not to Allah's summoner he can nowise escape in the earth, and he hath no protecting friends instead of Him. Such are in error manifest.
+    translation: Pickthall
+    original: وَمَن لَّا يُجِبْ دَاعِىَ ٱللَّهِ فَلَيْسَ بِمُعْجِزٍ فِى ٱلْأَرْضِ وَلَيْسَ لَهُۥ مِن دُونِهِۦٓ أَوْلِيَآءُ ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍ مُّبِينٍ
+    arabicPlain: ومن لا يجب داعي الله فليس بمعجز في الأرض وليس له من دونه أولياء ۚ أولئك في ضلال مبين
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 441
+    page: 506
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:33'
+    scripture: quran
+    name: Quran 46:33
+    chapter: 46
+    verse: 33
+    ordinal: 4543
+    text: Have they not seen that Allah, Who created the heavens and the earth and was not wearied by their creation, is Able to give life to the dead? Aye, He verily is Able to do all things.
+    translation: Pickthall
+    original: أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ ۚ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+    arabicPlain: أولم يروا أن الله الذي خلق السماوات والأرض ولم يعي بخلقهن بقادر على أن يحيي الموتى ۚ بلى إنه على كل شيء قدير
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 441
+    page: 506
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:34'
+    scripture: quran
+    name: Quran 46:34
+    chapter: 46
+    verse: 34
+    ordinal: 4544
+    text: 'And on the day when those who disbelieve are exposed to the Fire (they will be asked): Is not this real? They will say: Yea, by our Lord. He will say: Then taste the doom for that ye disbelieved.'
+    translation: Pickthall
+    original: وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَلَيْسَ هَـٰذَا بِٱلْحَقِّ ۖ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
+    arabicPlain: ويوم يعرض الذين كفروا على النار أليس هذا بالحق ۖ قالوا بلى وربنا ۚ قال فذوقوا العذاب بما كنتم تكفرون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 441
+    page: 506
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26
+- type: Ayah
+  data:
+    ref: '46:35'
+    scripture: quran
+    name: Quran 46:35
+    chapter: 46
+    verse: 35
+    ordinal: 4545
+    text: Then have patience (O Muhammad) even as the stout of heart among the messengers (of old) had patience, and seek not to hasten on (the doom) for them. On the day when they see that which they are promised (it will seem to them) as though they had tarried but an hour of daylight. A clear message. Shall any be destroyed save evil-living folk?
+    translation: Pickthall
+    original: فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ مِنَ ٱلرُّسُلِ وَلَا تَسْتَعْجِل لَّهُمْ ۚ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّن نَّهَارٍۭ ۚ بَلَـٰغٌ ۚ فَهَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلْفَـٰسِقُونَ
+    arabicPlain: فاصبر كما صبر أولو العزم من الرسل ولا تستعجل لهم ۚ كأنهم يوم يرون ما يوعدون لم يلبثوا إلا ساعة من نهار ۚ بلاغ ۚ فهل يهلك إلا القوم الفاسقون
+    surahName: Al-Ahqaf
+    juz: 26
+    manzil: 6
+    ruku: 441
+    page: 506
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '46'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-26

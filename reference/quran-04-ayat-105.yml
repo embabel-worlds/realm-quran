@@ -1,0 +1,193 @@
+# Every ayah of Surah Al-Fil (The Elephant): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '105:1'
+    scripture: quran
+    name: Quran 105:1
+    chapter: 105
+    verse: 1
+    ordinal: 6189
+    text: Hast thou not seen how thy Lord dealt with the owners of the Elephant?
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ
+    arabicPlain: بسم الله الرحمن الرحيم ألم تر كيف فعل ربك بأصحاب الفيل
+    surahName: Al-Fil
+    juz: 30
+    manzil: 7
+    ruku: 547
+    page: 601
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '105'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '105:2'
+    scripture: quran
+    name: Quran 105:2
+    chapter: 105
+    verse: 2
+    ordinal: 6190
+    text: Did He not bring their stratagem to naught,
+    translation: Pickthall
+    original: أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ
+    arabicPlain: ألم يجعل كيدهم في تضليل
+    surahName: Al-Fil
+    juz: 30
+    manzil: 7
+    ruku: 547
+    page: 601
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '105'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '105:3'
+    scripture: quran
+    name: Quran 105:3
+    chapter: 105
+    verse: 3
+    ordinal: 6191
+    text: And send against them swarms of flying creatures,
+    translation: Pickthall
+    original: وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ
+    arabicPlain: وأرسل عليهم طيرا أبابيل
+    surahName: Al-Fil
+    juz: 30
+    manzil: 7
+    ruku: 547
+    page: 601
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '105'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '105:4'
+    scripture: quran
+    name: Quran 105:4
+    chapter: 105
+    verse: 4
+    ordinal: 6192
+    text: Which pelted them with stones of baked clay,
+    translation: Pickthall
+    original: تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ
+    arabicPlain: ترميهم بحجارة من سجيل
+    surahName: Al-Fil
+    juz: 30
+    manzil: 7
+    ruku: 547
+    page: 601
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '105'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '105:5'
+    scripture: quran
+    name: Quran 105:5
+    chapter: 105
+    verse: 5
+    ordinal: 6193
+    text: And made them like green crops devoured (by cattle)?
+    translation: Pickthall
+    original: فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ
+    arabicPlain: فجعلهم كعصف مأكول
+    surahName: Al-Fil
+    juz: 30
+    manzil: 7
+    ruku: 547
+    page: 601
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '105'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

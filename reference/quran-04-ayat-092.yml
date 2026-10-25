@@ -1,0 +1,609 @@
+# Every ayah of Surah Al-Lail (The Night): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '92:1'
+    scripture: quran
+    name: Quran 92:1
+    chapter: 92
+    verse: 1
+    ordinal: 6059
+    text: By the night enshrouding
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ
+    arabicPlain: بسم الله الرحمن الرحيم والليل إذا يغشى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:2'
+    scripture: quran
+    name: Quran 92:2
+    chapter: 92
+    verse: 2
+    ordinal: 6060
+    text: And the day resplendent
+    translation: Pickthall
+    original: وَٱلنَّهَارِ إِذَا تَجَلَّىٰ
+    arabicPlain: والنهار إذا تجلى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:3'
+    scripture: quran
+    name: Quran 92:3
+    chapter: 92
+    verse: 3
+    ordinal: 6061
+    text: And Him Who hath created male and female,
+    translation: Pickthall
+    original: وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ
+    arabicPlain: وما خلق الذكر والأنثى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:4'
+    scripture: quran
+    name: Quran 92:4
+    chapter: 92
+    verse: 4
+    ordinal: 6062
+    text: Lo! your effort is dispersed (toward divers ends).
+    translation: Pickthall
+    original: إِنَّ سَعْيَكُمْ لَشَتَّىٰ
+    arabicPlain: إن سعيكم لشتى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:5'
+    scripture: quran
+    name: Quran 92:5
+    chapter: 92
+    verse: 5
+    ordinal: 6063
+    text: As for him who giveth and is dutiful (toward Allah)
+    translation: Pickthall
+    original: فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ
+    arabicPlain: فأما من أعطى واتقى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:6'
+    scripture: quran
+    name: Quran 92:6
+    chapter: 92
+    verse: 6
+    ordinal: 6064
+    text: And believeth in goodness;
+    translation: Pickthall
+    original: وَصَدَّقَ بِٱلْحُسْنَىٰ
+    arabicPlain: وصدق بالحسنى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:7'
+    scripture: quran
+    name: Quran 92:7
+    chapter: 92
+    verse: 7
+    ordinal: 6065
+    text: Surely We will ease his way unto the state of ease.
+    translation: Pickthall
+    original: فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ
+    arabicPlain: فسنيسره لليسرى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:8'
+    scripture: quran
+    name: Quran 92:8
+    chapter: 92
+    verse: 8
+    ordinal: 6066
+    text: But as for him who hoardeth and deemeth himself independent,
+    translation: Pickthall
+    original: وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ
+    arabicPlain: وأما من بخل واستغنى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:9'
+    scripture: quran
+    name: Quran 92:9
+    chapter: 92
+    verse: 9
+    ordinal: 6067
+    text: And disbelieveth in goodness;
+    translation: Pickthall
+    original: وَكَذَّبَ بِٱلْحُسْنَىٰ
+    arabicPlain: وكذب بالحسنى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:10'
+    scripture: quran
+    name: Quran 92:10
+    chapter: 92
+    verse: 10
+    ordinal: 6068
+    text: Surely We will ease his way unto adversity.
+    translation: Pickthall
+    original: فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ
+    arabicPlain: فسنيسره للعسرى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:11'
+    scripture: quran
+    name: Quran 92:11
+    chapter: 92
+    verse: 11
+    ordinal: 6069
+    text: His riches will not save him when he perisheth.
+    translation: Pickthall
+    original: وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ
+    arabicPlain: وما يغني عنه ماله إذا تردى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:12'
+    scripture: quran
+    name: Quran 92:12
+    chapter: 92
+    verse: 12
+    ordinal: 6070
+    text: Lo! Ours it is (to give) the guidance
+    translation: Pickthall
+    original: إِنَّ عَلَيْنَا لَلْهُدَىٰ
+    arabicPlain: إن علينا للهدى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:13'
+    scripture: quran
+    name: Quran 92:13
+    chapter: 92
+    verse: 13
+    ordinal: 6071
+    text: And lo! unto Us belong the latter portion and the former.
+    translation: Pickthall
+    original: وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ
+    arabicPlain: وإن لنا للآخرة والأولى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:14'
+    scripture: quran
+    name: Quran 92:14
+    chapter: 92
+    verse: 14
+    ordinal: 6072
+    text: Therefor have I warned you of the flaming Fire
+    translation: Pickthall
+    original: فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ
+    arabicPlain: فأنذرتكم نارا تلظى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 595
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:15'
+    scripture: quran
+    name: Quran 92:15
+    chapter: 92
+    verse: 15
+    ordinal: 6073
+    text: Which only the most wretched must endure,
+    translation: Pickthall
+    original: لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى
+    arabicPlain: لا يصلاها إلا الأشقى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:16'
+    scripture: quran
+    name: Quran 92:16
+    chapter: 92
+    verse: 16
+    ordinal: 6074
+    text: He who denieth and turneth away.
+    translation: Pickthall
+    original: ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ
+    arabicPlain: الذي كذب وتولى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:17'
+    scripture: quran
+    name: Quran 92:17
+    chapter: 92
+    verse: 17
+    ordinal: 6075
+    text: Far removed from it will be the righteous
+    translation: Pickthall
+    original: وَسَيُجَنَّبُهَا ٱلْأَتْقَى
+    arabicPlain: وسيجنبها الأتقى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:18'
+    scripture: quran
+    name: Quran 92:18
+    chapter: 92
+    verse: 18
+    ordinal: 6076
+    text: Who giveth his wealth that he may grow (in goodness).
+    translation: Pickthall
+    original: ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ
+    arabicPlain: الذي يؤتي ماله يتزكى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:19'
+    scripture: quran
+    name: Quran 92:19
+    chapter: 92
+    verse: 19
+    ordinal: 6077
+    text: And none hath with him any favour for reward,
+    translation: Pickthall
+    original: وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ
+    arabicPlain: وما لأحد عنده من نعمة تجزى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:20'
+    scripture: quran
+    name: Quran 92:20
+    chapter: 92
+    verse: 20
+    ordinal: 6078
+    text: Except as seeking (to fulfil) the purpose of his Lord Most High.
+    translation: Pickthall
+    original: إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ
+    arabicPlain: إلا ابتغاء وجه ربه الأعلى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '92:21'
+    scripture: quran
+    name: Quran 92:21
+    chapter: 92
+    verse: 21
+    ordinal: 6079
+    text: He verily will be content.
+    translation: Pickthall
+    original: وَلَسَوْفَ يَرْضَىٰ
+    arabicPlain: ولسوف يرضى
+    surahName: Al-Lail
+    juz: 30
+    manzil: 7
+    ruku: 534
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '92'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

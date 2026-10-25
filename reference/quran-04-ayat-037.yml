@@ -1,0 +1,4795 @@
+# Every ayah of Surah As-Saaffaat (Those drawn up in Ranks): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '37:1'
+    scripture: quran
+    name: Quran 37:1
+    chapter: 37
+    verse: 1
+    ordinal: 3789
+    text: By those who set the ranks in battle order
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلصَّـٰٓفَّـٰتِ صَفًّا
+    arabicPlain: بسم الله الرحمن الرحيم والصافات صفا
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:2'
+    scripture: quran
+    name: Quran 37:2
+    chapter: 37
+    verse: 2
+    ordinal: 3790
+    text: And those who drive away (the wicked) with reproof
+    translation: Pickthall
+    original: فَٱلزَّٰجِرَٰتِ زَجْرًا
+    arabicPlain: فالزاجرات زجرا
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:3'
+    scripture: quran
+    name: Quran 37:3
+    chapter: 37
+    verse: 3
+    ordinal: 3791
+    text: And those who read (the Word) for a reminder,
+    translation: Pickthall
+    original: فَٱلتَّـٰلِيَـٰتِ ذِكْرًا
+    arabicPlain: فالتاليات ذكرا
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:4'
+    scripture: quran
+    name: Quran 37:4
+    chapter: 37
+    verse: 4
+    ordinal: 3792
+    text: Lo! thy Lord is surely One;
+    translation: Pickthall
+    original: إِنَّ إِلَـٰهَكُمْ لَوَٰحِدٌ
+    arabicPlain: إن إلهكم لواحد
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:5'
+    scripture: quran
+    name: Quran 37:5
+    chapter: 37
+    verse: 5
+    ordinal: 3793
+    text: Lord of the heavens and of the earth and all that is between them, and Lord of the sun's risings.
+    translation: Pickthall
+    original: رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ ٱلْمَشَـٰرِقِ
+    arabicPlain: رب السماوات والأرض وما بينهما ورب المشارق
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:6'
+    scripture: quran
+    name: Quran 37:6
+    chapter: 37
+    verse: 6
+    ordinal: 3794
+    text: Lo! We have adorned the lowest heaven with an ornament, the planets;
+    translation: Pickthall
+    original: إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ
+    arabicPlain: إنا زينا السماء الدنيا بزينة الكواكب
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:7'
+    scripture: quran
+    name: Quran 37:7
+    chapter: 37
+    verse: 7
+    ordinal: 3795
+    text: With security from every froward devil.
+    translation: Pickthall
+    original: وَحِفْظًا مِّن كُلِّ شَيْطَـٰنٍ مَّارِدٍ
+    arabicPlain: وحفظا من كل شيطان مارد
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:8'
+    scripture: quran
+    name: Quran 37:8
+    chapter: 37
+    verse: 8
+    ordinal: 3796
+    text: They cannot listen to the Highest Chiefs for they are pelted from every side,
+    translation: Pickthall
+    original: لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ
+    arabicPlain: لا يسمعون إلى الملإ الأعلى ويقذفون من كل جانب
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:9'
+    scripture: quran
+    name: Quran 37:9
+    chapter: 37
+    verse: 9
+    ordinal: 3797
+    text: Outcast, and theirs is a perpetual torment;
+    translation: Pickthall
+    original: دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ
+    arabicPlain: دحورا ۖ ولهم عذاب واصب
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:10'
+    scripture: quran
+    name: Quran 37:10
+    chapter: 37
+    verse: 10
+    ordinal: 3798
+    text: Save him who snatcheth a fragment, and there pursueth him a piercing flame.
+    translation: Pickthall
+    original: إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌ ثَاقِبٌ
+    arabicPlain: إلا من خطف الخطفة فأتبعه شهاب ثاقب
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:11'
+    scripture: quran
+    name: Quran 37:11
+    chapter: 37
+    verse: 11
+    ordinal: 3799
+    text: 'Then ask them (O Muhammad): Are they stronger as a creation, or those (others) whom we have created? Lo! We created them of plastic clay.'
+    translation: Pickthall
+    original: فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَـٰهُم مِّن طِينٍ لَّازِبٍۭ
+    arabicPlain: فاستفتهم أهم أشد خلقا أم من خلقنا ۚ إنا خلقناهم من طين لازب
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:12'
+    scripture: quran
+    name: Quran 37:12
+    chapter: 37
+    verse: 12
+    ordinal: 3800
+    text: Nay, but thou dost marvel when they mock
+    translation: Pickthall
+    original: بَلْ عَجِبْتَ وَيَسْخَرُونَ
+    arabicPlain: بل عجبت ويسخرون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:13'
+    scripture: quran
+    name: Quran 37:13
+    chapter: 37
+    verse: 13
+    ordinal: 3801
+    text: And heed not when they are reminded,
+    translation: Pickthall
+    original: وَإِذَا ذُكِّرُوا۟ لَا يَذْكُرُونَ
+    arabicPlain: وإذا ذكروا لا يذكرون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:14'
+    scripture: quran
+    name: Quran 37:14
+    chapter: 37
+    verse: 14
+    ordinal: 3802
+    text: And seek to scoff when they behold a portent.
+    translation: Pickthall
+    original: وَإِذَا رَأَوْا۟ ءَايَةً يَسْتَسْخِرُونَ
+    arabicPlain: وإذا رأوا آية يستسخرون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:15'
+    scripture: quran
+    name: Quran 37:15
+    chapter: 37
+    verse: 15
+    ordinal: 3803
+    text: 'And they say: Lo! this is mere magic;'
+    translation: Pickthall
+    original: وَقَالُوٓا۟ إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+    arabicPlain: وقالوا إن هذا إلا سحر مبين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:16'
+    scripture: quran
+    name: Quran 37:16
+    chapter: 37
+    verse: 16
+    ordinal: 3804
+    text: When we are dead and have become dust and bones, shall we then, forsooth, be raised (again)?
+    translation: Pickthall
+    original: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ
+    arabicPlain: أإذا متنا وكنا ترابا وعظاما أإنا لمبعوثون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:17'
+    scripture: quran
+    name: Quran 37:17
+    chapter: 37
+    verse: 17
+    ordinal: 3805
+    text: And our forefathers?
+    translation: Pickthall
+    original: أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ
+    arabicPlain: أوآباؤنا الأولون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:18'
+    scripture: quran
+    name: Quran 37:18
+    chapter: 37
+    verse: 18
+    ordinal: 3806
+    text: 'Say (O Muhammad): Ye, in truth; and ye will be brought low.'
+    translation: Pickthall
+    original: قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ
+    arabicPlain: قل نعم وأنتم داخرون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:19'
+    scripture: quran
+    name: Quran 37:19
+    chapter: 37
+    verse: 19
+    ordinal: 3807
+    text: There is but one Shout, and lo! they behold,
+    translation: Pickthall
+    original: فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ
+    arabicPlain: فإنما هي زجرة واحدة فإذا هم ينظرون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:20'
+    scripture: quran
+    name: Quran 37:20
+    chapter: 37
+    verse: 20
+    ordinal: 3808
+    text: 'And say: Ah, woe for us! This is the Day of Judgment.'
+    translation: Pickthall
+    original: وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا يَوْمُ ٱلدِّينِ
+    arabicPlain: وقالوا يا ويلنا هذا يوم الدين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:21'
+    scripture: quran
+    name: Quran 37:21
+    chapter: 37
+    verse: 21
+    ordinal: 3809
+    text: This is the Day of Separation, which ye used to deny.
+    translation: Pickthall
+    original: هَـٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ
+    arabicPlain: هذا يوم الفصل الذي كنتم به تكذبون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 386
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:22'
+    scripture: quran
+    name: Quran 37:22
+    chapter: 37
+    verse: 22
+    ordinal: 3810
+    text: '(And it is said unto the angels): Assemble those who did wrong, together with their wives and what they used to worship'
+    translation: Pickthall
+    original: ۞ ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ
+    arabicPlain: ۞ احشروا الذين ظلموا وأزواجهم وما كانوا يعبدون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:23'
+    scripture: quran
+    name: Quran 37:23
+    chapter: 37
+    verse: 23
+    ordinal: 3811
+    text: Instead of Allah, and lead them to the path to hell;
+    translation: Pickthall
+    original: مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ
+    arabicPlain: من دون الله فاهدوهم إلى صراط الجحيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:24'
+    scripture: quran
+    name: Quran 37:24
+    chapter: 37
+    verse: 24
+    ordinal: 3812
+    text: And stop them, for they must be questioned.
+    translation: Pickthall
+    original: وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ
+    arabicPlain: وقفوهم ۖ إنهم مسئولون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 446
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:25'
+    scripture: quran
+    name: Quran 37:25
+    chapter: 37
+    verse: 25
+    ordinal: 3813
+    text: What aileth you that ye help not one another?
+    translation: Pickthall
+    original: مَا لَكُمْ لَا تَنَاصَرُونَ
+    arabicPlain: ما لكم لا تناصرون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:26'
+    scripture: quran
+    name: Quran 37:26
+    chapter: 37
+    verse: 26
+    ordinal: 3814
+    text: Nay, but this day they make full submission.
+    translation: Pickthall
+    original: بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ
+    arabicPlain: بل هم اليوم مستسلمون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:27'
+    scripture: quran
+    name: Quran 37:27
+    chapter: 37
+    verse: 27
+    ordinal: 3815
+    text: And some of them draw near unto others, mutually questioning.
+    translation: Pickthall
+    original: وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ
+    arabicPlain: وأقبل بعضهم على بعض يتساءلون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:28'
+    scripture: quran
+    name: Quran 37:28
+    chapter: 37
+    verse: 28
+    ordinal: 3816
+    text: 'They say: Lo! ye used to come unto us, imposing, (swearing that ye spoke the truth).'
+    translation: Pickthall
+    original: قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ
+    arabicPlain: قالوا إنكم كنتم تأتوننا عن اليمين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:29'
+    scripture: quran
+    name: Quran 37:29
+    chapter: 37
+    verse: 29
+    ordinal: 3817
+    text: 'They answer: Nay, but ye (yourselves) were not believers.'
+    translation: Pickthall
+    original: قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ
+    arabicPlain: قالوا بل لم تكونوا مؤمنين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:30'
+    scripture: quran
+    name: Quran 37:30
+    chapter: 37
+    verse: 30
+    ordinal: 3818
+    text: We had no power over you, but ye were wayward folk.
+    translation: Pickthall
+    original: وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَـٰنٍۭ ۖ بَلْ كُنتُمْ قَوْمًا طَـٰغِينَ
+    arabicPlain: وما كان لنا عليكم من سلطان ۖ بل كنتم قوما طاغين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:31'
+    scripture: quran
+    name: Quran 37:31
+    chapter: 37
+    verse: 31
+    ordinal: 3819
+    text: Now the Word of our Lord hath been fulfilled concerning us. Lo! we are about to taste (the doom).
+    translation: Pickthall
+    original: فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ
+    arabicPlain: فحق علينا قول ربنا ۖ إنا لذائقون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:32'
+    scripture: quran
+    name: Quran 37:32
+    chapter: 37
+    verse: 32
+    ordinal: 3820
+    text: Thus we misled you. Lo! we were (ourselves) astray.
+    translation: Pickthall
+    original: فَأَغْوَيْنَـٰكُمْ إِنَّا كُنَّا غَـٰوِينَ
+    arabicPlain: فأغويناكم إنا كنا غاوين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:33'
+    scripture: quran
+    name: Quran 37:33
+    chapter: 37
+    verse: 33
+    ordinal: 3821
+    text: Then lo! this day they (both) are sharers in the doom.
+    translation: Pickthall
+    original: فَإِنَّهُمْ يَوْمَئِذٍ فِى ٱلْعَذَابِ مُشْتَرِكُونَ
+    arabicPlain: فإنهم يومئذ في العذاب مشتركون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:34'
+    scripture: quran
+    name: Quran 37:34
+    chapter: 37
+    verse: 34
+    ordinal: 3822
+    text: Lo! thus deal We with the guilty.
+    translation: Pickthall
+    original: إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ
+    arabicPlain: إنا كذلك نفعل بالمجرمين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:35'
+    scripture: quran
+    name: Quran 37:35
+    chapter: 37
+    verse: 35
+    ordinal: 3823
+    text: For when it was said unto them, There is no Allah save Allah, they were scornful
+    translation: Pickthall
+    original: إِنَّهُمْ كَانُوٓا۟ إِذَا قِيلَ لَهُمْ لَآ إِلَـٰهَ إِلَّا ٱللَّهُ يَسْتَكْبِرُونَ
+    arabicPlain: إنهم كانوا إذا قيل لهم لا إله إلا الله يستكبرون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:36'
+    scripture: quran
+    name: Quran 37:36
+    chapter: 37
+    verse: 36
+    ordinal: 3824
+    text: 'And said: Shall we forsake our gods for a mad poet?'
+    translation: Pickthall
+    original: وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍ مَّجْنُونٍۭ
+    arabicPlain: ويقولون أئنا لتاركو آلهتنا لشاعر مجنون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:37'
+    scripture: quran
+    name: Quran 37:37
+    chapter: 37
+    verse: 37
+    ordinal: 3825
+    text: Nay, but he brought the Truth, and he confirmed those sent (before him).
+    translation: Pickthall
+    original: بَلْ جَآءَ بِٱلْحَقِّ وَصَدَّقَ ٱلْمُرْسَلِينَ
+    arabicPlain: بل جاء بالحق وصدق المرسلين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:38'
+    scripture: quran
+    name: Quran 37:38
+    chapter: 37
+    verse: 38
+    ordinal: 3826
+    text: Lo! (now) verily ye taste the painful doom -
+    translation: Pickthall
+    original: إِنَّكُمْ لَذَآئِقُوا۟ ٱلْعَذَابِ ٱلْأَلِيمِ
+    arabicPlain: إنكم لذائقو العذاب الأليم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:39'
+    scripture: quran
+    name: Quran 37:39
+    chapter: 37
+    verse: 39
+    ordinal: 3827
+    text: Ye are requited naught save what ye did -
+    translation: Pickthall
+    original: وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ
+    arabicPlain: وما تجزون إلا ما كنتم تعملون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:40'
+    scripture: quran
+    name: Quran 37:40
+    chapter: 37
+    verse: 40
+    ordinal: 3828
+    text: Save single-minded slaves of Allah;
+    translation: Pickthall
+    original: إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
+    arabicPlain: إلا عباد الله المخلصين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:41'
+    scripture: quran
+    name: Quran 37:41
+    chapter: 37
+    verse: 41
+    ordinal: 3829
+    text: For them there is a known provision,
+    translation: Pickthall
+    original: أُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ
+    arabicPlain: أولئك لهم رزق معلوم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:42'
+    scripture: quran
+    name: Quran 37:42
+    chapter: 37
+    verse: 42
+    ordinal: 3830
+    text: Fruits. And they will be honoured
+    translation: Pickthall
+    original: فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ
+    arabicPlain: فواكه ۖ وهم مكرمون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:43'
+    scripture: quran
+    name: Quran 37:43
+    chapter: 37
+    verse: 43
+    ordinal: 3831
+    text: In the Gardens of delight,
+    translation: Pickthall
+    original: فِى جَنَّـٰتِ ٱلنَّعِيمِ
+    arabicPlain: في جنات النعيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:44'
+    scripture: quran
+    name: Quran 37:44
+    chapter: 37
+    verse: 44
+    ordinal: 3832
+    text: On couches facing one another;
+    translation: Pickthall
+    original: عَلَىٰ سُرُرٍ مُّتَقَـٰبِلِينَ
+    arabicPlain: على سرر متقابلين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:45'
+    scripture: quran
+    name: Quran 37:45
+    chapter: 37
+    verse: 45
+    ordinal: 3833
+    text: A cup from a gushing spring is brought round for them,
+    translation: Pickthall
+    original: يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍۭ
+    arabicPlain: يطاف عليهم بكأس من معين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:46'
+    scripture: quran
+    name: Quran 37:46
+    chapter: 37
+    verse: 46
+    ordinal: 3834
+    text: White, delicious to the drinkers,
+    translation: Pickthall
+    original: بَيْضَآءَ لَذَّةٍ لِّلشَّـٰرِبِينَ
+    arabicPlain: بيضاء لذة للشاربين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:47'
+    scripture: quran
+    name: Quran 37:47
+    chapter: 37
+    verse: 47
+    ordinal: 3835
+    text: Wherein there is no headache nor are they made mad thereby.
+    translation: Pickthall
+    original: لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنزَفُونَ
+    arabicPlain: لا فيها غول ولا هم عنها ينزفون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:48'
+    scripture: quran
+    name: Quran 37:48
+    chapter: 37
+    verse: 48
+    ordinal: 3836
+    text: And with them are those of modest gaze, with lovely eyes,
+    translation: Pickthall
+    original: وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ عِينٌ
+    arabicPlain: وعندهم قاصرات الطرف عين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:49'
+    scripture: quran
+    name: Quran 37:49
+    chapter: 37
+    verse: 49
+    ordinal: 3837
+    text: (Pure) as they were hidden eggs (of the ostrich).
+    translation: Pickthall
+    original: كَأَنَّهُنَّ بَيْضٌ مَّكْنُونٌ
+    arabicPlain: كأنهن بيض مكنون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:50'
+    scripture: quran
+    name: Quran 37:50
+    chapter: 37
+    verse: 50
+    ordinal: 3838
+    text: And some of them draw near unto others, mutually questioning.
+    translation: Pickthall
+    original: فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ
+    arabicPlain: فأقبل بعضهم على بعض يتساءلون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:51'
+    scripture: quran
+    name: Quran 37:51
+    chapter: 37
+    verse: 51
+    ordinal: 3839
+    text: 'A speaker of them saith: Lo! I had a comrade'
+    translation: Pickthall
+    original: قَالَ قَآئِلٌ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌ
+    arabicPlain: قال قائل منهم إني كان لي قرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 447
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:52'
+    scripture: quran
+    name: Quran 37:52
+    chapter: 37
+    verse: 52
+    ordinal: 3840
+    text: 'Who used to say: Art thou in truth of those who put faith (in his words)?'
+    translation: Pickthall
+    original: يَقُولُ أَءِنَّكَ لَمِنَ ٱلْمُصَدِّقِينَ
+    arabicPlain: يقول أإنك لمن المصدقين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:53'
+    scripture: quran
+    name: Quran 37:53
+    chapter: 37
+    verse: 53
+    ordinal: 3841
+    text: Can we, when we are dead and have become mere dust and bones - can we (then) verily be brought to book?
+    translation: Pickthall
+    original: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَدِينُونَ
+    arabicPlain: أإذا متنا وكنا ترابا وعظاما أإنا لمدينون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:54'
+    scripture: quran
+    name: Quran 37:54
+    chapter: 37
+    verse: 54
+    ordinal: 3842
+    text: 'He saith: Will ye look?'
+    translation: Pickthall
+    original: قَالَ هَلْ أَنتُم مُّطَّلِعُونَ
+    arabicPlain: قال هل أنتم مطلعون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:55'
+    scripture: quran
+    name: Quran 37:55
+    chapter: 37
+    verse: 55
+    ordinal: 3843
+    text: Then looketh he and seeth him in the depth of hell.
+    translation: Pickthall
+    original: فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ
+    arabicPlain: فاطلع فرآه في سواء الجحيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:56'
+    scripture: quran
+    name: Quran 37:56
+    chapter: 37
+    verse: 56
+    ordinal: 3844
+    text: 'He saith: By Allah, thou verily didst all but cause my ruin,'
+    translation: Pickthall
+    original: قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ
+    arabicPlain: قال تالله إن كدت لتردين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:57'
+    scripture: quran
+    name: Quran 37:57
+    chapter: 37
+    verse: 57
+    ordinal: 3845
+    text: And had it not been for the favour of my Lord, I too had been of those haled forth (to doom).
+    translation: Pickthall
+    original: وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ ٱلْمُحْضَرِينَ
+    arabicPlain: ولولا نعمة ربي لكنت من المحضرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:58'
+    scripture: quran
+    name: Quran 37:58
+    chapter: 37
+    verse: 58
+    ordinal: 3846
+    text: Are we then not to die
+    translation: Pickthall
+    original: أَفَمَا نَحْنُ بِمَيِّتِينَ
+    arabicPlain: أفما نحن بميتين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: '37:59'
+    scripture: quran
+    name: Quran 37:59
+    chapter: 37
+    verse: 59
+    ordinal: 3847
+    text: Saving our former death, and are we not to be punished?
+    translation: Pickthall
+    original: إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ
+    arabicPlain: إلا موتتنا الأولى وما نحن بمعذبين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:60
+    scripture: quran
+    name: Quran 37:60
+    chapter: 37
+    verse: 60
+    ordinal: 3848
+    text: Lo! this is the supreme triumph.
+    translation: Pickthall
+    original: إِنَّ هَـٰذَا لَهُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+    arabicPlain: إن هذا لهو الفوز العظيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:61
+    scripture: quran
+    name: Quran 37:61
+    chapter: 37
+    verse: 61
+    ordinal: 3849
+    text: For the like of this, then, let the workers work.
+    translation: Pickthall
+    original: لِمِثْلِ هَـٰذَا فَلْيَعْمَلِ ٱلْعَـٰمِلُونَ
+    arabicPlain: لمثل هذا فليعمل العاملون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:62
+    scripture: quran
+    name: Quran 37:62
+    chapter: 37
+    verse: 62
+    ordinal: 3850
+    text: Is this better as a welcome, or the tree of Zaqqum?
+    translation: Pickthall
+    original: أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ
+    arabicPlain: أذلك خير نزلا أم شجرة الزقوم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:63
+    scripture: quran
+    name: Quran 37:63
+    chapter: 37
+    verse: 63
+    ordinal: 3851
+    text: Lo! We have appointed it a torment for wrong-doers.
+    translation: Pickthall
+    original: إِنَّا جَعَلْنَـٰهَا فِتْنَةً لِّلظَّـٰلِمِينَ
+    arabicPlain: إنا جعلناها فتنة للظالمين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:64
+    scripture: quran
+    name: Quran 37:64
+    chapter: 37
+    verse: 64
+    ordinal: 3852
+    text: Lo! it is a tree that springeth in the heart of hell.
+    translation: Pickthall
+    original: إِنَّهَا شَجَرَةٌ تَخْرُجُ فِىٓ أَصْلِ ٱلْجَحِيمِ
+    arabicPlain: إنها شجرة تخرج في أصل الجحيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:65
+    scripture: quran
+    name: Quran 37:65
+    chapter: 37
+    verse: 65
+    ordinal: 3853
+    text: Its crop is as it were the heads of devils
+    translation: Pickthall
+    original: طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَـٰطِينِ
+    arabicPlain: طلعها كأنه رءوس الشياطين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:66
+    scripture: quran
+    name: Quran 37:66
+    chapter: 37
+    verse: 66
+    ordinal: 3854
+    text: And lo! they verily must eat thereof, and fill (their) bellies therewith.
+    translation: Pickthall
+    original: فَإِنَّهُمْ لَـَٔاكِلُونَ مِنْهَا فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ
+    arabicPlain: فإنهم لآكلون منها فمالئون منها البطون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:67
+    scripture: quran
+    name: Quran 37:67
+    chapter: 37
+    verse: 67
+    ordinal: 3855
+    text: And afterward, lo! thereupon they have a drink of boiling water
+    translation: Pickthall
+    original: ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِّنْ حَمِيمٍ
+    arabicPlain: ثم إن لهم عليها لشوبا من حميم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:68
+    scripture: quran
+    name: Quran 37:68
+    chapter: 37
+    verse: 68
+    ordinal: 3856
+    text: And afterward, lo! their return is surely unto hell.
+    translation: Pickthall
+    original: ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى ٱلْجَحِيمِ
+    arabicPlain: ثم إن مرجعهم لإلى الجحيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:69
+    scripture: quran
+    name: Quran 37:69
+    chapter: 37
+    verse: 69
+    ordinal: 3857
+    text: They indeed found their fathers astray,
+    translation: Pickthall
+    original: إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ
+    arabicPlain: إنهم ألفوا آباءهم ضالين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:70
+    scripture: quran
+    name: Quran 37:70
+    chapter: 37
+    verse: 70
+    ordinal: 3858
+    text: But they make haste (to follow) in their footsteps.
+    translation: Pickthall
+    original: فَهُمْ عَلَىٰٓ ءَاثَـٰرِهِمْ يُهْرَعُونَ
+    arabicPlain: فهم على آثارهم يهرعون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:71
+    scripture: quran
+    name: Quran 37:71
+    chapter: 37
+    verse: 71
+    ordinal: 3859
+    text: And verily most of the men of old went astray before them,
+    translation: Pickthall
+    original: وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ ٱلْأَوَّلِينَ
+    arabicPlain: ولقد ضل قبلهم أكثر الأولين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:72
+    scripture: quran
+    name: Quran 37:72
+    chapter: 37
+    verse: 72
+    ordinal: 3860
+    text: And verily We sent among them warners.
+    translation: Pickthall
+    original: وَلَقَدْ أَرْسَلْنَا فِيهِم مُّنذِرِينَ
+    arabicPlain: ولقد أرسلنا فيهم منذرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:73
+    scripture: quran
+    name: Quran 37:73
+    chapter: 37
+    verse: 73
+    ordinal: 3861
+    text: Then see the nature of the consequence for those warned,
+    translation: Pickthall
+    original: فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُنذَرِينَ
+    arabicPlain: فانظر كيف كان عاقبة المنذرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:74
+    scripture: quran
+    name: Quran 37:74
+    chapter: 37
+    verse: 74
+    ordinal: 3862
+    text: Save single-minded slaves of Allah.
+    translation: Pickthall
+    original: إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
+    arabicPlain: إلا عباد الله المخلصين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 387
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:75
+    scripture: quran
+    name: Quran 37:75
+    chapter: 37
+    verse: 75
+    ordinal: 3863
+    text: And Noah verily prayed unto Us, and gracious was the Hearer of his prayer
+    translation: Pickthall
+    original: وَلَقَدْ نَادَىٰنَا نُوحٌ فَلَنِعْمَ ٱلْمُجِيبُونَ
+    arabicPlain: ولقد نادانا نوح فلنعم المجيبون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:76
+    scripture: quran
+    name: Quran 37:76
+    chapter: 37
+    verse: 76
+    ordinal: 3864
+    text: And We saved him and his household from the great distress,
+    translation: Pickthall
+    original: وَنَجَّيْنَـٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ
+    arabicPlain: ونجيناه وأهله من الكرب العظيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 448
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:77
+    scripture: quran
+    name: Quran 37:77
+    chapter: 37
+    verse: 77
+    ordinal: 3865
+    text: And made his seed the survivors,
+    translation: Pickthall
+    original: وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ ٱلْبَاقِينَ
+    arabicPlain: وجعلنا ذريته هم الباقين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:78
+    scripture: quran
+    name: Quran 37:78
+    chapter: 37
+    verse: 78
+    ordinal: 3866
+    text: 'And left for him among the later folk (the salutation):'
+    translation: Pickthall
+    original: وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ
+    arabicPlain: وتركنا عليه في الآخرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:79
+    scripture: quran
+    name: Quran 37:79
+    chapter: 37
+    verse: 79
+    ordinal: 3867
+    text: Peace be unto Noah among the peoples!
+    translation: Pickthall
+    original: سَلَـٰمٌ عَلَىٰ نُوحٍ فِى ٱلْعَـٰلَمِينَ
+    arabicPlain: سلام على نوح في العالمين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:80
+    scripture: quran
+    name: Quran 37:80
+    chapter: 37
+    verse: 80
+    ordinal: 3868
+    text: Lo! thus do We reward the good.
+    translation: Pickthall
+    original: إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+    arabicPlain: إنا كذلك نجزي المحسنين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:81
+    scripture: quran
+    name: Quran 37:81
+    chapter: 37
+    verse: 81
+    ordinal: 3869
+    text: Lo! he is one of Our believing slaves.
+    translation: Pickthall
+    original: إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
+    arabicPlain: إنه من عبادنا المؤمنين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:82
+    scripture: quran
+    name: Quran 37:82
+    chapter: 37
+    verse: 82
+    ordinal: 3870
+    text: Then We did drown the others.
+    translation: Pickthall
+    original: ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ
+    arabicPlain: ثم أغرقنا الآخرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:83
+    scripture: quran
+    name: Quran 37:83
+    chapter: 37
+    verse: 83
+    ordinal: 3871
+    text: And lo! of his persuasion verily was Abraham
+    translation: Pickthall
+    original: ۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبْرَٰهِيمَ
+    arabicPlain: ۞ وإن من شيعته لإبراهيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:84
+    scripture: quran
+    name: Quran 37:84
+    chapter: 37
+    verse: 84
+    ordinal: 3872
+    text: When he came unto his Lord with a whole heart;
+    translation: Pickthall
+    original: إِذْ جَآءَ رَبَّهُۥ بِقَلْبٍ سَلِيمٍ
+    arabicPlain: إذ جاء ربه بقلب سليم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:85
+    scripture: quran
+    name: Quran 37:85
+    chapter: 37
+    verse: 85
+    ordinal: 3873
+    text: 'When he said unto his father and his folk: What is it that ye worship?'
+    translation: Pickthall
+    original: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
+    arabicPlain: إذ قال لأبيه وقومه ماذا تعبدون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:86
+    scripture: quran
+    name: Quran 37:86
+    chapter: 37
+    verse: 86
+    ordinal: 3874
+    text: Is it a falsehood - gods beside Allah - that ye desire?
+    translation: Pickthall
+    original: أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ
+    arabicPlain: أئفكا آلهة دون الله تريدون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:87
+    scripture: quran
+    name: Quran 37:87
+    chapter: 37
+    verse: 87
+    ordinal: 3875
+    text: What then is your opinion of the Lord of the Worlds?
+    translation: Pickthall
+    original: فَمَا ظَنُّكُم بِرَبِّ ٱلْعَـٰلَمِينَ
+    arabicPlain: فما ظنكم برب العالمين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:88
+    scripture: quran
+    name: Quran 37:88
+    chapter: 37
+    verse: 88
+    ordinal: 3876
+    text: And he glanced a glance at the stars
+    translation: Pickthall
+    original: فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ
+    arabicPlain: فنظر نظرة في النجوم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:89
+    scripture: quran
+    name: Quran 37:89
+    chapter: 37
+    verse: 89
+    ordinal: 3877
+    text: 'Then said: Lo! I feel sick!'
+    translation: Pickthall
+    original: فَقَالَ إِنِّى سَقِيمٌ
+    arabicPlain: فقال إني سقيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:90
+    scripture: quran
+    name: Quran 37:90
+    chapter: 37
+    verse: 90
+    ordinal: 3878
+    text: And they turned their backs and went away from him.
+    translation: Pickthall
+    original: فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ
+    arabicPlain: فتولوا عنه مدبرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:91
+    scripture: quran
+    name: Quran 37:91
+    chapter: 37
+    verse: 91
+    ordinal: 3879
+    text: 'Then turned he to their gods and said: Will ye not eat?'
+    translation: Pickthall
+    original: فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ
+    arabicPlain: فراغ إلى آلهتهم فقال ألا تأكلون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:92
+    scripture: quran
+    name: Quran 37:92
+    chapter: 37
+    verse: 92
+    ordinal: 3880
+    text: What aileth you that ye speak not?
+    translation: Pickthall
+    original: مَا لَكُمْ لَا تَنطِقُونَ
+    arabicPlain: ما لكم لا تنطقون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:93
+    scripture: quran
+    name: Quran 37:93
+    chapter: 37
+    verse: 93
+    ordinal: 3881
+    text: Then he attacked them, striking with his right hand.
+    translation: Pickthall
+    original: فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ
+    arabicPlain: فراغ عليهم ضربا باليمين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:94
+    scripture: quran
+    name: Quran 37:94
+    chapter: 37
+    verse: 94
+    ordinal: 3882
+    text: And (his people) came toward him, hastening.
+    translation: Pickthall
+    original: فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ
+    arabicPlain: فأقبلوا إليه يزفون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:95
+    scripture: quran
+    name: Quran 37:95
+    chapter: 37
+    verse: 95
+    ordinal: 3883
+    text: 'He said: Worship ye that which ye yourselves do carve'
+    translation: Pickthall
+    original: قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ
+    arabicPlain: قال أتعبدون ما تنحتون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:96
+    scripture: quran
+    name: Quran 37:96
+    chapter: 37
+    verse: 96
+    ordinal: 3884
+    text: When Allah hath created you and what ye make?
+    translation: Pickthall
+    original: وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ
+    arabicPlain: والله خلقكم وما تعملون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:97
+    scripture: quran
+    name: Quran 37:97
+    chapter: 37
+    verse: 97
+    ordinal: 3885
+    text: 'They said: Build for him a building and fling him in the red-hotfire.'
+    translation: Pickthall
+    original: قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ
+    arabicPlain: قالوا ابنوا له بنيانا فألقوه في الجحيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:98
+    scripture: quran
+    name: Quran 37:98
+    chapter: 37
+    verse: 98
+    ordinal: 3886
+    text: And they designed a snare for him, but We made them the undermost.
+    translation: Pickthall
+    original: فَأَرَادُوا۟ بِهِۦ كَيْدًا فَجَعَلْنَـٰهُمُ ٱلْأَسْفَلِينَ
+    arabicPlain: فأرادوا به كيدا فجعلناهم الأسفلين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:99
+    scripture: quran
+    name: Quran 37:99
+    chapter: 37
+    verse: 99
+    ordinal: 3887
+    text: 'And he said: Lo! I am going unto my Lord Who will guide me.'
+    translation: Pickthall
+    original: وَقَالَ إِنِّى ذَاهِبٌ إِلَىٰ رَبِّى سَيَهْدِينِ
+    arabicPlain: وقال إني ذاهب إلى ربي سيهدين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:100
+    scripture: quran
+    name: Quran 37:100
+    chapter: 37
+    verse: 100
+    ordinal: 3888
+    text: My Lord! Vouchsafe me of the righteous.
+    translation: Pickthall
+    original: رَبِّ هَبْ لِى مِنَ ٱلصَّـٰلِحِينَ
+    arabicPlain: رب هب لي من الصالحين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:101
+    scripture: quran
+    name: Quran 37:101
+    chapter: 37
+    verse: 101
+    ordinal: 3889
+    text: So We gave him tidings of a gentle son.
+    translation: Pickthall
+    original: فَبَشَّرْنَـٰهُ بِغُلَـٰمٍ حَلِيمٍ
+    arabicPlain: فبشرناه بغلام حليم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:102
+    scripture: quran
+    name: Quran 37:102
+    chapter: 37
+    verse: 102
+    ordinal: 3890
+    text: 'And when (his son) was old enough to walk with him, (Abraham) said: O my dear son, I have seen in a dream that I must sacrifice thee. So look, what thinkest thou? He said: O my father! Do that which thou art commanded. Allah willing, thou shalt find me of the steadfast.'
+    translation: Pickthall
+    original: فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ
+    arabicPlain: فلما بلغ معه السعي قال يا بني إني أرى في المنام أني أذبحك فانظر ماذا ترى ۚ قال يا أبت افعل ما تؤمر ۖ ستجدني إن شاء الله من الصابرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 449
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:103
+    scripture: quran
+    name: Quran 37:103
+    chapter: 37
+    verse: 103
+    ordinal: 3891
+    text: Then, when they had both surrendered (to Allah), and he had flung him down upon his face,
+    translation: Pickthall
+    original: فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ
+    arabicPlain: فلما أسلما وتله للجبين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:104
+    scripture: quran
+    name: Quran 37:104
+    chapter: 37
+    verse: 104
+    ordinal: 3892
+    text: 'We called unto him: O Abraham!'
+    translation: Pickthall
+    original: وَنَـٰدَيْنَـٰهُ أَن يَـٰٓإِبْرَٰهِيمُ
+    arabicPlain: وناديناه أن يا إبراهيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:105
+    scripture: quran
+    name: Quran 37:105
+    chapter: 37
+    verse: 105
+    ordinal: 3893
+    text: Thou hast already fulfilled the vision. Lo! thus do We reward the good.
+    translation: Pickthall
+    original: قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+    arabicPlain: قد صدقت الرؤيا ۚ إنا كذلك نجزي المحسنين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:106
+    scripture: quran
+    name: Quran 37:106
+    chapter: 37
+    verse: 106
+    ordinal: 3894
+    text: Lo! that verily was a clear test.
+    translation: Pickthall
+    original: إِنَّ هَـٰذَا لَهُوَ ٱلْبَلَـٰٓؤُا۟ ٱلْمُبِينُ
+    arabicPlain: إن هذا لهو البلاء المبين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:107
+    scripture: quran
+    name: Quran 37:107
+    chapter: 37
+    verse: 107
+    ordinal: 3895
+    text: Then We ransomed him with a tremendous victim.
+    translation: Pickthall
+    original: وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍ
+    arabicPlain: وفديناه بذبح عظيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:108
+    scripture: quran
+    name: Quran 37:108
+    chapter: 37
+    verse: 108
+    ordinal: 3896
+    text: 'And We left for him among the later folk (the salutation):'
+    translation: Pickthall
+    original: وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ
+    arabicPlain: وتركنا عليه في الآخرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:109
+    scripture: quran
+    name: Quran 37:109
+    chapter: 37
+    verse: 109
+    ordinal: 3897
+    text: Peace be unto Abraham!
+    translation: Pickthall
+    original: سَلَـٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ
+    arabicPlain: سلام على إبراهيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:110
+    scripture: quran
+    name: Quran 37:110
+    chapter: 37
+    verse: 110
+    ordinal: 3898
+    text: Thus do We reward the good.
+    translation: Pickthall
+    original: كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+    arabicPlain: كذلك نجزي المحسنين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:111
+    scripture: quran
+    name: Quran 37:111
+    chapter: 37
+    verse: 111
+    ordinal: 3899
+    text: Lo! he is one of Our believing slaves.
+    translation: Pickthall
+    original: إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
+    arabicPlain: إنه من عبادنا المؤمنين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:112
+    scripture: quran
+    name: Quran 37:112
+    chapter: 37
+    verse: 112
+    ordinal: 3900
+    text: And we gave him tidings of the birth of Isaac, a prophet of the righteous.
+    translation: Pickthall
+    original: وَبَشَّرْنَـٰهُ بِإِسْحَـٰقَ نَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ
+    arabicPlain: وبشرناه بإسحاق نبيا من الصالحين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:113
+    scripture: quran
+    name: Quran 37:113
+    chapter: 37
+    verse: 113
+    ordinal: 3901
+    text: And We blessed him and Isaac. And of their seed are some who do good, and some who plainly wrong themselves.
+    translation: Pickthall
+    original: وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَـٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ
+    arabicPlain: وباركنا عليه وعلى إسحاق ۚ ومن ذريتهما محسن وظالم لنفسه مبين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 388
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:114
+    scripture: quran
+    name: Quran 37:114
+    chapter: 37
+    verse: 114
+    ordinal: 3902
+    text: And We verily gave grace unto Moses and Aaron,
+    translation: Pickthall
+    original: وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَـٰرُونَ
+    arabicPlain: ولقد مننا على موسى وهارون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:115
+    scripture: quran
+    name: Quran 37:115
+    chapter: 37
+    verse: 115
+    ordinal: 3903
+    text: And saved them and their people from the great distress,
+    translation: Pickthall
+    original: وَنَجَّيْنَـٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ
+    arabicPlain: ونجيناهما وقومهما من الكرب العظيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:116
+    scripture: quran
+    name: Quran 37:116
+    chapter: 37
+    verse: 116
+    ordinal: 3904
+    text: And helped them so that they became the victors.
+    translation: Pickthall
+    original: وَنَصَرْنَـٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَـٰلِبِينَ
+    arabicPlain: ونصرناهم فكانوا هم الغالبين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:117
+    scripture: quran
+    name: Quran 37:117
+    chapter: 37
+    verse: 117
+    ordinal: 3905
+    text: And We gave them the clear Scripture
+    translation: Pickthall
+    original: وَءَاتَيْنَـٰهُمَا ٱلْكِتَـٰبَ ٱلْمُسْتَبِينَ
+    arabicPlain: وآتيناهما الكتاب المستبين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:118
+    scripture: quran
+    name: Quran 37:118
+    chapter: 37
+    verse: 118
+    ordinal: 3906
+    text: And showed them the right path.
+    translation: Pickthall
+    original: وَهَدَيْنَـٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
+    arabicPlain: وهديناهما الصراط المستقيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:119
+    scripture: quran
+    name: Quran 37:119
+    chapter: 37
+    verse: 119
+    ordinal: 3907
+    text: 'And We left for them among the later folk (the salutation):'
+    translation: Pickthall
+    original: وَتَرَكْنَا عَلَيْهِمَا فِى ٱلْـَٔاخِرِينَ
+    arabicPlain: وتركنا عليهما في الآخرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:120
+    scripture: quran
+    name: Quran 37:120
+    chapter: 37
+    verse: 120
+    ordinal: 3908
+    text: Peace be unto Moses and Aaron!
+    translation: Pickthall
+    original: سَلَـٰمٌ عَلَىٰ مُوسَىٰ وَهَـٰرُونَ
+    arabicPlain: سلام على موسى وهارون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:121
+    scripture: quran
+    name: Quran 37:121
+    chapter: 37
+    verse: 121
+    ordinal: 3909
+    text: Lo! thus do We reward the good.
+    translation: Pickthall
+    original: إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+    arabicPlain: إنا كذلك نجزي المحسنين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:122
+    scripture: quran
+    name: Quran 37:122
+    chapter: 37
+    verse: 122
+    ordinal: 3910
+    text: Lo! they are two of Our believing slaves.
+    translation: Pickthall
+    original: إِنَّهُمَا مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
+    arabicPlain: إنهما من عبادنا المؤمنين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:123
+    scripture: quran
+    name: Quran 37:123
+    chapter: 37
+    verse: 123
+    ordinal: 3911
+    text: And lo! Elias was of those sent (to warn),
+    translation: Pickthall
+    original: وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ
+    arabicPlain: وإن إلياس لمن المرسلين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:124
+    scripture: quran
+    name: Quran 37:124
+    chapter: 37
+    verse: 124
+    ordinal: 3912
+    text: 'When he said unto his folk: Will ye not ward off (evil)?'
+    translation: Pickthall
+    original: إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ
+    arabicPlain: إذ قال لقومه ألا تتقون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:125
+    scripture: quran
+    name: Quran 37:125
+    chapter: 37
+    verse: 125
+    ordinal: 3913
+    text: Will ye cry unto Baal and forsake the Best of creators,
+    translation: Pickthall
+    original: أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَـٰلِقِينَ
+    arabicPlain: أتدعون بعلا وتذرون أحسن الخالقين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:126
+    scripture: quran
+    name: Quran 37:126
+    chapter: 37
+    verse: 126
+    ordinal: 3914
+    text: Allah, your Lord and Lord of your forefathers?
+    translation: Pickthall
+    original: ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
+    arabicPlain: الله ربكم ورب آبائكم الأولين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 450
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:127
+    scripture: quran
+    name: Quran 37:127
+    chapter: 37
+    verse: 127
+    ordinal: 3915
+    text: But they denied him, so they surely will be haled forth (to the doom)
+    translation: Pickthall
+    original: فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ
+    arabicPlain: فكذبوه فإنهم لمحضرون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:128
+    scripture: quran
+    name: Quran 37:128
+    chapter: 37
+    verse: 128
+    ordinal: 3916
+    text: Save single-minded slaves of Allah.
+    translation: Pickthall
+    original: إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
+    arabicPlain: إلا عباد الله المخلصين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:129
+    scripture: quran
+    name: Quran 37:129
+    chapter: 37
+    verse: 129
+    ordinal: 3917
+    text: 'And we left for him among the later folk (the salutation):'
+    translation: Pickthall
+    original: وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ
+    arabicPlain: وتركنا عليه في الآخرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:130
+    scripture: quran
+    name: Quran 37:130
+    chapter: 37
+    verse: 130
+    ordinal: 3918
+    text: Peace be unto Elias!
+    translation: Pickthall
+    original: سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ
+    arabicPlain: سلام على إل ياسين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:131
+    scripture: quran
+    name: Quran 37:131
+    chapter: 37
+    verse: 131
+    ordinal: 3919
+    text: Lo! thus do We reward the good.
+    translation: Pickthall
+    original: إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+    arabicPlain: إنا كذلك نجزي المحسنين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:132
+    scripture: quran
+    name: Quran 37:132
+    chapter: 37
+    verse: 132
+    ordinal: 3920
+    text: Lo! he is one of our believing slaves.
+    translation: Pickthall
+    original: إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
+    arabicPlain: إنه من عبادنا المؤمنين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:133
+    scripture: quran
+    name: Quran 37:133
+    chapter: 37
+    verse: 133
+    ordinal: 3921
+    text: And lo! Lot verily was of those sent (to warn).
+    translation: Pickthall
+    original: وَإِنَّ لُوطًا لَّمِنَ ٱلْمُرْسَلِينَ
+    arabicPlain: وإن لوطا لمن المرسلين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:134
+    scripture: quran
+    name: Quran 37:134
+    chapter: 37
+    verse: 134
+    ordinal: 3922
+    text: When We saved him and his household, every one,
+    translation: Pickthall
+    original: إِذْ نَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ
+    arabicPlain: إذ نجيناه وأهله أجمعين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:135
+    scripture: quran
+    name: Quran 37:135
+    chapter: 37
+    verse: 135
+    ordinal: 3923
+    text: Save an old woman among those who stayed behind;
+    translation: Pickthall
+    original: إِلَّا عَجُوزًا فِى ٱلْغَـٰبِرِينَ
+    arabicPlain: إلا عجوزا في الغابرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:136
+    scripture: quran
+    name: Quran 37:136
+    chapter: 37
+    verse: 136
+    ordinal: 3924
+    text: Then We destroyed the others.
+    translation: Pickthall
+    original: ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ
+    arabicPlain: ثم دمرنا الآخرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:137
+    scripture: quran
+    name: Quran 37:137
+    chapter: 37
+    verse: 137
+    ordinal: 3925
+    text: And lo! ye verily pass by (the ruin of) them in the morning
+    translation: Pickthall
+    original: وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ
+    arabicPlain: وإنكم لتمرون عليهم مصبحين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:138
+    scripture: quran
+    name: Quran 37:138
+    chapter: 37
+    verse: 138
+    ordinal: 3926
+    text: And at night-time; have ye then no sense?
+    translation: Pickthall
+    original: وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ
+    arabicPlain: وبالليل ۗ أفلا تعقلون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 389
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:139
+    scripture: quran
+    name: Quran 37:139
+    chapter: 37
+    verse: 139
+    ordinal: 3927
+    text: And lo! Jonah verily was of those sent (to warn)
+    translation: Pickthall
+    original: وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ
+    arabicPlain: وإن يونس لمن المرسلين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:140
+    scripture: quran
+    name: Quran 37:140
+    chapter: 37
+    verse: 140
+    ordinal: 3928
+    text: When he fled unto the laden ship,
+    translation: Pickthall
+    original: إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ
+    arabicPlain: إذ أبق إلى الفلك المشحون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:141
+    scripture: quran
+    name: Quran 37:141
+    chapter: 37
+    verse: 141
+    ordinal: 3929
+    text: And then drew lots and was of those rejected;
+    translation: Pickthall
+    original: فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ
+    arabicPlain: فساهم فكان من المدحضين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:142
+    scripture: quran
+    name: Quran 37:142
+    chapter: 37
+    verse: 142
+    ordinal: 3930
+    text: And the fish swallowed him while he was blameworthy;
+    translation: Pickthall
+    original: فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ
+    arabicPlain: فالتقمه الحوت وهو مليم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:143
+    scripture: quran
+    name: Quran 37:143
+    chapter: 37
+    verse: 143
+    ordinal: 3931
+    text: And had he not been one of those who glorify (Allah)
+    translation: Pickthall
+    original: فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ
+    arabicPlain: فلولا أنه كان من المسبحين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:144
+    scripture: quran
+    name: Quran 37:144
+    chapter: 37
+    verse: 144
+    ordinal: 3932
+    text: He would have tarried in its belly till the day when they are raised;
+    translation: Pickthall
+    original: لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+    arabicPlain: للبث في بطنه إلى يوم يبعثون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:145
+    scripture: quran
+    name: Quran 37:145
+    chapter: 37
+    verse: 145
+    ordinal: 3933
+    text: Then We cast him on a desert shore while he was sick;
+    translation: Pickthall
+    original: ۞ فَنَبَذْنَـٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌ
+    arabicPlain: ۞ فنبذناه بالعراء وهو سقيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:146
+    scripture: quran
+    name: Quran 37:146
+    chapter: 37
+    verse: 146
+    ordinal: 3934
+    text: And We caused a tree of gourd to grow above him;
+    translation: Pickthall
+    original: وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ
+    arabicPlain: وأنبتنا عليه شجرة من يقطين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:147
+    scripture: quran
+    name: Quran 37:147
+    chapter: 37
+    verse: 147
+    ordinal: 3935
+    text: And We sent him to a hundred thousand (folk) or more
+    translation: Pickthall
+    original: وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ
+    arabicPlain: وأرسلناه إلى مائة ألف أو يزيدون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:148
+    scripture: quran
+    name: Quran 37:148
+    chapter: 37
+    verse: 148
+    ordinal: 3936
+    text: And they believed, therefor We gave them comfort for a while.
+    translation: Pickthall
+    original: فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍ
+    arabicPlain: فآمنوا فمتعناهم إلى حين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:149
+    scripture: quran
+    name: Quran 37:149
+    chapter: 37
+    verse: 149
+    ordinal: 3937
+    text: 'Now ask them (O Muhammad): Hath thy Lord daughters whereas they have sons?'
+    translation: Pickthall
+    original: فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ
+    arabicPlain: فاستفتهم ألربك البنات ولهم البنون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:150
+    scripture: quran
+    name: Quran 37:150
+    chapter: 37
+    verse: 150
+    ordinal: 3938
+    text: Or created We the angels females while they were present?
+    translation: Pickthall
+    original: أَمْ خَلَقْنَا ٱلْمَلَـٰٓئِكَةَ إِنَـٰثًا وَهُمْ شَـٰهِدُونَ
+    arabicPlain: أم خلقنا الملائكة إناثا وهم شاهدون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:151
+    scripture: quran
+    name: Quran 37:151
+    chapter: 37
+    verse: 151
+    ordinal: 3939
+    text: 'Lo! it is of their falsehood that they say:'
+    translation: Pickthall
+    original: أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ
+    arabicPlain: ألا إنهم من إفكهم ليقولون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:152
+    scripture: quran
+    name: Quran 37:152
+    chapter: 37
+    verse: 152
+    ordinal: 3940
+    text: Allah hath begotten. Allah! verily they tell a lie.
+    translation: Pickthall
+    original: وَلَدَ ٱللَّهُ وَإِنَّهُمْ لَكَـٰذِبُونَ
+    arabicPlain: ولد الله وإنهم لكاذبون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:153
+    scripture: quran
+    name: Quran 37:153
+    chapter: 37
+    verse: 153
+    ordinal: 3941
+    text: '(And again of their falsehood): He hath preferred daughters to sons.'
+    translation: Pickthall
+    original: أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ
+    arabicPlain: أصطفى البنات على البنين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 451
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:154
+    scripture: quran
+    name: Quran 37:154
+    chapter: 37
+    verse: 154
+    ordinal: 3942
+    text: What aileth you? How judge ye?
+    translation: Pickthall
+    original: مَا لَكُمْ كَيْفَ تَحْكُمُونَ
+    arabicPlain: ما لكم كيف تحكمون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:155
+    scripture: quran
+    name: Quran 37:155
+    chapter: 37
+    verse: 155
+    ordinal: 3943
+    text: Will ye not then reflect?
+    translation: Pickthall
+    original: أَفَلَا تَذَكَّرُونَ
+    arabicPlain: أفلا تذكرون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:156
+    scripture: quran
+    name: Quran 37:156
+    chapter: 37
+    verse: 156
+    ordinal: 3944
+    text: Or have ye a clear warrant?
+    translation: Pickthall
+    original: أَمْ لَكُمْ سُلْطَـٰنٌ مُّبِينٌ
+    arabicPlain: أم لكم سلطان مبين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:157
+    scripture: quran
+    name: Quran 37:157
+    chapter: 37
+    verse: 157
+    ordinal: 3945
+    text: Then produce your writ, if ye are truthful.
+    translation: Pickthall
+    original: فَأْتُوا۟ بِكِتَـٰبِكُمْ إِن كُنتُمْ صَـٰدِقِينَ
+    arabicPlain: فأتوا بكتابكم إن كنتم صادقين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:158
+    scripture: quran
+    name: Quran 37:158
+    chapter: 37
+    verse: 158
+    ordinal: 3946
+    text: And they imagine kinship between him and the jinn, whereas the jinn know well that they will be brought before (Him).
+    translation: Pickthall
+    original: وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ
+    arabicPlain: وجعلوا بينه وبين الجنة نسبا ۚ ولقد علمت الجنة إنهم لمحضرون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:159
+    scripture: quran
+    name: Quran 37:159
+    chapter: 37
+    verse: 159
+    ordinal: 3947
+    text: Glorified be Allah from that which they attribute (unto Him),
+    translation: Pickthall
+    original: سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
+    arabicPlain: سبحان الله عما يصفون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:160
+    scripture: quran
+    name: Quran 37:160
+    chapter: 37
+    verse: 160
+    ordinal: 3948
+    text: Save single-minded slaves of Allah.
+    translation: Pickthall
+    original: إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
+    arabicPlain: إلا عباد الله المخلصين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:161
+    scripture: quran
+    name: Quran 37:161
+    chapter: 37
+    verse: 161
+    ordinal: 3949
+    text: Lo! verily, ye and that which ye worship,
+    translation: Pickthall
+    original: فَإِنَّكُمْ وَمَا تَعْبُدُونَ
+    arabicPlain: فإنكم وما تعبدون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:162
+    scripture: quran
+    name: Quran 37:162
+    chapter: 37
+    verse: 162
+    ordinal: 3950
+    text: Ye cannot excite (anyone) against Him.
+    translation: Pickthall
+    original: مَآ أَنتُمْ عَلَيْهِ بِفَـٰتِنِينَ
+    arabicPlain: ما أنتم عليه بفاتنين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:163
+    scripture: quran
+    name: Quran 37:163
+    chapter: 37
+    verse: 163
+    ordinal: 3951
+    text: Save him who is to burn in hell.
+    translation: Pickthall
+    original: إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ
+    arabicPlain: إلا من هو صال الجحيم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:164
+    scripture: quran
+    name: Quran 37:164
+    chapter: 37
+    verse: 164
+    ordinal: 3952
+    text: There is not one of us but hath his known position.
+    translation: Pickthall
+    original: وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌ مَّعْلُومٌ
+    arabicPlain: وما منا إلا له مقام معلوم
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:165
+    scripture: quran
+    name: Quran 37:165
+    chapter: 37
+    verse: 165
+    ordinal: 3953
+    text: Lo! we, even we are they who set the ranks,
+    translation: Pickthall
+    original: وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ
+    arabicPlain: وإنا لنحن الصافون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:166
+    scripture: quran
+    name: Quran 37:166
+    chapter: 37
+    verse: 166
+    ordinal: 3954
+    text: Lo! we, even we are they who hymn His praise
+    translation: Pickthall
+    original: وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ
+    arabicPlain: وإنا لنحن المسبحون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:167
+    scripture: quran
+    name: Quran 37:167
+    chapter: 37
+    verse: 167
+    ordinal: 3955
+    text: 'And indeed they used to say:'
+    translation: Pickthall
+    original: وَإِن كَانُوا۟ لَيَقُولُونَ
+    arabicPlain: وإن كانوا ليقولون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:168
+    scripture: quran
+    name: Quran 37:168
+    chapter: 37
+    verse: 168
+    ordinal: 3956
+    text: If we had but a reminder from the men of old
+    translation: Pickthall
+    original: لَوْ أَنَّ عِندَنَا ذِكْرًا مِّنَ ٱلْأَوَّلِينَ
+    arabicPlain: لو أن عندنا ذكرا من الأولين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:169
+    scripture: quran
+    name: Quran 37:169
+    chapter: 37
+    verse: 169
+    ordinal: 3957
+    text: We would be single-minded slaves of Allah.
+    translation: Pickthall
+    original: لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
+    arabicPlain: لكنا عباد الله المخلصين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:170
+    scripture: quran
+    name: Quran 37:170
+    chapter: 37
+    verse: 170
+    ordinal: 3958
+    text: Yet (now that it is come) they disbelieve therein; but they will come to know.
+    translation: Pickthall
+    original: فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ
+    arabicPlain: فكفروا به ۖ فسوف يعلمون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:171
+    scripture: quran
+    name: Quran 37:171
+    chapter: 37
+    verse: 171
+    ordinal: 3959
+    text: And verily Our word went forth of old unto Our bondmen sent (to warn)
+    translation: Pickthall
+    original: وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا ٱلْمُرْسَلِينَ
+    arabicPlain: ولقد سبقت كلمتنا لعبادنا المرسلين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:172
+    scripture: quran
+    name: Quran 37:172
+    chapter: 37
+    verse: 172
+    ordinal: 3960
+    text: That they verily would be helped,
+    translation: Pickthall
+    original: إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ
+    arabicPlain: إنهم لهم المنصورون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:173
+    scripture: quran
+    name: Quran 37:173
+    chapter: 37
+    verse: 173
+    ordinal: 3961
+    text: And that Our host, they verily would be the victors.
+    translation: Pickthall
+    original: وَإِنَّ جُندَنَا لَهُمُ ٱلْغَـٰلِبُونَ
+    arabicPlain: وإن جندنا لهم الغالبون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:174
+    scripture: quran
+    name: Quran 37:174
+    chapter: 37
+    verse: 174
+    ordinal: 3962
+    text: So withdraw from them (O Muhammad) awhile,
+    translation: Pickthall
+    original: فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ
+    arabicPlain: فتول عنهم حتى حين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:175
+    scripture: quran
+    name: Quran 37:175
+    chapter: 37
+    verse: 175
+    ordinal: 3963
+    text: And watch, for they will (soon) see.
+    translation: Pickthall
+    original: وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ
+    arabicPlain: وأبصرهم فسوف يبصرون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:176
+    scripture: quran
+    name: Quran 37:176
+    chapter: 37
+    verse: 176
+    ordinal: 3964
+    text: Would they hasten on Our doom?
+    translation: Pickthall
+    original: أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+    arabicPlain: أفبعذابنا يستعجلون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:177
+    scripture: quran
+    name: Quran 37:177
+    chapter: 37
+    verse: 177
+    ordinal: 3965
+    text: But when it cometh home to them, then it will be a hapless morn for those who have been warned.
+    translation: Pickthall
+    original: فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ
+    arabicPlain: فإذا نزل بساحتهم فساء صباح المنذرين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:178
+    scripture: quran
+    name: Quran 37:178
+    chapter: 37
+    verse: 178
+    ordinal: 3966
+    text: Withdraw from them awhile
+    translation: Pickthall
+    original: وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ
+    arabicPlain: وتول عنهم حتى حين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:179
+    scripture: quran
+    name: Quran 37:179
+    chapter: 37
+    verse: 179
+    ordinal: 3967
+    text: And watch, for they will (soon) see.
+    translation: Pickthall
+    original: وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ
+    arabicPlain: وأبصر فسوف يبصرون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:180
+    scripture: quran
+    name: Quran 37:180
+    chapter: 37
+    verse: 180
+    ordinal: 3968
+    text: Glorified be thy Lord, the Lord of Majesty, from that which they attribute (unto Him)
+    translation: Pickthall
+    original: سُبْحَـٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ
+    arabicPlain: سبحان ربك رب العزة عما يصفون
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:181
+    scripture: quran
+    name: Quran 37:181
+    chapter: 37
+    verse: 181
+    ordinal: 3969
+    text: And peace be unto those sent (to warn).
+    translation: Pickthall
+    original: وَسَلَـٰمٌ عَلَى ٱلْمُرْسَلِينَ
+    arabicPlain: وسلام على المرسلين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23
+- type: Ayah
+  data:
+    ref: 37:182
+    scripture: quran
+    name: Quran 37:182
+    chapter: 37
+    verse: 182
+    ordinal: 3970
+    text: And praise be to Allah, Lord of the Worlds!
+    translation: Pickthall
+    original: وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ
+    arabicPlain: والحمد لله رب العالمين
+    surahName: As-Saaffaat
+    juz: 23
+    manzil: 6
+    ruku: 390
+    page: 452
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '37'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-23

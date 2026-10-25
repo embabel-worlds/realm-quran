@@ -1,0 +1,349 @@
+# Every ayah of Surah Ad-Dhuhaa (The Morning Hours): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '93:1'
+    scripture: quran
+    name: Quran 93:1
+    chapter: 93
+    verse: 1
+    ordinal: 6080
+    text: By the morning hours
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ
+    arabicPlain: بسم الله الرحمن الرحيم والضحى
+    surahName: Ad-Dhuhaa
+    juz: 30
+    manzil: 7
+    ruku: 535
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '93'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '93:2'
+    scripture: quran
+    name: Quran 93:2
+    chapter: 93
+    verse: 2
+    ordinal: 6081
+    text: And by the night when it is stillest,
+    translation: Pickthall
+    original: وَٱلَّيْلِ إِذَا سَجَىٰ
+    arabicPlain: والليل إذا سجى
+    surahName: Ad-Dhuhaa
+    juz: 30
+    manzil: 7
+    ruku: 535
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '93'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '93:3'
+    scripture: quran
+    name: Quran 93:3
+    chapter: 93
+    verse: 3
+    ordinal: 6082
+    text: Thy Lord hath not forsaken thee nor doth He hate thee,
+    translation: Pickthall
+    original: مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ
+    arabicPlain: ما ودعك ربك وما قلى
+    surahName: Ad-Dhuhaa
+    juz: 30
+    manzil: 7
+    ruku: 535
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '93'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '93:4'
+    scripture: quran
+    name: Quran 93:4
+    chapter: 93
+    verse: 4
+    ordinal: 6083
+    text: And verily the latter portion will be better for thee than the former,
+    translation: Pickthall
+    original: وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ
+    arabicPlain: وللآخرة خير لك من الأولى
+    surahName: Ad-Dhuhaa
+    juz: 30
+    manzil: 7
+    ruku: 535
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '93'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '93:5'
+    scripture: quran
+    name: Quran 93:5
+    chapter: 93
+    verse: 5
+    ordinal: 6084
+    text: And verily thy Lord will give unto thee so that thou wilt be content.
+    translation: Pickthall
+    original: وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ
+    arabicPlain: ولسوف يعطيك ربك فترضى
+    surahName: Ad-Dhuhaa
+    juz: 30
+    manzil: 7
+    ruku: 535
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '93'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '93:6'
+    scripture: quran
+    name: Quran 93:6
+    chapter: 93
+    verse: 6
+    ordinal: 6085
+    text: Did He not find thee an orphan and protect (thee)?
+    translation: Pickthall
+    original: أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ
+    arabicPlain: ألم يجدك يتيما فآوى
+    surahName: Ad-Dhuhaa
+    juz: 30
+    manzil: 7
+    ruku: 535
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '93'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '93:7'
+    scripture: quran
+    name: Quran 93:7
+    chapter: 93
+    verse: 7
+    ordinal: 6086
+    text: Did He not find thee wandering and direct (thee)?
+    translation: Pickthall
+    original: وَوَجَدَكَ ضَآلًّا فَهَدَىٰ
+    arabicPlain: ووجدك ضالا فهدى
+    surahName: Ad-Dhuhaa
+    juz: 30
+    manzil: 7
+    ruku: 535
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '93'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '93:8'
+    scripture: quran
+    name: Quran 93:8
+    chapter: 93
+    verse: 8
+    ordinal: 6087
+    text: Did He not find thee destitute and enrich (thee)?
+    translation: Pickthall
+    original: وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ
+    arabicPlain: ووجدك عائلا فأغنى
+    surahName: Ad-Dhuhaa
+    juz: 30
+    manzil: 7
+    ruku: 535
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '93'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '93:9'
+    scripture: quran
+    name: Quran 93:9
+    chapter: 93
+    verse: 9
+    ordinal: 6088
+    text: Therefor the orphan oppress not,
+    translation: Pickthall
+    original: فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ
+    arabicPlain: فأما اليتيم فلا تقهر
+    surahName: Ad-Dhuhaa
+    juz: 30
+    manzil: 7
+    ruku: 535
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '93'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '93:10'
+    scripture: quran
+    name: Quran 93:10
+    chapter: 93
+    verse: 10
+    ordinal: 6089
+    text: Therefor the beggar drive not away,
+    translation: Pickthall
+    original: وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ
+    arabicPlain: وأما السائل فلا تنهر
+    surahName: Ad-Dhuhaa
+    juz: 30
+    manzil: 7
+    ruku: 535
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '93'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '93:11'
+    scripture: quran
+    name: Quran 93:11
+    chapter: 93
+    verse: 11
+    ordinal: 6090
+    text: Therefor of the bounty of thy Lord be thy discourse.
+    translation: Pickthall
+    original: وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ
+    arabicPlain: وأما بنعمة ربك فحدث
+    surahName: Ad-Dhuhaa
+    juz: 30
+    manzil: 7
+    ruku: 535
+    page: 596
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '93'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

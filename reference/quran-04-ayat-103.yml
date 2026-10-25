@@ -1,0 +1,141 @@
+# Every ayah of Surah Al-Asr (The Declining Day, Epoch): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '103:1'
+    scripture: quran
+    name: Quran 103:1
+    chapter: 103
+    verse: 1
+    ordinal: 6177
+    text: By the declining day,
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ
+    arabicPlain: بسم الله الرحمن الرحيم والعصر
+    surahName: Al-Asr
+    juz: 30
+    manzil: 7
+    ruku: 545
+    page: 601
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '103'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '103:2'
+    scripture: quran
+    name: Quran 103:2
+    chapter: 103
+    verse: 2
+    ordinal: 6178
+    text: Lo! man is a state of loss,
+    translation: Pickthall
+    original: إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ
+    arabicPlain: إن الإنسان لفي خسر
+    surahName: Al-Asr
+    juz: 30
+    manzil: 7
+    ruku: 545
+    page: 601
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '103'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '103:3'
+    scripture: quran
+    name: Quran 103:3
+    chapter: 103
+    verse: 3
+    ordinal: 6179
+    text: Save those who believe and do good works, and exhort one another to truth and exhort one another to endurance.
+    translation: Pickthall
+    original: إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ
+    arabicPlain: إلا الذين آمنوا وعملوا الصالحات وتواصوا بالحق وتواصوا بالصبر
+    surahName: Al-Asr
+    juz: 30
+    manzil: 7
+    ruku: 545
+    page: 601
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '103'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

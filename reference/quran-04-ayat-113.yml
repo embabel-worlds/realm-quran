@@ -1,0 +1,193 @@
+# Every ayah of Surah Al-Falaq (The Dawn): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '113:1'
+    scripture: quran
+    name: Quran 113:1
+    chapter: 113
+    verse: 1
+    ordinal: 6226
+    text: 'Say: I seek refuge in the Lord of the Daybreak'
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ
+    arabicPlain: بسم الله الرحمن الرحيم قل أعوذ برب الفلق
+    surahName: Al-Falaq
+    juz: 30
+    manzil: 7
+    ruku: 555
+    page: 604
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '113'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '113:2'
+    scripture: quran
+    name: Quran 113:2
+    chapter: 113
+    verse: 2
+    ordinal: 6227
+    text: From the evil of that which He created;
+    translation: Pickthall
+    original: مِن شَرِّ مَا خَلَقَ
+    arabicPlain: من شر ما خلق
+    surahName: Al-Falaq
+    juz: 30
+    manzil: 7
+    ruku: 555
+    page: 604
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '113'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '113:3'
+    scripture: quran
+    name: Quran 113:3
+    chapter: 113
+    verse: 3
+    ordinal: 6228
+    text: From the evil of the darkness when it is intense,
+    translation: Pickthall
+    original: وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
+    arabicPlain: ومن شر غاسق إذا وقب
+    surahName: Al-Falaq
+    juz: 30
+    manzil: 7
+    ruku: 555
+    page: 604
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '113'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '113:4'
+    scripture: quran
+    name: Quran 113:4
+    chapter: 113
+    verse: 4
+    ordinal: 6229
+    text: And from the evil of malignant witchcraft,
+    translation: Pickthall
+    original: وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ
+    arabicPlain: ومن شر النفاثات في العقد
+    surahName: Al-Falaq
+    juz: 30
+    manzil: 7
+    ruku: 555
+    page: 604
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '113'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '113:5'
+    scripture: quran
+    name: Quran 113:5
+    chapter: 113
+    verse: 5
+    ordinal: 6230
+    text: And from the evil of the envier when he envieth.
+    translation: Pickthall
+    original: وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
+    arabicPlain: ومن شر حاسد إذا حسد
+    surahName: Al-Falaq
+    juz: 30
+    manzil: 7
+    ruku: 555
+    page: 604
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '113'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

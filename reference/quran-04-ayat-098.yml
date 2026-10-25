@@ -1,0 +1,271 @@
+# Every ayah of Surah Al-Bayyina (The Evidence): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '98:1'
+    scripture: quran
+    name: Quran 98:1
+    chapter: 98
+    verse: 1
+    ordinal: 6131
+    text: Those who disbelieve among the People of the Scripture and the idolaters could not have left off (erring) till the clear proof came unto them,
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ
+    arabicPlain: بسم الله الرحمن الرحيم لم يكن الذين كفروا من أهل الكتاب والمشركين منفكين حتى تأتيهم البينة
+    surahName: Al-Bayyina
+    juz: 30
+    manzil: 7
+    ruku: 540
+    page: 598
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '98'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '98:2'
+    scripture: quran
+    name: Quran 98:2
+    chapter: 98
+    verse: 2
+    ordinal: 6132
+    text: A messenger from Allah, reading purified pages
+    translation: Pickthall
+    original: رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً
+    arabicPlain: رسول من الله يتلو صحفا مطهرة
+    surahName: Al-Bayyina
+    juz: 30
+    manzil: 7
+    ruku: 540
+    page: 598
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '98'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '98:3'
+    scripture: quran
+    name: Quran 98:3
+    chapter: 98
+    verse: 3
+    ordinal: 6133
+    text: Containing correct scriptures.
+    translation: Pickthall
+    original: فِيهَا كُتُبٌ قَيِّمَةٌ
+    arabicPlain: فيها كتب قيمة
+    surahName: Al-Bayyina
+    juz: 30
+    manzil: 7
+    ruku: 540
+    page: 598
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '98'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '98:4'
+    scripture: quran
+    name: Quran 98:4
+    chapter: 98
+    verse: 4
+    ordinal: 6134
+    text: Nor were the People of the Scripture divided until after the clear proof came unto them.
+    translation: Pickthall
+    original: وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ
+    arabicPlain: وما تفرق الذين أوتوا الكتاب إلا من بعد ما جاءتهم البينة
+    surahName: Al-Bayyina
+    juz: 30
+    manzil: 7
+    ruku: 540
+    page: 598
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '98'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '98:5'
+    scripture: quran
+    name: Quran 98:5
+    chapter: 98
+    verse: 5
+    ordinal: 6135
+    text: And they are ordered naught else than to serve Allah, keeping religion pure for Him, as men by nature upright, and to establish worship and to pay the poor-due. That is true religion.
+    translation: Pickthall
+    original: وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ
+    arabicPlain: وما أمروا إلا ليعبدوا الله مخلصين له الدين حنفاء ويقيموا الصلاة ويؤتوا الزكاة ۚ وذلك دين القيمة
+    surahName: Al-Bayyina
+    juz: 30
+    manzil: 7
+    ruku: 540
+    page: 598
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '98'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '98:6'
+    scripture: quran
+    name: Quran 98:6
+    chapter: 98
+    verse: 6
+    ordinal: 6136
+    text: Lo! those who disbelieve, among the People of the Scripture and the idolaters, will abide in fire of hell. They are the worst of created beings.
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ
+    arabicPlain: إن الذين كفروا من أهل الكتاب والمشركين في نار جهنم خالدين فيها ۚ أولئك هم شر البرية
+    surahName: Al-Bayyina
+    juz: 30
+    manzil: 7
+    ruku: 540
+    page: 598
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '98'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '98:7'
+    scripture: quran
+    name: Quran 98:7
+    chapter: 98
+    verse: 7
+    ordinal: 6137
+    text: (And) lo! those who believe and do good works are the best of created beings.
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ
+    arabicPlain: إن الذين آمنوا وعملوا الصالحات أولئك هم خير البرية
+    surahName: Al-Bayyina
+    juz: 30
+    manzil: 7
+    ruku: 540
+    page: 598
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '98'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30
+- type: Ayah
+  data:
+    ref: '98:8'
+    scripture: quran
+    name: Quran 98:8
+    chapter: 98
+    verse: 8
+    ordinal: 6138
+    text: 'Their reward is with their Lord: Gardens of Eden underneath which rivers flow, wherein they dwell for ever. Allah hath pleasure in them and they have pleasure in Him. This is (in store) for him who feareth his Lord.'
+    translation: Pickthall
+    original: جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّـٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ
+    arabicPlain: جزاؤهم عند ربهم جنات عدن تجري من تحتها الأنهار خالدين فيها أبدا ۖ رضي الله عنهم ورضوا عنه ۚ ذلك لمن خشي ربه
+    surahName: Al-Bayyina
+    juz: 30
+    manzil: 7
+    ruku: 540
+    page: 599
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '98'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-30

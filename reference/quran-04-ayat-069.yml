@@ -1,0 +1,1415 @@
+# Every ayah of Surah Al-Haaqqa (The Reality): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '69:1'
+    scripture: quran
+    name: Quran 69:1
+    chapter: 69
+    verse: 1
+    ordinal: 5324
+    text: The Reality!
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْحَآقَّةُ
+    arabicPlain: بسم الله الرحمن الرحيم الحاقة
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 566
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:2'
+    scripture: quran
+    name: Quran 69:2
+    chapter: 69
+    verse: 2
+    ordinal: 5325
+    text: What is the Reality?
+    translation: Pickthall
+    original: مَا ٱلْحَآقَّةُ
+    arabicPlain: ما الحاقة
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 566
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:3'
+    scripture: quran
+    name: Quran 69:3
+    chapter: 69
+    verse: 3
+    ordinal: 5326
+    text: Ah, what will convey unto thee what the reality is!
+    translation: Pickthall
+    original: وَمَآ أَدْرَىٰكَ مَا ٱلْحَآقَّةُ
+    arabicPlain: وما أدراك ما الحاقة
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 566
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:4'
+    scripture: quran
+    name: Quran 69:4
+    chapter: 69
+    verse: 4
+    ordinal: 5327
+    text: (The tribes of) Thamud and A'ad disbelieved in the judgment to come.
+    translation: Pickthall
+    original: كَذَّبَتْ ثَمُودُ وَعَادٌۢ بِٱلْقَارِعَةِ
+    arabicPlain: كذبت ثمود وعاد بالقارعة
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 566
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:5'
+    scripture: quran
+    name: Quran 69:5
+    chapter: 69
+    verse: 5
+    ordinal: 5328
+    text: As for Thamud, they were destroyed by the lightning.
+    translation: Pickthall
+    original: فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ
+    arabicPlain: فأما ثمود فأهلكوا بالطاغية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 566
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:6'
+    scripture: quran
+    name: Quran 69:6
+    chapter: 69
+    verse: 6
+    ordinal: 5329
+    text: And as for A'ad, they were destroyed by a fierce roaring wind,
+    translation: Pickthall
+    original: وَأَمَّا عَادٌ فَأُهْلِكُوا۟ بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ
+    arabicPlain: وأما عاد فأهلكوا بريح صرصر عاتية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 566
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:7'
+    scripture: quran
+    name: Quran 69:7
+    chapter: 69
+    verse: 7
+    ordinal: 5330
+    text: Which He imposed on them for seven long nights and eight long days so that thou mightest have seen men lying overthrown, as they were hollow trunks of palm-trees.
+    translation: Pickthall
+    original: سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَـٰنِيَةَ أَيَّامٍ حُسُومًا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ
+    arabicPlain: سخرها عليهم سبع ليال وثمانية أيام حسوما فترى القوم فيها صرعى كأنهم أعجاز نخل خاوية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 566
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:8'
+    scripture: quran
+    name: Quran 69:8
+    chapter: 69
+    verse: 8
+    ordinal: 5331
+    text: Canst thou (O Muhammad) see any remnant of them?
+    translation: Pickthall
+    original: فَهَلْ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٍ
+    arabicPlain: فهل ترى لهم من باقية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 566
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:9'
+    scripture: quran
+    name: Quran 69:9
+    chapter: 69
+    verse: 9
+    ordinal: 5332
+    text: And Pharaoh and those before him, and the communities that were destroyed, brought error,
+    translation: Pickthall
+    original: وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَـٰتُ بِٱلْخَاطِئَةِ
+    arabicPlain: وجاء فرعون ومن قبله والمؤتفكات بالخاطئة
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:10'
+    scripture: quran
+    name: Quran 69:10
+    chapter: 69
+    verse: 10
+    ordinal: 5333
+    text: And they disobeyed the messenger of their Lord, therefor did He grip them with a tightening grip.
+    translation: Pickthall
+    original: فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً
+    arabicPlain: فعصوا رسول ربهم فأخذهم أخذة رابية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:11'
+    scripture: quran
+    name: Quran 69:11
+    chapter: 69
+    verse: 11
+    ordinal: 5334
+    text: Lo! when the waters rose, We carried you upon the ship
+    translation: Pickthall
+    original: إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَـٰكُمْ فِى ٱلْجَارِيَةِ
+    arabicPlain: إنا لما طغى الماء حملناكم في الجارية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:12'
+    scripture: quran
+    name: Quran 69:12
+    chapter: 69
+    verse: 12
+    ordinal: 5335
+    text: That We might make it a memorial for you, and that remembering ears (that heard the story) might remember.
+    translation: Pickthall
+    original: لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَآ أُذُنٌ وَٰعِيَةٌ
+    arabicPlain: لنجعلها لكم تذكرة وتعيها أذن واعية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:13'
+    scripture: quran
+    name: Quran 69:13
+    chapter: 69
+    verse: 13
+    ordinal: 5336
+    text: And when the trumpet shall sound one blast
+    translation: Pickthall
+    original: فَإِذَا نُفِخَ فِى ٱلصُّورِ نَفْخَةٌ وَٰحِدَةٌ
+    arabicPlain: فإذا نفخ في الصور نفخة واحدة
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:14'
+    scripture: quran
+    name: Quran 69:14
+    chapter: 69
+    verse: 14
+    ordinal: 5337
+    text: And the earth with the mountains shall be lifted up and crushed with one crash,
+    translation: Pickthall
+    original: وَحُمِلَتِ ٱلْأَرْضُ وَٱلْجِبَالُ فَدُكَّتَا دَكَّةً وَٰحِدَةً
+    arabicPlain: وحملت الأرض والجبال فدكتا دكة واحدة
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:15'
+    scripture: quran
+    name: Quran 69:15
+    chapter: 69
+    verse: 15
+    ordinal: 5338
+    text: Then, on that day will the Event befall.
+    translation: Pickthall
+    original: فَيَوْمَئِذٍ وَقَعَتِ ٱلْوَاقِعَةُ
+    arabicPlain: فيومئذ وقعت الواقعة
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:16'
+    scripture: quran
+    name: Quran 69:16
+    chapter: 69
+    verse: 16
+    ordinal: 5339
+    text: And the heaven will split asunder, for that day it will be frail.
+    translation: Pickthall
+    original: وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِىَ يَوْمَئِذٍ وَاهِيَةٌ
+    arabicPlain: وانشقت السماء فهي يومئذ واهية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:17'
+    scripture: quran
+    name: Quran 69:17
+    chapter: 69
+    verse: 17
+    ordinal: 5340
+    text: And the angels will be on the sides thereof, and eight will uphold the Throne of thy Lord that day, above them.
+    translation: Pickthall
+    original: وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَـٰنِيَةٌ
+    arabicPlain: والملك على أرجائها ۚ ويحمل عرش ربك فوقهم يومئذ ثمانية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:18'
+    scripture: quran
+    name: Quran 69:18
+    chapter: 69
+    verse: 18
+    ordinal: 5341
+    text: On that day ye will be exposed; not a secret of you will be hidden.
+    translation: Pickthall
+    original: يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ
+    arabicPlain: يومئذ تعرضون لا تخفى منكم خافية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:19'
+    scripture: quran
+    name: Quran 69:19
+    chapter: 69
+    verse: 19
+    ordinal: 5342
+    text: 'Then, as for him who is given his record in his right hand, he will say: Take, read my book!'
+    translation: Pickthall
+    original: فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَـٰبِيَهْ
+    arabicPlain: فأما من أوتي كتابه بيمينه فيقول هاؤم اقرءوا كتابيه
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:20'
+    scripture: quran
+    name: Quran 69:20
+    chapter: 69
+    verse: 20
+    ordinal: 5343
+    text: Surely I knew that I should have to meet my reckoning.
+    translation: Pickthall
+    original: إِنِّى ظَنَنتُ أَنِّى مُلَـٰقٍ حِسَابِيَهْ
+    arabicPlain: إني ظننت أني ملاق حسابيه
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:21'
+    scripture: quran
+    name: Quran 69:21
+    chapter: 69
+    verse: 21
+    ordinal: 5344
+    text: Then he will be in blissful state
+    translation: Pickthall
+    original: فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ
+    arabicPlain: فهو في عيشة راضية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:22'
+    scripture: quran
+    name: Quran 69:22
+    chapter: 69
+    verse: 22
+    ordinal: 5345
+    text: In a high garden
+    translation: Pickthall
+    original: فِى جَنَّةٍ عَالِيَةٍ
+    arabicPlain: في جنة عالية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:23'
+    scripture: quran
+    name: Quran 69:23
+    chapter: 69
+    verse: 23
+    ordinal: 5346
+    text: Whereof the clusters are in easy reach.
+    translation: Pickthall
+    original: قُطُوفُهَا دَانِيَةٌ
+    arabicPlain: قطوفها دانية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:24'
+    scripture: quran
+    name: Quran 69:24
+    chapter: 69
+    verse: 24
+    ordinal: 5347
+    text: '(And it will be said unto those therein): Eat and drink at ease for that which ye sent on before you in past days.'
+    translation: Pickthall
+    original: كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ
+    arabicPlain: كلوا واشربوا هنيئا بما أسلفتم في الأيام الخالية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:25'
+    scripture: quran
+    name: Quran 69:25
+    chapter: 69
+    verse: 25
+    ordinal: 5348
+    text: 'But as for him who is given his record in his left hand, he will say: Oh, would that I had not been given my book'
+    translation: Pickthall
+    original: وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَـٰلَيْتَنِى لَمْ أُوتَ كِتَـٰبِيَهْ
+    arabicPlain: وأما من أوتي كتابه بشماله فيقول يا ليتني لم أوت كتابيه
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:26'
+    scripture: quran
+    name: Quran 69:26
+    chapter: 69
+    verse: 26
+    ordinal: 5349
+    text: And knew not what my reckoning!
+    translation: Pickthall
+    original: وَلَمْ أَدْرِ مَا حِسَابِيَهْ
+    arabicPlain: ولم أدر ما حسابيه
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:27'
+    scripture: quran
+    name: Quran 69:27
+    chapter: 69
+    verse: 27
+    ordinal: 5350
+    text: Oh, would that it had been death!
+    translation: Pickthall
+    original: يَـٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ
+    arabicPlain: يا ليتها كانت القاضية
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:28'
+    scripture: quran
+    name: Quran 69:28
+    chapter: 69
+    verse: 28
+    ordinal: 5351
+    text: My wealth hath not availed me,
+    translation: Pickthall
+    original: مَآ أَغْنَىٰ عَنِّى مَالِيَهْ ۜ
+    arabicPlain: ما أغنى عني ماليه ۜ
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:29'
+    scripture: quran
+    name: Quran 69:29
+    chapter: 69
+    verse: 29
+    ordinal: 5352
+    text: My power hath gone from me.
+    translation: Pickthall
+    original: هَلَكَ عَنِّى سُلْطَـٰنِيَهْ
+    arabicPlain: هلك عني سلطانيه
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:30'
+    scripture: quran
+    name: Quran 69:30
+    chapter: 69
+    verse: 30
+    ordinal: 5353
+    text: '(It will be said): Take him and fetter him'
+    translation: Pickthall
+    original: خُذُوهُ فَغُلُّوهُ
+    arabicPlain: خذوه فغلوه
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:31'
+    scripture: quran
+    name: Quran 69:31
+    chapter: 69
+    verse: 31
+    ordinal: 5354
+    text: And then expose him to hell-fire
+    translation: Pickthall
+    original: ثُمَّ ٱلْجَحِيمَ صَلُّوهُ
+    arabicPlain: ثم الجحيم صلوه
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:32'
+    scripture: quran
+    name: Quran 69:32
+    chapter: 69
+    verse: 32
+    ordinal: 5355
+    text: And then insert him in a chain whereof the length is seventy cubits.
+    translation: Pickthall
+    original: ثُمَّ فِى سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَٱسْلُكُوهُ
+    arabicPlain: ثم في سلسلة ذرعها سبعون ذراعا فاسلكوه
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:33'
+    scripture: quran
+    name: Quran 69:33
+    chapter: 69
+    verse: 33
+    ordinal: 5356
+    text: Lo! He used not to believe in Allah the Tremendous,
+    translation: Pickthall
+    original: إِنَّهُۥ كَانَ لَا يُؤْمِنُ بِٱللَّهِ ٱلْعَظِيمِ
+    arabicPlain: إنه كان لا يؤمن بالله العظيم
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:34'
+    scripture: quran
+    name: Quran 69:34
+    chapter: 69
+    verse: 34
+    ordinal: 5357
+    text: And urged not on the feeding of the wretched.
+    translation: Pickthall
+    original: وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
+    arabicPlain: ولا يحض على طعام المسكين
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 567
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:35'
+    scripture: quran
+    name: Quran 69:35
+    chapter: 69
+    verse: 35
+    ordinal: 5358
+    text: Therefor hath he no lover here this day,
+    translation: Pickthall
+    original: فَلَيْسَ لَهُ ٱلْيَوْمَ هَـٰهُنَا حَمِيمٌ
+    arabicPlain: فليس له اليوم هاهنا حميم
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:36'
+    scripture: quran
+    name: Quran 69:36
+    chapter: 69
+    verse: 36
+    ordinal: 5359
+    text: Nor any food save filth
+    translation: Pickthall
+    original: وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ
+    arabicPlain: ولا طعام إلا من غسلين
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:37'
+    scripture: quran
+    name: Quran 69:37
+    chapter: 69
+    verse: 37
+    ordinal: 5360
+    text: Which none but sinners eat.
+    translation: Pickthall
+    original: لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَـٰطِـُٔونَ
+    arabicPlain: لا يأكله إلا الخاطئون
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 500
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:38'
+    scripture: quran
+    name: Quran 69:38
+    chapter: 69
+    verse: 38
+    ordinal: 5361
+    text: But nay! I swear by all that ye see
+    translation: Pickthall
+    original: فَلَآ أُقْسِمُ بِمَا تُبْصِرُونَ
+    arabicPlain: فلا أقسم بما تبصرون
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:39'
+    scripture: quran
+    name: Quran 69:39
+    chapter: 69
+    verse: 39
+    ordinal: 5362
+    text: And all that ye see not
+    translation: Pickthall
+    original: وَمَا لَا تُبْصِرُونَ
+    arabicPlain: وما لا تبصرون
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:40'
+    scripture: quran
+    name: Quran 69:40
+    chapter: 69
+    verse: 40
+    ordinal: 5363
+    text: That it is indeed the speech of an illustrious messenger.
+    translation: Pickthall
+    original: إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ
+    arabicPlain: إنه لقول رسول كريم
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:41'
+    scripture: quran
+    name: Quran 69:41
+    chapter: 69
+    verse: 41
+    ordinal: 5364
+    text: It is not poet's speech - little is it that ye believe!
+    translation: Pickthall
+    original: وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَّا تُؤْمِنُونَ
+    arabicPlain: وما هو بقول شاعر ۚ قليلا ما تؤمنون
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:42'
+    scripture: quran
+    name: Quran 69:42
+    chapter: 69
+    verse: 42
+    ordinal: 5365
+    text: Nor diviner's speech - little is it that ye remember!
+    translation: Pickthall
+    original: وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَّا تَذَكَّرُونَ
+    arabicPlain: ولا بقول كاهن ۚ قليلا ما تذكرون
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:43'
+    scripture: quran
+    name: Quran 69:43
+    chapter: 69
+    verse: 43
+    ordinal: 5366
+    text: It is a revelation from the Lord of the Worlds.
+    translation: Pickthall
+    original: تَنزِيلٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ
+    arabicPlain: تنزيل من رب العالمين
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:44'
+    scripture: quran
+    name: Quran 69:44
+    chapter: 69
+    verse: 44
+    ordinal: 5367
+    text: And if he had invented false sayings concerning Us,
+    translation: Pickthall
+    original: وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ
+    arabicPlain: ولو تقول علينا بعض الأقاويل
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:45'
+    scripture: quran
+    name: Quran 69:45
+    chapter: 69
+    verse: 45
+    ordinal: 5368
+    text: We assuredly had taken him by the right hand
+    translation: Pickthall
+    original: لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ
+    arabicPlain: لأخذنا منه باليمين
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:46'
+    scripture: quran
+    name: Quran 69:46
+    chapter: 69
+    verse: 46
+    ordinal: 5369
+    text: And then severed his life-artery,
+    translation: Pickthall
+    original: ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ
+    arabicPlain: ثم لقطعنا منه الوتين
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:47'
+    scripture: quran
+    name: Quran 69:47
+    chapter: 69
+    verse: 47
+    ordinal: 5370
+    text: And not one of you could have held Us off from him.
+    translation: Pickthall
+    original: فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَـٰجِزِينَ
+    arabicPlain: فما منكم من أحد عنه حاجزين
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:48'
+    scripture: quran
+    name: Quran 69:48
+    chapter: 69
+    verse: 48
+    ordinal: 5371
+    text: And lo! it is a warrant unto those who ward off (evil).
+    translation: Pickthall
+    original: وَإِنَّهُۥ لَتَذْكِرَةٌ لِّلْمُتَّقِينَ
+    arabicPlain: وإنه لتذكرة للمتقين
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:49'
+    scripture: quran
+    name: Quran 69:49
+    chapter: 69
+    verse: 49
+    ordinal: 5372
+    text: And lo! We know that some among you will deny (it).
+    translation: Pickthall
+    original: وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ
+    arabicPlain: وإنا لنعلم أن منكم مكذبين
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:50'
+    scripture: quran
+    name: Quran 69:50
+    chapter: 69
+    verse: 50
+    ordinal: 5373
+    text: And lo! it is indeed an anguish for the disbelievers.
+    translation: Pickthall
+    original: وَإِنَّهُۥ لَحَسْرَةٌ عَلَى ٱلْكَـٰفِرِينَ
+    arabicPlain: وإنه لحسرة على الكافرين
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:51'
+    scripture: quran
+    name: Quran 69:51
+    chapter: 69
+    verse: 51
+    ordinal: 5374
+    text: And lo! it is absolute truth.
+    translation: Pickthall
+    original: وَإِنَّهُۥ لَحَقُّ ٱلْيَقِينِ
+    arabicPlain: وإنه لحق اليقين
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29
+- type: Ayah
+  data:
+    ref: '69:52'
+    scripture: quran
+    name: Quran 69:52
+    chapter: 69
+    verse: 52
+    ordinal: 5375
+    text: So glorify the name of thy Tremendous Lord.
+    translation: Pickthall
+    original: فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ
+    arabicPlain: فسبح باسم ربك العظيم
+    surahName: Al-Haaqqa
+    juz: 29
+    manzil: 7
+    ruku: 501
+    page: 568
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '69'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-29

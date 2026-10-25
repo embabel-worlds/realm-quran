@@ -1,0 +1,1676 @@
+# Every ayah of Surah An-Najm (The Star): the Uthmani text as `original`, the same without
+# diacritics as `arabicPlain`, and Pickthall's English as `text`. The two Arabic texts are Tanzil's,
+# copied verbatim under the notice below; the English is public domain, from alquran.cloud. Generated
+# by scripts/build_reference.py — do not edit by hand.
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Uthmani, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+#
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#  Tanzil Quran Text (Simple Clean, Version 1.1)
+#  Copyright (C) 2007-2026 Tanzil Project
+#  License: Creative Commons Attribution 3.0
+#
+#  This copy of the Quran text is carefully produced, highly 
+#  verified and continuously monitored by a group of specialists 
+#  at Tanzil Project.
+#
+#  TERMS OF USE:
+#
+#  - Permission is granted to copy and distribute verbatim copies 
+#    of this text, but CHANGING IT IS NOT ALLOWED.
+#
+#  - This Quran text can be used in any website or application, 
+#    provided that its source (Tanzil Project) is clearly indicated, 
+#    and a link is made to tanzil.net to enable users to keep
+#    track of changes.
+#
+#  - This copyright notice shall be included in all verbatim copies 
+#    of the text, and shall be reproduced appropriately in all files 
+#    derived from or containing substantial portion of this text.
+#
+#  Please check updates at: http://tanzil.net/updates/
+#
+#====================================================================
+
+- type: Ayah
+  data:
+    ref: '53:1'
+    scripture: quran
+    name: Quran 53:1
+    chapter: 53
+    verse: 1
+    ordinal: 4785
+    text: By the Star when it setteth,
+    translation: Pickthall
+    original: بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلنَّجْمِ إِذَا هَوَىٰ
+    arabicPlain: بسم الله الرحمن الرحيم والنجم إذا هوى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:2'
+    scripture: quran
+    name: Quran 53:2
+    chapter: 53
+    verse: 2
+    ordinal: 4786
+    text: Your comrade erreth not, nor is deceived;
+    translation: Pickthall
+    original: مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ
+    arabicPlain: ما ضل صاحبكم وما غوى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:3'
+    scripture: quran
+    name: Quran 53:3
+    chapter: 53
+    verse: 3
+    ordinal: 4787
+    text: Nor doth he speak of (his own) desire.
+    translation: Pickthall
+    original: وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ
+    arabicPlain: وما ينطق عن الهوى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:4'
+    scripture: quran
+    name: Quran 53:4
+    chapter: 53
+    verse: 4
+    ordinal: 4788
+    text: It is naught save an inspiration that is inspired,
+    translation: Pickthall
+    original: إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ
+    arabicPlain: إن هو إلا وحي يوحى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:5'
+    scripture: quran
+    name: Quran 53:5
+    chapter: 53
+    verse: 5
+    ordinal: 4789
+    text: Which one of mighty powers hath taught him,
+    translation: Pickthall
+    original: عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ
+    arabicPlain: علمه شديد القوى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:6'
+    scripture: quran
+    name: Quran 53:6
+    chapter: 53
+    verse: 6
+    ordinal: 4790
+    text: One vigorous; and he grew clear to view
+    translation: Pickthall
+    original: ذُو مِرَّةٍ فَٱسْتَوَىٰ
+    arabicPlain: ذو مرة فاستوى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:7'
+    scripture: quran
+    name: Quran 53:7
+    chapter: 53
+    verse: 7
+    ordinal: 4791
+    text: When he was on the uppermost horizon.
+    translation: Pickthall
+    original: وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ
+    arabicPlain: وهو بالأفق الأعلى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:8'
+    scripture: quran
+    name: Quran 53:8
+    chapter: 53
+    verse: 8
+    ordinal: 4792
+    text: Then he drew nigh and came down
+    translation: Pickthall
+    original: ثُمَّ دَنَا فَتَدَلَّىٰ
+    arabicPlain: ثم دنا فتدلى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:9'
+    scripture: quran
+    name: Quran 53:9
+    chapter: 53
+    verse: 9
+    ordinal: 4793
+    text: Till he was (distant) two bows' length or even nearer,
+    translation: Pickthall
+    original: فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ
+    arabicPlain: فكان قاب قوسين أو أدنى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:10'
+    scripture: quran
+    name: Quran 53:10
+    chapter: 53
+    verse: 10
+    ordinal: 4794
+    text: And He revealed unto His slave that which He revealed.
+    translation: Pickthall
+    original: فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ
+    arabicPlain: فأوحى إلى عبده ما أوحى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:11'
+    scripture: quran
+    name: Quran 53:11
+    chapter: 53
+    verse: 11
+    ordinal: 4795
+    text: The heart lied not (in seeing) what it saw.
+    translation: Pickthall
+    original: مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ
+    arabicPlain: ما كذب الفؤاد ما رأى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:12'
+    scripture: quran
+    name: Quran 53:12
+    chapter: 53
+    verse: 12
+    ordinal: 4796
+    text: Will ye then dispute with him concerning what he seeth?
+    translation: Pickthall
+    original: أَفَتُمَـٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ
+    arabicPlain: أفتمارونه على ما يرى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:13'
+    scripture: quran
+    name: Quran 53:13
+    chapter: 53
+    verse: 13
+    ordinal: 4797
+    text: And verily he saw him yet another time
+    translation: Pickthall
+    original: وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ
+    arabicPlain: ولقد رآه نزلة أخرى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:14'
+    scripture: quran
+    name: Quran 53:14
+    chapter: 53
+    verse: 14
+    ordinal: 4798
+    text: By the lote-tree of the utmost boundary,
+    translation: Pickthall
+    original: عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ
+    arabicPlain: عند سدرة المنتهى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:15'
+    scripture: quran
+    name: Quran 53:15
+    chapter: 53
+    verse: 15
+    ordinal: 4799
+    text: Nigh unto which is the Garden of Abode.
+    translation: Pickthall
+    original: عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ
+    arabicPlain: عندها جنة المأوى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:16'
+    scripture: quran
+    name: Quran 53:16
+    chapter: 53
+    verse: 16
+    ordinal: 4800
+    text: When that which shroudeth did enshroud the lote-tree,
+    translation: Pickthall
+    original: إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ
+    arabicPlain: إذ يغشى السدرة ما يغشى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:17'
+    scripture: quran
+    name: Quran 53:17
+    chapter: 53
+    verse: 17
+    ordinal: 4801
+    text: The eye turned not aside nor yet was overbold.
+    translation: Pickthall
+    original: مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ
+    arabicPlain: ما زاغ البصر وما طغى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:18'
+    scripture: quran
+    name: Quran 53:18
+    chapter: 53
+    verse: 18
+    ordinal: 4802
+    text: Verily he saw one of the greater revelations of his Lord.
+    translation: Pickthall
+    original: لَقَدْ رَأَىٰ مِنْ ءَايَـٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ
+    arabicPlain: لقد رأى من آيات ربه الكبرى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:19'
+    scripture: quran
+    name: Quran 53:19
+    chapter: 53
+    verse: 19
+    ordinal: 4803
+    text: Have ye thought upon Al-Lat and Al-'Uzza
+    translation: Pickthall
+    original: أَفَرَءَيْتُمُ ٱللَّـٰتَ وَٱلْعُزَّىٰ
+    arabicPlain: أفرأيتم اللات والعزى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:20'
+    scripture: quran
+    name: Quran 53:20
+    chapter: 53
+    verse: 20
+    ordinal: 4804
+    text: And Manat, the third, the other?
+    translation: Pickthall
+    original: وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ
+    arabicPlain: ومناة الثالثة الأخرى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:21'
+    scripture: quran
+    name: Quran 53:21
+    chapter: 53
+    verse: 21
+    ordinal: 4805
+    text: Are yours the males and His the females?
+    translation: Pickthall
+    original: أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ
+    arabicPlain: ألكم الذكر وله الأنثى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:22'
+    scripture: quran
+    name: Quran 53:22
+    chapter: 53
+    verse: 22
+    ordinal: 4806
+    text: That indeed were an unfair division!
+    translation: Pickthall
+    original: تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰٓ
+    arabicPlain: تلك إذا قسمة ضيزى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:23'
+    scripture: quran
+    name: Quran 53:23
+    chapter: 53
+    verse: 23
+    ordinal: 4807
+    text: They are but names which ye have named, ye and your fathers, for which Allah hath revealed no warrant. They follow but a guess and that which (they) themselves desire. And now the guidance from their Lord hath come unto them.
+    translation: Pickthall
+    original: إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ
+    arabicPlain: إن هي إلا أسماء سميتموها أنتم وآباؤكم ما أنزل الله بها من سلطان ۚ إن يتبعون إلا الظن وما تهوى الأنفس ۖ ولقد جاءهم من ربهم الهدى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:24'
+    scripture: quran
+    name: Quran 53:24
+    chapter: 53
+    verse: 24
+    ordinal: 4808
+    text: Or shall man have what he coveteth?
+    translation: Pickthall
+    original: أَمْ لِلْإِنسَـٰنِ مَا تَمَنَّىٰ
+    arabicPlain: أم للإنسان ما تمنى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:25'
+    scripture: quran
+    name: Quran 53:25
+    chapter: 53
+    verse: 25
+    ordinal: 4809
+    text: But unto Allah belongeth the after (life), and the former.
+    translation: Pickthall
+    original: فَلِلَّهِ ٱلْـَٔاخِرَةُ وَٱلْأُولَىٰ
+    arabicPlain: فلله الآخرة والأولى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 460
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:26'
+    scripture: quran
+    name: Quran 53:26
+    chapter: 53
+    verse: 26
+    ordinal: 4810
+    text: And how many angels are in the heavens whose intercession availeth naught save after Allah giveth leave to whom He chooseth and accepteth.
+    translation: Pickthall
+    original: ۞ وَكَم مِّن مَّلَكٍ فِى ٱلسَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ
+    arabicPlain: ۞ وكم من ملك في السماوات لا تغني شفاعتهم شيئا إلا من بعد أن يأذن الله لمن يشاء ويرضى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 461
+    page: 526
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:27'
+    scripture: quran
+    name: Quran 53:27
+    chapter: 53
+    verse: 27
+    ordinal: 4811
+    text: Lo! it is those who disbelieve in the Hereafter who name the angels with the names of females.
+    translation: Pickthall
+    original: إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ
+    arabicPlain: إن الذين لا يؤمنون بالآخرة ليسمون الملائكة تسمية الأنثى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 461
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:28'
+    scripture: quran
+    name: Quran 53:28
+    chapter: 53
+    verse: 28
+    ordinal: 4812
+    text: And they have no knowledge thereof. They follow but a guess, and lo! a guess can never take the place of the truth.
+    translation: Pickthall
+    original: وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا
+    arabicPlain: وما لهم به من علم ۖ إن يتبعون إلا الظن ۖ وإن الظن لا يغني من الحق شيئا
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 461
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:29'
+    scripture: quran
+    name: Quran 53:29
+    chapter: 53
+    verse: 29
+    ordinal: 4813
+    text: Then withdraw (O Muhammad) from him who fleeth from Our remembrance and desireth but the life of the world.
+    translation: Pickthall
+    original: فَأَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا ٱلْحَيَوٰةَ ٱلدُّنْيَا
+    arabicPlain: فأعرض عن من تولى عن ذكرنا ولم يرد إلا الحياة الدنيا
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 461
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:30'
+    scripture: quran
+    name: Quran 53:30
+    chapter: 53
+    verse: 30
+    ordinal: 4814
+    text: Such is their sum of knowledge. Lo! thy Lord is Best Aware of him who strayeth, and He is Best Aware of him whom goeth right.
+    translation: Pickthall
+    original: ذَٰلِكَ مَبْلَغُهُم مِّنَ ٱلْعِلْمِ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِمَنِ ٱهْتَدَىٰ
+    arabicPlain: ذلك مبلغهم من العلم ۚ إن ربك هو أعلم بمن ضل عن سبيله وهو أعلم بمن اهتدى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 461
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:31'
+    scripture: quran
+    name: Quran 53:31
+    chapter: 53
+    verse: 31
+    ordinal: 4815
+    text: And unto Allah belongeth whatsoever is in the heavens and whatsoever is in the earth, that He may reward those who do evil with that which they have done, and reward those who do good with goodness.
+    translation: Pickthall
+    original: وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى
+    arabicPlain: ولله ما في السماوات وما في الأرض ليجزي الذين أساءوا بما عملوا ويجزي الذين أحسنوا بالحسنى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 461
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:32'
+    scripture: quran
+    name: Quran 53:32
+    chapter: 53
+    verse: 32
+    ordinal: 4816
+    text: Those who avoid enormities of sin and abominations, save the unwilled offences - (for them) lo! thy Lord is of vast mercy. He is Best Aware of you (from the time) when He created you from the earth, and when ye were hidden in the bellies of your mothers. Therefor ascribe not purity unto yourselves. He is Best Aware of him who wardeth off (evil).
+    translation: Pickthall
+    original: ٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ
+    arabicPlain: الذين يجتنبون كبائر الإثم والفواحش إلا اللمم ۚ إن ربك واسع المغفرة ۚ هو أعلم بكم إذ أنشأكم من الأرض وإذ أنتم أجنة في بطون أمهاتكم ۖ فلا تزكوا أنفسكم ۖ هو أعلم بمن اتقى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 461
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:33'
+    scripture: quran
+    name: Quran 53:33
+    chapter: 53
+    verse: 33
+    ordinal: 4817
+    text: Didst thou (O Muhammad) observe him who turned away,
+    translation: Pickthall
+    original: أَفَرَءَيْتَ ٱلَّذِى تَوَلَّىٰ
+    arabicPlain: أفرأيت الذي تولى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:34'
+    scripture: quran
+    name: Quran 53:34
+    chapter: 53
+    verse: 34
+    ordinal: 4818
+    text: And gave a little, then was grudging?
+    translation: Pickthall
+    original: وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰٓ
+    arabicPlain: وأعطى قليلا وأكدى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:35'
+    scripture: quran
+    name: Quran 53:35
+    chapter: 53
+    verse: 35
+    ordinal: 4819
+    text: Hath he knowledge of the Unseen so that he seeth?
+    translation: Pickthall
+    original: أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ
+    arabicPlain: أعنده علم الغيب فهو يرى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:36'
+    scripture: quran
+    name: Quran 53:36
+    chapter: 53
+    verse: 36
+    ordinal: 4820
+    text: Or hath he not had news of what is in the books of Moses
+    translation: Pickthall
+    original: أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ
+    arabicPlain: أم لم ينبأ بما في صحف موسى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:37'
+    scripture: quran
+    name: Quran 53:37
+    chapter: 53
+    verse: 37
+    ordinal: 4821
+    text: 'And Abraham who paid his debt:'
+    translation: Pickthall
+    original: وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ
+    arabicPlain: وإبراهيم الذي وفى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:38'
+    scripture: quran
+    name: Quran 53:38
+    chapter: 53
+    verse: 38
+    ordinal: 4822
+    text: That no laden one shall bear another's load,
+    translation: Pickthall
+    original: أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
+    arabicPlain: ألا تزر وازرة وزر أخرى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:39'
+    scripture: quran
+    name: Quran 53:39
+    chapter: 53
+    verse: 39
+    ordinal: 4823
+    text: And that man hath only that for which he maketh effort,
+    translation: Pickthall
+    original: وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ
+    arabicPlain: وأن ليس للإنسان إلا ما سعى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:40'
+    scripture: quran
+    name: Quran 53:40
+    chapter: 53
+    verse: 40
+    ordinal: 4824
+    text: And that his effort will be seen.
+    translation: Pickthall
+    original: وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ
+    arabicPlain: وأن سعيه سوف يرى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:41'
+    scripture: quran
+    name: Quran 53:41
+    chapter: 53
+    verse: 41
+    ordinal: 4825
+    text: And afterward he will be repaid for it with fullest payment;
+    translation: Pickthall
+    original: ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ
+    arabicPlain: ثم يجزاه الجزاء الأوفى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:42'
+    scripture: quran
+    name: Quran 53:42
+    chapter: 53
+    verse: 42
+    ordinal: 4826
+    text: And that thy Lord, He is the goal;
+    translation: Pickthall
+    original: وَأَنَّ إِلَىٰ رَبِّكَ ٱلْمُنتَهَىٰ
+    arabicPlain: وأن إلى ربك المنتهى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:43'
+    scripture: quran
+    name: Quran 53:43
+    chapter: 53
+    verse: 43
+    ordinal: 4827
+    text: And that He it is who maketh laugh, and maketh weep,
+    translation: Pickthall
+    original: وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ
+    arabicPlain: وأنه هو أضحك وأبكى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:44'
+    scripture: quran
+    name: Quran 53:44
+    chapter: 53
+    verse: 44
+    ordinal: 4828
+    text: And that He it is Who giveth death and giveth life;
+    translation: Pickthall
+    original: وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا
+    arabicPlain: وأنه هو أمات وأحيا
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 527
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:45'
+    scripture: quran
+    name: Quran 53:45
+    chapter: 53
+    verse: 45
+    ordinal: 4829
+    text: And that He createth the two spouses, the male and the female,
+    translation: Pickthall
+    original: وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ
+    arabicPlain: وأنه خلق الزوجين الذكر والأنثى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:46'
+    scripture: quran
+    name: Quran 53:46
+    chapter: 53
+    verse: 46
+    ordinal: 4830
+    text: From a drop (of seed) when it is poured forth;
+    translation: Pickthall
+    original: مِن نُّطْفَةٍ إِذَا تُمْنَىٰ
+    arabicPlain: من نطفة إذا تمنى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:47'
+    scripture: quran
+    name: Quran 53:47
+    chapter: 53
+    verse: 47
+    ordinal: 4831
+    text: And that He hath ordained the second bringing forth;
+    translation: Pickthall
+    original: وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ
+    arabicPlain: وأن عليه النشأة الأخرى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:48'
+    scripture: quran
+    name: Quran 53:48
+    chapter: 53
+    verse: 48
+    ordinal: 4832
+    text: And that He it is Who enricheth and contenteth;
+    translation: Pickthall
+    original: وَأَنَّهُۥ هُوَ أَغْنَىٰ وَأَقْنَىٰ
+    arabicPlain: وأنه هو أغنى وأقنى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:49'
+    scripture: quran
+    name: Quran 53:49
+    chapter: 53
+    verse: 49
+    ordinal: 4833
+    text: And that He it is Who is the Lord of Sirius;
+    translation: Pickthall
+    original: وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ
+    arabicPlain: وأنه هو رب الشعرى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:50'
+    scripture: quran
+    name: Quran 53:50
+    chapter: 53
+    verse: 50
+    ordinal: 4834
+    text: And that He destroyed the former (tribe of) A'ad,
+    translation: Pickthall
+    original: وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ
+    arabicPlain: وأنه أهلك عادا الأولى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:51'
+    scripture: quran
+    name: Quran 53:51
+    chapter: 53
+    verse: 51
+    ordinal: 4835
+    text: And (the tribe of) Thamud He spared not;
+    translation: Pickthall
+    original: وَثَمُودَا۟ فَمَآ أَبْقَىٰ
+    arabicPlain: وثمود فما أبقى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:52'
+    scripture: quran
+    name: Quran 53:52
+    chapter: 53
+    verse: 52
+    ordinal: 4836
+    text: And the folk of Noah aforetime, Lo! they were more unjust and more rebellious;
+    translation: Pickthall
+    original: وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ هُمْ أَظْلَمَ وَأَطْغَىٰ
+    arabicPlain: وقوم نوح من قبل ۖ إنهم كانوا هم أظلم وأطغى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:53'
+    scripture: quran
+    name: Quran 53:53
+    chapter: 53
+    verse: 53
+    ordinal: 4837
+    text: And Al-Mu'tafikah He destroyed
+    translation: Pickthall
+    original: وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ
+    arabicPlain: والمؤتفكة أهوى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:54'
+    scripture: quran
+    name: Quran 53:54
+    chapter: 53
+    verse: 54
+    ordinal: 4838
+    text: So that there covered them that which did cover.
+    translation: Pickthall
+    original: فَغَشَّىٰهَا مَا غَشَّىٰ
+    arabicPlain: فغشاها ما غشى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:55'
+    scripture: quran
+    name: Quran 53:55
+    chapter: 53
+    verse: 55
+    ordinal: 4839
+    text: Concerning which then, of the bounties of thy Lord, canst thou dispute?
+    translation: Pickthall
+    original: فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ
+    arabicPlain: فبأي آلاء ربك تتمارى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:56'
+    scripture: quran
+    name: Quran 53:56
+    chapter: 53
+    verse: 56
+    ordinal: 4840
+    text: This is a warner of the warners of old.
+    translation: Pickthall
+    original: هَـٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ
+    arabicPlain: هذا نذير من النذر الأولى
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:57'
+    scripture: quran
+    name: Quran 53:57
+    chapter: 53
+    verse: 57
+    ordinal: 4841
+    text: The threatened Hour is nigh.
+    translation: Pickthall
+    original: أَزِفَتِ ٱلْـَٔازِفَةُ
+    arabicPlain: أزفت الآزفة
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:58'
+    scripture: quran
+    name: Quran 53:58
+    chapter: 53
+    verse: 58
+    ordinal: 4842
+    text: None beside Allah can disclose it.
+    translation: Pickthall
+    original: لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ
+    arabicPlain: ليس لها من دون الله كاشفة
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: '53:59'
+    scripture: quran
+    name: Quran 53:59
+    chapter: 53
+    verse: 59
+    ordinal: 4843
+    text: Marvel ye then at this statement,
+    translation: Pickthall
+    original: أَفَمِنْ هَـٰذَا ٱلْحَدِيثِ تَعْجَبُونَ
+    arabicPlain: أفمن هذا الحديث تعجبون
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 53:60
+    scripture: quran
+    name: Quran 53:60
+    chapter: 53
+    verse: 60
+    ordinal: 4844
+    text: And laugh and not weep,
+    translation: Pickthall
+    original: وَتَضْحَكُونَ وَلَا تَبْكُونَ
+    arabicPlain: وتضحكون ولا تبكون
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 53:61
+    scripture: quran
+    name: Quran 53:61
+    chapter: 53
+    verse: 61
+    ordinal: 4845
+    text: While ye amuse yourselves?
+    translation: Pickthall
+    original: وَأَنتُمْ سَـٰمِدُونَ
+    arabicPlain: وأنتم سامدون
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
+- type: Ayah
+  data:
+    ref: 53:62
+    scripture: quran
+    name: Quran 53:62
+    chapter: 53
+    verse: 62
+    ordinal: 4846
+    text: Rather prostrate yourselves before Allah and serve Him.
+    translation: Pickthall
+    original: فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
+    arabicPlain: فاسجدوا لله واعبدوا ۩
+    surahName: An-Najm
+    juz: 27
+    manzil: 7
+    ruku: 462
+    page: 528
+    sajda: obligatory
+  relations:
+  - predicate: IN
+    to:
+      type: Surah
+      ref: '53'
+  - predicate: IN_PORTION
+    to:
+      type: Juz
+      key: juz-27
