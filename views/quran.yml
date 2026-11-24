@@ -9,19 +9,23 @@
 # installed.
 
 - name: ReadAyah
-  description: One ayah by reference, in Arabic and in Pickthall's English, with its surah, juz and any prostration.
+  description: >-
+    One ayah in Arabic and Pickthall's English, by `<surah>:<ayah>`. With its surah, juz, page of the
+    Medina mushaf and any prostration. Only the one ayah; no tafsir or other translations.
   params:
     ref:
       type: string
       default: "2:255"
-      description: "The ayah as `<surah>:<ayah>`, e.g. `2:255`, `112:1`."
+      description: "The ayah as `<surah>:<ayah>`, exactly, e.g. `2:255`, `112:1` — not `Quran 2:255`."
   cypher: |
     MATCH (a:Ayah {ref: $ref})-[:IN]->(s:Surah)
     RETURN a.name AS reference, s.name AS surah, s.meaning AS surahMeaning,
            a.original AS arabic, a.text AS english, a.juz AS juz, a.page AS page, a.sajda AS sajda
 
 - name: ReadSurah
-  description: A whole surah, ayah by ayah, in Arabic and in Pickthall's English.
+  description: >-
+    A whole surah, ayah by ayah, in Arabic and in Pickthall's English. One surah per call, by
+    number; the basmala is not a separate row except in Al-Fatiha, where it is the first ayah.
   params:
     surah:
       type: int
@@ -33,7 +37,9 @@
     ORDER BY ayah
 
 - name: Surahs
-  description: The 114 surahs with their names, meanings, length and Meccan or Medinan, in the order of the mushaf or in the traditional order of revelation.
+  description: >-
+    The 114 surahs with names, meanings, length and Meccan or Medinan. In the order of the mushaf
+    or the traditional order of revelation; only Meccan or only Medinan when `revelation` is given.
   params:
     order:
       type: string
@@ -42,7 +48,7 @@
     revelation:
       type: string
       default: ""
-      description: "`Meccan` or `Medinan` to show only those; empty for all."
+      description: "`Meccan` or `Medinan`, exactly, to show only those; empty for all."
   cypher: |
     MATCH (s:Surah)
     WHERE $revelation = '' OR s.revelation = $revelation
@@ -51,16 +57,20 @@
     ORDER BY CASE $order WHEN 'revelation' THEN s.revelationOrder ELSE s.chapter END
 
 - name: SearchQuran
-  description: Ayat whose English (Pickthall) contains a word or phrase, case-insensitively, in the order of the mushaf, with the Arabic beside each. Matches inside words — `mercy` also finds `merciful`.
+  description: >-
+    Ayat whose Pickthall English contains a word or phrase, with the Arabic. Partial and
+    case-insensitive: it matches inside words, so `patien` finds `patience` and `patient`. In the order
+    of the mushaf, at most `limit`; this searches one translation's wording, not the Arabic — use
+    SearchArabic for that.
   params:
     term:
       type: string
       default: "mercy"
-      description: "The word or phrase to find, in English. Pickthall's English is of 1930: `thee`, `hath`, `Lo!`."
+      description: "The word or phrase to find, in English; a partial match, ignoring case. Pickthall's English is of 1930: `thee`, `hath`, `Lo!`."
     limit:
       type: int
       default: 100
-      description: "How many ayat to return."
+      description: "At most this many ayat."
   cypher: |
     MATCH (a:Ayah)
     WHERE toLower(a.text) CONTAINS toLower($term)
@@ -69,16 +79,19 @@
     LIMIT $limit
 
 - name: SearchArabic
-  description: Ayat whose Arabic contains a word or phrase, typed without diacritics, in the order of the mushaf. Searches the Simple Clean text and shows the Uthmani.
+  description: >-
+    Ayat whose Arabic contains a word or phrase, typed without diacritics. Searches the Simple
+    Clean text and shows the Uthmani, in the order of the mushaf, at most `limit`. A term typed with
+    diacritics finds nothing, and a phrase across a pause mark does not match.
   params:
     term:
       type: string
       default: "رحمة"
-      description: "Arabic without diacritics, e.g. `رحمة`, `الصبر`."
+      description: "Arabic without diacritics, e.g. `رحمة`, `الصبر`. A partial match: the letters are found inside longer words too, with prefixes and suffixes."
     limit:
       type: int
       default: 100
-      description: "How many ayat to return."
+      description: "At most this many ayat."
   cypher: |
     MATCH (a:Ayah)
     WHERE a.arabicPlain CONTAINS $term
@@ -87,16 +100,19 @@
     LIMIT $limit
 
 - name: SurahsMentioning
-  description: The surahs that mention a word or phrase most often in Pickthall's English, ranked by how many of their ayat contain it.
+  description: >-
+    Surahs ranked by how many of their ayat use a word in Pickthall's English. Counts ayat, not
+    occurrences; at most `limit` surahs, each with its first ten matching ayah numbers. A surah that
+    never uses it is left out.
   params:
     term:
       type: string
       default: "patience"
-      description: "The word or phrase to find, in English."
+      description: "The word or phrase to find, in English. A partial match, ignoring case: any ayah whose text contains it."
     limit:
       type: int
       default: 25
-      description: "How many surahs to return."
+      description: "At most this many surahs."
   cypher: |
     MATCH (s:Surah)<-[:IN]-(a:Ayah)
     WHERE toLower(a.text) CONTAINS toLower($term)
@@ -106,7 +122,9 @@
     LIMIT $limit
 
 - name: ReadJuz
-  description: What one juz holds — the surahs it spans and how many of each surah's ayat fall in it, in order.
+  description: >-
+    The surahs one juz spans, with the ayah range of each that falls in it. In order; counts and
+    bounds only, not the text — ReadSurah reads it.
   params:
     juz:
       type: int
@@ -119,14 +137,20 @@
     ORDER BY number
 
 - name: Sajdas
-  description: The fifteen ayat of prostration, in order, with whether the prostration is obligatory or recommended in this division.
+  description: >-
+    The fifteen ayat of prostration (sajda), in Arabic and English. In order, with whether the
+    AlQuran Cloud data classes the prostration obligatory or recommended; the schools of law do not
+    all agree, and that difference is not shown.
   cypher: |
     MATCH (a:Ayah) WHERE a.sajda IS NOT NULL
     RETURN a.name AS reference, a.surahName AS surah, a.sajda AS sajda, a.text AS english, a.original AS arabic
     ORDER BY a.ordinal
 
 - name: MeccanAndMedinan
-  description: How the Meccan and Medinan surahs differ in size — surahs, ayat, and average ayat per surah for each.
+  description: >-
+    How Meccan and Medinan surahs differ in size: surahs, ayat and average length. Two rows, by the
+    traditional attribution of each whole surah; ayat that tradition places in the other period are
+    not split out.
   cypher: |
     MATCH (s:Surah)
     RETURN s.revelation AS revelation, count(s) AS surahs, sum(s.verseCount) AS ayat,

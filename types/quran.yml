@@ -19,7 +19,7 @@
 - name: Mushaf
   parents: [HolyBook]
   userAnchor: false
-  description: "The Quran as one holy book — a single node, `scripture: 'quran'`. Its 114 surahs are IN it."
+  description: "The Quran as one holy book, the mushaf — a single node, identified by `scripture: 'quran'`. Its 114 surahs are IN it directly; the Quran has no books."
   properties:
     scripture:
       identity: true
@@ -29,14 +29,29 @@
 - name: Surah
   parents: [ScriptureChapter]
   userAnchor: false
-  description: "One of the 114 surahs, in the order of the mushaf. `chapter` is its number; `name` its transliterated name, e.g. `Al-Baqara`. Meccan or Medinan, and its place in the traditional order of revelation. IN the Mushaf; its ayat are IN it."
+  description: "One of the 114 surahs, identified by its number: `chapter` (2), or `ref` as text (`2`), in the order of the mushaf. `name` is its transliterated name, e.g. `Al-Baqara`. Meccan or Medinan, and its place in the traditional order of revelation. IN the Mushaf; its ayat are IN it."
+  examples:
+    - q: "which surahs mention patience most"
+      cypher: |
+        MATCH (s:Surah)<-[:IN]-(a:Ayah)
+        WHERE toLower(a.text) CONTAINS 'patien'
+        RETURN s.chapter AS number, s.name AS surah, count(a) AS ayat
+        ORDER BY ayat DESC
+        LIMIT 10
+    - q: "the Medinan surahs in the order of revelation"
+      cypher: |
+        MATCH (s:Surah {revelation: 'Medinan'})
+        RETURN s.revelationOrder AS revealed, s.chapter AS number, s.name AS surah, s.meaning AS meaning
+        ORDER BY revealed
   properties:
     ref:
       identity: true
       description: "The surah's number as text, e.g. `2`. Identity."
     arabicName: "The surah's name in Arabic, e.g. `البقرة`."
     meaning: "The name in English, e.g. `The Cow`."
-    revelation: "`Meccan` or `Medinan` — where it was revealed, by the traditional attribution."
+    revelation:
+      values: [Meccan, Medinan]
+      description: "`Meccan` or `Medinan`, capitalised — revealed before or after the Hijra, by the traditional attribution (Tanzil's)."
     revelationOrder:
       type: int
       description: "Its place, 1–114, in the traditional (Egyptian standard) chronological order of revelation. Al-Alaq is 1; Al-Fatiha is 5."
@@ -48,13 +63,25 @@
   parents: [Verse]
   userAnchor: false
   description: >-
-    One ayah (verse) of the Quran. `text` is Pickthall's English (1930) — a translation of the meaning;
-    `original` is the Arabic in Uthmani script, the Quran itself; `arabicPlain` is the same Arabic
-    without diacritics, for searching. `name` is the reference, e.g. `Quran 2:255`; `ref` is `2:255`.
+    One ayah (verse) of the Quran, identified by `ref` (`2:255`); `name` is `Quran 2:255`. `text` is
+    Pickthall's English (1930), a translation of the meaning; `original` is the Arabic in Uthmani
+    script, the Quran itself; `arabicPlain` the same Arabic without diacritics, for searching.
     Search English with toLower(a.text) CONTAINS 'mercy', Arabic with a.arabicPlain CONTAINS 'رحمة'.
     Tanzil prints the basmala at the head of the first ayah of every surah but Al-Fatiha (where it is
     the ayah) and At-Tawba (which has none); Pickthall does not, so `text` and `original` of those
     ayat differ by it. IN its Surah; IN_PORTION its Juz.
+  examples:
+    - q: "Ayat al-Kursi in Arabic and English"
+      cypher: |
+        MATCH (a:Ayah {ref: '2:255'})
+        RETURN a.name AS reference, a.original AS arabic, a.text AS english
+    - q: "which ayat use the Arabic word for patience"
+      cypher: |
+        MATCH (a:Ayah)
+        WHERE a.arabicPlain CONTAINS 'صبر'
+        RETURN a.name AS reference, a.original AS arabic, a.text AS english
+        ORDER BY a.ordinal
+        LIMIT 50
   properties:
     ref:
       identity: true
@@ -73,12 +100,14 @@
     page:
       type: int
       description: "The page of the standard Medina mushaf the ayah is printed on."
-    sajda: "`recommended` or `obligatory` on the fifteen ayat of prostration; absent on every other."
+    sajda:
+      values: [recommended, obligatory]
+      description: "`recommended` or `obligatory`, as AlQuran Cloud's data classes the fifteen ayat of prostration (the schools of law differ); absent on every other ayah."
 
 - name: Juz
   parents: [ReadingPortion]
   userAnchor: false
-  description: "One of the thirty ajza (parts) the Quran is divided into for reading — one a night through Ramadan. Each ayah is IN_PORTION its juz; a juz cuts across surahs."
+  description: "One of the thirty ajza (parts) the Quran is divided into for reading, often one a night through Ramadan; identified by `number` (1–30) or `key` (`juz-30`), named `Juz 30`. Each ayah is IN_PORTION its juz; a juz cuts across surahs."
   properties:
     key:
       identity: true
