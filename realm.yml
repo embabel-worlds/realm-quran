@@ -1,8 +1,8 @@
 name: realm-quran
 description: |
-  The Quran as a graph you can query. Every ayah of the 114 surahs is stored with three texts:
-  the Arabic in Uthmani script (the Quran itself), the same Arabic without diacritics for
-  searching, and Pickthall's English (1930), a translation of the meaning. Read an ayah or a
+  Every ayah of the Quran's 114 surahs in Arabic and Pickthall's English, by surah, ayah and juz.
+  Each is stored with three texts: the Arabic in Uthmani script (the Quran itself), the same Arabic
+  without diacritics for searching, and Pickthall's English (1930), a translation of the meaning. Read an ayah or a
   surah, search in English or Arabic, list the surahs in the order of the mushaf or of
   revelation, and see what each of the thirty ajza holds.
 
@@ -11,7 +11,11 @@ description: |
 
   Keyless. Nothing to configure. Arabic text from the Tanzil Project (tanzil.net), CC BY 3.0,
   verbatim.
-version: 0.1.0
+version: 0.1.1
+# Its types are children of the scripture vocabulary's, which must be installed for them to load as
+# scripture.
+requires:
+  scripture-vocabulary: "[0.3.0,1.0.0)"
 # Experimental: its types are children of realm-scripture-vocabulary, which is itself experimental,
 # and the contract between them has met two scriptures so far.
 maturity: experimental
