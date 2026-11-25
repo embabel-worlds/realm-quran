@@ -11,7 +11,7 @@ description: |
 
   Keyless. Nothing to configure. Arabic text from the Tanzil Project (tanzil.net), CC BY 3.0,
   verbatim.
-version: 0.1.1
+version: 0.1.2
 # Its types are children of the scripture vocabulary's, which must be installed for them to load as
 # scripture.
 requires:
